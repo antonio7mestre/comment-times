@@ -5,9 +5,10 @@ A private reader for New York Times, Wall Street Journal, and Washington Post co
 ## What Each Account Does
 
 - GitHub stores the code and connects to Render.
-- Render hosts the web app and runs the daily scrape.
+- Render hosts the web app on its generated `onrender.com` URL.
+- GitHub Actions runs the daily scrape and uploads the feed to Supabase.
 - Supabase handles real email signup/login, saved likes/bookmarks, and uploaded feed snapshots.
-- Resend sends the Supabase magic-link emails through custom SMTP.
+- Resend is optional later for custom SMTP after you add a domain.
 - NYT and WSJ subscriber sessions provide the cookies used by the scraper.
 
 Google Cloud, a domain, and Cloudflare are optional and are not required for the first hosted version.
@@ -52,33 +53,39 @@ The schema creates:
 - `saved_posts`: one row per user like/bookmark, including full article and comment snapshots.
 - `feed_runs`: one JSON feed snapshot per scrape run.
 
-Enable email auth in Supabase. For Resend SMTP, use Resend's SMTP credentials in Supabase Auth SMTP settings, then add the local and Render URLs as allowed redirect URLs.
+Enable email auth in Supabase. Without a custom domain, leave Supabase's default auth emails active, then add the local and Render URLs as allowed redirect URLs.
 
 ## Render
 
-`render.yaml` defines:
+`render.yaml` defines one web service:
 
 - `comment-times`: the web service.
-- `comment-times-daily-scrape-pdt`: 13:00 UTC.
-- `comment-times-daily-scrape-pst`: 14:00 UTC.
 
-Both cron jobs run the same guarded command. Only the one that lands at 6 AM in `America/Los_Angeles` actually scrapes, which handles daylight saving time.
+Use Render's generated `onrender.com` URL. A custom domain is optional.
 
-Cron command:
+Set these Render environment variables:
 
-```sh
-npm run scrape:daily
+```txt
+SUPABASE_URL
+SUPABASE_ANON_KEY
+SUPABASE_SERVICE_ROLE_KEY
 ```
 
-Manual force command:
+Build command:
 
 ```sh
-npm run scrape:daily:force
+npm run build
+```
+
+Start command:
+
+```sh
+npm start
 ```
 
 ## GitHub Actions
 
-`.github/workflows/daily.yml` is kept as a fallback remote scheduler. It runs at 13:00 and 14:00 UTC, skips unless the Los Angeles hour is 6, runs the daily scrape/upload, builds, and commits `data/` as a backup.
+`.github/workflows/daily.yml` runs the daily remote scrape. It runs at 13:00 and 14:00 UTC, skips unless the Los Angeles hour is 6, runs the daily scrape/upload, builds, and commits `data/` as a backup.
 
 Add these GitHub secrets if you use Actions:
 
@@ -87,6 +94,12 @@ NYT_COOKIE
 WSJ_COOKIE
 SUPABASE_URL
 SUPABASE_SERVICE_ROLE_KEY
+```
+
+Manual force command:
+
+```sh
+npm run scrape:daily:force
 ```
 
 ## Scraper Notes
