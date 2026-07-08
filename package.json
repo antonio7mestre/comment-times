@@ -1,0 +1,17 @@
+{
+  "name": "the-comment-times",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "scrape:daily": "node scripts/run-daily-scrape.mjs",
+    "scrape:daily:force": "SKIP_SCHEDULE_GUARD=1 node scripts/run-daily-scrape.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

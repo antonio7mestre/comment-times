@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Comment Times</title>
+    <script>
+      try {
+        const theme = localStorage.getItem("comment-times.theme.v2");
+        if (theme === "light" || theme === "dark") {
+          document.documentElement.dataset.theme = theme;
+        }
+      } catch {}
+    </script>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div class="mobile-topbar">
+      <div class="mobile-topbar-inner">
+        <a class="mobile-brand-icon" href="/" aria-label="The Comment Times">CT</a>
+        <a class="mobile-title" href="/" aria-label="The Comment Times">The Comment Times</a>
+        <button class="mobile-menu-button" id="mobile-menu-toggle" type="button" aria-controls="tool-drawer" aria-expanded="false" aria-label="Open menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+      </div>
+    </div>
+
+    <div class="app-shell">
+      <aside class="left-nav" aria-label="Primary">
+        <div class="nav-top">
+          <a class="brand-link" href="/" aria-label="The Comment Times">
+            <span class="brand-mark">CT</span>
+            <span class="brand-copy">
+              <strong>The Comment Times</strong>
+              <small>Reader comments, ranked</small>
+            </span>
+          </a>
+          <nav class="nav-links" id="nav-links"></nav>
+        </div>
+
+        <section class="local-card" aria-label="Local saves">
+          <span id="save-mode-label">Saved locally</span>
+          <strong id="local-counts" data-local-counts>0 likes / 0 bookmarks</strong>
+        </section>
+      </aside>
+
+      <main class="feed-column" aria-label="Comment feed">
+        <header class="feed-header">
+          <div class="tabs" role="tablist" aria-label="Sort comments">
+            <button class="tab is-active" type="button" role="tab" aria-selected="true" data-sort="popular">
+              <span>Most popular</span>
+            </button>
+            <button class="tab" type="button" role="tab" aria-selected="false" data-sort="recent">
+              <span>Most recent</span>
+            </button>
+          </div>
+        </header>
+
+        <section id="feed" class="feed" aria-live="polite">
+          <div class="loading-state">Loading...</div>
+        </section>
+      </main>
+
+      <aside class="right-sidebar" id="tool-drawer" aria-label="Filters and tools">
+        <div class="mobile-drawer-head">
+          <a class="brand-link" href="/" aria-label="The Comment Times">
+            <span class="brand-mark">CT</span>
+            <span class="brand-copy">
+              <strong>The Comment Times</strong>
+              <small>Reader comments, ranked</small>
+            </span>
+          </a>
+          <button class="drawer-close" id="mobile-menu-close" type="button" aria-label="Close menu">Close</button>
+        </div>
+
+        <section class="tool-panel display-panel">
+          <div class="panel-heading">
+            <h2>Display</h2>
+          </div>
+          <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch color theme"></button>
+        </section>
+
+        <section class="tool-panel auth-panel" aria-label="Account">
+          <div class="panel-heading">
+            <h2>Account</h2>
+          </div>
+          <div class="auth-box">
+            <form class="auth-form" id="auth-form">
+              <label class="sr-only" for="auth-email">Email</label>
+              <input id="auth-email" name="email" type="email" autocomplete="email" placeholder="you@example.com">
+              <button id="auth-submit" type="submit">Sign in</button>
+            </form>
+            <div class="auth-user" id="auth-user" hidden>
+              <span id="auth-email-label"></span>
+              <button id="auth-sign-out" type="button">Sign out</button>
+            </div>
+            <p class="auth-status" id="auth-status"></p>
+          </div>
+        </section>
+
+        <section class="tool-panel">
+          <div class="panel-heading">
+            <h2>News Sites</h2>
+            <button class="text-button" id="reset-sources" type="button">All</button>
+          </div>
+          <div id="source-filters" class="source-filters"></div>
+        </section>
+
+        <section class="tool-panel">
+          <div class="panel-heading">
+            <h2>Categories</h2>
+            <button class="text-button" id="category-all" type="button" aria-pressed="true">All</button>
+          </div>
+          <div id="category-filters" class="category-filters"></div>
+        </section>
+
+        <section class="tool-panel news-panel">
+          <div class="panel-heading">
+            <h2>Top Stories</h2>
+          </div>
+          <div id="today-news" class="today-news"></div>
+        </section>
+      </aside>
+    </div>
+
+    <template id="post-template">
+      <article class="post">
+        <div class="avatar"></div>
+        <div class="post-main">
+          <div class="meta-line">
+            <strong class="display-name"></strong>
+            <span class="handle"></span>
+            <span class="dot location-dot" aria-hidden="true">&middot;</span>
+            <span class="location"></span>
+            <span class="dot time-dot" aria-hidden="true">&middot;</span>
+            <time></time>
+            <span class="times-pick">Times Pick</span>
+          </div>
+          <p class="comment-body"></p>
+          <a class="article-card" target="_blank" rel="noreferrer">
+            <div class="card-image-wrap">
+              <img alt="" loading="lazy">
+            </div>
+            <div class="card-copy">
+              <div class="card-title"><span></span></div>
+              <div class="card-source"></div>
+            </div>
+          </a>
+          <div class="actions" aria-label="Comment tools"></div>
+        </div>
+      </article>
+    </template>
+
+    <button class="menu-backdrop" id="menu-backdrop" type="button" aria-label="Close menu"></button>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
