@@ -37,9 +37,11 @@
             <img src="/images/comment-reader.webp" alt="">
           </div>
 
-          <p class="auth-side-copy auth-side-copy-right">
-            Keep the comments worth coming back to, gathered under one quiet account.
-          </p>
+          <form class="auth-form auth-poster-form" id="auth-form">
+            <label class="sr-only" for="auth-email">Email</label>
+            <input id="auth-email" name="email" type="email" autocomplete="email" placeholder="you@example.com">
+            <button id="auth-submit" type="submit">Sign up</button>
+          </form>
         </div>
 
         <div class="auth-title-bottom" aria-hidden="true">
@@ -47,11 +49,6 @@
           <span>Conversation</span>
         </div>
 
-        <form class="auth-form auth-poster-form" id="auth-form">
-          <label class="sr-only" for="auth-email">Email</label>
-          <input id="auth-email" name="email" type="email" autocomplete="email" placeholder="you@example.com">
-          <button id="auth-submit" type="submit">Sign up</button>
-        </form>
         <p class="auth-status auth-poster-status" id="auth-status"></p>
       </div>
     </section>
