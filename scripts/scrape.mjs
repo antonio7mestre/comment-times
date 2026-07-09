@@ -54,6 +54,8 @@ const wapoArticleTarget = clampNumber(process.env.WAPO_ARTICLE_TARGET, deepScrap
 const wapoCandidateLimit = clampNumber(process.env.WAPO_CANDIDATE_LIMIT, deepScrape ? 800 : 220, 20, 800);
 const wapoConcurrency = clampNumber(process.env.WAPO_CONCURRENCY, 8, 1, 12);
 const wapoMetadataConcurrency = clampNumber(process.env.WAPO_METADATA_CONCURRENCY, 6, 1, 8);
+const wapoSitemapRetries = clampNumber(process.env.WAPO_SITEMAP_RETRIES, 1, 0, 3);
+const wapoSitemapTimeoutMs = clampNumber(process.env.WAPO_SITEMAP_TIMEOUT_MS, 12000, 5000, 45000);
 const commentConcurrency = clampNumber(process.env.COMMENT_CONCURRENCY, 12, 1, 15);
 const oembedConcurrency = clampNumber(process.env.OEMBED_CONCURRENCY, 6, 1, 6);
 const thumbnailBuffer = clampNumber(process.env.THUMBNAIL_BUFFER, 20, 0, 80);
@@ -965,7 +967,7 @@ async function fetchWapoSitemapText(url, label) {
         "User-Agent": browserUserAgent,
       },
     },
-    { label, retries: 3, timeoutMs: 45000 },
+    { label, retries: wapoSitemapRetries, timeoutMs: wapoSitemapTimeoutMs },
   );
 }
 
