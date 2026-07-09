@@ -179,7 +179,7 @@ async function requestMagicLink() {
   }
 
   authBusy = true;
-  authMessage = "Sending sign-in link...";
+  authMessage = "Sending link...";
   renderAuthPanel();
 
   const { error } = await supabaseClient.auth.signInWithOtp({
@@ -191,7 +191,7 @@ async function requestMagicLink() {
   });
 
   authBusy = false;
-  authMessage = error ? error.message : "Check your email for the sign-in link.";
+  authMessage = error ? error.message : "Check your email.";
   renderAuthPanel();
 }
 
@@ -537,7 +537,7 @@ function renderAuthPanel() {
   }
 
   authStatus.textContent = authAvailable
-    ? authMessage || "Enter your email and we will send a sign-in link."
+    ? authMessage || "Magic link by email."
     : authMessage || "Login is required. Supabase configuration is missing.";
 }
 

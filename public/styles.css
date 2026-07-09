@@ -1,9 +1,9 @@
 :root {
   color-scheme: light;
   --background: #f1eee5;
-  --surface: #ffffff;
-  --panel: #ffffff;
-  --panel-strong: #f4f4f2;
+  --surface: #f1eee5;
+  --panel: #f1eee5;
+  --panel-strong: #e8e3d7;
   --text: #2f3437;
   --secondary: #6f6e69;
   --muted: #9b9a97;
@@ -880,11 +880,12 @@ body.auth-required .menu-backdrop {
   position: relative;
   z-index: 4;
   min-height: 18px;
-  width: min(520px, 100%);
-  margin: 8px auto 0;
+  width: 100%;
+  margin: 0;
   color: rgba(35, 31, 28, 0.68);
   font-size: 12px;
-  text-align: center;
+  line-height: 1.25;
+  text-align: left;
 }
 
 .source-filters {
@@ -1329,10 +1330,6 @@ input:focus-visible {
     width: min(86vw, 360px);
     margin: 14px auto 0;
     order: 5;
-  }
-
-  .auth-poster-status {
-    order: 6;
   }
 
   .app-shell {
