@@ -872,7 +872,7 @@ async function discoverWapoCandidates(targetDays) {
   const daySet = new Set(targetDays);
 
   try {
-    const entries = await fetchWapoNewsSitemap();
+    const entries = await fetchWapoNewsSitemap(targetDays);
     const byUrl = new Map();
 
     for (const entry of entries) {
@@ -898,20 +898,75 @@ async function discoverWapoCandidates(targetDays) {
   }
 }
 
-async function fetchWapoNewsSitemap() {
-  const xml = await fetchText(
-    "https://www.washingtonpost.com/sitemaps/news-sitemap.xml.gz",
+async function fetchWapoNewsSitemap(targetDays) {
+  try {
+    const entries = await fetchWapoSitemapEntries(
+      "https://www.washingtonpost.com/sitemaps/news-sitemap.xml.gz",
+      "WaPo news sitemap",
+    );
+
+    if (entries.length > 0) {
+      return entries;
+    }
+
+    console.warn("WaPo news sitemap returned no article URLs; trying monthly sitemap fallback.");
+  } catch (error) {
+    console.warn(`WaPo news sitemap failed: ${error.message}; trying monthly sitemap fallback.`);
+  }
+
+  const indexXml = await fetchWapoSitemapText(
+    "https://www.washingtonpost.com/sitemaps/sitemap.xml.gz",
+    "WaPo sitemap index",
+  );
+  const targetMonths = new Set(targetDays.map((day) => day.slice(0, 7)));
+  const monthlyUrls = parseSitemapIndexUrls(indexXml).filter((url) => {
+    const month = url.match(/sitemap-(\d{4}-\d{2})\.xml(?:\.gz)?$/)?.[1] || "";
+    return targetMonths.has(month);
+  });
+
+  if (monthlyUrls.length === 0) {
+    throw new Error("WaPo sitemap index did not include any target-month article sitemaps.");
+  }
+
+  const settled = await Promise.allSettled(
+    monthlyUrls.map((url) => fetchWapoSitemapEntries(url, `WaPo monthly sitemap ${url.split("/").pop()}`)),
+  );
+  const entries = [];
+
+  for (const result of settled) {
+    if (result.status === "fulfilled") {
+      entries.push(...result.value);
+    } else {
+      console.warn(`WaPo monthly sitemap fetch failed: ${result.reason.message}`);
+    }
+  }
+
+  if (entries.length === 0) {
+    throw new Error("WaPo monthly sitemap fallback returned no article URLs.");
+  }
+
+  console.log(`- WaPo monthly sitemap fallback: ${entries.length} articles`);
+  return entries;
+}
+
+async function fetchWapoSitemapEntries(url, label) {
+  const xml = await fetchWapoSitemapText(url, label);
+  const entries = parseWapoSitemapEntries(xml);
+  console.log(`- ${label}: ${entries.length} articles`);
+  return entries;
+}
+
+async function fetchWapoSitemapText(url, label) {
+  return fetchText(
+    url,
     {
       headers: {
         Accept: "application/xml,text/xml,*/*",
         "User-Agent": browserUserAgent,
       },
     },
-    { label: "WaPo news sitemap", retries: 1, timeoutMs: 15000 },
+    { label, retries: 3, timeoutMs: 45000 },
   );
-  const entries = parseWapoSitemapEntries(xml);
-  console.log(`- WaPo news sitemap: ${entries.length} articles`);
-  return entries;
 }
 
 function parseWapoSitemapEntries(xml) {
@@ -924,6 +979,13 @@ function parseWapoSitemapEntries(xml) {
       url: decodeEntities(matchXmlTag(block, "loc")),
     };
   }).filter((entry) => entry.url);
+}
+
+function parseSitemapIndexUrls(xml) {
+  return unique(
+    Array.from(xml.matchAll(/<loc>([\s\S]*?)<\/loc>/g), (match) => decodeEntities(match[1]).trim())
+      .filter(Boolean),
+  );
 }
 
 function isLikelyWapoArticleUrl(articleUrl) {
