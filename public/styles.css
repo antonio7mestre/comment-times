@@ -889,6 +889,18 @@ body.auth-required .menu-backdrop {
   text-align: left;
 }
 
+@keyframes auth-sheet-pop {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .source-filters {
   display: flex;
   flex-direction: column;
@@ -1280,13 +1292,15 @@ input:focus-visible {
 
 @media (max-width: 620px) {
   .auth-gate {
-    padding: 10px;
+    min-height: 100dvh;
+    padding: 10px 10px calc(152px + env(safe-area-inset-bottom));
+    overflow-y: auto;
   }
 
   .auth-poster {
     grid-template-rows: auto auto auto auto auto auto;
-    min-height: calc(100vh - 20px);
-    padding: 12px 10px 16px;
+    min-height: calc(100dvh - 20px);
+    padding: 12px 10px 152px;
   }
 
   .auth-meta-row {
@@ -1326,11 +1340,41 @@ input:focus-visible {
   }
 
   .auth-poster-form {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 20;
     grid-template-columns: 1fr;
     justify-self: center;
-    width: min(86vw, 360px);
-    margin: 14px auto 0;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 14px 14px calc(16px + env(safe-area-inset-bottom));
+    border: 1px solid rgba(241, 238, 229, 0.14);
+    border-bottom: 0;
+    border-radius: 8px 8px 0 0;
+    background: #191714;
+    box-shadow: 0 -18px 48px rgba(35, 31, 28, 0.34);
+    animation: auth-sheet-pop 360ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
     order: 5;
+  }
+
+  .auth-poster-form input {
+    border-color: rgba(241, 238, 229, 0.2);
+    border-radius: 6px;
+    background: #f1eee5;
+  }
+
+  .auth-poster-form button {
+    border-color: #f1eee5;
+    border-radius: 6px;
+    background: #f1eee5;
+    color: #191714;
+  }
+
+  .auth-poster-status {
+    color: rgba(241, 238, 229, 0.72);
   }
 
   .app-shell {
