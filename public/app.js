@@ -38,6 +38,8 @@ const navItems = [
 const commentPreviewLength = 280;
 const feedRandomSeed = `${Date.now()}-${Math.random()}`;
 const supabaseModuleUrl = "https://esm.sh/@supabase/supabase-js@2";
+const authResendCooldownMs = 60 * 1000;
+const authRateLimitCooldownMs = 5 * 60 * 1000;
 
 let sources = [];
 let articles = [];
@@ -56,6 +58,8 @@ let currentUser = null;
 let authAvailable = false;
 let authBusy = false;
 let authMessage = "";
+let authCooldownUntil = 0;
+let authCooldownTimer = null;
 let remotePostSnapshots = new Map();
 let remoteSavedKinds = new Set();
 
@@ -171,6 +175,13 @@ async function requestMagicLink() {
     return;
   }
 
+  const cooldownSeconds = getAuthCooldownSeconds();
+  if (cooldownSeconds > 0) {
+    authMessage = `Try again in ${formatAuthWait(cooldownSeconds)}.`;
+    renderAuthPanel();
+    return;
+  }
+
   const email = authEmailInput.value.trim();
   if (!email) {
     authMessage = "Enter an email address.";
@@ -191,8 +202,54 @@ async function requestMagicLink() {
   });
 
   authBusy = false;
-  authMessage = error ? error.message : "Check your email.";
+  if (error) {
+    authMessage = getAuthErrorMessage(error);
+    if (isAuthRateLimitError(error)) {
+      startAuthCooldown(authRateLimitCooldownMs);
+    }
+  } else {
+    authMessage = "Check your email.";
+    startAuthCooldown(authResendCooldownMs);
+  }
   renderAuthPanel();
+}
+
+function getAuthCooldownSeconds() {
+  return Math.max(0, Math.ceil((authCooldownUntil - Date.now()) / 1000));
+}
+
+function formatAuthWait(seconds) {
+  if (seconds >= 60) {
+    return `${Math.ceil(seconds / 60)}m`;
+  }
+  return `${seconds}s`;
+}
+
+function startAuthCooldown(durationMs) {
+  authCooldownUntil = Date.now() + durationMs;
+  if (authCooldownTimer) {
+    window.clearInterval(authCooldownTimer);
+  }
+  authCooldownTimer = window.setInterval(() => {
+    if (getAuthCooldownSeconds() <= 0) {
+      window.clearInterval(authCooldownTimer);
+      authCooldownTimer = null;
+      authCooldownUntil = 0;
+    }
+    renderAuthPanel();
+  }, 1000);
+}
+
+function isAuthRateLimitError(error) {
+  const message = String(error?.message || "");
+  return error?.status === 429 || /rate limit|too many/i.test(message);
+}
+
+function getAuthErrorMessage(error) {
+  if (isAuthRateLimitError(error)) {
+    return "Email limit hit. Try again later.";
+  }
+  return error?.message || "Could not send link.";
 }
 
 async function signOut() {
@@ -526,12 +583,25 @@ function renderAuthPanel() {
   authGate.hidden = signedIn;
   authForm.hidden = signedIn;
   authUser.hidden = !signedIn;
+  const cooldownSeconds = getAuthCooldownSeconds();
+  const cooldownActive = !signedIn && cooldownSeconds > 0;
   authEmailInput.disabled = !authAvailable || authBusy;
-  authSubmit.disabled = !authAvailable || authBusy;
+  authSubmit.disabled = !authAvailable || authBusy || cooldownActive;
   const mobileAuth = window.matchMedia("(max-width: 620px)").matches;
-  authSubmit.textContent = authBusy ? "Sending..." : mobileAuth ? "Send magic link" : "Sign up";
+  authSubmit.textContent = authBusy
+    ? "Sending..."
+    : cooldownActive
+      ? `Wait ${formatAuthWait(cooldownSeconds)}`
+      : mobileAuth
+        ? "Send magic link"
+        : "Sign up";
 
   if (signedIn) {
+    authCooldownUntil = 0;
+    if (authCooldownTimer) {
+      window.clearInterval(authCooldownTimer);
+      authCooldownTimer = null;
+    }
     authEmailLabel.textContent = currentUser.email || "Signed in";
     authStatus.textContent = "";
     return;
