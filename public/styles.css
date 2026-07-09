@@ -853,6 +853,10 @@ body.auth-required .menu-backdrop {
   margin: 0;
 }
 
+.auth-sheet-title {
+  display: none;
+}
+
 .auth-poster-form input {
   min-height: 42px;
   border: 1px solid rgba(35, 31, 28, 0.2);
@@ -887,6 +891,14 @@ body.auth-required .menu-backdrop {
   font-size: 12px;
   line-height: 1.25;
   text-align: left;
+}
+
+.auth-poster-status:empty {
+  display: none;
+}
+
+.auth-mobile-info {
+  display: none;
 }
 
 @keyframes auth-sheet-pop {
@@ -1293,14 +1305,14 @@ input:focus-visible {
 @media (max-width: 620px) {
   .auth-gate {
     min-height: 100dvh;
-    padding: 10px 10px calc(152px + env(safe-area-inset-bottom));
+    padding: 10px;
     overflow-y: auto;
   }
 
   .auth-poster {
     grid-template-rows: auto auto auto auto auto auto;
     min-height: calc(100dvh - 20px);
-    padding: 12px 10px 152px;
+    padding: 12px 10px calc(156px + env(safe-area-inset-bottom));
   }
 
   .auth-meta-row {
@@ -1339,6 +1351,29 @@ input:focus-visible {
     order: 4;
   }
 
+  .auth-mobile-info {
+    display: grid;
+    gap: 12px;
+    width: min(86vw, 360px);
+    margin: 18px auto 0;
+    padding: 14px 0 6px;
+    border-top: 1px solid rgba(35, 31, 28, 0.18);
+    color: rgba(35, 31, 28, 0.78);
+    order: 5;
+  }
+
+  .auth-mobile-info p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 560;
+    line-height: 1.32;
+  }
+
+  .auth-mobile-info p + p {
+    color: rgba(35, 31, 28, 0.62);
+    font-weight: 500;
+  }
+
   .auth-poster-form {
     position: fixed;
     right: 0;
@@ -1357,13 +1392,23 @@ input:focus-visible {
     background: #191714;
     box-shadow: 0 -18px 48px rgba(35, 31, 28, 0.34);
     animation: auth-sheet-pop 360ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
-    order: 5;
+    order: 6;
+  }
+
+  .auth-sheet-title {
+    display: block;
+    margin: 0 0 2px;
+    color: #f1eee5;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.2;
   }
 
   .auth-poster-form input {
     border-color: rgba(241, 238, 229, 0.2);
     border-radius: 6px;
     background: #f1eee5;
+    font-size: 16px;
   }
 
   .auth-poster-form button {

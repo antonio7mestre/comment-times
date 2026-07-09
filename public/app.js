@@ -528,7 +528,8 @@ function renderAuthPanel() {
   authUser.hidden = !signedIn;
   authEmailInput.disabled = !authAvailable || authBusy;
   authSubmit.disabled = !authAvailable || authBusy;
-  authSubmit.textContent = authBusy ? "Sending..." : "Sign up";
+  const mobileAuth = window.matchMedia("(max-width: 620px)").matches;
+  authSubmit.textContent = authBusy ? "Sending..." : mobileAuth ? "Send magic link" : "Sign up";
 
   if (signedIn) {
     authEmailLabel.textContent = currentUser.email || "Signed in";
@@ -537,7 +538,7 @@ function renderAuthPanel() {
   }
 
   authStatus.textContent = authAvailable
-    ? authMessage || "Magic link by email."
+    ? authMessage || ""
     : authMessage || "Login is required. Supabase configuration is missing.";
 }
 
