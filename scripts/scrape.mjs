@@ -1207,17 +1207,16 @@ function normalizeWapoComment(comment) {
 }
 
 async function fetchJson(url, options, settings) {
-  const response = await fetchWithRetry(url, options, settings);
+  const text = await fetchWithRetry(url, options, settings);
   try {
-    return await response.json();
+    return JSON.parse(text);
   } catch (error) {
     throw new Error(`${settings.label} returned invalid JSON: ${error.message}`);
   }
 }
 
 async function fetchText(url, options, settings) {
-  const response = await fetchWithRetry(url, options, settings);
-  return response.text();
+  return fetchWithRetry(url, options, settings);
 }
 
 async function fetchWithRetry(url, options = {}, settings = {}) {
@@ -1232,7 +1231,6 @@ async function fetchWithRetry(url, options = {}, settings = {}) {
 
     try {
       const response = await fetch(url, { ...options, signal: controller.signal });
-      clearTimeout(timeout);
 
       if (response.status === 401 || response.status === 403) {
         const authMessage = settings.authMessage || "Refresh NYT_COOKIE and rerun npm run scrape.";
@@ -1244,7 +1242,9 @@ async function fetchWithRetry(url, options = {}, settings = {}) {
         throw new Error(`${label} returned HTTP ${response.status}: ${body.slice(0, 180)}`);
       }
 
-      return response;
+      const body = await response.text();
+      clearTimeout(timeout);
+      return body;
     } catch (error) {
       clearTimeout(timeout);
       lastError = error;
