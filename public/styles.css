@@ -790,14 +790,19 @@ body.auth-required .menu-backdrop {
 }
 
 .auth-image-slot {
-  width: 100%;
-  max-width: 480px;
-  min-height: min(39vh, 380px);
+  width: min(100%, 360px);
+  aspect-ratio: 4 / 5;
   justify-self: center;
-  background:
-    linear-gradient(135deg, rgba(255, 255, 255, 0.055), transparent 42%),
-    #1d1b19;
+  overflow: hidden;
+  background: #1d1b19;
   box-shadow: 0 18px 45px rgba(35, 31, 28, 0.18);
+}
+
+.auth-image-slot img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .auth-side-copy {
@@ -1303,8 +1308,7 @@ input:focus-visible {
 
   .auth-image-slot {
     grid-row: 1;
-    width: min(76vw, 320px);
-    min-height: 248px;
+    width: min(72vw, 292px);
   }
 
   .auth-side-copy {
