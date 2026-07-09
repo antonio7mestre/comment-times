@@ -48,14 +48,14 @@ function fileForUrl(url) {
   return safePath(publicDir, pathname);
 }
 
-function sendJson(response, status, payload) {
+function sendJson(response, status, payload, includeBody = true) {
   const body = JSON.stringify(payload, null, 2) + "\n";
   response.writeHead(status, {
     "Cache-Control": "no-store",
     "Content-Length": Buffer.byteLength(body),
     "Content-Type": "application/json; charset=utf-8",
   });
-  response.end(body);
+  response.end(includeBody ? body : undefined);
 }
 
 function publicSupabaseConfig() {
@@ -112,22 +112,33 @@ async function readRemoteFeed() {
 function createServer() {
   return http.createServer(async (request, response) => {
     const parsed = new URL(request.url || "/", `http://${request.headers.host || displayHost}`);
+    const readsOnly = request.method === "GET" || request.method === "HEAD";
+    const includeBody = request.method !== "HEAD";
 
-    if (request.method === "GET" && parsed.pathname === "/api/health") {
-      sendJson(response, 200, { ok: true });
+    if (!readsOnly) {
+      response.writeHead(405, {
+        Allow: "GET, HEAD",
+        "Content-Type": "text/plain; charset=utf-8",
+      });
+      response.end("Method not allowed");
       return;
     }
 
-    if (request.method === "GET" && parsed.pathname === "/api/config") {
-      sendJson(response, 200, publicSupabaseConfig());
+    if (parsed.pathname === "/api/health") {
+      sendJson(response, 200, { ok: true }, includeBody);
       return;
     }
 
-    if (request.method === "GET" && parsed.pathname === "/api/feed") {
+    if (parsed.pathname === "/api/config") {
+      sendJson(response, 200, publicSupabaseConfig(), includeBody);
+      return;
+    }
+
+    if (parsed.pathname === "/api/feed") {
       try {
-        sendJson(response, 200, await readLatestFeed());
+        sendJson(response, 200, await readLatestFeed(), includeBody);
       } catch (error) {
-        sendJson(response, 500, { error: error.message });
+        sendJson(response, 500, { error: error.message }, includeBody);
       }
       return;
     }
@@ -150,6 +161,10 @@ function createServer() {
         "Content-Length": fileStat.size,
         "Content-Type": mimeTypes.get(path.extname(filePath)) || "application/octet-stream",
       });
+      if (!includeBody) {
+        response.end();
+        return;
+      }
       createReadStream(filePath).pipe(response);
     } catch {
       response.writeHead(404, { "Content-Type": "text/plain; charset=utf-8" });

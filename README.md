@@ -23,7 +23,7 @@ npm run dev
 
 Open the printed local URL, usually `http://127.0.0.1:4173/`.
 
-Without Supabase env vars, likes and bookmarks are saved in browser localStorage. With Supabase env vars, the same UI syncs them to your account.
+Supabase env vars are required for the signed-in app. Likes and bookmarks are saved to the logged-in account; browser localStorage is only used for UI preferences like theme, source filters, category filters, and sort mode.
 
 ## Environment Variables
 
@@ -53,7 +53,7 @@ The schema creates:
 - `saved_posts`: one row per user like/bookmark, including full article and comment snapshots.
 - `feed_runs`: one JSON feed snapshot per scrape run.
 
-Enable email auth in Supabase. Without a custom domain, leave Supabase's default auth emails active, then add the local and Render URLs as allowed redirect URLs.
+Enable email auth in Supabase, then add the local and Render URLs as allowed redirect URLs. Supabase's default email sender is suitable for testing but has tight limits; use custom SMTP, such as Resend, for regular use.
 
 ## Render
 
