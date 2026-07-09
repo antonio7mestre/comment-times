@@ -14,7 +14,46 @@
     </script>
     <link rel="stylesheet" href="./styles.css">
   </head>
-  <body>
+  <body class="auth-required">
+    <section class="auth-gate" id="auth-gate" aria-label="Sign in to The Comment Times">
+      <div class="auth-poster">
+        <div class="auth-meta-row" aria-hidden="true">
+          <span>TCT portfolio #01</span>
+          <span>Reader comments as a daily front page</span>
+          <span>Account required</span>
+        </div>
+
+        <h1 class="auth-title-top" aria-label="The Comment Times">
+          <span>The Comment</span>
+          <span>Times</span>
+        </h1>
+
+        <div class="auth-centerpiece">
+          <p class="auth-side-copy auth-side-copy-left">
+            A daily edit of newspaper comments, reordered into a fast, readable feed for people who read below the article.
+          </p>
+
+          <div class="auth-image-slot" aria-hidden="true"></div>
+
+          <p class="auth-side-copy auth-side-copy-right">
+            Sign in to save likes and bookmarks to your account. Your reading list is no longer local to this browser.
+          </p>
+        </div>
+
+        <div class="auth-title-bottom" aria-hidden="true">
+          <span>Save The</span>
+          <span>Conversation</span>
+        </div>
+
+        <form class="auth-form auth-poster-form" id="auth-form">
+          <label class="sr-only" for="auth-email">Email</label>
+          <input id="auth-email" name="email" type="email" autocomplete="email" placeholder="you@example.com">
+          <button id="auth-submit" type="submit">Sign up</button>
+        </form>
+        <p class="auth-status auth-poster-status" id="auth-status"></p>
+      </div>
+    </section>
+
     <div class="mobile-topbar">
       <div class="mobile-topbar-inner">
         <a class="mobile-brand-icon" href="/" aria-label="The Comment Times">CT</a>
@@ -40,8 +79,8 @@
           <nav class="nav-links" id="nav-links"></nav>
         </div>
 
-        <section class="local-card" aria-label="Local saves">
-          <span id="save-mode-label">Saved locally</span>
+        <section class="local-card" aria-label="Account saves">
+          <span id="save-mode-label">Saved to account</span>
           <strong id="local-counts" data-local-counts>0 likes / 0 bookmarks</strong>
         </section>
       </aside>
@@ -87,16 +126,10 @@
             <h2>Account</h2>
           </div>
           <div class="auth-box">
-            <form class="auth-form" id="auth-form">
-              <label class="sr-only" for="auth-email">Email</label>
-              <input id="auth-email" name="email" type="email" autocomplete="email" placeholder="you@example.com">
-              <button id="auth-submit" type="submit">Sign in</button>
-            </form>
-            <div class="auth-user" id="auth-user" hidden>
+            <div class="auth-user" id="auth-user">
               <span id="auth-email-label"></span>
               <button id="auth-sign-out" type="button">Sign out</button>
             </div>
-            <p class="auth-status" id="auth-status"></p>
           </div>
         </section>
 

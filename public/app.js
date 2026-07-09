@@ -19,12 +19,11 @@ const authStatus = document.querySelector("#auth-status");
 const authUser = document.querySelector("#auth-user");
 const authEmailLabel = document.querySelector("#auth-email-label");
 const authSignOut = document.querySelector("#auth-sign-out");
+const authGate = document.querySelector("#auth-gate");
 const saveModeLabel = document.querySelector("#save-mode-label");
 
 const storageKeys = {
-  bookmarks: "comment-times.bookmarks.v1",
   categories: "comment-times.categories.v1",
-  likes: "comment-times.likes.v1",
   sort: "comment-times.sort.v1",
   sources: "comment-times.sources.v1",
   theme: "comment-times.theme.v2",
@@ -49,8 +48,8 @@ let activeView = "feed";
 let activeSort = readText(storageKeys.sort, "popular");
 let activeSources = new Set();
 let selectedCategories = new Set(readArray(storageKeys.categories, []));
-let likedPosts = new Set(readArray(storageKeys.likes, []));
-let bookmarkedPosts = new Set(readArray(storageKeys.bookmarks, []));
+let likedPosts = new Set();
+let bookmarkedPosts = new Set();
 let expandedPosts = new Set();
 let supabaseClient = null;
 let currentUser = null;
@@ -136,14 +135,12 @@ async function initializeAuth() {
 
     currentUser = data.session?.user || null;
     await loadRemoteLibrary();
-    await syncLocalLibraryToRemote();
     renderAll();
 
     supabaseClient.auth.onAuthStateChange(async (_event, session) => {
       currentUser = session?.user || null;
       authMessage = currentUser ? "Signed in." : "";
       await loadRemoteLibrary();
-      await syncLocalLibraryToRemote();
       renderAll();
     });
   } catch (error) {
@@ -218,6 +215,8 @@ async function signOut() {
   currentUser = null;
   remotePostSnapshots = new Map();
   remoteSavedKinds = new Set();
+  likedPosts = new Set();
+  bookmarkedPosts = new Set();
   authMessage = "";
   renderAll();
 }
@@ -226,6 +225,8 @@ async function loadRemoteLibrary() {
   if (!supabaseClient || !currentUser) {
     remotePostSnapshots = new Map();
     remoteSavedKinds = new Set();
+    likedPosts = new Set();
+    bookmarkedPosts = new Set();
     return;
   }
 
@@ -241,8 +242,8 @@ async function loadRemoteLibrary() {
 
   const snapshots = new Map();
   const savedKinds = new Set();
-  const nextLikes = new Set(likedPosts);
-  const nextBookmarks = new Set(bookmarkedPosts);
+  const nextLikes = new Set();
+  const nextBookmarks = new Set();
 
   for (const row of data || []) {
     const post = postFromSavedRow(row);
@@ -262,54 +263,13 @@ async function loadRemoteLibrary() {
   remoteSavedKinds = savedKinds;
   likedPosts = nextLikes;
   bookmarkedPosts = nextBookmarks;
-  writeArray(storageKeys.likes, Array.from(likedPosts));
-  writeArray(storageKeys.bookmarks, Array.from(bookmarkedPosts));
-}
-
-async function syncLocalLibraryToRemote() {
-  if (!supabaseClient || !currentUser) {
-    return;
-  }
-
-  const rows = [];
-  for (const key of likedPosts) {
-    const post = findPostByKey(key);
-    if (post && !remoteSavedKinds.has(`like:${key}`)) {
-      rows.push(savedPostRow("like", post));
-    }
-  }
-  for (const key of bookmarkedPosts) {
-    const post = findPostByKey(key);
-    if (post && !remoteSavedKinds.has(`bookmark:${key}`)) {
-      rows.push(savedPostRow("bookmark", post));
-    }
-  }
-
-  if (rows.length === 0) {
-    return;
-  }
-
-  const { error } = await supabaseClient
-    .from("saved_posts")
-    .upsert(rows, { onConflict: "user_id,post_key,kind" });
-
-  if (error) {
-    authMessage = `Could not sync local saves: ${error.message}`;
-    return;
-  }
-
-  for (const row of rows) {
-    remoteSavedKinds.add(`${row.kind}:${row.post_key}`);
-    const post = findPostByKey(row.post_key);
-    if (post) {
-      remotePostSnapshots.set(row.post_key, post);
-    }
-  }
 }
 
 async function syncSavedPost(kind, post, selected) {
   if (!supabaseClient || !currentUser || !["like", "bookmark"].includes(kind)) {
-    return;
+    authMessage = "Sign in to save to your account.";
+    renderAuthPanel();
+    return false;
   }
 
   if (selected) {
@@ -321,14 +281,14 @@ async function syncSavedPost(kind, post, selected) {
     if (error) {
       authMessage = `Could not sync ${kind}: ${error.message}`;
       renderAuthPanel();
-      return;
+      return false;
     }
 
     remotePostSnapshots.set(post.key, post);
     remoteSavedKinds.add(`${kind}:${post.key}`);
     authMessage = "Saved.";
     renderAuthPanel();
-    return;
+    return true;
   }
 
   const { error } = await supabaseClient
@@ -341,7 +301,7 @@ async function syncSavedPost(kind, post, selected) {
   if (error) {
     authMessage = `Could not remove ${kind}: ${error.message}`;
     renderAuthPanel();
-    return;
+    return false;
   }
 
   if (!likedPosts.has(post.key) && !bookmarkedPosts.has(post.key)) {
@@ -350,6 +310,7 @@ async function syncSavedPost(kind, post, selected) {
   remoteSavedKinds.delete(`${kind}:${post.key}`);
   authMessage = "Updated.";
   renderAuthPanel();
+  return true;
 }
 
 function bindControls() {
@@ -440,7 +401,7 @@ function bindControls() {
     await signOut();
   });
 
-  feedElement.addEventListener("click", (event) => {
+  feedElement.addEventListener("click", async (event) => {
     const button = event.target.closest("button[data-action][data-post-key]");
     if (!button) {
       return;
@@ -454,20 +415,35 @@ function bindControls() {
 
     const action = button.dataset.action;
     const post = findPostByKey(button.dataset.postKey);
-    const targetSet = action === "bookmark" ? bookmarkedPosts : likedPosts;
-    const storageKey = action === "bookmark" ? storageKeys.bookmarks : storageKeys.likes;
-
-    if (targetSet.has(button.dataset.postKey)) {
-      targetSet.delete(button.dataset.postKey);
-    } else {
-      targetSet.add(button.dataset.postKey);
+    if (!currentUser) {
+      authMessage = "Sign in to save likes and bookmarks to your account.";
+      renderAuthPanel();
+      return;
     }
 
-    writeArray(storageKey, Array.from(targetSet));
+    if (!post) {
+      return;
+    }
+
+    const targetSet = action === "bookmark" ? bookmarkedPosts : likedPosts;
+    const nextSelected = !targetSet.has(button.dataset.postKey);
+
+    if (nextSelected) {
+      targetSet.add(button.dataset.postKey);
+    } else {
+      targetSet.delete(button.dataset.postKey);
+    }
+
     renderAll();
 
-    if (post) {
-      syncSavedPost(action, post, targetSet.has(button.dataset.postKey));
+    const synced = await syncSavedPost(action, post, nextSelected);
+    if (!synced) {
+      if (nextSelected) {
+        targetSet.delete(button.dataset.postKey);
+      } else {
+        targetSet.add(button.dataset.postKey);
+      }
+      renderAll();
     }
   });
 }
@@ -546,20 +522,23 @@ function renderAuthPanel() {
   }
 
   const signedIn = Boolean(currentUser);
+  document.body.classList.toggle("auth-required", !signedIn);
+  authGate.hidden = signedIn;
   authForm.hidden = signedIn;
   authUser.hidden = !signedIn;
   authEmailInput.disabled = !authAvailable || authBusy;
   authSubmit.disabled = !authAvailable || authBusy;
+  authSubmit.textContent = authBusy ? "Sending..." : "Sign up";
 
   if (signedIn) {
     authEmailLabel.textContent = currentUser.email || "Signed in";
-    authStatus.textContent = authMessage || "Likes and bookmarks sync to your account.";
+    authStatus.textContent = "";
     return;
   }
 
   authStatus.textContent = authAvailable
-    ? authMessage || "Sign in with email to sync likes and bookmarks."
-    : "Local saves are active. Add Supabase env vars to enable login.";
+    ? authMessage || "Enter your email and we will send a sign-in link."
+    : authMessage || "Login is required. Supabase configuration is missing.";
 }
 
 function renderSourceFilters() {
@@ -745,7 +724,7 @@ function renderStatus(visiblePosts, visibleArticles) {
   }
 
   if (saveModeLabel) {
-    saveModeLabel.textContent = currentUser ? "Saved to account" : "Saved locally";
+    saveModeLabel.textContent = "Saved to account";
   }
 }
 
@@ -1178,7 +1157,7 @@ function emptyDetailForView() {
     return "Try widening the filters.";
   }
   if (activeView === "likes") return "Use Like on any comment to collect it here.";
-  if (activeView === "bookmarks") return "Use Save on any comment to build a local reading list.";
+  if (activeView === "bookmarks") return "Use Save on any comment to build your account reading list.";
   return "Try running a fresh scrape.";
 }
 
