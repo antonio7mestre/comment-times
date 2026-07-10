@@ -7,7 +7,7 @@ A private reader for New York Times, Wall Street Journal, and Washington Post co
 - GitHub stores the code and connects to Render.
 - Render hosts the web app on its generated `onrender.com` URL.
 - GitHub Actions runs the daily scrape and uploads the feed to Supabase.
-- Supabase handles real email signup/login, saved likes/bookmarks, and uploaded feed snapshots.
+- Supabase handles real email signup/login, saved likes/bookmarks/reads/seen state, and uploaded feed snapshots.
 - Resend is optional later for custom SMTP after you add a domain.
 - NYT and WSJ subscriber sessions provide the cookies used by the scraper.
 
@@ -23,7 +23,7 @@ npm run dev
 
 Open the printed local URL, usually `http://127.0.0.1:4173/`.
 
-Supabase env vars are required for the signed-in app. Likes and bookmarks are saved to the logged-in account; browser localStorage is only used for UI preferences like theme, source filters, category filters, and sort mode.
+Supabase env vars are required for the signed-in app. Likes, bookmarks, article reads, and seen comments are saved to the logged-in account; browser localStorage is only used for UI preferences like theme, source filters, category filters, and sort mode.
 
 ## Environment Variables
 
@@ -50,7 +50,7 @@ Run `supabase/schema.sql` in the Supabase SQL editor.
 
 The schema creates:
 
-- `saved_posts`: one row per user like/bookmark, including full article and comment snapshots.
+- `saved_posts`: one row per user like/bookmark/read/seen item, including full article and comment snapshots where relevant.
 - `feed_runs`: one JSON feed snapshot per scrape run.
 
 Enable email auth in Supabase, then add the local and Render URLs as allowed redirect URLs. Supabase's default email sender is suitable for testing but has tight limits; use custom SMTP, such as Resend, for regular use.

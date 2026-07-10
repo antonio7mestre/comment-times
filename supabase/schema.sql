@@ -24,7 +24,7 @@ create table if not exists public.saved_posts (
   id uuid primary key default gen_random_uuid(),
   user_id uuid not null references auth.users(id) on delete cascade,
   post_key text not null,
-  kind text not null check (kind in ('like', 'bookmark')),
+  kind text not null check (kind in ('like', 'bookmark', 'read', 'seen')),
   source_id text,
   source_name text,
   article_url text not null,
@@ -69,6 +69,13 @@ create policy "Users can delete their saved posts"
 
 create index if not exists saved_posts_user_kind_created_at_idx
   on public.saved_posts (user_id, kind, created_at desc);
+
+alter table public.saved_posts
+  drop constraint if exists saved_posts_kind_check;
+
+alter table public.saved_posts
+  add constraint saved_posts_kind_check
+  check (kind in ('like', 'bookmark', 'read', 'seen'));
 
 create or replace function public.set_saved_posts_updated_at()
 returns trigger

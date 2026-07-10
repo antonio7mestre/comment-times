@@ -33,13 +33,17 @@ const navItems = [
   { icon: "home", label: "Feed", view: "feed" },
   { icon: "heart", label: "Likes", view: "likes" },
   { icon: "bookmark", label: "Bookmarks", view: "bookmarks" },
+  { icon: "book-open", label: "My Reads", view: "reads" },
+  { icon: "pen", label: "Writers", view: "writers" },
 ];
 
+const persistedKinds = new Set(["like", "bookmark", "read", "seen"]);
 const commentPreviewLength = 280;
 const feedRandomSeed = `${Date.now()}-${Math.random()}`;
 const supabaseScriptUrl = "./vendor/supabase-js-2.110.2.js";
 const authResendCooldownMs = 60 * 1000;
 const authRateLimitCooldownMs = 5 * 60 * 1000;
+const seenFlushDelayMs = 900;
 
 let sources = [];
 let articles = [];
@@ -52,6 +56,8 @@ let activeSources = new Set();
 let selectedCategories = new Set(readArray(storageKeys.categories, []));
 let likedPosts = new Set();
 let bookmarkedPosts = new Set();
+let seenPosts = new Set();
+let readArticles = new Map();
 let expandedPosts = new Set();
 let supabaseClient = null;
 let currentUser = null;
@@ -63,6 +69,9 @@ let authCooldownTimer = null;
 let supabaseScriptPromise = null;
 let remotePostSnapshots = new Map();
 let remoteSavedKinds = new Set();
+let pendingSeenPosts = new Map();
+let seenFlushTimer = null;
+let scrollCheckScheduled = false;
 
 if (!["popular", "recent"].includes(activeSort)) {
   activeSort = "popular";
@@ -300,6 +309,9 @@ async function signOut() {
   remoteSavedKinds = new Set();
   likedPosts = new Set();
   bookmarkedPosts = new Set();
+  seenPosts = new Set();
+  readArticles = new Map();
+  pendingSeenPosts = new Map();
   authMessage = "";
   renderAll();
 }
@@ -310,6 +322,9 @@ async function loadRemoteLibrary() {
     remoteSavedKinds = new Set();
     likedPosts = new Set();
     bookmarkedPosts = new Set();
+    seenPosts = new Set();
+    readArticles = new Map();
+    pendingSeenPosts = new Map();
     return;
   }
 
@@ -327,13 +342,30 @@ async function loadRemoteLibrary() {
   const savedKinds = new Set();
   const nextLikes = new Set();
   const nextBookmarks = new Set();
+  const nextSeen = new Set();
+  const nextReads = new Map();
 
   for (const row of data || []) {
+    savedKinds.add(`${row.kind}:${row.post_key}`);
+
+    if (row.kind === "read") {
+      const read = readFromSavedRow(row);
+      if (read) {
+        nextReads.set(read.key, read);
+      }
+      continue;
+    }
+
+    if (row.kind === "seen") {
+      nextSeen.add(row.post_key);
+      continue;
+    }
+
     const post = postFromSavedRow(row);
     if (post) {
       snapshots.set(row.post_key, post);
     }
-    savedKinds.add(`${row.kind}:${row.post_key}`);
+
     if (row.kind === "like") {
       nextLikes.add(row.post_key);
     }
@@ -346,6 +378,8 @@ async function loadRemoteLibrary() {
   remoteSavedKinds = savedKinds;
   likedPosts = nextLikes;
   bookmarkedPosts = nextBookmarks;
+  seenPosts = nextSeen;
+  readArticles = nextReads;
 }
 
 async function syncSavedPost(kind, post, selected) {
@@ -396,6 +430,36 @@ async function syncSavedPost(kind, post, selected) {
   return true;
 }
 
+async function upsertSavedRows(rows, options = {}) {
+  if (!supabaseClient || !currentUser || rows.length === 0) {
+    return false;
+  }
+
+  const filteredRows = rows.filter((row) => persistedKinds.has(row.kind));
+  if (filteredRows.length === 0) {
+    return false;
+  }
+
+  const { error } = await supabaseClient
+    .from("saved_posts")
+    .upsert(filteredRows, { onConflict: "user_id,post_key,kind" });
+
+  if (error) {
+    if (!options.silent) {
+      authMessage = `Could not save: ${error.message}`;
+      renderAuthPanel();
+    } else {
+      console.warn(error.message);
+    }
+    return false;
+  }
+
+  for (const row of filteredRows) {
+    remoteSavedKinds.add(`${row.kind}:${row.post_key}`);
+  }
+  return true;
+}
+
 function bindControls() {
   for (const tab of tabs) {
     tab.addEventListener("click", () => {
@@ -413,6 +477,7 @@ function bindControls() {
 
     activeView = button.dataset.view;
     renderAll();
+    closeMobileMenu();
   });
 
   mobileMenuToggle?.addEventListener("click", () => {
@@ -485,6 +550,15 @@ function bindControls() {
   });
 
   feedElement.addEventListener("click", async (event) => {
+    const articleLink = event.target.closest("a.article-card");
+    if (articleLink) {
+      const post = findPostByKey(articleLink.closest(".post")?.dataset.postKey || "");
+      if (post) {
+        void recordArticleRead(post.article, post);
+      }
+      return;
+    }
+
     const button = event.target.closest("button[data-action][data-post-key]");
     if (!button) {
       return;
@@ -499,7 +573,7 @@ function bindControls() {
     const action = button.dataset.action;
     const post = findPostByKey(button.dataset.postKey);
     if (!currentUser) {
-      authMessage = "Sign in to save likes and bookmarks to your account.";
+      authMessage = "Sign in to save your reading.";
       renderAuthPanel();
       return;
     }
@@ -529,6 +603,24 @@ function bindControls() {
       renderAll();
     }
   });
+
+  newsElement?.addEventListener("click", (event) => {
+    const link = event.target.closest("a[data-article-url]");
+    if (!link) {
+      return;
+    }
+
+    const article = findArticleByUrl(link.dataset.articleUrl);
+    if (article) {
+      void recordArticleRead(article, null);
+    }
+  });
+
+  window.addEventListener("scroll", scheduleScrolledPastCheck, { passive: true });
+  window.addEventListener("resize", scheduleScrolledPastCheck, { passive: true });
+  window.addEventListener("pagehide", () => {
+    void flushSeenPosts();
+  });
 }
 
 function renderAll() {
@@ -541,7 +633,13 @@ function renderAll() {
 
   const visiblePosts = getVisiblePosts();
   const visibleArticles = getVisibleArticles();
-  renderFeed(visiblePosts);
+  if (activeView === "reads") {
+    renderReads(getVisibleReads());
+  } else if (activeView === "writers") {
+    renderWriters(getVisibleWriters());
+  } else {
+    renderFeed(visiblePosts);
+  }
   renderNews(visibleArticles);
   renderStatus(visiblePosts, visibleArticles);
 }
@@ -580,6 +678,11 @@ function renderNavState() {
       badge.textContent = likedPosts.size ? formatCount(likedPosts.size) : "";
     } else if (view === "bookmarks") {
       badge.textContent = bookmarkedPosts.size ? formatCount(bookmarkedPosts.size) : "";
+    } else if (view === "reads") {
+      badge.textContent = readArticles.size ? formatCount(readArticles.size) : "";
+    } else if (view === "writers") {
+      const writerCount = getWriterStats().length;
+      badge.textContent = writerCount ? formatCount(writerCount) : "";
     } else {
       badge.textContent = "";
     }
@@ -714,11 +817,16 @@ function renderFeed(posts) {
   }
 
   const fragment = document.createDocumentFragment();
-  for (const post of posts) {
+  const caughtUpIndex = activeView === "feed" ? posts.findIndex((post) => seenPosts.has(post.key)) : -1;
+  for (const [index, post] of posts.entries()) {
+    if (index === caughtUpIndex) {
+      fragment.append(caughtUpDivider(posts.length - index));
+    }
     fragment.append(renderPost(post));
   }
 
   feedElement.append(fragment);
+  scheduleScrolledPastCheck();
 }
 
 function renderPost(post) {
@@ -743,6 +851,7 @@ function renderPost(post) {
   const readerFallback = `${post.article.source.name} reader`;
 
   node.dataset.postKey = post.key;
+  node.classList.toggle("is-seen", seenPosts.has(post.key));
   avatar.textContent = initialFor(post.name, initialFor(post.article.source.name, "R"));
   avatar.style.background = avatarColor(post.name || post.article.source.id);
   displayName.textContent = post.name || readerFallback;
@@ -780,6 +889,152 @@ function renderPost(post) {
   return node;
 }
 
+function caughtUpDivider(seenCount) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "caught-up-divider";
+
+  const line = document.createElement("span");
+  line.setAttribute("aria-hidden", "true");
+
+  const copy = document.createElement("div");
+  const title = document.createElement("strong");
+  const detail = document.createElement("small");
+
+  title.textContent = "You're all caught up";
+  detail.textContent = `${formatCount(seenCount)} seen comments below`;
+
+  copy.append(title, detail);
+  wrapper.append(line, copy, line.cloneNode());
+  return wrapper;
+}
+
+function renderReads(reads) {
+  feedElement.innerHTML = "";
+
+  if (reads.length === 0) {
+    feedElement.append(emptyState(emptyTitleForView(), emptyDetailForView()));
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+  for (const read of reads) {
+    fragment.append(renderRead(read));
+  }
+
+  feedElement.append(fragment);
+}
+
+function renderRead(read) {
+  const article = read.article;
+  const wrapper = document.createElement("article");
+  wrapper.className = "read-item";
+
+  const link = document.createElement("a");
+  link.className = "read-link";
+  link.href = article.url;
+  link.target = "_blank";
+  link.rel = "noreferrer";
+  link.dataset.articleUrl = article.url;
+
+  const imageWrap = document.createElement("div");
+  imageWrap.className = "read-image-wrap";
+  const image = document.createElement("img");
+  image.alt = "";
+  image.loading = "lazy";
+  image.src = article.thumbnail || "";
+  imageWrap.append(image);
+
+  const copy = document.createElement("div");
+  copy.className = "read-copy";
+
+  const meta = document.createElement("div");
+  meta.className = "read-meta";
+  meta.append(
+    badge(article.source.name, "source-badge"),
+    badge(article.category, "category-badge"),
+  );
+  if (read.createdAt) {
+    meta.append(metaText(`Read ${relativeDate(read.createdAt)}`));
+  }
+
+  const title = document.createElement("h2");
+  title.textContent = article.title;
+
+  const byline = document.createElement("p");
+  byline.className = "read-byline";
+  byline.textContent = article.byline ? `By ${article.byline}` : article.source.domain;
+
+  copy.append(meta, title, byline);
+  link.append(imageWrap, copy);
+  wrapper.append(link);
+  return wrapper;
+}
+
+function renderWriters(writers) {
+  feedElement.innerHTML = "";
+
+  if (writers.length === 0) {
+    feedElement.append(emptyState(emptyTitleForView(), emptyDetailForView()));
+    return;
+  }
+
+  const list = document.createElement("section");
+  list.className = "writer-list";
+
+  for (const writer of writers) {
+    list.append(renderWriter(writer));
+  }
+
+  feedElement.append(list);
+}
+
+function renderWriter(writer) {
+  const item = document.createElement("article");
+  item.className = "writer-item";
+
+  const avatar = document.createElement("div");
+  avatar.className = "avatar writer-avatar";
+  avatar.textContent = initialFor(writer.name, "W");
+  avatar.style.background = avatarColor(writer.name);
+
+  const copy = document.createElement("div");
+  copy.className = "writer-copy";
+
+  const heading = document.createElement("div");
+  heading.className = "writer-heading";
+
+  const name = document.createElement("strong");
+  name.textContent = writer.name;
+
+  const total = document.createElement("span");
+  total.textContent = `${formatCount(writer.total)} interactions`;
+
+  heading.append(name, total);
+
+  const breakdown = document.createElement("div");
+  breakdown.className = "writer-breakdown";
+  breakdown.append(
+    writerMetric("Likes", writer.likes),
+    writerMetric("Bookmarks", writer.bookmarks),
+    writerMetric("Reads", writer.reads),
+  );
+
+  const articles = document.createElement("p");
+  articles.className = "writer-articles";
+  articles.textContent = writer.articleTitles.slice(0, 2).join(" / ");
+
+  copy.append(heading, breakdown, articles);
+  item.append(avatar, copy);
+  return item;
+}
+
+function writerMetric(label, value) {
+  const metric = document.createElement("span");
+  metric.textContent = `${formatCount(value)} ${label}`;
+  metric.hidden = value === 0;
+  return metric;
+}
+
 function renderNews(inputArticles) {
   newsElement.innerHTML = "";
 
@@ -801,6 +1056,7 @@ function renderNews(inputArticles) {
     link.href = article.url;
     link.target = "_blank";
     link.rel = "noreferrer";
+    link.dataset.articleUrl = article.url;
 
     const kicker = document.createElement("span");
     kicker.textContent = `${article.category} / ${article.source.domain}`;
@@ -817,7 +1073,7 @@ function renderNews(inputArticles) {
 
 function renderStatus(visiblePosts, visibleArticles) {
   for (const element of localCountElements) {
-    element.textContent = `${formatCount(likedPosts.size)} likes / ${formatCount(bookmarkedPosts.size)} bookmarks`;
+    element.textContent = `${formatCount(likedPosts.size)} likes / ${formatCount(bookmarkedPosts.size)} bookmarks / ${formatCount(readArticles.size)} reads`;
   }
 
   if (saveModeLabel) {
@@ -826,6 +1082,10 @@ function renderStatus(visiblePosts, visibleArticles) {
 }
 
 function getVisiblePosts() {
+  if (!["feed", "likes", "bookmarks"].includes(activeView)) {
+    return [];
+  }
+
   const posts = postsForActiveView().filter((post) => {
     if (!activeSources.has(post.article.source.id)) {
       return false;
@@ -865,17 +1125,38 @@ function postsForActiveView() {
   return Array.from(postMap.values());
 }
 
+function getVisibleReads() {
+  return Array.from(readArticles.values())
+    .filter((read) => articleMatchesFilters(read.article))
+    .sort((a, b) => Number(new Date(b.createdAt || 0)) - Number(new Date(a.createdAt || 0)));
+}
+
+function getVisibleWriters() {
+  return getWriterStats()
+    .filter((writer) => writer.articles.some((article) => articleMatchesFilters(article)))
+    .map((writer) => ({
+      ...writer,
+      articleTitles: writer.articles
+        .filter((article) => articleMatchesFilters(article))
+        .map((article) => article.title),
+    }));
+}
+
 function getVisibleArticles() {
   return articles.filter((article) => {
-    if (!activeSources.has(article.source.id)) {
-      return false;
-    }
-
-    if (selectedCategories.size > 0 && !selectedCategories.has(article.category)) {
-      return false;
-    }
-    return true;
+    return articleMatchesFilters(article);
   });
+}
+
+function articleMatchesFilters(article) {
+  if (!article || !activeSources.has(article.source.id)) {
+    return false;
+  }
+
+  if (selectedCategories.size > 0 && !selectedCategories.has(article.category)) {
+    return false;
+  }
+  return true;
 }
 
 function sortPosts(posts) {
@@ -892,9 +1173,24 @@ function sortPosts(posts) {
       || Number(b.timestamp || 0) - Number(a.timestamp || 0);
   });
 
-  return activeSort === "recent"
+  const declumpedPosts = activeSort === "recent"
     ? declumpPosts(rankedPosts, { articleWindow: 3, lookAhead: 20, sourceWindow: 1 })
     : declumpPosts(rankedPosts, { articleWindow: 6, lookAhead: 42, sourceWindow: 3 });
+
+  if (activeView !== "feed") {
+    return declumpedPosts;
+  }
+
+  const fresh = [];
+  const seen = [];
+  for (const post of declumpedPosts) {
+    if (seenPosts.has(post.key)) {
+      seen.push(post);
+    } else {
+      fresh.push(post);
+    }
+  }
+  return fresh.concat(seen);
 }
 
 function normalizeArticles(inputArticles) {
@@ -1001,19 +1297,120 @@ function findPostByKey(key) {
   return allPosts.find((post) => post.key === key) || remotePostSnapshots.get(key) || null;
 }
 
+function findArticleByUrl(url) {
+  return articles.find((article) => article.url === url)
+    || Array.from(readArticles.values()).find((read) => read.article.url === url)?.article
+    || null;
+}
+
+async function recordArticleRead(article, post) {
+  if (!article?.url || !currentUser) {
+    return false;
+  }
+
+  const key = keyForArticle(article);
+  const read = {
+    article,
+    createdAt: new Date().toISOString(),
+    key,
+  };
+  readArticles.set(key, read);
+
+  const row = savedArticleRow(article, post);
+  const synced = await upsertSavedRows([row], { silent: true });
+  if (synced) {
+    renderNavState();
+    renderStatus([], []);
+    return true;
+  }
+  return false;
+}
+
+function markPostSeen(post) {
+  if (!post?.key || seenPosts.has(post.key)) {
+    return false;
+  }
+
+  seenPosts.add(post.key);
+  pendingSeenPosts.set(post.key, post);
+  scheduleSeenFlush();
+  return true;
+}
+
+function scheduleScrolledPastCheck() {
+  if (scrollCheckScheduled) {
+    return;
+  }
+
+  scrollCheckScheduled = true;
+  requestAnimationFrame(() => {
+    scrollCheckScheduled = false;
+    markScrolledPastPosts();
+  });
+}
+
+function markScrolledPastPosts() {
+  if (activeView !== "feed" || !currentUser) {
+    return;
+  }
+
+  const cutoff = Math.min(220, Math.max(96, window.innerHeight * 0.22));
+  let marked = false;
+
+  for (const postElement of feedElement.querySelectorAll(".post[data-post-key]")) {
+    const rect = postElement.getBoundingClientRect();
+    if (rect.bottom >= cutoff) {
+      continue;
+    }
+
+    const post = findPostByKey(postElement.dataset.postKey);
+    if (markPostSeen(post)) {
+      postElement.classList.add("is-seen");
+      marked = true;
+    }
+  }
+
+  if (marked) {
+    renderNavState();
+  }
+}
+
+function scheduleSeenFlush() {
+  if (seenFlushTimer) {
+    window.clearTimeout(seenFlushTimer);
+  }
+  seenFlushTimer = window.setTimeout(() => {
+    void flushSeenPosts();
+  }, seenFlushDelayMs);
+}
+
+async function flushSeenPosts() {
+  if (seenFlushTimer) {
+    window.clearTimeout(seenFlushTimer);
+    seenFlushTimer = null;
+  }
+
+  if (!currentUser || pendingSeenPosts.size === 0) {
+    return false;
+  }
+
+  const rows = Array.from(pendingSeenPosts.values()).map((post) => savedPostRow("seen", post));
+  pendingSeenPosts = new Map();
+  const synced = await upsertSavedRows(rows, { silent: true });
+  if (!synced) {
+    for (const row of rows) {
+      const post = findPostByKey(row.post_key);
+      if (post) {
+        pendingSeenPosts.set(post.key, post);
+      }
+    }
+  }
+  return synced;
+}
+
 function savedPostRow(kind, post) {
   return {
-    article_snapshot: {
-      byline: post.article.byline || "",
-      category: post.article.category || "Other",
-      section: post.article.section || "",
-      source: post.article.source || {},
-      summary: post.article.summary || "",
-      thumbnail: post.article.thumbnail || "",
-      title: post.article.title || "Untitled article",
-      totalComments: Number(post.article.totalComments || 0),
-      url: post.article.url,
-    },
+    article_snapshot: articleSnapshot(post.article),
     article_title: post.article.title || "Untitled article",
     article_url: post.article.url,
     comment_snapshot: {
@@ -1033,9 +1430,76 @@ function savedPostRow(kind, post) {
   };
 }
 
+function savedArticleRow(article, post = null) {
+  const key = keyForArticle(article);
+  return {
+    article_snapshot: articleSnapshot(article),
+    article_title: article.title || "Untitled article",
+    article_url: article.url,
+    comment_snapshot: post
+      ? {
+          body: post.body || "",
+          key: post.key,
+          location: post.location || "",
+          name: post.name || "",
+          recommendations: Number(post.recommendations || 0),
+          timestamp: Number(post.timestamp || 0),
+          timesPick: Boolean(post.timesPick),
+        }
+      : {},
+    kind: "read",
+    post_key: key,
+    source_id: article.source.id || "",
+    source_name: article.source.name || "",
+    user_id: currentUser.id,
+  };
+}
+
+function articleSnapshot(article) {
+  return {
+    byline: article.byline || "",
+    category: article.category || "Other",
+    section: article.section || "",
+    source: article.source || {},
+    summary: article.summary || "",
+    thumbnail: article.thumbnail || "",
+    title: article.title || "Untitled article",
+    totalComments: Number(article.totalComments || 0),
+    url: article.url,
+  };
+}
+
 function postFromSavedRow(row) {
-  const articleSnapshot = row.article_snapshot || {};
+  const article = articleFromSavedRow(row);
   const commentSnapshot = row.comment_snapshot || {};
+
+  if (!article.url || !commentSnapshot.body) {
+    return null;
+  }
+
+  return {
+    ...commentSnapshot,
+    article,
+    articleKey: article.url,
+    key: row.post_key || commentSnapshot.key,
+  };
+}
+
+function readFromSavedRow(row) {
+  const article = articleFromSavedRow(row);
+  if (!article.url) {
+    return null;
+  }
+
+  return {
+    article,
+    createdAt: row.created_at || "",
+    key: row.post_key || keyForArticle(article),
+  };
+}
+
+function articleFromSavedRow(row) {
+  const articleSnapshot = row.article_snapshot || {};
   const article = {
     byline: articleSnapshot.byline || "",
     category: articleSnapshot.category || categoryForArticle(articleSnapshot),
@@ -1055,16 +1519,7 @@ function postFromSavedRow(row) {
     url: articleSnapshot.url || row.article_url,
   };
 
-  if (!article.url || !commentSnapshot.body) {
-    return null;
-  }
-
-  return {
-    ...commentSnapshot,
-    article,
-    articleKey: article.url,
-    key: row.post_key || commentSnapshot.key,
-  };
+  return article;
 }
 
 function keyForPost(post) {
@@ -1074,6 +1529,10 @@ function keyForPost(post) {
     handleFor(post.name, "reader"),
     hashText(post.body || "").toString(36),
   ].join("::");
+}
+
+function keyForArticle(article) {
+  return `article::${hashText(article.url || article.title || "").toString(36)}`;
 }
 
 function declumpPosts(posts, options = {}) {
@@ -1136,6 +1595,69 @@ function recencyBucket(post) {
 
 function articleRank(article) {
   return Math.floor(Math.log10(Number(article.totalComments || 0) + 1) * 10);
+}
+
+function getWriterStats() {
+  const writers = new Map();
+
+  for (const key of likedPosts) {
+    addWriterInteraction(writers, findPostByKey(key)?.article, "likes");
+  }
+
+  for (const key of bookmarkedPosts) {
+    addWriterInteraction(writers, findPostByKey(key)?.article, "bookmarks");
+  }
+
+  for (const read of readArticles.values()) {
+    addWriterInteraction(writers, read.article, "reads");
+  }
+
+  return Array.from(writers.values())
+    .map((writer) => ({
+      ...writer,
+      articleTitles: Array.from(writer.articleTitles),
+      articles: Array.from(writer.articles.values()),
+      total: writer.likes + writer.bookmarks + writer.reads,
+    }))
+    .sort((a, b) => b.total - a.total || b.reads - a.reads || a.name.localeCompare(b.name));
+}
+
+function addWriterInteraction(writers, article, kind) {
+  if (!article?.url) {
+    return;
+  }
+
+  for (const writerName of writersForByline(article.byline)) {
+    const writer = writers.get(writerName) || {
+      articleTitles: new Set(),
+      articles: new Map(),
+      bookmarks: 0,
+      likes: 0,
+      name: writerName,
+      reads: 0,
+    };
+
+    writer[kind] += 1;
+    writer.articleTitles.add(article.title);
+    writer.articles.set(article.url, article);
+    writers.set(writerName, writer);
+  }
+}
+
+function writersForByline(byline) {
+  const cleaned = String(byline || "")
+    .replace(/^by\s+/i, "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!cleaned) {
+    return [];
+  }
+
+  return cleaned
+    .split(/\s+(?:and|&)\s+|,\s*/)
+    .map((name) => name.trim())
+    .filter((name) => name.length > 1);
 }
 
 function randomOrder(left, right) {
@@ -1246,6 +1768,8 @@ function emptyStateLine(text) {
 function emptyTitleForView() {
   if (activeView === "likes") return "No liked comments match.";
   if (activeView === "bookmarks") return "No saved comments match.";
+  if (activeView === "reads") return "No reads match.";
+  if (activeView === "writers") return "No writers yet.";
   return "No comments match.";
 }
 
@@ -1255,6 +1779,8 @@ function emptyDetailForView() {
   }
   if (activeView === "likes") return "Use Like on any comment to collect it here.";
   if (activeView === "bookmarks") return "Use Save on any comment to build your account reading list.";
+  if (activeView === "reads") return "Open an article from the feed to collect it here.";
+  if (activeView === "writers") return "Like, save, or read articles to build this list.";
   return "Try running a fresh scrape.";
 }
 
@@ -1335,6 +1861,20 @@ function relativeTime(timestamp) {
   }
 
   return "now";
+}
+
+function relativeDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "recently";
+  }
+
+  const elapsed = Math.max(0, Date.now() - date.getTime());
+  const days = Math.floor(elapsed / 86400000);
+  if (days === 0) return "today";
+  if (days === 1) return "yesterday";
+  if (days < 7) return `${days}d ago`;
+  return date.toLocaleDateString(undefined, { month: "short", day: "numeric" });
 }
 
 function isoTime(timestamp) {
@@ -1437,10 +1977,12 @@ function writeText(key, value) {
 
 function icon(name) {
   const paths = {
+    "book-open": '<path d="M12 7v14"/><path d="M3 5.5A2.5 2.5 0 0 1 5.5 3H12v18H5.5A2.5 2.5 0 0 1 3 18.5z"/><path d="M21 5.5A2.5 2.5 0 0 0 18.5 3H12v18h6.5A2.5 2.5 0 0 0 21 18.5z"/>',
     bookmark: '<path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/>',
     heart: '<path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 1 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/>',
     home: '<path d="M3 11.5 12 4l9 7.5"/><path d="M5 10v10h14V10"/><path d="M9 20v-6h6v6"/>',
     moon: '<path d="M20 14.6A8 8 0 0 1 9.4 4 7 7 0 1 0 20 14.6z"/>',
+    pen: '<path d="M17 3a2.8 2.8 0 0 1 4 4L8 20l-5 1 1-5z"/><path d="m15 5 4 4"/>',
     search: '<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>',
     sun: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.9 4.9 1.4 1.4"/><path d="m17.7 17.7 1.4 1.4"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.3 17.7-1.4 1.4"/><path d="m19.1 4.9-1.4 1.4"/>',
   };
