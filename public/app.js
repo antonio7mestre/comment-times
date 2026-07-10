@@ -37,7 +37,7 @@ const navItems = [
 
 const commentPreviewLength = 280;
 const feedRandomSeed = `${Date.now()}-${Math.random()}`;
-const supabaseModuleUrl = "https://esm.sh/@supabase/supabase-js@2";
+const supabaseScriptUrl = "./vendor/supabase-js-2.110.2.js";
 const authResendCooldownMs = 60 * 1000;
 const authRateLimitCooldownMs = 5 * 60 * 1000;
 
@@ -60,6 +60,7 @@ let authBusy = false;
 let authMessage = "";
 let authCooldownUntil = 0;
 let authCooldownTimer = null;
+let supabaseScriptPromise = null;
 let remotePostSnapshots = new Map();
 let remoteSavedKinds = new Set();
 
@@ -123,7 +124,7 @@ async function initializeAuth() {
       return;
     }
 
-    const { createClient } = await import(supabaseModuleUrl);
+    const createClient = await loadSupabaseCreateClient();
     supabaseClient = createClient(supabaseUrl, supabaseAnonKey, {
       auth: {
         autoRefreshToken: true,
@@ -152,6 +153,31 @@ async function initializeAuth() {
     authMessage = `Login unavailable: ${error.message}`;
     renderAuthPanel();
   }
+}
+
+async function loadSupabaseCreateClient() {
+  if (window.supabase?.createClient) {
+    return window.supabase.createClient;
+  }
+
+  if (!supabaseScriptPromise) {
+    supabaseScriptPromise = new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = supabaseScriptUrl;
+      script.async = true;
+      script.onload = () => {
+        if (window.supabase?.createClient) {
+          resolve(window.supabase.createClient);
+          return;
+        }
+        reject(new Error("Supabase client did not initialize."));
+      };
+      script.onerror = () => reject(new Error("Supabase client could not load."));
+      document.head.append(script);
+    });
+  }
+
+  return supabaseScriptPromise;
 }
 
 async function loadAppConfig() {
