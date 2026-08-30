@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T17:16:00.222Z",
+  "generatedAt": "2026-08-30T17:49:05.392Z",
   "days": [
     "2026-08-29",
     "2026-08-30"
@@ -11,9 +11,9 @@
     "todayOnly": false,
     "commentLimit": 8,
     "commentsToStore": 8,
-    "windowEnd": "2026-08-30T17:15:00.529Z",
+    "windowEnd": "2026-08-30T17:48:07.184Z",
     "windowHours": 24,
-    "windowStart": "2026-08-29T17:15:00.529Z"
+    "windowStart": "2026-08-29T17:48:07.184Z"
   },
   "sources": [
     {
@@ -33,6 +33,96 @@
     }
   ],
   "articles": [
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2",
+      "title": "Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
+      "byline": "Vera Bergengruen, Drew FitzGerald, Collin Eaton and Juan Forero",
+      "summary": "The deal capped months of secretive negotiations to give the U.S. rights to the some of the world’s largest proven oil reserves.",
+      "section": "Business",
+      "thumbnail": "https://images.wsj.net/im-51184828/social",
+      "modifiedAt": "2026-08-30T00:17:00.000Z",
+      "publishedAt": "2026-08-30T00:17:00.000Z",
+      "totalComments": 1747,
+      "comments": [
+        {
+          "name": "Tom Young",
+          "location": "",
+          "body": "Isn't this the same structure Maduro (or maybe Chavez) set up in Venezuela?  \n\nImportant parts of the oil industry were handled by various Generals with the understanding that a certain amount of \"skim\" for their personal use was OK as long as the \"Big Boss\" got his share.\n\nYou'd think some structure like this would require Congress lawmaking, would you?  But Congress is conspicuous in it's absence and Trump plays entirely by his own rules, always.\n\nJust like a King, Dictator or any other authoritarian doesn't have to worry about \"laws.\"  They play by their own rules.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112069,
+          "timesPick": false
+        },
+        {
+          "name": "Ted Brown",
+          "location": "",
+          "body": "Instead of democracy, America's major export is corruption.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112022,
+          "timesPick": false
+        },
+        {
+          "name": "Ted Brown",
+          "location": "",
+          "body": "In two years, nothing will be left of the Constitution to protect. \n\nNot much left now. \n\nImpeach. \n\nConvict. \n\nRepeat as necessary.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111917,
+          "timesPick": false
+        },
+        {
+          "name": "Gil Rosenberg",
+          "location": "",
+          "body": "Trump is a modern day Bolivarian or Conquistador of Latin America!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111644,
+          "timesPick": false
+        },
+        {
+          "name": "Brian P",
+          "location": "",
+          "body": "Anytime I think of the DoD. The only thoughts that surface, “Dumb stupid idiots!”\n\nFrom the pathetic family to working for the DoD under a Top Secret Security Clearance. They might be the dumbest idiots on the face of the planet. I could not understand them after college and they were so unorganized. They were so dumb that multiple people held a Top Secret Security Clearance and no college degree. If they held a degree it was from some university that I never heard of such as Pothash State University. They were stupid.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111606,
+          "timesPick": false
+        },
+        {
+          "name": "Ted Brown",
+          "location": "",
+          "body": "Absolute power over DOJ, Treasury, DOD... \n\nHard to say \"no\" to a guy who has endless resources to destroy your life, or end it, with one bogus lawsuit, arrest, or \"resistance\" at a traffic stop. \n\nWelcome to Trump's America.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1788111509,
+          "timesPick": false
+        },
+        {
+          "name": "John Gilday",
+          "location": "",
+          "body": "With Pentagon investment we would be more likely to use American military firepower to protect the oilfields and infrastructure the Pentagon invested in. Very smart idea.",
+          "recommendations": 0,
+          "replyCount": 3,
+          "timestamp": 1788111472,
+          "timesPick": false
+        },
+        {
+          "name": "Pat Bryant",
+          "location": "",
+          "body": "Is Trump a closet member of the DSA?",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1788111433,
+          "timesPick": false
+        }
+      ]
+    },
     {
       "source": {
         "id": "nytimes",
@@ -226,7 +316,7 @@
           "name": "Clapboard",
           "location": "California",
           "body": "Merely impeaching and removing does not go far enough toward restoring democracy and preventing future attacks on America by kleptofascist cartels.\n\nCurrent Constitutional guardrails have proven too flimsy, even after 250 years, to thwart powerful attacks by a new brand of hellbent seditionist.\n\nCertain bedrock principles of liberty and freedom should not rely on a majority within Congress defending them; they should--must--be enforceable as \"self-evident.\" America does not need a reinforced White House bunker, but it does need a reinforced Constitutional one.",
-          "recommendations": 434,
+          "recommendations": 440,
           "replyCount": 0,
           "timestamp": 1788041100,
           "timesPick": false
@@ -235,7 +325,7 @@
           "name": "Kathy",
           "location": "SF",
           "body": "White privilege will not extend to me or the others who are openly fighting fascism, or not in the club. I see white people all around me who think that their lives will never be different, and I want the expression on those faces to change as soon as possible so that they understand that they need to get up and do their part.",
-          "recommendations": 198,
+          "recommendations": 200,
           "replyCount": 0,
           "timestamp": 1788041064,
           "timesPick": false
@@ -244,7 +334,7 @@
           "name": "Angstrom Unit",
           "location": "Canada",
           "body": "How is it even possible to recover from this? With one party entirely complicit and joined in total collaboration by the military (purged), police, FBI, Justice, Security and Intelligence Services. And a corporate elite without courage or moral compass. The other party idly content to ride it out so their former power structure can remain intact. A genuine deTrumpification would be required nationwide and that is never going to happen. Meanwhile the world has your mark and we’re not coming back, no matter what happens. Trump rode to power by championing all that is weak and regressive about your country: male insecurity, crackpot religion, gun worship, ill health, homophobia, misogyny, racism, contempt for science, nature and the environment, pathetic public education, illiteracy/ignorance, wage slavery, profiteering and sleaze. Useful fools by the million and they’re not going anywhere. They cheat, they're armed, they are cruel and they don't care about the future. They are locked into some kind of Christian nationalist death cult/ grift epitomized by Corporal Deathshead and Vance. Yes, it is that extreme and it is what happens when you let a gang of wealth-hyped tech bros fund swivel eyed lunatics and criminals with fascist white supremacist whack jobs providing ‘policy’ and AI to provide the finishing touches. It would be encouraging if the opposition consisted of something more than nice people with signs and funny costumes.",
-          "recommendations": 471,
+          "recommendations": 482,
           "replyCount": 0,
           "timestamp": 1788040951,
           "timesPick": false
@@ -262,7 +352,7 @@
           "name": "mahopac reader",
           "location": "mahopac",
           "body": "great column , you did leave out what I think is one of the most important parts of Trump's \"take over\" bid, and that's the Military, he has been firing Generals, and inspector generals , lawyers and it seems basically anyone who may be brave enough to say No to him..  he has left national guard in Washington still... WHY ?? is he waiting for Novembers results? and any out cry that may happen if he declares the results are fraudulent and refuses to accept them?",
-          "recommendations": 200,
+          "recommendations": 204,
           "replyCount": 0,
           "timestamp": 1788040669,
           "timesPick": false
@@ -271,7 +361,7 @@
           "name": "PB",
           "location": "Vermont",
           "body": "“When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.\n\nWe hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. […] That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. \n\n[…]\n\nBut when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.”\n\nDeclaration of Independence by the colonies, later states.",
-          "recommendations": 153,
+          "recommendations": 156,
           "replyCount": 0,
           "timestamp": 1788040617,
           "timesPick": false
@@ -280,7 +370,7 @@
           "name": "B.G. João Antunes M.F. Batista Neto",
           "location": "Esperanto",
           "body": "And the Armed Forces? What of them? They have all taken an oath to protect the Constitution. The Constitution is under attack. Will they defend it, or will they refuse illegal orders given by Trump to aid and abet his cause? Illegal orders have been carried out already, but I'd like to believe that the military would refuse to act against US citizens, on American soil. ICE? I don't see ICE having a problem with such blatantly illegal and immoral action.",
-          "recommendations": 153,
+          "recommendations": 158,
           "replyCount": 0,
           "timestamp": 1788040591,
           "timesPick": false
@@ -289,7 +379,7 @@
           "name": "Dawn",
           "location": "Somewhere in Virginia",
           "body": "I appreciate your candor in this piece.  That said, it frankly scares me to death.  How has this been allowed to happen to our country?",
-          "recommendations": 145,
+          "recommendations": 147,
           "replyCount": 0,
           "timestamp": 1788040469,
           "timesPick": false
@@ -310,78 +400,78 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/30/opinion/women-men-gender-quit.html",
-      "totalComments": 414,
+      "totalComments": 473,
       "comments": [
         {
-          "name": "Mary Wivell",
-          "location": "Atlanta, GA",
-          "body": "Amen to everything you wrote! \n\nI suffered and suffered and suffered doing all kinds of wonderful things for other people. Then I hit menopause and developed an autoimmune disease. My body is forcing me to prioritize and choose carefully how I spend my limited time and energy. \n\nI wish I had learned the lesson of saying no sooner. There are so many things I’m good at, but I neglected my passions in order to care for everyone else. \n\nNow I can see that when you quit something, even if you’re very good at it and it’s comfortable and you like or even love the people, you can open space in your life for something better. \n\nI quit a lot now, but it’s because I’m saying yes to the things that matter more.",
+          "name": "S.A. Traina",
+          "location": "Queens, NY",
+          "body": "Dear Ms. Crouse,\n\nOne needn’t have read Montagu’s The Natural Superiority of Women to know the typical woman gets more done in one day without complaint than the typical man does in a week.\n\nAnd now that the playing field is more level, their tenacity and adaptability is simply becoming more abundantly clear.\n\nBut a very wise woman of renowned high IQ was once asked what a person could do to maximize his or her own intelligence, and she responded this way:\n\nFind the two largest trash cans you can, and actual one and an imaginary, and throw out absolutely everything you do not need from your physical surroundings and then do the same with the refuse in your mind.\n\nSubtraction. Relentless “giving up” of the foolishness inside and out so you may have laser focus on the things that matter.\n\nOur entire present day is laser-focused on precisely the opposite proposition. So I concur with your suggestion. And on a personal note, I took high-IQ lady up on her advice fifty years ago, and reading all of Shakespeare last year was just one of the many fruits of the sagacity of “giving up” silly things (such as TV) so you might gain better ones.\n\nCordially",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112087,
+          "timesPick": false
+        },
+        {
+          "name": "BD",
+          "location": "Seattle",
+          "body": "In America, the average woman retires 2 years younger than the average man, who dies 5 years younger, mostly from stress-related diseases. You can paint a very different picture depending on what facts you choose.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112083,
+          "timesPick": false
+        },
+        {
+          "name": "Julio",
+          "location": "Texas",
+          "body": "If your heart and mind say “no,” and you say “yes,” then you are going against what you absolutely need to do.  It’s okay to say “no.” Too often we compare ourselves to the idealized version of ourselves and focus neurotically on how we fall short, and then we end up saying “I’m in” when maybe we should be saying “not on your life.”",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112061,
+          "timesPick": false
+        },
+        {
+          "name": "Tim Clark",
+          "location": "Los Angeles",
+          "body": "A man's (or woman's) gotta know his (or her) limitations.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112059,
+          "timesPick": false
+        },
+        {
+          "name": "World w/o ice",
+          "location": "USA",
+          "body": "I think it is mostly women who are quitting getting married and having children.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112049,
+          "timesPick": false
+        },
+        {
+          "name": "Jon",
+          "location": "Copenhagen, DK",
+          "body": "In my lived experience men are less ambitious with more focus on enjoying life. Women have more to prove. Im pretty sure this is rooted in historical gender roles but would be great if we could all find the balance we need (please don’t reply it’s because women do the chores and raise the kids, in my experience that is not the case, often with dads focusing more on child rearing and chores when moms are so ambitious).",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788112045,
+          "timesPick": false
+        },
+        {
+          "name": "Patrik",
+          "location": "Montane desert",
+          "body": "As a man who like many people had a lot heaped on the plate, finish everything before leaving the table, long before I learned & had opportunity to serve myself, it was an early lesson to opt out rather than making a show of it then having to quit.",
           "recommendations": 1,
           "replyCount": 0,
-          "timestamp": 1788109731,
+          "timestamp": 1788111752,
           "timesPick": false
         },
         {
-          "name": "Emma",
-          "location": "CT",
-          "body": "Intrinsically, if women weren't bred not to quit, there would be no more human race.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109720,
-          "timesPick": false
-        },
-        {
-          "name": "\"Will\"",
-          "location": "Tucson, AZ",
-          "body": "To quote Ms. Crouse:  \"...In a marathon, there’s a finish line. In life, we can grind forever...\"\n\nThen there's The 14th Dalai Lama (a pretty smart and aware dude) who teaches that the main goal of life is to be happy!",
+          "name": "Silly Billy",
+          "location": "Happyland",
+          "body": "\"I thought my willingness to push, no matter what, was bold (and virtuous).\"\n\nAnother victim of anti-human US capitalism. Americans are so \"productive\" they die in harness, in elder poverty, they criticize themselves because they just didn't work hard enough. Sick society.",
           "recommendations": 2,
           "replyCount": 0,
-          "timestamp": 1788109702,
-          "timesPick": false
-        },
-        {
-          "name": "RCK",
-          "location": "Brattleboro, VT",
-          "body": "The very same behavior is evident with the tv remote",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109689,
-          "timesPick": false
-        },
-        {
-          "name": "ChrisMas",
-          "location": "Sedona",
-          "body": "“Kids, you tried your best and you failed miserably. The lesson is, never try.”\n\nIt’s no surprise that Homer Simpson is a man (well, in cartoon form).",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109688,
-          "timesPick": false
-        },
-        {
-          "name": "Dana",
-          "location": "Illinois",
-          "body": "I can’t get past the fact that ironing underwear is a thing.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1788109593,
-          "timesPick": false
-        },
-        {
-          "name": "M Andrew",
-          "location": "FL",
-          "body": "If men are “quitters” why are divorces mostly initiated by women?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109589,
-          "timesPick": false
-        },
-        {
-          "name": "Voy",
-          "location": "London",
-          "body": "Good analysis.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109584,
+          "timestamp": 1788111543,
           "timesPick": false
         }
       ],
@@ -496,7 +586,7 @@
           "name": "Shade",
           "location": "PNW",
           "body": "Every community that lives downslope from a mountain with glaciers ought to think carefully about the likelihood of a similar occurrence. Glaciers are melting and they may or may not bring catastrophe with that melt.",
-          "recommendations": 31,
+          "recommendations": 32,
           "replyCount": 0,
           "timestamp": 1788029059,
           "timesPick": false
@@ -505,7 +595,7 @@
           "name": "Nina",
           "location": "Texas",
           "body": "And we over-heated residents of north Texas are enduring extreme heat this summer in the number of days with temps over 100.  It's been weeks, with no rain, high humidity, and temperatures ranging from 102-109. Pray that Democrats win elections this November because they at least talk about our water shortages, dying cattle, and burning agricultural land.",
-          "recommendations": 126,
+          "recommendations": 129,
           "replyCount": 0,
           "timestamp": 1788029057,
           "timesPick": false
@@ -514,7 +604,7 @@
           "name": "Jack McIntyre",
           "location": "Lone Peak, Utah",
           "body": "I live in the shadow of Lone Peak in the Wasatch Mountains of Utah. I have been with these mountains for more than 50 years. \n\nWhen I arrived here we had year-round snow in high crags above 10,000 feet. We had a big glacier on Lone Peak.\n\nIt’s gone. \n\nWe had a glacier on Mt. Timpanogos to my south. Gone. There was a substantial glacier on Mt. Nebo that we would climb and ski in the middle of summer. \n\nGone. \n\nThe Wasatch run 165 miles north to south from the Idaho border to central Utah. Many of it’s high peaks were snowcapped all year. They are all bare rock now. There have been many slides as the underlying frozen water melted and rocks sheared off. \n\nWe baked away near or above 100 degrees F for three months this summer and had fires all over the place - again. We are running out of water. \n\nBut the Trump crowd says “climate change is a hoax.” \n\nAs he grabs the oil in Venezuela. Oh well. This trend can’t be reversed without a major global die off of humans.",
-          "recommendations": 174,
+          "recommendations": 180,
           "replyCount": 0,
           "timestamp": 1788029055,
           "timesPick": false
@@ -523,7 +613,7 @@
           "name": "Roger",
           "location": "Atlanta, GA",
           "body": "Trump along with his election deniers, vaccine deniers, global warming deniers, alternative energy deniers and - let's just call them - knowledge deniers - have caused irreparable harm to our nation, our people and the prestige and honor that once went with the name - America.",
-          "recommendations": 167,
+          "recommendations": 170,
           "replyCount": 0,
           "timestamp": 1788029005,
           "timesPick": false
@@ -580,13 +670,13 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/29/magazine/estranged-husband-hoarder-ethics.html",
-      "totalComments": 320,
+      "totalComments": 321,
       "comments": [
         {
           "name": "EJG",
           "location": "OR",
           "body": "My mother was a hoarder. When I was growing up she would fill garbage bags with perfectly good items and bury them in our back yard. I think she thought she was hiding it from us by trying to manage what she kept in the house. She was a very smart women who suffered from severe mental health issues. I tried to talk to her about these issues as a teen and she cut me out of her and the rest of my family's lives. That was 31 years ago. People who suffer from this type of disability are incredibly entrenched. My father had to move out of the house because she had fried all the outlets in the house using space heaters after she refused to let my him fix the furnace. Some people can't be helped.",
-          "recommendations": 0,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1788110055,
           "timesPick": false
@@ -595,7 +685,7 @@
           "name": "Anonymous",
           "location": "USA",
           "body": "As a an adult daughter of hoarding parents, this is an urge I constantly fight. \n\nColumns like this forces me to face the issue again and I am now dropping off a load of unneeded household goods at the local thrift shop.\n\nOne thing that makes hoarding easier, is not moving on a regular basis.  My mom is confronting a 50+ year hoarding house that she and my dad co-created. \n\nMy biological sister has also inherited this behavior.  I used to hoard at work but that ended (or maybe still do) when everything went digital.",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788109567,
           "timesPick": false
@@ -604,8 +694,8 @@
           "name": "G. Upton",
           "location": "Saint Paul, MN",
           "body": "You may think he's competent, but an independent observer may not.  He's endangering himself, and his neighbors, by creating a huge fire hazard.  That alone should get Social Services involved.  He doesn't have to know who made the call.  (He can guess, but it's only a guess.)  Which is the better option:  Intervening, or hearing that he burned to death in a fire?  Sometimes there aren't any good options left--just bad and absolutely awful. ones  Best wishes for a reasonable outcome.",
-          "recommendations": 10,
-          "replyCount": 0,
+          "recommendations": 17,
+          "replyCount": 1,
           "timestamp": 1788107214,
           "timesPick": false
         },
@@ -613,7 +703,7 @@
           "name": "Imogen",
           "location": "Massachusetts",
           "body": "Gosh, Hoarding LW, why the worry about this guy never forgiving you? He already chose his hoarding over you. It sounds to me like you are the wronged party. Why are you still married? Call the authorities if you think it's the right thing to do.",
-          "recommendations": 12,
+          "recommendations": 17,
           "replyCount": 0,
           "timestamp": 1788106955,
           "timesPick": false
@@ -622,7 +712,7 @@
           "name": "Rural Farmer",
           "location": "Fingerlakes area of New York",
           "body": "The writer with the estranged husband  who is a hoarder might want to talk to a lawyer, to make sure if there is a fire or injury, that her assets are not affected. I can see the assets of an estranged spouse being at risk if there is ever a lawsuit. The desire to protect her might also be a little bit of leverage for the husband to do some cleaning out.",
-          "recommendations": 13,
+          "recommendations": 18,
           "replyCount": 0,
           "timestamp": 1788106502,
           "timesPick": false
@@ -631,7 +721,7 @@
           "name": "Linda",
           "location": "OK",
           "body": "My former husband also is a hoarder. He had no home insurance because the place was a wreck. I moved out when the roof began to cave in. Thousands of dollars' worth of antique furniture was crammed into the house. He planned to fix the furniture and the house but it never happened. There were only aisles in his house because it was so packed. This past April his house burned to the ground. Nothing was insured. He only survived because an emergency room nurse down the street ran to the burning house and pulled him off the back porch where he had collapsed. Hoarding is dangerous. Something has to be done before the husband's house burns, collapses, or he gets buried under mounds of stuff.",
-          "recommendations": 18,
+          "recommendations": 24,
           "replyCount": 0,
           "timestamp": 1788106461,
           "timesPick": false
@@ -640,7 +730,7 @@
           "name": "Emotional Cheese",
           "location": "Los Angeles",
           "body": "The LW answered their own question several times—the husband does not want help. Period. \nIt seems like, at this point, all the LW and other concerned family/friends can do is check in on him (by phone, text, etc.) to make sure he’s alive and unharmed. That’s it. \nMy experience with a family member and also  an ex who were hoarders taught me the power of this disease (and it is a disease). Hoarders don’t want help. \nSometimes they are ashamed of their situation (as was my ex). Other times they really believe that they need everything they keep (as in my family member).  \nRegardless, it’s a folly to think that you can help them. If they ever decide to do something about all their stuff, it has to come from them (and, tragically, it may be the result of a dire emergency).",
-          "recommendations": 7,
+          "recommendations": 11,
           "replyCount": 0,
           "timestamp": 1788106152,
           "timesPick": false
@@ -649,7 +739,7 @@
           "name": "SS",
           "location": "seattle",
           "body": "I dunno.  He sounds happy with his life.  He isn't harming anyone, or apparently himself.  But since his life took an unexpected direction, the LW needs to protect herself and divorce him. And love him from afar...it's unfortunate that people can grow apart...this is not the usual divergence, granted.",
-          "recommendations": 4,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1788105555,
           "timesPick": false
@@ -670,13 +760,49 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html",
-      "totalComments": 313,
+      "totalComments": 317,
       "comments": [
+        {
+          "name": "SCE",
+          "location": "Seattle",
+          "body": "This story makes me sad for the father, who was obviously addicted to getting clicks.\nI'm doubly sad for his daughters, whose exploitation anyone can view over and over again, forever.  Yes, exploitation, because they didn't get a choice.\nI'm glad they seem to have good relationship with their Dad, and I hope it lasts.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1788111533,
+          "timesPick": false
+        },
+        {
+          "name": "P",
+          "location": "MI",
+          "body": "So many judgmental people here and online. Some bad calls sure, but he admits that and who hasn’t made a few bad calls? There’s no evidence he’s a bad person, but this is largely from before it became well known to use privacy or keep your kids off social media.  Try single parenting two young kids while holding down a self employment hustle. I feel bad for all involved, but not YouTube. They have no problem milking people for all the content they can give (and milking the eyeballs in the viewers too), and then tossing them all aside.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1788111177,
+          "timesPick": false
+        },
+        {
+          "name": "DC",
+          "location": "Maryland",
+          "body": "I’m heartbroken with where he is now in his choice to be a sort of recluse. Also as someone holding a lot of guilt for harm caused, it resonates with me. In our minds, staying away is how we keep people safe.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1788110782,
+          "timesPick": false
+        },
+        {
+          "name": "Tom Morrison",
+          "location": "Newtown PA",
+          "body": "New century, same old fairy tale. Protagonist desperate for money/fame/love/attention finds magic beans/gold spun from straw/You Tube algorithm, uses this new power/wealth/ability to address aforementioned need, unintended consequences ensue. Of course none of the old fairy tales had a corporate overlord who were the true beneficiary of this morality tale. Somehow, I doubt any of the folks who oversaw this at You Tube are worried that they can’t join Tinder.",
+          "recommendations": 14,
+          "replyCount": 0,
+          "timestamp": 1788110638,
+          "timesPick": false
+        },
         {
           "name": "Leslie",
           "location": "Clovis California",
           "body": "Good news for Greg and all of us humans--we have to re-educate ourselves to think and entertain inspiring thought that lifet us up above the false sense and it is by \"rolling away your stone\"-that is the stone dead level of human perception. St. Paul piut it more simply, we have to put way childish things and come to a higher level fo consciousness by \"knowing thyself\"-the great self who is always present, but we try to keep hidden so we can play human role playing games--which is why he started making the videos, but he listened to the world and not the still small voice who knows him as the great self pretending to have a human experience, but instead as spirit having spiritual experience. When humans fall, they fall, but htose who take the first step on the spiritual path recognize that falls are just trials meant to turn away from the human and to accept divine guidance--and will rise from every fall/lesson.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1788110090,
           "timesPick": false
@@ -685,7 +811,7 @@
           "name": "Wayne",
           "location": "CA",
           "body": "Having to be on different social media platforms for work, I notice that there are always \"older\" people who rack up #'s but really have tenuous grasp of the nature of of social media. \nTaping your daughter while she was going through a baby tooth trauma, not the best parenting but also extremely common on social media. One constantly see people sharing moments worse than this, all the while wondering why they are filming instead of being more active participant in the moment. \nA bigger mistake is having your daughters faces online when you are getting such views. I am sure that there are \"safeguards\" in place via platform (which anyone w/bad intent can probably circumnavigate). \nHe didn't seem a terrible guy but more like an average Joe who jumped on the back or a giant beat with no knowledge of how to steer nor stop it. \nIn general, social media a detriment to critical thinking, empathy and common sense as regardless of clips, it is about view numbers.",
-          "recommendations": 6,
+          "recommendations": 17,
           "replyCount": 0,
           "timestamp": 1788109319,
           "timesPick": false
@@ -694,7 +820,7 @@
           "name": "No way Jose",
           "location": "NoCal",
           "body": "More than a dad of 2 turning to a relatively new technology without fully understanding what we now know, ten years later, about the depths of depravity to which the internet and its algorithms has dragged our culture, its the smug superiority evidenced by these comments that makes me feel that kindness, mercy and understanding have been replaced by anger and judgement.",
-          "recommendations": 8,
+          "recommendations": 26,
           "replyCount": 0,
           "timestamp": 1788109189,
           "timesPick": false
@@ -703,45 +829,9 @@
           "name": "Kate",
           "location": "Upstate NY",
           "body": "People working for these platforms are paid very high sums to keep our and our kids attention for as long as possible. They do not have a mission to keep the kids safe or well-educated. If you would\nnot let your child wander in the street, you cannot let them wander online or on these platforms.  That said, the challenge to do that is much easier said than done, and back in 2016, our media fluency was significantly lower. Hindsight is 20/20.",
-          "recommendations": 4,
+          "recommendations": 14,
           "replyCount": 0,
           "timestamp": 1788109151,
-          "timesPick": false
-        },
-        {
-          "name": "Cece",
-          "location": "You tell me",
-          "body": "Holy cow. Those poor girls. When you're a kid, there's little that's more important to you than being liked by the adult who's in charge. These girls did what they had to do to survive. Even if dad were \"loving\", he manipulated them and treated them like talent. I hope they can all find help. How sad for all of them.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788109133,
-          "timesPick": false
-        },
-        {
-          "name": "Mark Ryan",
-          "location": "Long Island",
-          "body": "I watch YouTube for music and documentaries. I am puzzled as to who would watch some guy mowing a lawn and then graduating to family food fights and such. These viewers need lives. And that is just poor parenting using the tv as a baby-siter.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1788109123,
-          "timesPick": false
-        },
-        {
-          "name": "Diane",
-          "location": "Michigan",
-          "body": "All the makings of a good Stephen King novel here in this story...",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788109099,
-          "timesPick": false
-        },
-        {
-          "name": "Tony Bickert",
-          "location": "Anchorage, AK",
-          "body": "I’d chalk this up to “anything for clicks,” but it runs deeper. All of us have an instinct to thrive, to reach just a little higher. It’s a good thing. Knowing at the time which “little higher” crosses a line, in this case a terrible line, must be difficult.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1788109098,
           "timesPick": false
         }
       ],
@@ -793,7 +883,7 @@
           "name": "kagni",
           "location": "Urbana",
           "body": "every recipe is a delight",
-          "recommendations": 6,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1788097071,
           "timesPick": false
@@ -802,7 +892,7 @@
           "name": "Mary",
           "location": "Princeton, NJ",
           "body": "I share Ina’s outlook that life should be fun.  I also chose not to have children, and I see the quizzical look on some people’s faces when they ask me if I have children.  No, I’m not sad about it.  I usually answer such an intrusive question like that with, “oops, I knew I forget to do something”.",
-          "recommendations": 11,
+          "recommendations": 14,
           "replyCount": 0,
           "timestamp": 1788097071,
           "timesPick": false
@@ -811,7 +901,7 @@
           "name": "mad",
           "location": "toronto",
           "body": "I look forward to the day when interviewers start pressing people who have had children about whether they doubt their choices.",
-          "recommendations": 29,
+          "recommendations": 34,
           "replyCount": 0,
           "timestamp": 1788097071,
           "timesPick": false
@@ -820,7 +910,7 @@
           "name": "Ryan",
           "location": "Oakland, CA",
           "body": "In the heyday of her show, I found something vaguely off-putting about the patrician lifestyle of this Hamptons dinner party magnate.  Considering where we are as a nation, I find it much easier to wonder aloud why we're celebrating lifestyles that are so truly closed to so much of the world.  \n\nI'm sure that I'm in the minority here, but I, for one, have had quite enough of this kind of idolatry;  Less of this would suit me fine.",
-          "recommendations": 9,
+          "recommendations": 10,
           "replyCount": 0,
           "timestamp": 1788097071,
           "timesPick": false
@@ -849,6 +939,96 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
+      "url": "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
+      "totalComments": 279,
+      "comments": [
+        {
+          "name": "SM",
+          "location": "Denver",
+          "body": "A wonderful tribute, except for the rip reference to Democratic Socialists. Can we, for once, please keep politics out of this? Dolly proved that love of humanity is universal, regardless of who the politicians are. In the end, they aren't important. \n\nDolly, on the other hand, will live on through the ages and continue to inspire. She represented the best of America.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1788111506,
+          "timesPick": false
+        },
+        {
+          "name": "LMTy",
+          "location": "Virginia",
+          "body": "I think people have an innate sense of goodness and so people of all persuasions and walks of life recognize Parton’s heart, generosity, and humbling record of service to others.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1788111287,
+          "timesPick": false
+        },
+        {
+          "name": "Linda",
+          "location": "NY",
+          "body": "Dolly and Donald 180 degrees apart.\n\nBe a Dolly, not a Donald.\n\nRest easy now Dolly, you worked hard to achieve your dreams.  We are the beneficiaries of your kindness and big heart.\nI thank you for all you have done and I Will Always Love You. 💔😢\n\nAnd thank you Mr French for one of the best articles I have ever read.\nAnd not just about Dolly",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1788111154,
+          "timesPick": false
+        },
+        {
+          "name": "Ana Nelson",
+          "location": "Monterey California",
+          "body": "May her memory be a blessing!",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788111149,
+          "timesPick": false
+        },
+        {
+          "name": "Wiley Cousins",
+          "location": "Finland",
+          "body": "Dolly was a butterfly in a world of moths.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788111147,
+          "timesPick": false
+        },
+        {
+          "name": "Citizen60",
+          "location": "San Carlos, CA",
+          "body": "Touching.  A 3 Kleenex read this week.\n\nYes, tikkun plan best describes Dolly’s commitment to us all.\n\nI hope Jeff Bezos is ashamed he’s complaining his latest yacht is too big",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788111145,
+          "timesPick": false
+        },
+        {
+          "name": "dmanuta",
+          "location": "Waverly, OH",
+          "body": "Tears are rolling down my cheeks as I think about what Dolly's passing means.  This larger than life heroine was the woman who first loved Carl Dean for six (6) decades.\n\nI also remember when the Imagination Library started.  The value of reading that this gift provides to our youngest is well nigh incalculable.  Dolly wanted to make sure that using our sense of sight (and vision) is always part of perpetual learning.\n\nShe is an example of being put on Earth for a purpose.  For a woman who did not go to college, she epitomized what can happen when our innate smarts are used in ways that will benefit mankind forever.\n\nI am reminded when she presented Whitney Houston the Grammy for singing \"I Will Always Love You\" in The Bodyguard.  [Ms. Houston's rendition remains near the top for sales by a female artist.]  Dolly's royalties soared into the millions of dollars.  These funds were reinvested in minority neighborhoods in Nashville by Dolly.\n\nGod has taken another American Original into heaven.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1788110995,
+          "timesPick": false
+        },
+        {
+          "name": "Equilibrium",
+          "location": "Inholding out west",
+          "body": "Perhaps the most important thing about her for me is her legacy, and understanding that legacy is bestowed by those around you, buy people you will never meet or know is so many ways.\n\nLegacy cannot be created by the person wishing to preserve the memory of themself. No matter how many things said person names after themself, monuments they build to themself, or statements of greatness they make about themself.\n\nLeaders should study her approach.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788110965,
+          "timesPick": false
+        }
+      ],
+      "title": "What Dolly Did for Tennessee Is What She Did for the World",
+      "byline": "David French",
+      "publishedAt": "August 30, 2026",
+      "summary": "This is what she did for the written word. And medicine. And …",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/08/28/multimedia/30French-image/30French-image-largeHorizontalJumbo-v2.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
       "url": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
       "totalComments": 262,
       "comments": [
@@ -856,7 +1036,7 @@
           "name": "Ramakrishna",
           "location": "Bangalore",
           "body": "Climate change and glacier melt is a reality though many  wish to deny. Glacier melt from the two poles and the third pole as the Himalayan glacier belt is known are melting and The New York Times has depicted these changes many times. Either we wake up and accept this reality or deny to live in a make believe world to our misfortune",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788107956,
           "timesPick": false
@@ -865,7 +1045,7 @@
           "name": "Kirkham",
           "location": "Delmar, NY",
           "body": "When New York and Miami Beach finally have to deal with a rising ocean, America may finally find it politically acceptable to attribute it to human behavior. We simply haven’t yet.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788105739,
           "timesPick": false
@@ -874,7 +1054,7 @@
           "name": "Michael D from Victoria, BC",
           "location": "Victoria, BC",
           "body": "As is often the case with the New York Times, an excellent article is undermined by a poor headline, which states that \"some fear\" the Himalayas are melting because of climate change.  That choice of wording suggests that whether or not the glaciers in the Himalayas are melting because of climate change is a subjective matter, a possibly irrational fear that is felt only by some people.  A better headline would have been something like, \"The Himalayan Glaciers are Melting Because of Climate Change and Here's What That Means for Climbers and Their Nepali Guides\".",
-          "recommendations": 5,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1788104806,
           "timesPick": false
@@ -892,7 +1072,7 @@
           "name": "Cagliostro",
           "location": "Freedonia",
           "body": "Why don't you all just leave Mount Everest alone? Once upon a time, within living memory, absolutely no one climbed up Mount Everest. Now look what Sir Edmund Hillary has wrought. And Nepal has become so dependent on tourist money that it hasn't got the will to just close off access to one of nature's wonders, one best glimpsed from afar, not trod upon by hordes of two-legged pests damaging the landscape and leaving garbage behind.",
-          "recommendations": 4,
+          "recommendations": 5,
           "replyCount": 0,
           "timestamp": 1788102887,
           "timesPick": false
@@ -939,104 +1119,23 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/08/30/opinion/dolly-parton-tennessee.html",
-      "totalComments": 241,
-      "comments": [
-        {
-          "name": "Peter",
-          "location": "San Francisco",
-          "body": "She truly was the best of us. Godspeed Dolly.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788110041,
-          "timesPick": false
-        },
-        {
-          "name": "Shoals",
-          "location": "AL",
-          "body": "What a woman she was. Thank you, even though you made me cry again.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788110040,
-          "timesPick": false
-        },
-        {
-          "name": "SAJ",
-          "location": "Washington",
-          "body": "Coming across my social media feed are many example of Dolly Parton's goodness in addition to her support for Black Lives Matter.\n\nLike a tribute from Cat Stevens who appreciated her love and support after he was vilified by anti-Muslim haters. She recorded his peace train song.\n\nLike a video of her with Latino band Los Lobos.\n\nShe may not have been political to keep as wide a net of fans as she could, but I mourn that more people from Tennessee the south did not pick up on her basic goodness and did not ask their political leaders to be like her and instead elected the hater Trump.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788110038,
-          "timesPick": false
-        },
-        {
-          "name": "LarryW",
-          "location": "Delray Beach, FL",
-          "body": "It was the very wise Tin Man who said “A heart is not judged by how much you love, but by how much you are loved by others.\" And yet Dolly loved all people and all people loved her. If only those who espouse platitudes would put their words to work ...",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788110029,
-          "timesPick": false
-        },
-        {
-          "name": "Jem",
-          "location": "Pennsylvania",
-          "body": "I’m in tears. Again. Thank you, Dolly. Thank you, David.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788110029,
-          "timesPick": false
-        },
-        {
-          "name": "Frustrated Democrat",
-          "location": "Hudson Valley",
-          "body": "Dolly exemplified what Democrats hold as one of their values… when you have more than you need, share it with those less fortunate.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788110028,
-          "timesPick": false
-        },
-        {
-          "name": "Angus McEvoy",
-          "location": "N. Cal",
-          "body": "For someone with such a big voice she still managed to make actions speak louder than words. Safe home Dolly.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788110028,
-          "timesPick": false
-        },
-        {
-          "name": "Jeff L",
-          "location": "PA",
-          "body": "How long before somebody turns Dolly Parton into a wedge issue in the culture wars?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788110025,
-          "timesPick": false
-        }
-      ],
-      "title": "What Dolly Did for Tennessee Is What She Did for the World",
-      "byline": "David French",
-      "publishedAt": "August 30, 2026",
-      "summary": "This is what she did for the written word. And medicine. And …",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/08/28/multimedia/30French-image/30French-image-largeHorizontalJumbo-v2.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/08/30/us/politics/texas-judge-trump-agenda.html",
-      "totalComments": 241,
+      "totalComments": 243,
       "comments": [
+        {
+          "name": "Tom",
+          "location": "FL",
+          "body": "Judicial conservatives will always find a judicial way to get their judicial way.\n\nMr. Trump is a good example.  The Supreme Court said he couldn't levy tariffs; and yet, here we are, in a tariff war with our neighbor Canada that he initiated.  \n\nThe conservatives will try and try again to find a favorable court venue for their policies. Here in my South Florida Federal Court District (where I served on a Federal Grand Jury for the maximum two years), Mr. Trump's cases have been referred to a Federal Court about an hour from Mar a Lago where there's a conservative judge (Justice Cannon) who was appointed by his administration.  And yet there's a Federal Court House no more than fifteen minutes away in West Palm Beach.  This has happened more than once. He's beating the odds of random chance.",
+          "recommendations": 20,
+          "replyCount": 0,
+          "timestamp": 1788110221,
+          "timesPick": false
+        },
         {
           "name": "Anonymous",
           "location": "USA",
           "body": "If Justice Roberts is actually concerned about threats to judges personal safety, he needs to do what he can to put a stop to this. Nothing is more dangerous to judges than when people see the law being determined by an individual person rather than the system as a whole. Rulings will harm people, if people believe changing one individual will change the ruling, it increases the risk that someone adversely affected will act against the specific individual they perceive as doing them harm. It also why honoring precedent is so important, but we have seen how much Justice Roberts cares about that. He will likely go down in history as the man who attempted to destroy our judicial system to see his own political beliefs realized.",
-          "recommendations": 8,
+          "recommendations": 30,
           "replyCount": 0,
           "timestamp": 1788109533,
           "timesPick": false
@@ -1045,7 +1144,7 @@
           "name": "Art",
           "location": "The Forgotten Time Zone",
           "body": "Judge O'Connor should have his office in the White House next to the oval. It would save a lot of time for the Justice Department.\n\nWhile much of the federal judiciary remains independent it looks like this administration has found the way to bypass a supposedly coequal and independent judiciary as established in the Constitution and obtain a rubber stamp for its policies. There isn't even any pretense that the judges in this district are neutral arbiters. This is an obvious violation of the code of judicial ethics, which does apply to the inferior judges in the federal system if not the Supreme Court justices.",
-          "recommendations": 25,
+          "recommendations": 44,
           "replyCount": 0,
           "timestamp": 1788108471,
           "timesPick": false
@@ -1054,7 +1153,7 @@
           "name": "IN",
           "location": "NY",
           "body": "This is truly judicial malpractice. The conservatives steer their cases to a deeply biased hard right justice, who almost always agrees with their arguments and enables their policy objectives. It is anathema to our Constitutional principles of checks and balances that assumes a judiciary that is independent and has its allegiance to the principles of the law not to the ideology of a political party.",
-          "recommendations": 39,
+          "recommendations": 52,
           "replyCount": 0,
           "timestamp": 1788107588,
           "timesPick": false
@@ -1063,7 +1162,7 @@
           "name": "Angus McEvoy",
           "location": "N. Cal",
           "body": "And yet we are constantly hearing from judges surprised that the public has no faith in the judiciary. This is the problem with long term or lifelong appointments. These men and women begin to think they are the law and their interpretation, opinion or political persuasion is the only factor that matters. \n\nTerm limits are necessary. 10 years, max, for federal and state judges and 18 for the Supremes. Its time to make that happen.",
-          "recommendations": 65,
+          "recommendations": 82,
           "replyCount": 1,
           "timestamp": 1788105892,
           "timesPick": false
@@ -1072,7 +1171,7 @@
           "name": "Todd Eastman",
           "location": "Putney, VT",
           "body": "O'Connor and his renderings are the logical outcome of  decades of court shopping by both sides of the political spectrum. Forcing regional legal and moral opinions on distant regions and districts has always been fraught when such decisions have nationwide impacts. The politicized Justice Department has supercharged the problem.",
-          "recommendations": 26,
+          "recommendations": 29,
           "replyCount": 0,
           "timestamp": 1788105734,
           "timesPick": false
@@ -1081,7 +1180,7 @@
           "name": "Ben",
           "location": "Miami, Fl",
           "body": "Sane-washing to say he has any at all \"policy agenda\".   Empty words and snake oil are all he has.\n\nHe does the bidding of Vought, the Federalist Society, the top score or two of billionaires, Project 2025.   And he does theatrically  whatever headline grabbing nonsense he can come up with as a diversion from all of that, and to keep himself out of jail.  Which includes hellishly consequential acts such as wars.\n\n\"Lake of America\" indeed.  \n\nHe has no \"policy\" other than self enrichment, self promotion, satisfaction of the rarified donor class that dictates it's puppet's executive orders (many of which he has not even seen before signing) and perpetuates his useful position. \n\nThis is not \"policy\".  It is corruption and one addled person's id empowered to run amok.",
-          "recommendations": 36,
+          "recommendations": 45,
           "replyCount": 0,
           "timestamp": 1788104984,
           "timesPick": false
@@ -1090,16 +1189,7 @@
           "name": "R. R. Clark",
           "location": "Leesburg, VA",
           "body": "So this judge is a facilitator for political and policy determinations. And to think I always thought judges were to be impartial to some degree and to focus on the law. These are politicians, and a disgrace to the judicial system.",
-          "recommendations": 31,
-          "replyCount": 0,
-          "timestamp": 1788104984,
-          "timesPick": false
-        },
-        {
-          "name": "Patrick Weidinger",
-          "location": "Lancaster PA",
-          "body": "Trump has no policy agenda.  I thought that would be obvious by now?",
-          "recommendations": 17,
+          "recommendations": 39,
           "replyCount": 0,
           "timestamp": 1788104984,
           "timesPick": false
@@ -1209,6 +1299,96 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
+      "url": "https://www.nytimes.com/2026/08/30/opinion/measles-deaths-pennsylvania-shapiro.html",
+      "totalComments": 216,
+      "comments": [
+        {
+          "name": "Ken Palley",
+          "location": "California",
+          "body": "I have mixed feelings. On the one hand I assume that people who are unvaccinated and get measles \"deserve\" it, and that furthermore, the world is better off without such anti science folks. On the other hand children are often the victims and they didn't make the vaccinate or not vaccinate decision. Ultimately I've decided to ignore the issue, my kids got all their vaccines, my granddaughter does too and my wife and I get our yearly flu shots etc. Let those who don't want them take their own set of risks just like hang gliders and not wearing seatbelts.",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1788111040,
+          "timesPick": false
+        },
+        {
+          "name": "Sinagua David Thompson",
+          "location": "San Diego",
+          "body": "When I worked for BCBS in the 90's, in Arizona, the Medical Director tasked me to make mailing lists for all reported births in claim records and identify any newborns of the subsequent years that had missed childhood vaccinations. This was a great job; I felt good about that task rather than finding fraudulent claims in the data, as was my normal task. I wonder if the same concern exists today. At any time, insurers can do the same to identify unvaccinated children. Medicaid certainly has the data centralized, but Medicaid staff will not do their job and prevent the harm and cost until the GOP is out of the White House, but we will wait...",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1788111000,
+          "timesPick": false
+        },
+        {
+          "name": "JeanieDiva",
+          "location": "NYC",
+          "body": "Excellent article. Still, how sad to think that we, as a nation, are afraid of vaccines because RFKjr is a very damaged man with severe mental health issues. He is not a doctor, has no medical training or experience and had a very traumatic life starting as a child in a large, wealthy, powerful family in which he was a witness to two violent deaths of men he was close to. How could all that not leave its mark? Add to that drugs, addiction of various kinds and then, spasmodic dysphonia (a vocal fold abnormality that makes him sound hoarse) and you have someone who should not be \"leading\" anyone anywhere. A decent, normal person would have deferred the appointment but Trump said, \"we're going to let him run wild\" and he did. Why would you want someone who has influence of 330 millions people run wild? The USA is upside down now and multi-millions of people are just fine with that. Maybe the Dems could just say \"NO!\" just no to all of the craziness and let the chips fall where they may. Some people might be offended but the rest of us would be so relieved.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1788110922,
+          "timesPick": false
+        },
+        {
+          "name": "Danno",
+          "location": "San Francisco",
+          "body": "Oh did the GOVERNOR not speak clearly enough? Who is responsible for repairing this low-trust environment? Can we just speak honestly? The low-trust environment is a deliberate strategy employed by Republicans. See smoking, climate change, elections, etc. Misinformation and innuendo are their tools. Blaming the governor for pushing back when landslides of lies are coming from the other side is intellectually dishonest.",
+          "recommendations": 13,
+          "replyCount": 0,
+          "timestamp": 1788110920,
+          "timesPick": false
+        },
+        {
+          "name": "Pam",
+          "location": "Oregon",
+          "body": "The baby died from measles. Surviving childbirth with such a horrendous illness is not likely. Vaccinate your children, and yourself if you were not vaccinated yet. Measles was gone. And trumpers have brought it back. You can parse words but measles does not care.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1788110860,
+          "timesPick": false
+        },
+        {
+          "name": "Chris Lovett",
+          "location": "Topeka, KS",
+          "body": "When will Americans wake up? This a Trump and Republican crisis. What will it take a polio outbreak for our fellow citizens to realize that vaccines work and the germ theory of disease is real? God help us.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1788110854,
+          "timesPick": false
+        },
+        {
+          "name": "California Heartland",
+          "location": "USA",
+          "body": "\"But the governor made a mistake by not speaking carefully enough.\"\nThat's always going to be a problem when arguing with witch doctors, quacks, and purveyors of superstition-based conspiracy theories. If it wasn't one thing the governor said, they just would have invented something else to rail against.",
+          "recommendations": 12,
+          "replyCount": 0,
+          "timestamp": 1788110808,
+          "timesPick": false
+        },
+        {
+          "name": "Michelle",
+          "location": "East Bay",
+          "body": "Measles is highly transmissible through the air. It is a matter of public health. It is ALL of our business. Unless we start locking people away while they are transmissible, it is ALL of our business, and we have a right to know where the infections and deaths are occurring.",
+          "recommendations": 9,
+          "replyCount": 0,
+          "timestamp": 1788110807,
+          "timesPick": false
+        }
+      ],
+      "title": "How Not to Announce a Measles Death",
+      "byline": "Rachael Bedard",
+      "publishedAt": "August 30, 2026",
+      "summary": "Josh Shapiro announced two measles deaths. Things went downhill fast.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/08/30/multimedia/30BedardMina-qbwv/30BedardMina-qbwv-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
       "url": "https://www.nytimes.com/2026/08/29/opinion/dolly-parton-style-branding-personality.html",
       "totalComments": 206,
       "comments": [
@@ -1216,7 +1396,7 @@
           "name": "Bogart",
           "location": "brooklyn",
           "body": "I thought of Dolly as a regional American phenomenon, enhanced by her sense of humor and many philanthropic projects. \nI never guessed at her world wide appeal. \n\nWhen in Hanoi I stay at the same hotel where I have stayed  in recent years. The staff there each select a Western name for themselves because most of us foreign guests can't even come close to the pronunciation of their actual Vietnamese names.\n\nLast winter there was a new manager and she was intrigued that I remembered many of the staff by Western name, and could spell, if not pronounce, some of their Vietnamese names.\nShe gave me her card with her Western name: Jolene.\n\nJolene! That's a famous song in America, I said. \nI know, that's why I picked it, she answered.",
-          "recommendations": 39,
+          "recommendations": 41,
           "replyCount": 0,
           "timestamp": 1788026875,
           "timesPick": false
@@ -1243,7 +1423,7 @@
           "name": "Nurse Rachet",
           "location": "MA",
           "body": "There is no comparison to any one else.  Just like the guitarist Jeff Beck, the original cannot be compared or duplicated.  This frustrates the brain fluid of writers and critics.  That's why Barbara Wa-Wa's interview with Dolly was a failure, as were many of her interviews.  No hidden agenda, Dolly was there to be enjoyed for who she was to each of us.  Get over it and cherish what she has left all of us.",
-          "recommendations": 24,
+          "recommendations": 25,
           "replyCount": 0,
           "timestamp": 1788026863,
           "timesPick": false
@@ -1265,24 +1445,6 @@
           "replyCount": 0,
           "timestamp": 1788026023,
           "timesPick": false
-        },
-        {
-          "name": "Kathryn",
-          "location": "NY, NY",
-          "body": "Three years ago, my husband and I adopted a little dog and named her Jolene!  We were such fans of Dolly.  We love her music, of course, but loved her more for her words and actions.  She walked her talk.  A genuinely kind, funny, incredibly generous woman, she was authentic.  She even openly acknowledged her wigs, makeup, pushup bras and plastic surgery!\n\nWe lost an icon.  Nobody comes close.",
-          "recommendations": 34,
-          "replyCount": 0,
-          "timestamp": 1788025475,
-          "timesPick": false
-        },
-        {
-          "name": "Greenfields",
-          "location": "Princeton, NJ",
-          "body": "The insight that her public persona existed outside traditional coupledom is very intriguing, especially compared with other country singers who came up with her, like Loretta Lynn and Tammy Wynette, who are very associated with fighting spouses and broken relationships, respectively.  I wonder if that's what gave her space to be known for areas they weren't, such as business acumen and her spiritual life. Her life seems wider for it.",
-          "recommendations": 26,
-          "replyCount": 0,
-          "timestamp": 1788024880,
-          "timesPick": false
         }
       ],
       "title": "Dolly Parton Was So Fake She Was Real",
@@ -1300,13 +1462,22 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/29/realestate/intergenerational-living-communities.html",
-      "totalComments": 194,
+      "totalComments": 196,
       "comments": [
+        {
+          "name": "Tom R",
+          "location": "New Orleans",
+          "body": "If you have the money you could move to New Orleans. The \"porch culture\" environment and the normalcy of neighborhood walking allows one to converse with strangers and make new friends quickly. I lived in Atlanta and for 20 years barely knew anyone on my street, but after moving here I had met almost everyone on my block, and had been invited over by some, within a month. The very old and the very young go to the 8-day Jazz Fest together, and the endless number of other festivals too (Tomato Festival, Fried Chicken Festival, Louis Armstrong Festival, etc etc. etc.) To some, the smorgasbord of nightly club gigs and weekend house parties is too much, but it's a good fit for anyone who wants to stay creatively engaged and physically active. My wife and I are in our 70s and half our friends are half our age.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788110783,
+          "timesPick": false
+        },
         {
           "name": "MaryR",
           "location": "KC",
           "body": "I know it's off topic, but how about a development with seniors and independent living special needs adults. This would provide socialization for both groups.  There is such a lack of housing for SN adults. Many of their parents are terrified what will happen to their children when they die.",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788110049,
           "timesPick": false
@@ -1315,7 +1486,7 @@
           "name": "Janet",
           "location": "Newfoundland, Canada",
           "body": "I'm 72 and, because a tragedy brought us together, one of my closest friends is 25. People my age end up focusing on what's happening around them, which includes a lot of death, disease and decline. It's so refreshing to spend time with someone who's still getting fitted for bridesmaid dresses and mapping out her career. \n    Relatives are great, but they come with a lot of baggage that friendships don't. I regard this as an extraordinary blessing, one I could never have hoped for, and I know it's helping to keep me in a younger frame of mind.",
-          "recommendations": 4,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1788108430,
           "timesPick": false
@@ -1333,7 +1504,7 @@
           "name": "5r3w90MKNJ",
           "location": "United States",
           "body": "I let my two sons -- in their 30s --move into my house when they had financial problems. Many people suggested that would be a disaster.  With small loans from me, and free rent, they are both now doing great financially. Really great.  I am proud of their success and glad I didn't give up on them.  It was not a zero sum game. I learned a lot about technology from them and  upgraded my computer system.",
-          "recommendations": 10,
+          "recommendations": 12,
           "replyCount": 3,
           "timestamp": 1788096396,
           "timesPick": false
@@ -1351,7 +1522,7 @@
           "name": "TLo",
           "location": "Chicago",
           "body": "When I returned to university at 50, many students requested me as a dorm mate. Huh? I had at the time, and still have, no clue why they'd want to room with someone my age!",
-          "recommendations": 6,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1788095397,
           "timesPick": false
@@ -1363,15 +1534,6 @@
           "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1788095394,
-          "timesPick": false
-        },
-        {
-          "name": "SuzyQ",
-          "location": "Kansas",
-          "body": "This intergenerational housing model has been tried in Sweden since 2020 with retirees and college students of limited means. The residents sign agreements regarding upkeep of the public spaces and communal interaction. Many people in these age groups do experience financial struggle and isolation, especially if a college student is first generation, has not had a stable home life and doesn’t know what to expect. So, communal housing can provide stability and routine that benefits both kinds of demographics. In the US, the approach is “figure it out yourself” or “too bad, get another job so you can afford overpriced housing that keeps rising every year.” Sweden is just trying another way.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1788094491,
           "timesPick": false
         }
       ],
@@ -1389,104 +1551,14 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/08/30/opinion/measles-deaths-pennsylvania-shapiro.html",
-      "totalComments": 178,
-      "comments": [
-        {
-          "name": "Jim Brokaw",
-          "location": "California",
-          "body": "Any disease weakens the body for dealing with other conditions, chronic or emergent. So having an existing condition, then getting measles might be enough to tip the body past the point of recovery. And since the measles is entirely preventable, the fact that current HHS policies enable measles to spread is unconscionable, even if it not measles alone that is killing these people. When enough people have chronic conditions already, enabling the spread of preventable diseases is at best negligent, and more likely criminal. RFK Jr. must go, and US vaccination policy must be restored to previous standards which had at one time virtually eradicated measles from the United States. To not do so is more than negligent, it is criminal culpability in any measles-caused, or measles-contributory deaths.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1788109734,
-          "timesPick": false
-        },
-        {
-          "name": "Joey B",
-          "location": "Pennsylvania",
-          "body": "The last sentence, placing the onus of blame on Pa's state health officials, exposes the author's bias.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1788109345,
-          "timesPick": false
-        },
-        {
-          "name": "kate",
-          "location": "Brewster ny",
-          "body": "As a liberal Democrat I feel Shapiro should be able to back up what he says, also as  liberal Democrat the sooner we get rid of Kennedy the better, this man has done more to cause mayhem, possible deaths and heart disease in this country and while he should be able to speak his mind (I know what mind) but he should not be in a position to influence any medical information. Vote Blue.",
-          "recommendations": 10,
-          "replyCount": 0,
-          "timestamp": 1788109338,
-          "timesPick": false
-        },
-        {
-          "name": "Liz Chgo",
-          "location": "Chicago",
-          "body": "This entire fake “vaccine rejection” culture is the direct descendant of the hysterical 1980’s children’s preschool & daycare abuse witch-hunt cases.  People with an agenda to grind latch onto the single thing that will enrage and call-to-arms parents unable or unwilling to do the hard research.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1788109331,
-          "timesPick": false
-        },
-        {
-          "name": "Michael",
-          "location": "In the crucible...",
-          "body": "This sounds all too familiar.  It was a short 6 years ago that the Republican party (mostly), decided it wasn’t Covid 19 that caused a death, because it was the “underlying conditions”, or it was something else, or you know, Covid 19 doesn’t really exist, or Dr. Fauci and the Chinese caused it so it couldn’t have been real, it was a hoax, or you know, I heard that  Obama was the real cause.  \n\nIt was always about something else, but the fact was a person died, and ignoring that was ugly on many people’s part and incredibly sad for many families.  I know 2 of my neighbors who “didn’t think Covid was a big deal” who died in 2021.  Their families still suffer for the loss of those two fathers.\n\nWhat is with this approach to healthcare?\n\nBy the way, whatever happened to Mitch  McConnell?\n\nAnd release the Epstein files.",
-          "recommendations": 9,
-          "replyCount": 0,
-          "timestamp": 1788109319,
-          "timesPick": false
-        },
-        {
-          "name": "Rico RN",
-          "location": "Santa Fe",
-          "body": "Bottom line here is the HHS under Jr. has lost all cred, going down the anti-science rabbit hole. \nPerhaps the new motto of HHS should be “ never apologize, never explain”",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1788109191,
-          "timesPick": false
-        },
-        {
-          "name": "Elise",
-          "location": "Detroit, MI",
-          "body": "I, too, have lost patience with the \"vaccine hesitant\" and the danger it creates for all people. \n\nDr. Bedard is missing the point. \nLives are at stake. \nIn the words of Comedian Ron White, \"You Can't Fix Stupid,\"\nno matter what their politics. \nStick to Science.\n\nIt is cowardly to tailor the truth of a public measles outbreak to kowtow to the inconsiderate and willfully ignorant. \n\nPlease consider the path of Courage and speak the Truth Unvarnished, be it either \"affirming to liberals and alienating to the very people he needs to reach,\" or not, \nas Governor Shapiro has done.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1788109177,
-          "timesPick": false
-        },
-        {
-          "name": "Laura Robinson",
-          "location": "Carrizozo, NM",
-          "body": "I would really love to hear Dr. Paul Offit's take on this column. He is a vaccine expert and would be a much better source of opinion on measles  than a geriatrician. The NYT should do a much better job of zeroing in on specific and germane expertise.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788109152,
-          "timesPick": false
-        }
-      ],
-      "title": "How Not to Announce a Measles Death",
-      "byline": "Rachael Bedard",
-      "publishedAt": "August 30, 2026",
-      "summary": "Josh Shapiro announced two measles deaths. Things went downhill fast.",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/08/30/multimedia/30BedardMina-qbwv/30BedardMina-qbwv-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/08/30/nyregion/metropolitan-diary.html",
-      "totalComments": 177,
+      "totalComments": 178,
       "comments": [
         {
           "name": "Tim",
           "location": "NY",
           "body": "Grew up in NYC in the early 70s, went everywhere at all hours, never had any issues, maybe I lead a charmed life.\n\nI was a skinny teen, throwing my shoulders back and standing tall wouldn’t have impressed anyone, and Times Square was and is bustling, even at midnight.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1788109349,
           "timesPick": false
@@ -1495,7 +1567,7 @@
           "name": "Susan Adler",
           "location": "Winnetka IL",
           "body": "Angel Zimick, author of the pocketbook search at the Met, - are you the textile designer?  If so - I still keep those excerpts from Proust (that you packaged with your linens) in my linen closet.  I still have towels purchased in the late 1990's.\nIf not - it won't be the first time that I thought a contributor here  was someone else.",
-          "recommendations": 3,
+          "recommendations": 5,
           "replyCount": 0,
           "timestamp": 1788108457,
           "timesPick": false
@@ -1513,7 +1585,7 @@
           "name": "Carlyle T.",
           "location": "NYC",
           "body": "The Samosa and Tomato soup stories reminded of eating not dining at a Kosher foods restuarant on East 14th street that was montaged into it's location adjacent to a Pornography movie house.\n I have forgotten the name of the restaurant but remember the name of the waitress, \"Helen\"  who would when prsentening the large menu give you not only a report \"Nah U Don't want dat it is 2 days old\" she would order  the meal for you ,so who needed the menu in the first place?",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788107730,
           "timesPick": false
@@ -1522,7 +1594,7 @@
           "name": "College Dad",
           "location": "Westchester",
           "body": "Re: On the F\n\nOn the packed, deep, deep escalator under the Citi Center at 53 and Lex.\n\nSomebody was yelling, “Jesus is coming! Jesus is coming!”\n\nOf course, most New Yorkers are immune to these types of pronouncements except for one wag who yelled back, \n\n“Is he coming on the E or the F?” \n\nI will never forget the explosion of laughter in that tunnel.",
-          "recommendations": 9,
+          "recommendations": 17,
           "replyCount": 0,
           "timestamp": 1788107706,
           "timesPick": false
@@ -1531,7 +1603,7 @@
           "name": "Guido",
           "location": "Cincinnati",
           "body": "1.  From Lake Ontario to Lake America\n2.  From The Gulf of Mexico to The Gulf of America\n3.  From Hurricane Dorian to an exaggerated stretch of truth\n\nHow many strikes & you're out?\nNever enough when you make the rules",
-          "recommendations": 3,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1788107697,
           "timesPick": false
@@ -1540,7 +1612,7 @@
           "name": "Orion Clemens",
           "location": "CS",
           "body": "\"Stand up, real big and tall. Shoulders back, chin up. Put a tough swagger in your step and a smirk on your face. Anybody who sees you will think you’re the one who’s going to cause trouble.”\n\nI've followed this wonderful advice all my life. Now, as a petite woman grazing 5' tall, I wouldn't walk anywhere by myself late at night. That said, the ability to project toughness is a useful trait in other settings.\n\nI was trying cases inside courtrooms right after I turned 24 years old. Jurors were often amused at me. I understood that I needed some way to project myself other than \"cute little thing\". \n\nThis didn't mean projecting anger, hostility. I knew that as a young woman, those qualities would work against me. \n\nSo instead I made it a point to watch the successful litigators. They oozed confidence. They were at ease with themselves. They were comfortable speaking up in public. Then I just started emulating them. \n\nOne more quality - I soon learned that even if I didn't feel that confidence, even if I didn't have all that experience - especially in the first few years - I could fake it really well. And this is when I learned that this is what most of my male colleagues (in those years, they were all men) were doing anyway!\n\nAnd I knew I succeeded when my daughter, then about 10 years old, told me, \"Mom, if you were tall, you'd be really scary!\"\n\nBest to everyone here on the MD stoop this morning,\nOC",
-          "recommendations": 18,
+          "recommendations": 25,
           "replyCount": 0,
           "timestamp": 1788105889,
           "timesPick": false
@@ -1549,7 +1621,7 @@
           "name": "Guido",
           "location": "Cincinnati",
           "body": "Quotes of The Week:\n\n“She would challenge you to not love her.”\n\n--SCOTT BORCHETTA, the president and chief executive of Big Machine Label Group, which helped distribute Dolly Parton’s recent rock album, on the affection and respect Ms. Parton engendered.\n\n“It was terror. I cannot believe everything was swept away before my eyes.”\n\n--SMRITI OJHA, 17, who said she had been getting ready for school in Nepal on Wednesday morning when she felt the ground shaking. What Ms. Ojha believed to be an earthquake was a flash flood of powerful scale and speed.\n\n“Deep down, we all know that probably the majority of us are going to have some form of C.T.E.”\n\n--RANDY GRIMES, who played center for the Tampa Bay Buccaneers from 1983 to 1992. A new study found that at least one in four N.F.L. players develops the degenerative brain disease, and the actual figure may be much higher.",
-          "recommendations": 7,
+          "recommendations": 9,
           "replyCount": 0,
           "timestamp": 1788104577,
           "timesPick": false
@@ -1570,8 +1642,26 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/30/travel/scotland-summer-resort-gleneagles.html",
-      "totalComments": 153,
+      "totalComments": 155,
       "comments": [
+        {
+          "name": "tom",
+          "location": "midwest",
+          "body": "We will be returning to visit scotland again but gleneagles is not on the list.  Cairngorms, Isle of May, the Orkneys, Isle of Skye is more our favorites.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111875,
+          "timesPick": false
+        },
+        {
+          "name": "Norman",
+          "location": "Ambler, PA",
+          "body": "Time to be honest.  \n\nMy last name is Campbell.  \n\nAnd so, never having visited Scotland in my life--\n\n--I'd love to go there.  \n\nBut I don't think I'd require so much luxury.  \n\nI've talked to a young woman who (with her daughter) spent some months in Edinburgh. \n\nShe could not say enough good about the place.  The two of them (I gather) had a glorious time.  \n\nShe told me that the natives of Edinburgh and the Americans coasting in for a visit--\n\n--dress rather differently.  \n\nThe native Scots are partial to quieter colors.  And not quite so much clothing.  Guess they're used to whatever frigid winds come barreling in.  \n\nThe Americans wear lots more clothing.  And are partial to--\n\n--how to say this?  Colors that attract the eye.  Colorful stuff.  \n\nIf I ever go there,  I'll remember to eschew the bolder colors.  \n\nBut fewer clothes?  I'm sorry, my hardy Scottish forebears! \n\n--but I just turned seventy seven.  \n\nAnd the Emperor Augustus (I've read) wore no fewer than eight layers of clothing when he ventured out on frosty days. \n\nHe too was about seventy seven when he--\n\n--never mind!   \n\nGleneagles.  Sounds like a fabulous place.  Worth visiting and exploring if my wife and I--\n\n--happen to win the lottery--\n\n--and come stomping in, pockets stuffed with moolah.   \n\nThanks, Ms. Chambers.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111551,
+          "timesPick": false
+        },
         {
           "name": "Donald Smith",
           "location": "Anchorage, Alaska",
@@ -1594,7 +1684,7 @@
           "name": "Christy",
           "location": "Virginia",
           "body": "Do they have any murder mystery nights? I can just see Dame Agatha (Christie) sitting at an outside table. Just overlooking the hills. Finishing one of her superb stories while a pot of hot tea was at her beck and call. Thank you for a glimpse.",
-          "recommendations": 0,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788109039,
           "timesPick": false
@@ -1625,24 +1715,6 @@
           "replyCount": 0,
           "timestamp": 1788108474,
           "timesPick": false
-        },
-        {
-          "name": "Anglican",
-          "location": "Chicago",
-          "body": "Out of touch, beyond my budget, but I certainly enjoyed the vicarious experience! For my conscience-driven NYT experience this Sunday morning, I’ll read the article about the tragedy in Nepal. \nI’m not actually taking action on either one, and I bet neither are most of the rest of us, so, finger-waggers please back off. It’s a big world and isn’t it nice the NYT reports on all of it.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788108371,
-          "timesPick": false
-        },
-        {
-          "name": "Savh Native",
-          "location": "Here",
-          "body": "“High tea” is what the servants had - taken at a high table because they didn’t have time to sit down.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788108080,
-          "timesPick": false
         }
       ],
       "title": "In Scotland, a (Very Posh) Summer Camp for Grown-Ups",
@@ -1651,6 +1723,96 @@
       "summary": "It’s the mix of lush adventures by day and elegant dinners by night that makes the luxury hotel Gleneagles, outside Edinburgh, so tempting.",
       "section": "travel",
       "thumbnail": "https://static01.nyt.com/images/2026/08/27/27visualUploader-72418-cover/27visualUploader-72418-cover-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
+      "totalComments": 135,
+      "comments": [
+        {
+          "name": "NorthernVirginia",
+          "location": "Falls Church, VA",
+          "body": "“By 2011, U.S. troop levels had already begun falling in Afghanistan, and the Taliban recognized that it just needed to outlast U.S. troops and the exhausted American public’s willingness to pay for the war.”\n\nIt would be useful to know which Taliban leaders ever believed that and voiced that opinion prior to the withdrawal.\n\nThe more likely explanation is that the Taliban had no place else to go and nothing else to do.\n\nThe biggest failure appears to be the same as the one in Vietnam: we spoiled the people we were backing, so when it finally came their turn to shoulder the entire burden, the Afghans were never in shape to do so.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111861,
+          "timesPick": false
+        },
+        {
+          "name": "Ithaca Reader",
+          "location": "Ithaca",
+          "body": "When historian and strategist Carter Malkasian wrote that the U.S. military \"fights to win,\" he was pointing to a fundamental paradox in modern military culture. On paper, most militaries exist to secure national objectives. Yet, when a war begins to turn sour or is unwinnable, institutional momentum rarely shifts toward a graceful exit; instead, it doubles down on the fight.\n\nOur military is trained, structured, and socialized around the concept of victory. To accept defeat or a stalemate is to contradict the core purpose of the profession. Soldiers, officers, and especially generals view quitting not as a rational pivot, but as a failure.\n\nAdmitting failure carries a devastating career cost for military leadership and political figures alike. Generals who advocate for withdrawal risk being labeled as defeatists or insubordinate, while politicians fear being blamed for losing. Staying the course is frequently perceived as the only safe choice.\n\nOnce lives have been lost and immense treasure spent, admitting defeat becomes morally agonizing. Stopping the war forces leaders and society to confront the grim reality that those past sacrifices were in vain. Continuing to fight offers a way to keep the meaning of those sacrifices alive, creating a powerful barrier to withdrawal.\n\nUltimately, a military fights even when losing because stopping requires an admission of failure that institutional structures are simply not designed to accept.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1788111414,
+          "timesPick": false
+        },
+        {
+          "name": "Donut",
+          "location": "Virginia",
+          "body": "We're #1 (or close #2).\n\nThe US and Russia have initiated or been directly involved in the highest number of armed conflicts and foreign interventions globally over the last century.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111294,
+          "timesPick": false
+        },
+        {
+          "name": "Locho",
+          "location": "New York",
+          "body": "Biden got endless criticism for leaving Afghanistan. I think it's the best thing he did as president. He knew he would pay a political price, but he did it anyway because it was best for the country. None of his predecessors had the political courage to do the same.\n\nA lot of the criticism was about the process of America's withdrawal, and that is warranted. But however badly that went, not a single American service member has died in Afghanistan since withdrawal. Not a single dollar has gone to propping up a corrupt government.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788111294,
+          "timesPick": false
+        },
+        {
+          "name": "Wilton Traveler",
+          "location": "Chicago",
+          "body": "The list of wars we should not have entered into after the Korean War (which had success for geographical reasons as much as for political ones). We did win the Cold War, after all:\n\nVietnam (French to begin with, but they had the sense to withdraw)\n\nAfghanistan (which the British experience should have taught was not winnable, let alone worth fightging)\n\nIraq (George Bush's folly)\n\nIran (Trump's and Netanyahu's folly).\n\nJust a suggestion: cut the budget for the Defense Department in half, and we might not sail off to defeat time after time.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788111294,
+          "timesPick": false
+        },
+        {
+          "name": "Marque Tres",
+          "location": "United States",
+          "body": "It’s easy to blame the military industrial complex, but if we’re to be totally honest, it’s the military complex. America is suffused with a culture of militarism. The ball caps with people’s medals. The special license plates. The streamlined gun laws in some states for ex military service. The lunch discounts. The early boarding. The use of the military itself as a jobs program. Taken individually, each of these is a warm gesture of thanks for service. But if you look at it with a certain degree of detachment, you can see that the whole country inclines toward military force.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1788111294,
+          "timesPick": false
+        },
+        {
+          "name": "SMB",
+          "location": "Boston",
+          "body": "Wish Mr. Jaffe had better spelled out the inevitable conclusions: \n\n1) The idea of a total military victory ended in 1945. No one can \"win\" anything anymore. We can exhaust ourselves in a series of Koreas and Vietnams, now located in the Middle East, or we can obliterate ourselves and the rest of humanity using nuclear or biological weapons, soon, AI. \n\n2) We are just the next iteration of the British empire. With luck, we can land as softly as they did, be replaced by China, and stumbled on about our business as the UK has. Without luck, we will keep labeling China as our existential threat, and stalemate them enough that Russia can have its way with us both.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788111294,
+          "timesPick": false
+        },
+        {
+          "name": "Doug Pickrell",
+          "location": "Tucson, AZ",
+          "body": "The lesson we have to learn is how to more accurately estimate the costs of war. We grossly underestimated the costs of the wars in Iraq, Afghanistan, and now in Iran. According to studies by Brown and Harvard, these wars have cost trillions of dollars. Compare this with the 60 billion estimate of the GW Bush administration for the initial invasion of Iraq, or Secretary Hegseth's laughable 30 billion estimate for Iran.\n\nThere are moral costs associated with these wars which Mr Jaffe completely ignores. In Afghanistan we freed, and promised lasting freedom, to half of the population - women. They are now enslaved, and we should be deeply ashamed; Mr Jaffe does not mention this. In Iraq we promised freedom, and to our credit and at enormous cost, we did eventually deliver. In the case of Iran, President Trump promised protesters that help was on the way. His promise has proved totally worthless. This is a stain on the soul of our nation which is worse than the economic costs. We just do not realize it, because we long ago abandoned the moral high ground. Even if you only care about money, this will come back to bite us.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1788111294,
+          "timesPick": false
+        }
+      ],
+      "title": "Why the United States Can’t Quit Its Wars",
+      "byline": "Greg Jaffe",
+      "publishedAt": "August 30, 2026",
+      "summary": "The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/08/28/multimedia/00dc-quit-hjlk/00dc-quit-hjlk-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -1750,8 +1912,17 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/29/business/she-popularized-economics-then-she-was-erased-from-history-why.html",
-      "totalComments": 112,
+      "totalComments": 113,
       "comments": [
+        {
+          "name": "Heather",
+          "location": "San Jose",
+          "body": "Interesting article. I was curious enough after reading it to skim Maria Edgeworth's wikipedia page and I was dismayed to learn that while she solicited international relief to help feed her tenants during the Irish famine, she only distributed food to those who were fully paid up on their rent.  In this case, I think she may have been channeling Scrooge rather than Adam Smith...",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788110963,
+          "timesPick": false
+        },
         {
           "name": "Kyla Scanlon",
           "location": "USA",
@@ -1814,15 +1985,6 @@
           "replyCount": 0,
           "timestamp": 1788103924,
           "timesPick": false
-        },
-        {
-          "name": "Carol",
-          "location": "DC",
-          "body": "Next stop on the economics Grand Tour, Edgeworthstown.  Great stuff Miss Edgeworth",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788103923,
-          "timesPick": false
         }
       ],
       "title": "She Popularized Economics. Then She Was Erased From History. Why?",
@@ -1840,13 +2002,22 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/30/world/europe/iceland-eu-referendum-talks.html",
-      "totalComments": 105,
+      "totalComments": 109,
       "comments": [
+        {
+          "name": "Nino Correa",
+          "location": "Spain",
+          "body": "As a citizen of a EU member state, I’m actually quite relieved by the result of the Icelandic referendum. The last thing the European Union needs is a half-hearted mini-member, joining reluctantly and already harbouring second thoughts. Better no membership at all.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1788110994,
+          "timesPick": false
+        },
         {
           "name": "MDW",
           "location": "Pacific NW",
           "body": "It does seem that Iceland is getting a lot of benefits from its present association with the EU while being unwilling to share in the costs.",
-          "recommendations": 0,
+          "recommendations": 5,
           "replyCount": 1,
           "timestamp": 1788109175,
           "timesPick": false
@@ -1855,7 +2026,7 @@
           "name": "Kris",
           "location": "New Jersey",
           "body": "Icelander here living in the US. What set this campaign apart from all other political campaigns in Iceland, was the level of dishonesty and lies that was entirely financed by wealthy individuals,  who benefit financially from keeping Iceland out of the EU.  We see this methodology every day in US politics but for Iceland, this is new. \nMy biggest disappointment wasn’t the outcome, I personally believe that Iceland benefits from joining the EU, but the campaign itself. I really expected better from my fellow Icelanders but it turned out, people are just people!",
-          "recommendations": 4,
+          "recommendations": 11,
           "replyCount": 0,
           "timestamp": 1788108643,
           "timesPick": false
@@ -1864,7 +2035,7 @@
           "name": "emm305",
           "location": "SC",
           "body": "Seems like voting to not even negotiate to find out what deal would be available - vs actually voting in the future to join, which this was not - is a vote for ignorance.\nIs what we have contagious?",
-          "recommendations": 2,
+          "recommendations": 8,
           "replyCount": 0,
           "timestamp": 1788108620,
           "timesPick": false
@@ -1891,7 +2062,7 @@
           "name": "Peter",
           "location": "Deutschland",
           "body": "It would be interesting to know how much effort and money the Russians invested to influence the outcome in this direction.",
-          "recommendations": 4,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1788108571,
           "timesPick": false
@@ -1900,27 +2071,108 @@
           "name": "garsar",
           "location": "france",
           "body": "Maybe they're waiting to be bought by Russia or America? How much per person.? I would be afraid not to be part of the EU and NATO. Sounds like Brexit again, how'd that work out?",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788108542,
-          "timesPick": false
-        },
-        {
-          "name": "Jimsface",
-          "location": "Los Angeles",
-          "body": "It is a bucket list must see, I'm told. Also that they are the happiest place on earth, these days, i can see why...sorry Disney",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788108475,
           "timesPick": false
         }
       ],
       "title": "Iceland Votes to Steer Clear of European Union Talks",
       "byline": "Amelia Nierenberg and Egill Bjarnason",
       "publishedAt": "August 30, 2026",
-      "summary": "After a divisive national debate, Icelanders rejected a proposal to resume negotiations on joining the bloc, according to the national broadcaster.",
+      "summary": "After a divisive debate, Icelanders rejected a proposal to resume negotiations on joining the bloc. The referendum drew the highest voter turnout in almost two decades.",
       "section": "world",
       "thumbnail": "https://static01.nyt.com/images/2026/08/30/multimedia/30int-iceland-results-fvmk/30int-iceland-results-fvmk-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html",
+      "totalComments": 101,
+      "comments": [
+        {
+          "name": "Hipolito Hernanz",
+          "location": "Portland, OR",
+          "body": "As an Oregonian, I am about as far away from that bridge as one can possibly get. However, if indeed the Governor is 75 years old, that sounds like an excellent opportunity to gracefully retire. Both parties continue to ignore the need to pass the torch to a younger  generation as a means to inject fresh ideas and vigor in clubs of geriatric governments.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788111583,
+          "timesPick": false
+        },
+        {
+          "name": "Reginald V. Wedge",
+          "location": "WA",
+          "body": "Rhode Island has had a checkered history since its beginnings.  This history has evolved through its governance and politicians.  The current Democratic Primary may reflect one of those elections in which the voters are asked to choose between the lesser of two evils.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788110886,
+          "timesPick": false
+        },
+        {
+          "name": "David",
+          "location": "UWS of New York City",
+          "body": "I don't live in Rhode Island so I don't know how it feels to live there, but I do know CVS.  Apart from the opoiod crisis look at the understocked shelves.  Look at the way so many branches scrimp on employees.  Very few per store.   You have to ring to get someone to come help you get an item and sometimes there's a long wait.  Never enough tellers at check-out, who bear the brunt of consumer frustration.  Does this reveal good executive leadership?",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1788110045,
+          "timesPick": false
+        },
+        {
+          "name": "Xoxarle",
+          "location": "Raleigh",
+          "body": "Per a 2024 NYT investigation, CVS are part of a pharmacy cartel deliberately driving up prescription drug costs (already some of the highest on the planet) for profit.  Quoting from the article: \n\n\"The job of the [pharmacy benefit managers] is to reduce drug costs. Instead, they frequently do the opposite. They steer patients toward pricier drugs, charge steep markups on what would otherwise be inexpensive medicines and extract billions of dollars in hidden fees\"\n\nThe notion that voters would consider electing a CVS executive to state governor is almost too ridiculous to be believed. Americans need to rise up and confront powerful corporations exploiting them. They don't need to endorse them and vote their corrupt executives into public office so they can wreak more havoc.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1788109326,
+          "timesPick": false
+        },
+        {
+          "name": "Susan H",
+          "location": "Minneapolis",
+          "body": "Regardless of the bridge decision, electing a former CVS official instead, is not a good choice.  She led a business in an industry that profits from people's rising health care premiums.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1788109326,
+          "timesPick": false
+        },
+        {
+          "name": "Gimme Shelter",
+          "location": "Chicago",
+          "body": "Too bad Rhode Island lacks a functioning public transit system. If the state had developed post-WW2 with transit and complimentary land use its citizens would not be entirely dependent on POV, and not burdened by huge infrastructure costs associated with automobiles. \n\nToo bad. But by all means direct your anger at the last public official standing. That will solve all your problems.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788109326,
+          "timesPick": false
+        },
+        {
+          "name": "DHans",
+          "location": "Los Angeles",
+          "body": "If I was Ms. Foulkes I would be hiding the fact that I was an exec at CVS.  I can't imagine how CVS would manage a single bridge. Just use their website and ask yourself, if my life depended on using this website would I feel safe?  How about the condition of the stores? The quality of the products? The happiness of the employees?  CVS is not a good look.   My suggestion:  How about an exec from Costco running?",
+          "recommendations": 13,
+          "replyCount": 0,
+          "timestamp": 1788109326,
+          "timesPick": false
+        },
+        {
+          "name": "Steve",
+          "location": "Pacifica CA",
+          "body": "I'm an outsider, so I couldn't recommend one candidate over the other. But I do think there is some commonality with my state on the other side of the country - the Democratic Party does a really poor job of selecting candidates. These folks in RI don't seem to have a great choice. The incumbent is pretty old (sorry, but I'm not a young man myself), and the challenger helped lead a fairly rapacious corporation (if one only listens to customers and employees). This was the best they could do in a solidly Democratic state? Seems like D minus work",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1788109326,
+          "timesPick": false
+        }
+      ],
+      "title": "This Governor Could Lose His Primary. A Bridge May Be to Blame.",
+      "byline": "Jenna Russell",
+      "publishedAt": "August 30, 2026",
+      "summary": "The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/08/30/multimedia/30nat-ri-governor-01-pbqg/30nat-ri-governor-01-pbqg-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -2019,99 +2271,72 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html",
-      "totalComments": 97,
-      "comments": [
-        {
-          "name": "David",
-          "location": "UWS of New York City",
-          "body": "I don't live in Rhode Island so I don't know how it feels to live there, but I do know CVS.  Apart from the opoiod crisis look at the understocked shelves.  Look at the way so many branches scrimp on employees.  Very few per store.   You have to ring to get someone to come help you get an item and sometimes there's a long wait.  Never enough tellers at check-out, who bear the brunt of consumer frustration.  Does this reveal good executive leadership?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788110045,
-          "timesPick": false
-        },
-        {
-          "name": "Xoxarle",
-          "location": "Raleigh",
-          "body": "Per a 2024 NYT investigation, CVS are part of a pharmacy cartel deliberately driving up prescription drug costs (already some of the highest on the planet) for profit.  Quoting from the article: \n\n\"The job of the [pharmacy benefit managers] is to reduce drug costs. Instead, they frequently do the opposite. They steer patients toward pricier drugs, charge steep markups on what would otherwise be inexpensive medicines and extract billions of dollars in hidden fees\"\n\nThe notion that voters would consider electing a CVS executive to state governor is almost too ridiculous to be believed. Americans need to rise up and confront powerful corporations exploiting them. They don't need to endorse them and vote their corrupt executives into public office so they can wreak more havoc.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1788109326,
-          "timesPick": false
-        },
-        {
-          "name": "Susan H",
-          "location": "Minneapolis",
-          "body": "Regardless of the bridge decision, electing a former CVS official instead, is not a good choice.  She led a business in an industry that profits from people's rising health care premiums.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788109326,
-          "timesPick": false
-        },
-        {
-          "name": "Gimme Shelter",
-          "location": "Chicago",
-          "body": "Too bad Rhode Island lacks a functioning public transit system. If the state had developed post-WW2 with transit and complimentary land use its citizens would not be entirely dependent on POV, and not burdened by huge infrastructure costs associated with automobiles. \n\nToo bad. But by all means direct your anger at the last public official standing. That will solve all your problems.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109326,
-          "timesPick": false
-        },
-        {
-          "name": "DHans",
-          "location": "Los Angeles",
-          "body": "If I was Ms. Foulkes I would be hiding the fact that I was an exec at CVS.  I can't imagine how CVS would manage a single bridge. Just use their website and ask yourself, if my life depended on using this website would I feel safe?  How about the condition of the stores? The quality of the products? The happiness of the employees?  CVS is not a good look.   My suggestion:  How about an exec from Costco running?",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1788109326,
-          "timesPick": false
-        },
-        {
-          "name": "Steve",
-          "location": "Pacifica CA",
-          "body": "I'm an outsider, so I couldn't recommend one candidate over the other. But I do think there is some commonality with my state on the other side of the country - the Democratic Party does a really poor job of selecting candidates. These folks in RI don't seem to have a great choice. The incumbent is pretty old (sorry, but I'm not a young man myself), and the challenger helped lead a fairly rapacious corporation (if one only listens to customers and employees). This was the best they could do in a solidly Democratic state? Seems like D minus work",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788109326,
-          "timesPick": false
-        },
-        {
-          "name": "Tony from Truro",
-          "location": "Truro",
-          "body": "Rhode Island's political system operates like a despot nation. The tiny State with a big graft problem. The Highways, School Systems, Bridges, and whatnot, are crumbling as a result of ethos. One can feel the difference upon entering, and also exiting, the State line.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788109326,
-          "timesPick": false
-        },
-        {
-          "name": "Sharon",
-          "location": "Virginia",
-          "body": "McKee is too old to be running for a four year trm.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109325,
-          "timesPick": false
-        }
-      ],
-      "title": "This Governor Could Lose His Primary. A Bridge May Be to Blame.",
-      "byline": "Jenna Russell",
-      "publishedAt": "August 30, 2026",
-      "summary": "The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.",
-      "section": "us",
-      "thumbnail": "https://static01.nyt.com/images/2026/08/30/multimedia/30nat-ri-governor-01-pbqg/30nat-ri-governor-01-pbqg-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/08/30/world/europe/spain-late-dinner-time.html",
-      "totalComments": 81,
+      "totalComments": 90,
       "comments": [
+        {
+          "name": "Zezee",
+          "location": "Vermont",
+          "body": "I lived in Madrid for a while. I learned to eat a hearty meal in the afternoon, like most Spaniards do.  My son-in-law came home for his mid-day meal and siesta.  Even at midnight in the summer, the parks would be filled with families picnicking, children playing, sports, bike riding. It was fun really.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788111580,
+          "timesPick": false
+        },
+        {
+          "name": "scs52",
+          "location": "NJ",
+          "body": "I lived in Spain from 87-90. I could not have lived there long enough to get used to the schedule. Few things open most of the afternoon(Pryca, a large supermarket and beauty salons mainly), back to work at cocktail hour, young kids up and out until  10 or 11, neighbors keeping me awake doing dishes at midnight. We once walked into a restaurant at 9pm to the incredulous look of a waiter setting the tables. The workday did start later also, around 9, and we often passed people straggling home from their evenings out. One thing I loved though—nothing open on Sundays except parks and restaurants. The enforced slow day off was wonderful for health!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111577,
+          "timesPick": false
+        },
+        {
+          "name": "Jason",
+          "location": "NY",
+          "body": "It will be interesting to see how GLP 1 adoption will change these habits.  I spend about half of the year traveling all over the globe (and have for many years).  I started on GLP 1s in January and have found the Spanish and Western European dining environment to feel the most “odd” with new habits i have picked up due to GLP 1s.  Namely:  (1) I can eat so little that by about 5pm there is no room for any substantive meal, (2) No matter the conversation sitting for long periods not eating when everyone else is gets old, and (3) Alcohol (any amount of it) causes stomach discomfort for me.  I’m in the camp that the GLP 1s have massively improved my life, but they definitely change dining habits.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111453,
+          "timesPick": false
+        },
+        {
+          "name": "garbancita63",
+          "location": "North Carolina",
+          "body": "I don’t understand this focus on health benefits. Spain is a much healthier country than the U S with one of the best life expectancies in the world. And as many said, dinner is usually very light, perhaps fruit and yoghurt, a small salad or a small omelette.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111297,
+          "timesPick": false
+        },
+        {
+          "name": "Me",
+          "location": "Anywhere in the USA",
+          "body": "Our second visit to Spain in 2025 - we arrived mid day, seriously jet lagged, and by 6 were desperate for a light dinner and going to bed. Our hotel directed us to a nearby pub where we were the only patrons at that time of day. But by day 2 we were eating dinner around 9 or sometimes later. It was so lovely to feel safe and relaxed late into the evening and night. \n\nI don’t understand why so many commenters are put off by someone else’s customs. Don’t knock it til you tried it.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788111250,
+          "timesPick": false
+        },
+        {
+          "name": "Jennifer",
+          "location": "Madrid",
+          "body": "I’m an American living in Spain and have been here in Madrid for 24 years. When I first arrived, it was impossible to find a restaurant open for bookings before 21:00 and Spaniards would be amazed that my family sat down to dinner at 19:30 each night, although in the summers later. Now, all of my Spanish friends make restaurant bookings for 20:00 and we eat at each other’s homes at the same time. Even my Spanish husband would prefer to eat early now. However, not everyone can have an earlier dinner. Far too many Spaniards still get home after 20:00 from work because of the midday shutdown where many stores close at 14:00 and open again at 17:00. They see their children late, eat late and go to bed late. Not ideal for work-life balance or health.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788110948,
+          "timesPick": false
+        },
+        {
+          "name": "RGP",
+          "location": "KCMO",
+          "body": "My sister and I visited Spain years ago and I still remember our search to find a place for dinner at a reasonable hour. We should have read up on this before we left.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788110314,
+          "timesPick": false
+        },
         {
           "name": "Tommy",
           "location": "San Francisco",
@@ -2119,69 +2344,6 @@
           "recommendations": 0,
           "replyCount": 0,
           "timestamp": 1788109906,
-          "timesPick": false
-        },
-        {
-          "name": "No Chaser",
-          "location": "New Orleans",
-          "body": "I love to stay up late, always have, no matter what part of the world I'm in, so I feel a bit wistful reading this. But things change.\n\nEven if the meal comes earlier in the evening now, I hope tardeo in the afternoon continues to increase in Spain to pick up the slack regarding time with friends.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109767,
-          "timesPick": false
-        },
-        {
-          "name": "Ridgeley",
-          "location": "Los Angeles",
-          "body": "I spent two weeks in Spain in 1999. I had a good time, but yes, those late dinners were a nuisance. I’m hitting the hay by 10pm, so if I wanted a proper sit down dinner at dinner time (6pm) then I had to do some looking. \n\nI did have a couple of truly memorable meals (rabbit in olive oil and garlic right in olive oil country, should’ve ordered a second plate, so good; mussels in Madrid), but I was definitely out of sync with most everyone else.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109669,
-          "timesPick": false
-        },
-        {
-          "name": "Gloria",
-          "location": "Wisconsin",
-          "body": "Spanish meals are not the same as those in northern Europe, or the US. The main meal is in the middle of the day at around 2pm. The meal takes a while, it includes socializing and/or family time, and it is followed by some rest (yes, siesta) and a coffee, so you can continue working in the afternoon (at around 4:30 or 5pm). You get a small bite at around 7 (merienda), if hungry, and a small meal at 9:30-10pm when you are back home. At home it could be an omelette and some fruit. If you live in an area with hot weather, you appreciate an hour of siesta when the sun is up! It also slows down your day, which is nice.\n\nWhen people go out at night with friends or family, then the meals might be larger, and you go to bed later (you need to digest it!), but that is not the daily routine.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109570,
-          "timesPick": false
-        },
-        {
-          "name": "SBS",
-          "location": "Chicago",
-          "body": "If the shift in question is from 10pm or thereabouts to 9pm or thereabouts, then it doesn’t really seem like Spaniards are giving up their tradition so much as slightly modifying it. Questions: how early do Spaniards get up? When does school start for kids? Are naps still common?  Are any of those things changing too? I think one reason their tradition seems especially extreme to Americans is that most of us start our days quite early, often not by choice. I’m assuming they probably don’t.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1788109249,
-          "timesPick": false
-        },
-        {
-          "name": "Pete",
-          "location": "NYC",
-          "body": "Here in NY we usually eat dinner at 10 or 11 minutes past six.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1788109234,
-          "timesPick": false
-        },
-        {
-          "name": "Lise Spiegel",
-          "location": "CA",
-          "body": "10 pm dinner sounds like a nightmare. Even 8 is late. How do you have time to digest before going to bed? I finish dinner by 7 and have so much more energy in the morning as a result. There are traditions and then there is what modern science shows:   digesting your meal for at least 3 hours before calling it a day is healthier.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1788109220,
-          "timesPick": false
-        },
-        {
-          "name": "John",
-          "location": "Mexico",
-          "body": "It's intersting, the  article mentions the health benfits by eating earlier.  When I was much younger, between college, breaks, and later a job that only started at 2 PM, I often ate at 10 pm or later as I rarely wen to bed befor 4-5 AM. Eating earlier for health reasons is more applicable for people who do a 9-5 routine versus a different shift.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788108843,
           "timesPick": false
         }
       ],
@@ -2200,13 +2362,13 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/30/books/review/marlon-james-interview-the-disappearers.html",
-      "totalComments": 75,
+      "totalComments": 77,
       "comments": [
         {
           "name": "CC",
           "location": "San Francisco",
           "body": "\"The novel is about the price you pay, eventually and day to day, for the simple act of being yourself.\"\n\nPowerful, and I believe that speaks to everyone, whether you're gay (as am I) or not. If only we could unit around that common struggle, rather than divide over who deserved it or doesn't, to name just one way we split a broom into a thousand straws.",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788110095,
           "timesPick": false
@@ -2233,7 +2395,7 @@
           "name": "Michael",
           "location": "Fort Lauderdale FL",
           "body": "I appreciate the light this article and the book shed on the virulent homophobia that exists in Jamaica. I had a harrowing experience there as a tourist in the early 90’s before the internet age when I could have learned that Jamaica is no place for LGBT folks - or (hopefully) their allies. “One Love” indeed!",
-          "recommendations": 0,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788108942,
           "timesPick": false
@@ -2269,7 +2431,7 @@
           "name": "Emily Corwith",
           "location": "Caton, NY",
           "body": "I just finished reading today's Times article about how immigrants here expelled to countries in Africa are severely mistreated in detention centers before leaving the U.S. and by ICE while being flown to and after arriving in Africa.  It seems that power structures, whether American or Jamaican, thrive on 'disappearing' non-members of the 'master race'.",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788108713,
           "timesPick": false
@@ -2281,96 +2443,6 @@
       "summary": "With “The Disappearers,” the Booker Prize-winning author has written his most personal novel yet.",
       "section": "books",
       "thumbnail": "https://static01.nyt.com/images/2026/08/30/multimedia/30tbr-marlon-james-phvq/30tbr-marlon-james-phvq-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
-      "totalComments": 65,
-      "comments": [
-        {
-          "name": "John",
-          "location": "Pittsburgh",
-          "body": "The US really does need to be much more selective regarding the use of our military.  We can’t be the world’s policeman forever.\n\nThat having been said, comparing the present Iran operations to the protracted wars in Afghanistan and Iraq is not a very good analogy.  It might start to be a valid comparison if and when it reaches several years of continuous operations.  We are six months in with Iran, and during this time there have only been 5-6 weeks of significant operations.  \n\nAlso regarding Iran, we can’t have it both ways.   There should be widespread agreement that Iran- a country who has vowed to destroy the US and Israel- cannot be allowed to even get close to having nuclear weapons.   We can’t be anti-Israel and against US support for Israel that will allow them to do the job- and also against any direct US involvement.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109957,
-          "timesPick": false
-        },
-        {
-          "name": "PV",
-          "location": "Canada",
-          "body": "There are a few key differences between the war \"in\" Afghanistan and the current one against Iran.  One is that the Rest of the World felt no impact from the former, while the latter severely affect a large number of countries due to the resulting much higher price of oil and gas.  Even American consumers feel the impact.  The former was local, the latter is global.  It can also be argued that the war against Iran is much more dangerous to the World stabiblity, which was already (and still is) threatened by the Russian-Ukrainian war.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788109578,
-          "timesPick": false
-        },
-        {
-          "name": "Jack Sonville",
-          "location": "Florida",
-          "body": "Three big issues:\n\n1. Major countries with large numbers of ground personnel (like us) don't want to deploy them, for fear of political repercussions when bodies start coming home. So we try to win wars with technology rather than the overwhelming force that is their true advantage. We fight with one hand behind our backs. (China and Russia don't care about this issue, btw.)\n\n2. Countries run by troublesome regimes have gotten better training and weapons for their soldiers and other non-traditional combatants (read: terrorist groups), which has allowed them to get wins here and there, while dragging out the war. That Iran can tie up our multi-million dollar defense systems and muck up Hormuz with $35,000 drones is a great example. \n\n3. Traditional military advantages are starting to be eroded by cyber expertise. We saw Iran send a cyber message by messing around with some water systems in the midwest. Pete Hegseth may like push ups and testosterone shots, but in the not distant future, the team with the best cyber warriors will have a significant advantage. Guys who can hack into a water system or electrical grid don't need big biceps.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1788109488,
-          "timesPick": false
-        },
-        {
-          "name": "Jp",
-          "location": "Ml",
-          "body": "You get involved in regime change or nation building and at some point it has to be up to the local population to do the fighting.  \nYou can fault the U.S. all you want for a failure, but it's up to the local folks.\nThere are a number  of nations where a case could be made for military involvement.  The majority of which would provide material for future  articles about why and how the U.S. involvement failed or was a \"destabilizing force\".\nAnd on and on it goes.  But this time around we had the added feature of Trump being in the equation.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109318,
-          "timesPick": false
-        },
-        {
-          "name": "Judy",
-          "location": "Canada",
-          "body": "The people who make the decision to commit the US to a war fail to recognize the limits of their military power. They can withstand only so much loss of life and injuries, only so much cost, only so much discontent and opposition in the electorate, and they cannot accept a defeat. So they can’t do enough to win the conflict, nor can they withdraw from it without a victory, which they cannot achieve, so it just drags on.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788109227,
-          "timesPick": false
-        },
-        {
-          "name": "Ali",
-          "location": "Canada",
-          "body": "I can answer the article's headline in one sentence: because the military-industrial complex requires it, and it is embedded in the US political system. The greatest modern US wartime leader (and one of it greatest modern presidents), Mr. Eisenhower, warned us of its harms, and yet the American public and especially the Republican party paid no heed so here we are.\n\nSince at least Vietnam, the US has not fought to win or to defend itself but to lubricate the military-industrial complex under the banner of some vague idea of propagating its value system. Why does the entire world need to accept 'American values'? If they're not an existential threat, let them be and focus on yourself.",
-          "recommendations": 7,
-          "replyCount": 0,
-          "timestamp": 1788108687,
-          "timesPick": false
-        },
-        {
-          "name": "ISR",
-          "location": "Olney, MD",
-          "body": "The current conflict with the IRGC and Iranian theocrats is much different than the wars in which we had soldiers on the ground.  It is currently not really a shooting war since the USN is blockading Iranian Ports and Iranians are shooting at Gulf States and despite  the noise, minimal damage.  We are in uncharted territory and not  one of those endless wars.  Of course, Grenada and Iraqi Freedom were not endless so the point made about the U.S. never being able to end a war is not real.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788108045,
-          "timesPick": false
-        },
-        {
-          "name": "Kaveh",
-          "location": "Oakland, CA",
-          "body": "\"In most instances, U.S. troops have gone to war to impose order on an unruly world, or to defend American values.\"\n\nIf you want to understand why we keep getting into these long wars, start by questioning your assumptions.\n\nThe \"unruly world\" says, no thanks to your \"order.\"\n\nAnd if what we have inflicted on the world (and to ourselves) in these wars is defending \"American values\" we are totally morally bankrupt.",
-          "recommendations": 24,
-          "replyCount": 0,
-          "timestamp": 1788107785,
-          "timesPick": false
-        }
-      ],
-      "title": "Why the United States Can’t Quit Its Wars",
-      "byline": "Greg Jaffe",
-      "publishedAt": "August 30, 2026",
-      "summary": "The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran.",
-      "section": "us",
-      "thumbnail": "https://static01.nyt.com/images/2026/08/28/multimedia/00dc-quit-hjlk/00dc-quit-hjlk-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -2422,7 +2494,7 @@
           "name": "ohthatpaul",
           "location": "Orlando, FL",
           "body": "This is the most beautiful article I have read all summer. 🧡",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788102954,
           "timesPick": false
@@ -2470,8 +2542,35 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/30/opinion/wonder-awe-aging.html",
-      "totalComments": 34,
+      "totalComments": 38,
       "comments": [
+        {
+          "name": "Pepe",
+          "location": "California",
+          "body": "Such a moving and wonderfully written article, just like the others you wrote, full of deep, hard to articulate emotions and thoughts! Thank you! Life is \"An anthology of miracles\".",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111468,
+          "timesPick": false
+        },
+        {
+          "name": "JMK",
+          "location": "NM",
+          "body": "What a gorgeous essay. The wonder and awe it portrays in observing the little things in life are actually the big things in life, the things that truly count - no matter our biological age. The title itself could be a guide to making the most of our lives. Thank you for sharing your lovely thoughts with us, Mr. Rosenblatt.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788111186,
+          "timesPick": false
+        },
+        {
+          "name": "cclark",
+          "location": "Florida",
+          "body": "Thank you so much for writing this — the description and the perception that followed was like receiving an unexpected gift this morning. Beautiful.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788111024,
+          "timesPick": false
+        },
         {
           "name": "J Alex",
           "location": "SNE",
@@ -2494,7 +2593,7 @@
           "name": "Michael",
           "location": "In the crucible...",
           "body": "I felt like I was there.  Thanks so much.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1788109849,
           "timesPick": false
@@ -2503,7 +2602,7 @@
           "name": "Green Gal",
           "location": "Northwestern Oregon",
           "body": "Beautiful, thank you.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788107654,
           "timesPick": false
@@ -2512,36 +2611,9 @@
           "name": "Dana Brown",
           "location": "Tucson",
           "body": "Thank you Roger. I needed this today and every day..",
-          "recommendations": 3,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1788107652,
-          "timesPick": false
-        },
-        {
-          "name": "pollyb1",
-          "location": "san francisco",
-          "body": "...the world is a room with a piano in it waiting to be played...That's a poem by itself.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1788107652,
-          "timesPick": false
-        },
-        {
-          "name": "Roy",
-          "location": "Fassel",
-          "body": "Roger Rosenblatt might have no equal in telling a story.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788107651,
-          "timesPick": false
-        },
-        {
-          "name": "Kay W",
-          "location": "Louisville",
-          "body": "OMG.... just keep these shares coming R. R. Perhaps it's our similar age, no matter, it's the content that counts. Brings me joy reading.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788107650,
           "timesPick": false
         }
       ],
@@ -2560,13 +2632,22 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/30/business/address-change-mortgage-scam.html",
-      "totalComments": 29,
+      "totalComments": 30,
       "comments": [
+        {
+          "name": "Paul",
+          "location": "Ohio",
+          "body": "This was an interesting anecdote about bank incompetence, but it didn’t really illuminate the core problem.\n\nThese scams are not intended to remove you from your house; the goal is to extract money via fraudulent purchase or lease, taking advantage of detection lag.\n\nThe root cause of this problem, and the reason that everyone in this country feels like there are scams everywhere, is that white collar crime is at the lowest prosecution point in the modern era at a time when it should be the highest. \n\nSince I deal with this stuff for a living, I can say with confidence the local police and prosecutors are terrible at it. Furthermore, the current administration has gutted white-collar enforcement in favor of other priorities. Some of those priorities include taking experienced FBI financial crime SA’s and SSA‘s and allocating them to immigrant roundup task forces. \n\nNobody voted for me so I don’t get to decide. But I would prefer law-enforcement to focus on white-collar crime.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1788110302,
+          "timesPick": false
+        },
         {
           "name": "3M",
           "location": "Upper Pen",
           "body": "I don’t know if PNC is more especially sloppy or bad but they have really upended lives in my state where they took over a set of stable banks and longstanding customers were locked out of their online accounts and PNC had no plan to help them. This has created months of panic.",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788109907,
           "timesPick": false
@@ -2575,7 +2656,7 @@
           "name": "Gloria Cantens",
           "location": "Miami, FL",
           "body": "Locking the SIM card on your mobile phone is another worthwhile safety measure. If someone tries to clone the number in an effort to intercept security codes from two-factor authentication, they will find themselves blocked by the lock.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788109570,
           "timesPick": false
@@ -2593,7 +2674,7 @@
           "name": "Brian",
           "location": "Wisconsin",
           "body": "“White collar” crime needs to be dealt with by hard time in maximum security prisons.\n\nMore can be done, of course, but this would be a great start.",
-          "recommendations": 1,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1788108839,
           "timesPick": false
@@ -2602,7 +2683,7 @@
           "name": "Publius II",
           "location": "Colorado",
           "body": "Some companies use scare tactics to get people to sign up for something to \nalert them if someone is filing something on their property.  I ignore those scare tactics.  This article would better examine those companies and whether their protection is worth it.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788106986,
           "timesPick": false
@@ -2611,7 +2692,7 @@
           "name": "Randy",
           "location": "Tween Sacto & Tahoe",
           "body": "I need some clarity. All a bad actor has to do is tell a mortgage company that they are [insert owner's name] and here's our new address?\n\nThat implies the property is no longer the borrower's primary residence, which should cause the lender to sound an alarm. Interest rates on \"income property\" are usually higher than owner occupant rates. But, then, any notice of change in mortgage terms would be sent to the fake address. \n\nSo it's back to what are the lender's identity security protocols? Is it merely that as long as someone knows my name, lender login, and SSAN they can steal my home loan? I'll gladly add my and wife's fingerprints to our loan docs. And a safe word or phrase. Even a photo.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788106771,
           "timesPick": false
@@ -2620,18 +2701,9 @@
           "name": "Doug",
           "location": "Lake Ontario",
           "body": "I was just able to add an alert on my property in Maine.  My county had the tools to do so.  Thanks for a timely article.",
-          "recommendations": 3,
+          "recommendations": 4,
           "replyCount": 0,
           "timestamp": 1788105947,
-          "timesPick": false
-        },
-        {
-          "name": "PLombard",
-          "location": "Ferndale, MI",
-          "body": "No one should have to buy into a property protection racket.  Legislators should make laws to prevent this attempt at stealing.   Ridiculous.",
-          "recommendations": 9,
-          "replyCount": 0,
-          "timestamp": 1788105472,
           "timesPick": false
         }
       ],
@@ -2656,7 +2728,7 @@
           "name": "D Price",
           "location": "The United States of Kafka",
           "body": "Dolly Parton's passing has all of America ruminating on so many things, but perhaps none more than that she was goodness personified. \n\n- She earned her impressive living in a fashion that contributed to the arts/entertainment landscape, and harmed no one. \n- She used her well-gotten gains to fund endeavors (literacy, vaccine research, providing band uniforms to underfunded schools) that improved the lives of others, often on a national or global level, but often locally (and anonymously).\n- She never turned her back on where she came from.\nShe did her family, herself, and her church proud.\n\nThe demise of small churches that helped produced the likes of her is regrettable in and of itself, but doubly so as these intimate, community gathering places are replaced by megachurches which -- let's be honest -- are essentially tax-free businesses, often wielding outsize political clout.\n\nI hope church-goers (and also regular attendees of synagogues and mosques) can distinguish between the establishments that promote actual goodness (in words and action) and acceptance towards all of humanity, and those that inculcate a sense of superiority and judgment among their members. Only one is worth a contribution into the collection plate.",
-          "recommendations": 1,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788109178,
           "timesPick": false
@@ -2674,7 +2746,7 @@
           "name": "Robert Bakewell",
           "location": "San Francisco",
           "body": "I grew up in a close knit anglophone community, part of a larger town with a francophone majority, north of Montreal , Quebec .\nDuring the 1950’s , our beautiful little St Michael’s  Anglican Church was the the centerpiece .. Sunday  and holiday services , Sunday School , choir practice , baptisms, confirmations , weddings , summer socials , second hand clothing sales , and maybe most important of all inter- generational mixing and mutual support .\nI moved away 50 years ago .. the Anglophone Anglican  community has mostly vanished , the Church is a sort of historical monument and privately owned for non religious purposes .\n I am not religious but when it came time after my mother’s death we organized an Anglican burial service in the volunteer maintained Anglican cemetery . \nSo far away from the American South .. but I get it .",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1788109178,
           "timesPick": false
@@ -2701,7 +2773,7 @@
           "name": "FC",
           "location": "Brooklyn",
           "body": "I find organized religion terrifying as a general rule--all of the ones I can think of have committed horrific persecution of nonbelievers, and the constant efforts by the right wing to impose the most backwards version of Christianity in the U.S. government are revolting. But at the same time, I find this trend very sad. There is something lovely about a place for communities to come together, support each other, be humbled, meditate, and try to be better people. I also think we haven't yet found a large-scale replacement for houses of worship in terms of places where we try to get outside ourselves and think about how to be good to others. Therapy is helpful but entirely focused on what is best and most comfortable for the patient--not their family or community.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788101926,
           "timesPick": false
@@ -2710,7 +2782,7 @@
           "name": "rolling hills up and down in SF",
           "location": "San Francisco, CA",
           "body": "Imagine the world around us if Ms. Parton’s “radical empathy” Christianity of living a decent, generous, morally compassionate life was the predominant Christian practice … and how so many of bigoted cultural cudgels that are used to control and divide us would simply fall away. \n\nDoing so feels like thinking about the subject from a fantasy novel - it’s so unimaginable. And yet, by all accounts and honest understandings, this is the way Christianity is supposed to be. \n\nThat Dolly Parton, the extraordinarily gifted and celebrated musician, business woman, actor, songwriter, singer, advocate, is being remembered and loved because of person she was … and the Christian life she lived … well beyond all her “accomplishments,” is an astounding testament to the power of the life she lived, and how she intentionally made every effort to remain kind, strong, grateful, effective and nonjudgmental. \n\nBasically, she proved you could be a famous role model and leader, remain an actual Christian, and make profound differences in people’s lives for the better. \n\nShe will be deeply missed. And this type of Christian life should be the norm.",
-          "recommendations": 8,
+          "recommendations": 9,
           "replyCount": 0,
           "timestamp": 1788101926,
           "timesPick": false
@@ -2746,7 +2818,7 @@
           "name": "Em",
           "location": "California",
           "body": "I stand with the brave cockroaches! I left India in my youth, never expecting anything will change. I watched with horror over the years as the government got more authoritarian and sectarian and the mainstream media became a craven propaganda machine. I’ve never been as optimistic about India’s future as as I am now. Plus, have you seen the Insta feeds—creativity as its best! Thank you Gen Z in India!",
-          "recommendations": 34,
+          "recommendations": 45,
           "replyCount": 0,
           "timestamp": 1788089231,
           "timesPick": false
@@ -2755,7 +2827,7 @@
           "name": "Etta",
           "location": "California",
           "body": "The future of the world depends on citizens coming together (not being easily separated and mislead by the propaganda narratives used to divide) and standing up to entrenched financial and political powers, (the same thing) to make a more just, decent, and equitable society. I pray for that and for the transformation we so desperately need.",
-          "recommendations": 32,
+          "recommendations": 37,
           "replyCount": 0,
           "timestamp": 1788089230,
           "timesPick": false
@@ -2764,7 +2836,7 @@
           "name": "jack",
           "location": "ny",
           "body": "I worked with many young Indians who were smart, hard working and immigrants. When I asked them why they left a country with such a long history of culture that has risen so quickly to be a world power in science and manufacturing, they all said...the government. Bravo Abhijeet Dipke, you have risked everything to elevate your fellow countrymen and peers and succeeded beyond all expectations.\nDirghayur-arogyam astu",
-          "recommendations": 27,
+          "recommendations": 32,
           "replyCount": 0,
           "timestamp": 1788089188,
           "timesPick": false
@@ -2773,7 +2845,7 @@
           "name": "Pliny The Welder",
           "location": "Florida",
           "body": "Amazing. This dude is awesome.",
-          "recommendations": 22,
+          "recommendations": 25,
           "replyCount": 0,
           "timestamp": 1788089188,
           "timesPick": false
@@ -2782,7 +2854,7 @@
           "name": "apple95014",
           "location": "USA",
           "body": "So good to see this happen. Now, please include a protest against the terrible ‘reservation system’ in the educational system in India. Let merit be the only way to progress.",
-          "recommendations": 80,
+          "recommendations": 88,
           "replyCount": 0,
           "timestamp": 1788044912,
           "timesPick": false
@@ -2791,7 +2863,7 @@
           "name": "jwgibbs",
           "location": "Cleveland, OH",
           "body": "Back in 1969 to 1971, I was a Peace Corps volunteer living in Bhopal. Back then, as I recall the test everyone wanted to take and then be accepted was the IAS ( Indian Administrative Service). The backbone of India’s government and civil service. Fights used to break out to get into the IAS and pass the entrance exams.  I will say this.  I knew several civil service personnel, played bridge with several and they were polished and smart. And the several I knew were Brahmins from the north of India",
-          "recommendations": 29,
+          "recommendations": 30,
           "replyCount": 0,
           "timestamp": 1788044903,
           "timesPick": false
@@ -2800,7 +2872,7 @@
           "name": "jack",
           "location": "Las Vegas",
           "body": "Leaked examination tests have been an Indian tradition atleast since their independence from British. Corruption at every level is omnipresent in Indian life. The root cause of it is culture and traditions. The ruling party has done nothing to make it worse. However, a small minority of unhappy youth encouraged by opposition can make the movement look bigger. This shall pass soon, no mater how much the liberal Western media wants it to hurt the Modi government.",
-          "recommendations": 27,
+          "recommendations": 28,
           "replyCount": 0,
           "timestamp": 1788044901,
           "timesPick": false
@@ -2809,7 +2881,7 @@
           "name": "Opus",
           "location": "Cape Cod",
           "body": "Abhijeet I applaud you and hope you can stay the course. You seem to have a government that exists to amass power and more power and is riddled with corruption using wedge issues including religion so that the population doesn't focus on them.\n\nI hope your movement turns into something that upsets the status quo because any government that has to send out police to beat protestors is neither just or truly democratic.\nYou and your movement and the Indian people deserve better. I thing I learned in my youth is to question everything and anything that can not be questioned has no value.",
-          "recommendations": 90,
+          "recommendations": 96,
           "replyCount": 0,
           "timestamp": 1788044898,
           "timesPick": false
@@ -2829,98 +2901,8 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/08/29/us/azriel-al-blackman-dead.html",
-      "totalComments": 22,
-      "comments": [
-        {
-          "name": "Harold",
-          "location": "VA",
-          "body": "Great obit. RIP Blackie.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788109061,
-          "timesPick": false
-        },
-        {
-          "name": "Fitzman",
-          "location": "Long Island",
-          "body": "Mr. Blackman worked 80 years probably not because he needed the money but because he loved the job and the people he worked with. a great man indeed.",
-          "recommendations": 11,
-          "replyCount": 0,
-          "timestamp": 1788104984,
-          "timesPick": false
-        },
-        {
-          "name": "Elizabeth",
-          "location": "Virginia",
-          "body": "What an amazing man, and a life well lived.  Keeping hundreds of thousands of passengers safe, as well.  Godspeed, Mr. Blackman.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1788104793,
-          "timesPick": false
-        },
-        {
-          "name": "Schmoopy",
-          "location": "NYC",
-          "body": "God bless Mr. Blackman.  He was doing incredibly important work!  He would probably still have been working if he hadn’t taken that fall.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1788104220,
-          "timesPick": false
-        },
-        {
-          "name": "430- Edward",
-          "location": "Charleston SC",
-          "body": "Not a lot of quit there. God bless Mr Blackman.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1788103719,
-          "timesPick": false
-        },
-        {
-          "name": "Albro",
-          "location": "Wellington, ON, Canada",
-          "body": "Another one from the greatest generation... He loved what he did and did it well.\nThank you for your contribution, rest in peace",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1788103719,
-          "timesPick": false
-        },
-        {
-          "name": "Plennie Wingo",
-          "location": "Sunny Florida",
-          "body": "Dedication and expertise.  A lost art.\n\nWell done, Mr. Blackman!",
-          "recommendations": 13,
-          "replyCount": 0,
-          "timestamp": 1788103719,
-          "timesPick": false
-        },
-        {
-          "name": "Bruce",
-          "location": "Norfolk, Virginia",
-          "body": "nice article, would liked to have seen a foto of the mural.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1788103719,
-          "timesPick": false
-        }
-      ],
-      "title": "Azriel Blackman, Airline Mechanic for 80 Years, Dies at 100",
-      "byline": "Richard Sandomir",
-      "publishedAt": "August 29, 2026",
-      "summary": "With a career commemorated by Guinness World Records, he started as an apprentice in 1942 and worked on a panoply of propeller-driven and jet aircraft until he retired in 2022.",
-      "section": "us",
-      "thumbnail": "https://static01.nyt.com/images/2026/08/28/multimedia/28Blackman-qgth/28Blackman-qgth-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/08/30/nyregion/us-open-economic-impact-new-york-city.html",
-      "totalComments": 21,
+      "totalComments": 22,
       "comments": [
         {
           "name": "Lara",
@@ -3009,9 +2991,117 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/08/30/nyregion/nyc-conversions-analysis-pfizer.html",
-      "totalComments": 18,
+      "url": "https://www.nytimes.com/2026/08/29/us/azriel-al-blackman-dead.html",
+      "totalComments": 22,
       "comments": [
+        {
+          "name": "Harold",
+          "location": "VA",
+          "body": "Great obit. RIP Blackie.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1788109061,
+          "timesPick": false
+        },
+        {
+          "name": "Fitzman",
+          "location": "Long Island",
+          "body": "Mr. Blackman worked 80 years probably not because he needed the money but because he loved the job and the people he worked with. a great man indeed.",
+          "recommendations": 14,
+          "replyCount": 0,
+          "timestamp": 1788104984,
+          "timesPick": false
+        },
+        {
+          "name": "Elizabeth",
+          "location": "Virginia",
+          "body": "What an amazing man, and a life well lived.  Keeping hundreds of thousands of passengers safe, as well.  Godspeed, Mr. Blackman.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1788104793,
+          "timesPick": false
+        },
+        {
+          "name": "Schmoopy",
+          "location": "NYC",
+          "body": "God bless Mr. Blackman.  He was doing incredibly important work!  He would probably still have been working if he hadn’t taken that fall.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1788104220,
+          "timesPick": false
+        },
+        {
+          "name": "430- Edward",
+          "location": "Charleston SC",
+          "body": "Not a lot of quit there. God bless Mr Blackman.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1788103719,
+          "timesPick": false
+        },
+        {
+          "name": "Albro",
+          "location": "Wellington, ON, Canada",
+          "body": "Another one from the greatest generation... He loved what he did and did it well.\nThank you for your contribution, rest in peace",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1788103719,
+          "timesPick": false
+        },
+        {
+          "name": "Plennie Wingo",
+          "location": "Sunny Florida",
+          "body": "Dedication and expertise.  A lost art.\n\nWell done, Mr. Blackman!",
+          "recommendations": 14,
+          "replyCount": 0,
+          "timestamp": 1788103719,
+          "timesPick": false
+        },
+        {
+          "name": "Bruce",
+          "location": "Norfolk, Virginia",
+          "body": "nice article, would liked to have seen a foto of the mural.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1788103719,
+          "timesPick": false
+        }
+      ],
+      "title": "Azriel Blackman, Airline Mechanic for 80 Years, Dies at 100",
+      "byline": "Richard Sandomir",
+      "publishedAt": "August 29, 2026",
+      "summary": "With a career commemorated by Guinness World Records, he started as an apprentice in 1942 and worked on a panoply of propeller-driven and jet aircraft until he retired in 2022.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/08/28/multimedia/28Blackman-qgth/28Blackman-qgth-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/08/30/nyregion/nyc-conversions-analysis-pfizer.html",
+      "totalComments": 20,
+      "comments": [
+        {
+          "name": "Laurie Schoeman",
+          "location": "Takoma Park, Md",
+          "body": "There is potentially 70 million square feet of U.S. CBD office space feasibly available for housing conversion which could equate to over 60,000 homes which could make a real difference in our national housing shortage. I’m looking forward to the creativity and innovation that will come forward from this space.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788110457,
+          "timesPick": false
+        },
+        {
+          "name": "RG",
+          "location": "upstate NY",
+          "body": "How much does each affordable unit cost the city in lost taxes with the incentive deals. How consistently are the commitments to the percent of units dedicated to affordable housing  honored",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788110422,
+          "timesPick": false
+        },
         {
           "name": "Barry",
           "location": "California",
@@ -3052,7 +3142,7 @@
           "name": "Mkm",
           "location": "Nyc",
           "body": "it is a shame the editors choose to tie a very interesting and informative story with an incident of human error, greed, oversight, shoddy workmanship, whichever descriptive you choose.  While the Pfizer building incident certainly had all the potential for disaster, it didn't happen and was quickly fixed. What is remarkable is how rare such events are in NYC given the complexity of its structures and the conditions construction occurs under.    According the DOB, there were 420 construction incidents and ten fatalities in 2025.   It is a complex and dangerous business.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788104632,
           "timesPick": false
@@ -3064,24 +3154,6 @@
           "recommendations": 0,
           "replyCount": 0,
           "timestamp": 1788104603,
-          "timesPick": false
-        },
-        {
-          "name": "George",
-          "location": "NYC",
-          "body": "New York has some of the strictest building codes in the country.  I just hope they enforce them!!",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1788104599,
-          "timesPick": false
-        },
-        {
-          "name": "Roving Critic",
-          "location": "NYC",
-          "body": "The City needs to hire more inspectors who literally sit on these projects.  Based on recent experience, the developers are converting on the cheap.  Architerctural plans need to have real approvals and real city follow-ups.  Especially if the conversion includes additional floors and major construction changes which could effect building safety.  Having watched scratch built buildings exceed agreed upon stories on a number of buildings throughout the City, most notably on Amsterdam between what would be 69th and 70th and York Avenue and 86th Street, the NY Department of Buildings is either not watching what's going on, or have inspectors on the take, or both.",
-          "recommendations": 1,
-          "replyCount": 2,
-          "timestamp": 1788103393,
           "timesPick": false
         }
       ],
@@ -3100,14 +3172,14 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/29/arts/television/love-island-usa-brinity-trinity-tatum-bryce-alakai.html",
-      "totalComments": 15,
+      "totalComments": 16,
       "comments": [
         {
           "name": "HAS",
           "location": "CA",
           "body": "I'm not sure about the longevity of this relationship ; when describing things and activities that are important to them, there is very little overlap.",
           "recommendations": 0,
-          "replyCount": 0,
+          "replyCount": 1,
           "timestamp": 1788103232,
           "timesPick": false
         },
@@ -3164,15 +3236,6 @@
           "replyCount": 1,
           "timestamp": 1788027508,
           "timesPick": false
-        },
-        {
-          "name": "Vicki Wright",
-          "location": "Ohio",
-          "body": "I learn something new about them all the time. I’m hoping to see more sit down interviews especially with Trinity.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1788023710,
-          "timesPick": false
         }
       ],
       "title": "‘Brinity’ Won ‘Love Island USA.’ These Are Their Favorite Things.",
@@ -3190,7 +3253,7 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html",
-      "totalComments": 11,
+      "totalComments": 12,
       "comments": [
         {
           "name": "Rick Graham",
@@ -3214,7 +3277,7 @@
           "name": "NJG",
           "location": "Toronto",
           "body": "Never heard in a bar: \"I'll have a pound of Pabst please.\"",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788106802,
           "timesPick": false
@@ -3223,7 +3286,7 @@
           "name": "Lacey",
           "location": "Mn",
           "body": "\"The significance, if any, of that deadline was not immediately known.\" \nPBR was established in 1844. It's right there on the can.",
-          "recommendations": 6,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1788104017,
           "timesPick": false
@@ -3232,8 +3295,8 @@
           "name": "Meanwhile, Trump-Epstein",
           "location": "Blue Virginia",
           "body": "\"Pabst Blue Ribbon Beer reported stolen\": I just cannot stop laughing at that phrase.",
-          "recommendations": 1,
-          "replyCount": 0,
+          "recommendations": 2,
+          "replyCount": 1,
           "timestamp": 1788104006,
           "timesPick": false
         },
@@ -3241,7 +3304,7 @@
           "name": "Rex Craigo",
           "location": "Charleston, West Virginia",
           "body": "Sounds like a marketing gimmick.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1788104000,
           "timesPick": false
@@ -3250,7 +3313,7 @@
           "name": "DLH",
           "location": "North AL",
           "body": "Seems like a poor target for theft.  What do you do with 40k pounds of PBR?  And who drinks it anymore?  Some guy in AL has a pet kangaroo that drinks it but ....",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1788103945,
           "timesPick": false
@@ -3259,7 +3322,7 @@
           "name": "Holly Kaplan",
           "location": "Grenada, West Indies",
           "body": "1844. The first PBR was brewed. Coincidence?  I think not",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1788103914,
           "timesPick": false
@@ -3279,9 +3342,108 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html",
-      "totalComments": 10,
+      "url": "https://www.nytimes.com/2026/08/30/opinion/silicon-valley-theater-improv.html",
+      "totalComments": 11,
       "comments": [
+        {
+          "name": "Theresa D",
+          "location": "Portland, Oregon",
+          "body": "If tech workers are using Keith Johnstone's pioneering methods and theories in IMPRO to \"measure\" and \"codify\" social transactions so as to manipulate and distort perceptions of reality, that is not only frightening but absolutely antithetical to what Johnstone proposed. Johnstone decoded the coded dance of behavior so that actors/improvisers/human beings could live more truthfully and compassionately, more attuned to each other's needs and to the world around them on stage (and off), not for subterfuge. The author of this essay writes about the benevolent nature of improvisation, when at its best, at the end of the article but they do not stress enough, in my opinion, that this benevolence is also clearly expressed in Johnstone's seminal book IMPRO, published in 1979 and translated into over 20 languages.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1788111737,
+          "timesPick": false
+        },
+        {
+          "name": "Mikko",
+          "location": "SF",
+          "body": "\"How a ’70s Improv Book Became Silicon Valley’s Required Reading\"?\n\nBy being a good, valuable book, with many excellent lessons about engaging with people's ideas, regardless of if do improv or not. Just that. But I guess you can make a lot of people think there's something nefarious going on by saying it's interesting in Silicon Valley, too.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111399,
+          "timesPick": false
+        },
+        {
+          "name": "Jeff",
+          "location": "Houston",
+          "body": "I helped invent a new type of stock (you probably own some) but to my knowledge it didn't have the capacity to harm anyone (except stocks can go down).  Now we're finding out something about harm from social media and just getting an inkling of potential harm from AI.  It's not a simulation or game -- it's real.  Who will win -- China (weaponized for evil), the U.S.(more or less laissez-faire), or the E.U.(designed by government)?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788110740,
+          "timesPick": false
+        },
+        {
+          "name": "Paul Sonnenfeld",
+          "location": "Washington State",
+          "body": "May I humbly suggest that the reality, (such as it is), it is all about power.  The few \"enlightened\" ones and the rest of us serfs.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1788110103,
+          "timesPick": false
+        },
+        {
+          "name": "Miles Parker",
+          "location": "Nelson, BC",
+          "body": "Fascism is at its root an aesthetic movement; yes that aesthetic is derivative, constructed, tedious and violent (see e.g. Futurism), but the point is not only to control people, but to control their perception of reality. It is a game of conspiracies within conspiracies, in which the entire point is to be the one who is most inside the wall. This is why at its heart, all fascist governments have been essentially kleptocracies full of seething, warring interests. It is interesting that we are instead given the image of fascism as .. evil, sure, but also exceptionally efficient and inventive.\n\nWhy do I bring this up here? Because fascism obtains its power through the machinery of aesthetic manipulation. It knows that words and actions have real power; yes, to distort reality, to make people believe what you want them to believe.\n\nNow, look at the word magic and the ideology behind Silicon Valley and finance capital in general. It’s a spectacle, full of public and private ritual. The price of entry is to swallow whatever drink you’re given. The reward is to be allowed to put your interests above all others, indeed as the author points out to see those others as hollow shells, meatpuppets that simply provide context and contrast for the only person who actually matters: you.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1788109796,
+          "timesPick": false
+        },
+        {
+          "name": "Chevy",
+          "location": "South Hadley, MA",
+          "body": "“He who looks away first is the more dominant.”  Are you kidding me?  I remember half a lifetime ago when staring someone down was supposed to show dominance.  Well, I certainly considered in rude: if I wanted a staring contest back then, I'd cross swords with a cat!\n\nBoth are wrong - neither adds to the conversation.  Better to practice honest communication which results in increasing friendship, trust, and intimacy.\n\nAlthough Robert Herrick had something different in mind when he wrote his 1648 poem 'Delight in Disorder', I would hope that in the intervening centuries we've come to appreciate a little more spontaneity in our relationships with each other \". . . than when art / Is too precise in every part.\"",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1788109723,
+          "timesPick": false
+        },
+        {
+          "name": "Mike",
+          "location": "Venice",
+          "body": "Does everything now revolve around turning life’s little interactions and relationships into a techno-algorithmic experience?  These kids pandering to the Palo Alto “tech-bro” culture are simply too geeked out to find the subtleties and joy of real human interactions. Maybe they could spend a little more time outdoors or something without the crutch of the latest trendy “how-to” read or on-line game.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1788108970,
+          "timesPick": false
+        },
+        {
+          "name": "Mark B",
+          "location": "Centreville VA",
+          "body": "Real life: it’s what happens when you step outside of the theater.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1788108454,
+          "timesPick": false
+        }
+      ],
+      "title": "How a ’70s Improv Book Became Silicon Valley’s Required Reading",
+      "byline": "Tara Isabella Burton",
+      "publishedAt": "August 30, 2026",
+      "summary": "It can be useful to see reality as malleable.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/08/30/opinion/30burton-image/30burton-image-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html",
+      "totalComments": 11,
+      "comments": [
+        {
+          "name": "Sarah",
+          "location": "Seattle",
+          "body": "I’m feeling just a little bit trolled that this article explains only how the “Roman” part of the name came about. It this the strategy for getting shallow people like me to read science and tech articles all the way through? 😂",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788110417,
+          "timesPick": false
+        },
         {
           "name": "Tom",
           "location": "Rural Wisconsin",
@@ -3344,15 +3506,6 @@
           "replyCount": 0,
           "timestamp": 1788092489,
           "timesPick": false
-        },
-        {
-          "name": "Richard Kinne",
-          "location": "California",
-          "body": "A new thing in the sky, what wonders will be seen?  Can anyone understand the wonder Galileo felt when he first looked into his telescope?  Maybe we can with these new eyes and feel that same wonder; wouldn’t that be a bit of magic? I wonder what is out there; do you?  How was it said, \"We do things not because they are easy but because they are hard\"?  Those words, spoken for a different moment to a different generation, still hold truth.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1788071268,
-          "timesPick": false
         }
       ],
       "title": "How a Canceled Spy Satellite Became NASA’s New Window Into the Universe",
@@ -3405,87 +3558,6 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/08/30/opinion/silicon-valley-theater-improv.html",
-      "totalComments": 7,
-      "comments": [
-        {
-          "name": "Miles Parker",
-          "location": "Nelson, BC",
-          "body": "Fascism is at its root an aesthetic movement; yes that aesthetic is derivative, constructed, tedious and violent (see e.g. Futurism), but the point is not only to control people, but to control their perception of reality. It is a game of conspiracies within conspiracies, in which the entire point is to be the one who is most inside the wall. This is why at its heart, all fascist governments have been essentially kleptocracies full of seething, warring interests. It is interesting that we are instead given the image of fascism as .. evil, sure, but also exceptionally efficient and inventive.\n\nWhy do I bring this up here? Because fascism obtains its power through the machinery of aesthetic manipulation. It knows that words and actions have real power; yes, to distort reality, to make people believe what you want them to believe.\n\nNow, look at the word magic and the ideology behind Silicon Valley and finance capital in general. It’s a spectacle, full of public and private ritual. The price of entry is to swallow whatever drink you’re given. The reward is to be allowed to put your interests above all others, indeed as the author points out to see those others as hollow shells, meatpuppets that simply provide context and contrast for the only person who actually matters: you.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788109796,
-          "timesPick": false
-        },
-        {
-          "name": "Chevy",
-          "location": "South Hadley, MA",
-          "body": "“He who looks away first is the more dominant.”  Are you kidding me?  I remember half a lifetime ago when staring someone down was supposed to show dominance.  Well, I certainly considered in rude: if I wanted a staring contest back then, I'd cross swords with a cat!\n\nBoth are wrong - neither adds to the conversation.  Better to practice honest communication which results in increasing friendship, trust, and intimacy.\n\nAlthough Robert Herrick had something different in mind when he wrote his 1648 poem 'Delight in Disorder', I would hope that in the intervening centuries we've come to appreciate a little more spontaneity in our relationships with each other \". . . than when art / Is too precise in every part.\"",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788109723,
-          "timesPick": false
-        },
-        {
-          "name": "Mike",
-          "location": "Venice",
-          "body": "Does everything now revolve around turning life’s little interactions and relationships into a techno-algorithmic experience?  These kids pandering to the Palo Alto “tech-bro” culture are simply too geeked out to find the subtleties and joy of real human interactions. Maybe they could spend a little more time outdoors or something without the crutch of the latest trendy “how-to” read or on-line game.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788108970,
-          "timesPick": false
-        },
-        {
-          "name": "Mark B",
-          "location": "Centreville VA",
-          "body": "Real life: it’s what happens when you step outside of the theater.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1788108454,
-          "timesPick": false
-        },
-        {
-          "name": "Jk",
-          "location": "Seattle",
-          "body": "This seems like such a perversion of the books original intent, not to mention the creative arts as a whole.\n\nNerd culture used to be creative and cool, now it seems more bent on controlling and manipulating.",
-          "recommendations": 7,
-          "replyCount": 0,
-          "timestamp": 1788108256,
-          "timesPick": false
-        },
-        {
-          "name": "Cynical",
-          "location": "Knoxville",
-          "body": "At this stage, one can only suspect the motives of these tech business tycoons. Much has been said to compare these tech advancements to those in earlier centuries. Now, the cons far outweigh the pros. An analogy would be if the motor car developed to help transportation would also produce extinction levels of highly radioactive hydrogen cyanide, instead of simply carbon monoxide.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1788107451,
-          "timesPick": false
-        },
-        {
-          "name": "Anonymous",
-          "location": "Kier, PE",
-          "body": "Meanwhile, AI companies are bankrupting actors with their products. Terrific.",
-          "recommendations": 11,
-          "replyCount": 0,
-          "timestamp": 1788107171,
-          "timesPick": false
-        }
-      ],
-      "title": "How a ’70s Improv Book Became Silicon Valley’s Required Reading",
-      "byline": "Tara Isabella Burton",
-      "publishedAt": "August 30, 2026",
-      "summary": "It can be useful to see reality as malleable.",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/08/30/opinion/30burton-image/30burton-image-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/08/30/style/barbie-novel-alex-aster.html",
       "totalComments": 7,
       "comments": [
@@ -3502,7 +3574,7 @@
           "name": "Cheryl",
           "location": "Colorado",
           "body": "I am speechless.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1788108099,
           "timesPick": false
@@ -3568,13 +3640,22 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/08/29/us/ohio-lost-found-wedding-ring.html",
-      "totalComments": 3,
+      "totalComments": 4,
       "comments": [
+        {
+          "name": "Bill D.",
+          "location": "New Jersey",
+          "body": "What a wonderful story. \n\nAs an early teenager, I lost a ring that my godparents had gifted me at my birth, anticipating my ring size as an adult. It would have been about right compared to my father. I lost it in the sandy lot of the unbought new home next door. That ring would be very deep in the soil by now, and probably impossible to find without the best metal detector and a backhoe! The ring was kept in a safe box whose key's location I knew. I was frightened that someone would notice it being missing, but my Mom had passed away and my Dad apparently had more important things on his mind. The ring was not particularly valuable and I have no great wish to have it back, but that box! I'd love to have that and fish through the records in it!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111569,
+          "timesPick": false
+        },
         {
           "name": "Casey",
           "location": "Seattle",
           "body": "Tearing up! What a sweet story.",
-          "recommendations": 8,
+          "recommendations": 9,
           "replyCount": 0,
           "timestamp": 1788103729,
           "timesPick": false
@@ -3583,7 +3664,7 @@
           "name": "Holly Kaplan",
           "location": "Grenada, West Indies",
           "body": "Thank you for this lovely tale of a son and his dad",
-          "recommendations": 8,
+          "recommendations": 9,
           "replyCount": 0,
           "timestamp": 1788103729,
           "timesPick": false
@@ -3592,7 +3673,7 @@
           "name": "hazegray",
           "location": "Chicago burbs",
           "body": "Beautiful story.  Lovely and grateful contrast to some of the headlines.  Thank you.",
-          "recommendations": 15,
+          "recommendations": 16,
           "replyCount": 0,
           "timestamp": 1788097719,
           "timesPick": false
@@ -3648,6 +3729,42 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
+      "url": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
+      "totalComments": 2,
+      "comments": [
+        {
+          "name": "Joe T",
+          "location": "Lithuania",
+          "body": "I am noticing that when art and jewel thieves in Europe are apprehended, the consequences for their misdeeds are quite mild...just a few years behind bars.\n\nI am also noticing that a relatively inexpensive system to photograph and fingerprint all entrants to museums and galleries has never been considered.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1788111654,
+          "timesPick": false
+        },
+        {
+          "name": "Liemba",
+          "location": "ㅇㄹアイランド",
+          "body": "It would have been interesting to learn who the current owner of the necklace is, what it was valued at when originally purchased by Queen Nazli, and what its estimated current market value is today.\n\nWhat would be the robbers’ next move? Is it possible that they might try to move the necklace to a country where a bona fide third-party purchaser may potentially be protected and allowed to keep the item after a certain period of time?\n\nUnfortunately, the museum and others involved might need to consider working out a deal to prevent the necklace from being cut apart and sold off as separate stones and scrap metal. This necklace appears to be a stunningly beautiful masterpiece.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1788103333,
+          "timesPick": false
+        }
+      ],
+      "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
+      "byline": "Alan Yuhas",
+      "publishedAt": "August 29, 2026",
+      "summary": "The theft of the precious object, once owned by an Egyptian queen and later sold to satisfy her creditors, was the latest in a string of high-profile museum losses.",
+      "section": "world",
+      "thumbnail": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-vienna-theft-qmpf/29int-vienna-theft-qmpf-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
       "url": "https://www.nytimes.com/2026/08/29/arts/music/olivia-rodrigo-prince-new-songs.html",
       "totalComments": 1,
       "comments": [
@@ -3667,33 +3784,6 @@
       "summary": "Olivia Rodrigo name-checks “The Handmaid’s Tale,” another Prince song escapes the vault and Dawn Richard brings the club to church.",
       "section": "arts",
       "thumbnail": "https://static01.nyt.com/images/2026/08/29/multimedia/29cul-songs-mvck/29cul-songs-mvck-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/08/29/world/europe/diamond-necklace-theft-vienna.html",
-      "totalComments": 1,
-      "comments": [
-        {
-          "name": "Liemba",
-          "location": "ㅇㄹアイランド",
-          "body": "It would have been interesting to learn who the current owner of the necklace is, what it was valued at when originally purchased by Queen Nazli, and what its estimated current market value is today.\n\nWhat would be the robbers’ next move? Is it possible that they might try to move the necklace to a country where a bona fide third-party purchaser may potentially be protected and allowed to keep the item after a certain period of time?\n\nUnfortunately, the museum and others involved might need to consider working out a deal to prevent the necklace from being cut apart and sold off as separate stones and scrap metal. This necklace appears to be a stunningly beautiful masterpiece.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1788103333,
-          "timesPick": false
-        }
-      ],
-      "title": "Thieves Smash Museum Case for Diamond Necklace Worth Millions in Vienna",
-      "byline": "Alan Yuhas",
-      "publishedAt": "August 29, 2026",
-      "summary": "The theft of the precious object, once owned by an Egyptian queen and later sold to satisfy her creditors, was the latest in a string of high-profile museum losses.",
-      "section": "world",
-      "thumbnail": "https://static01.nyt.com/images/2026/08/29/multimedia/29int-vienna-theft-qmpf/29int-vienna-theft-qmpf-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
