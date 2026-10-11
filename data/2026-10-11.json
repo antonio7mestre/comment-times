@@ -1,0 +1,1990 @@
+{
+  "generatedAt": "2026-10-11T17:56:55.245Z",
+  "days": [
+    "2026-10-10",
+    "2026-10-11"
+  ],
+  "mode": {
+    "deep": true,
+    "past24Hours": true,
+    "scanAllCandidates": true,
+    "todayOnly": false,
+    "commentLimit": 8,
+    "commentsToStore": 8,
+    "windowEnd": "2026-10-11T17:55:58.931Z",
+    "windowHours": 24,
+    "windowStart": "2026-10-10T17:55:58.931Z"
+  },
+  "sources": [
+    {
+      "id": "nytimes",
+      "name": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "id": "wsj",
+      "name": "The Wall Street Journal",
+      "domain": "wsj.com"
+    },
+    {
+      "id": "wapo",
+      "name": "The Washington Post",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  "articles": [
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/politics/elections/the-crew-of-virtually-unknown-donors-powering-the-rise-of-the-new-left-191fcc85",
+      "title": "The Crew of Virtually Unknown Donors Powering the Rise of the New Left",
+      "byline": "Maggie Severns, Anthony DeBarros and Kara Dapena",
+      "summary": "Millions of dollars are flowing to help Democratic socialists and other progressives.",
+      "section": "Politics",
+      "thumbnail": "https://images.wsj.net/im-35180411/social",
+      "modifiedAt": "2026-10-11T00:00:00.000Z",
+      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "totalComments": 1049,
+      "comments": [
+        {
+          "name": "David Kiel",
+          "location": "",
+          "body": "San Francisco Coffee Time with Wise Owl.\n\n'Could this be an AI generated that is part of the threat we all face ?'\n\nThe Crew of Virtually Unknown Donors Powering the Rise of the New Left\n\nMillions of dollars are flowing to help Democratic socialists and other progressives\n\nYes, Wise Owl, what is going on ?\n\nHumor is an interesting Human Concept.\n\nhttps://chatgpt.com/s/m_6acbcc656b8081918bf3859554168b40",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1791741048,
+          "timesPick": false
+        },
+        {
+          "name": "R Daniels",
+          "location": "",
+          "body": "Four socialist Congressional candidates running in California ?  As if the state needs the label of \"Socialist\" added to any of their Democrat office holders. The state has been captured by socialists whether they use this label or not.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740491,
+          "timesPick": false
+        },
+        {
+          "name": "Johnny McNulty",
+          "location": "",
+          "body": "These are tiny numbers and you know it. A million dollars? The shadowy power of people (whose names we know) who gave a million dollars????? In 2026??? When Republican donors are giving hundreds and hundreds of millions??? This is just a fluffed up excuse to print Muslim names and scare your old right wing readers.",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791740486,
+          "timesPick": false
+        },
+        {
+          "name": "Jeff Stone",
+          "location": "",
+          "body": "Given the WSJ is a business newspaper, it would be timely to see an article breaking down how all these political donations are being spent.  Someone is making money.......",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740004,
+          "timesPick": false
+        },
+        {
+          "name": "Jeff Stone",
+          "location": "",
+          "body": "So we've transitioned from big donors to progressives who were generally older, wealthy hippies or successful Hollywood players, i.e. those living in a dream world, to what we have today.  Looks like many are second generation immigrants who made it big in America.  Meanwhile George Soros never saw a progressive socialist he didn't want to donate to.  He continues funding progressive attorneys in Los Angeles.  His light on crime choice of George Gascón was eventually voted out of office yet Soros still has his fingers in the pot.....",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791739868,
+          "timesPick": false
+        },
+        {
+          "name": "James H",
+          "location": "",
+          "body": "Since when is Soros virtually unknown?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739344,
+          "timesPick": false
+        },
+        {
+          "name": "Lynne LeBlanc",
+          "location": "",
+          "body": "Nothing says \"power to the people\" like mega-donors making up the agenda with their cash.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791739280,
+          "timesPick": false
+        },
+        {
+          "name": "Beatriz Kant",
+          "location": "",
+          "body": "What I see is that many Muslim donors give only to those who promise to bring down Israel in the Senate or the House of Representatives. That seems to be the main concern: nothing to do with domestic politics. In contrast, I notice many Jewish donors supporting various causes and domestic policies, since they are Americans and behave as such. It’s curious how, when people like Al Sayed talk about AIPAC, I think that’s the model they’re pursuing for certain Arab countries. They criticize support for Israel, but they base ALL of their policy on demonizing it.",
+          "recommendations": 2,
+          "replyCount": 2,
+          "timestamp": 1791738904,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/opinion/cornell-jane-doe-vietnam-my-lai.html",
+      "totalComments": 800,
+      "comments": [
+        {
+          "name": "pat bourke",
+          "location": "ottawa canada",
+          "body": "And God said, \" can you not find ten just men in this country?\" And the leaders hung their heads  in shame.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1791740869,
+          "timesPick": false
+        },
+        {
+          "name": "Art Seaman",
+          "location": "Pennsylvania",
+          "body": "What is really infuriating is the right wing pundits who are blaming the woman. Someone needed to say no, and Mr. French points that out in detail. \nThe whole affair is smarmy and a damning of the frat system, the university and the legal system that essentially looked the other way and hoped it would all go away.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1791740499,
+          "timesPick": false
+        },
+        {
+          "name": "Madoc",
+          "location": "East",
+          "body": "Nicely written Mr. French. \n\nBut when passing judgment on ALL of these boys, I think you avoid some important points. \n\nFirst, you call them all men. They are not adult men, they are boys. Yet you call Jane doe a girl. Why? Do you believe Jane Doe is young and naive and these boys are really adult  men— they should know better ? \n\nSecond, you indict the entire group of boys in one fraternity as lacking moral character. I think that is unfair and an example associative guilt that is plaguing so many societies today. Maybe many did not even see the snap chat or didn’t believe it etc… \n\nThird, you say all these boys are depraved, lacking a norm of high moral courage to stop things. Yet, you omit acknowledging the many complex societal issues at play, particularly for young people. Who is responsible for that? These boys? Society? Parents? \n\nIt’s easy to want to paint with such broad a brush for a nice opinion piece. But I think you lack the granularity this incident deserves.",
+          "recommendations": 3,
+          "replyCount": 1,
+          "timestamp": 1791740491,
+          "timesPick": false
+        },
+        {
+          "name": "nes",
+          "location": "ny",
+          "body": "The Cornell case is part of a larger culture that does not care about women. This is a culture that not only tolerates sexual harassment and assault (including violence and rape within intimate relationships, including marriage) but also denies women the right to make their own reproductive choices, pays them less than men for the same work, fails to provide parental leave and child care, and makes health care prohibitively cumbersome and expensive to access. \n\nReal care for women would entail seeing them as humans equal in all ways to white men.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1791740490,
+          "timesPick": false
+        },
+        {
+          "name": "Kelly Grace Smith",
+          "location": "Fayetteville, NY",
+          "body": "This isn't just about what porn teaches our young men about sex, it is about what our young men are taught about women.\n\n(By the way, porn \"teaches\" all men, young and old.)\n\nFor a moment, iImagine a young man in that room being sodomized and raped by a group of frat boys...\n\nCan't really imagine that? There is a reason for that and it has everything to do with how we as a society view...the value of women.\n\nAnd yet, this is the year 2026. \n\nThere is a deeper question...a question ringing out loudly all across our society, from Cornell and Tennessee, to the \"detention\" prisons where the human beings who used to tend to our farms and our factories, our restaurants and our backyards, are incarcerated in wholly cruel and inhumane conditions...the vast majority of them with no criminal record.\n\nWhat about...our humanity? Our shared humanity?\n\nWhat about the humanity, not only of the woman victim at the Cornell fraternity house, but of all those men who engaged in those acts and all the men who saw the communications that night and subsequent to that night?  \n\nAt the most profound level - should we ever choose to get real about this, should we ever stop the incessant intellectualizing about it - one thing is unalterably true...\n\n\"Without our humanity - our shared humanity - we will possess nothing of value.\"",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1791740489,
+          "timesPick": false
+        },
+        {
+          "name": "Sumner Brooks",
+          "location": "Brooklyn",
+          "body": "I'm all in favor of personal responsibility, and I understand why Mr. French doesn't want to adjudicate legal responsibility here, but we are living in a time of supreme unaccountability for those at the top (like the frat brothers at Chi Phi), and until that changes, personal responsibility isn't going to prevent these abhorrent events.\n\nAs a society, we seem unable to hold accountable white men who victimize women and people of color. William Calley, who led his men to slaughter hundreds at My Lai, was convicted at court martial and sentenced to life imprisonment. The vast majority of Americans, however, were furious at the verdict, which was subsequently reduced to 20 years, then 10. He served a total of three years under house arrest.\n\nWe currently have a Secretary of War in Pete Hegseth, who revels in committing serial mass murder on fishermen off the coast of South America, and where is the outrage?",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1791740488,
+          "timesPick": false
+        },
+        {
+          "name": "Sally",
+          "location": "Somerville, MA",
+          "body": "I’m quite sure her ordeal did not come  to an end that morning…",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1791740488,
+          "timesPick": false
+        }
+      ],
+      "title": "Four Hours and Three Minutes in Ithaca",
+      "byline": "David French",
+      "publishedAt": "October 11, 2026",
+      "summary": "On the most traumatic night in a young woman’s life, a good man could not be found.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/11/opinion/11french-column1/11french-column1-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html",
+      "totalComments": 467,
+      "comments": [
+        {
+          "name": "CD",
+          "location": "OH",
+          "body": "She should have charged him 18% interest on the unpaid bill.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1791740567,
+          "timesPick": false
+        },
+        {
+          "name": "Steve",
+          "location": "Oklahoma",
+          "body": "Let's reflect: Mr. Hamiltons  post said he paid double the amount of the debt, yet his actual payment was materially less than double the debt. So he either lied about the actual amount paid to make good on the debt or he is not very good at math. That's sad.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1791740541,
+          "timesPick": false
+        },
+        {
+          "name": "Cynthiana",
+          "location": "Philadelphia",
+          "body": "Has Trump ever paid the city of El Paso what he oews them?",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1791740437,
+          "timesPick": false
+        },
+        {
+          "name": "Matthew Wilson",
+          "location": "Portland, OR",
+          "body": "I hope he calculated for inflation. That would put the bill at $1293 according to the Bureau of Labor Statistics CPI inflation calculator.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791739989,
+          "timesPick": false
+        },
+        {
+          "name": "Jack Toner",
+          "location": "Oakland CA",
+          "body": "What a perfect image of a Trumpy, law suit happy for anyone who owes him a cent but happy to stiff a hard working baker. No idea how this happened! Well, pal, do you plan to find out & fire the person or persons responsible? Don't be silly.",
+          "recommendations": 5,
+          "replyCount": 1,
+          "timestamp": 1791739558,
+          "timesPick": false
+        },
+        {
+          "name": "Muskrat",
+          "location": "NH",
+          "body": "Apparently the only interest Marshall is interested in is 18%.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1791739480,
+          "timesPick": false
+        },
+        {
+          "name": "Son Of Liberty",
+          "location": "nyc",
+          "body": "While there are those who will condemn Senator Roger Marshall for this oversight, this is completely uncalled for. As a Republican who stands by our president, Senator Roger Marshall is a moral and pious man. Our president has a long record of unpaid contractors, mostly from his casino and real-estate years. A USA Today investigation found hundreds of liens, judgments, and at least 60 lawsuits from contractors, painters, and plumbers who said they weren't paid. At the Taj Mahal, 253 subcontractors were reportedly shorted $69.5 million, and some waited three years and got about 30 cents on the dollar. One cabinet maker was never paid an $83,600 bill, and a $30,000 painting bill at Doral was denied. His casino companies filed Chapter 11 four times (1991, 1992, 2004, 2009), and bondholders and shareholders lost more than $1.5 billion.  So while Senator Roger Marshall may have not paid a small bakery bill, he has been part of two major economic wins for our nation: First economic growth is finally slowing, falling short of the dangerous 3% target. Second, the deficit continues to rise, reaching $3.1 trillion by 2036, or 120% of gross domestic product. All of which makes Kansans feel good about now paying a penny more for gasoline and groceries.  For the Republican Party in Kansas, this is about promises made and promises kept.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1791739409,
+          "timesPick": false
+        },
+        {
+          "name": "Isabel Roubidoux",
+          "location": "Overland Park, KS",
+          "body": "Marshall and his campaign team will minimize the importance of this matter, but it's a perfect reflection of his tenure as our senator. His mission is his election, his priority is his campaign, and once the goal is reached there is no interest in looking back at the people of Kansas. Without interest, there's no effort, either.\n\nThe only reason he's rectified the situation is because it's no longer behind him; it stood in the path of reelection.\n\nThe most partisan Republicans will still support the ticket, but many Kansans have lost faith in Marshall.",
+          "recommendations": 12,
+          "replyCount": 0,
+          "timestamp": 1791738395,
+          "timesPick": false
+        }
+      ],
+      "title": "A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later",
+      "byline": "Tim Balk",
+      "publishedAt": "October 10, 2026",
+      "summary": "Senator Roger Marshall, a Kansas Republican in a difficult race, paid an old campaign debt for cookies, muffins and brownies after a baker’s story went viral online.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/03/12/multimedia/00dc-miller-04-mhwp-copy/00dc-miller-04-mhwp-copy-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/opinion/clutter-spring-cleaning-psychology.html",
+      "totalComments": 408,
+      "comments": [
+        {
+          "name": "Peter J. Miller",
+          "location": "Ithaca, NY",
+          "body": "I wish this piece had focused a bit on what to do with disposed things. \nSome people have trouble getting rid of unneeded things that are not recyclable, donatable or saleable because they hate to think of the stuff rotting in a dump for hundreds or thousands of years.",
+          "recommendations": 28,
+          "replyCount": 0,
+          "timestamp": 1791734774,
+          "timesPick": false
+        },
+        {
+          "name": "Richard",
+          "location": "New Brunswick, NJ",
+          "body": "Perceptions about objects vary among different people.  Some people are very sentimental about old stuff, while others toss them without a second thought.  I've seen many examples of both.\n\nDecluttering can be both emotionally difficult--to let go of old memories and connections to now-gone loved ones.  But also physically difficult dealing with heavy old books and papers and dusty, even mildewed old stuff.  Some communities have restrictions on how much or what kinds of trash can be placed out for collection, making disposal harder.\n\nAs the baby boomers age and face downsizing, this will be an issue.  Some folks will be reluctant to part with old objects and will need gentle encouragement.",
+          "recommendations": 11,
+          "replyCount": 0,
+          "timestamp": 1791734401,
+          "timesPick": false
+        },
+        {
+          "name": "Mister Whippy",
+          "location": "Brighton",
+          "body": "The article inspired me to find and dispose of 2 bin bags of, um, surplus which included: decades old payslips, old cc statements, a 25 year old dead laptop. I also sold old comics on eBay.  \n\nSincere thanks for the strategies.",
+          "recommendations": 14,
+          "replyCount": 0,
+          "timestamp": 1791734315,
+          "timesPick": false
+        },
+        {
+          "name": "Cailín",
+          "location": "PDX",
+          "body": "Excess stuff makes me anxious. For me, Hell would not be represented by flames and demons wielding pitchforks, but rather endless shelves lined with knickknacks. I spent many hours clearing out my parents' home when my widowed mother moved to assisted living. She was a tidy hoarder, with a neat home where every cupboard and closet was full to the door. I didn't want to leave my kids the same experience and began decluttering and \"Swedish Death Cleaning\" as a hobby when I retired during the pandemic. I find it restful and affirming. Yes, some objects are imbued with meaning, but most are not. You are not your stuff.",
+          "recommendations": 20,
+          "replyCount": 0,
+          "timestamp": 1791734270,
+          "timesPick": false
+        },
+        {
+          "name": "Jane",
+          "location": "cascadia",
+          "body": "Two years ago my husband and I sold the family home and moved downtown to a smaller condo.  We loved the house, but we love the condo even more.  We got rid of half of our stuff - unneeded furniture to our kids, nephews, nieces and Community Warehouse.   Other things to Goodwill and friends who wanted specific things.  The hardest things were my books.  I had build an entire wall of gorgeous and not so gorgeous well-loved books, many of which had crossed the country with me several times in 50 years -- \"English Romantic Writers\" from college with notes on Shelley, Keats and Byron in the margins.  My books on Catherine de Medici, who I had researched extensively.  Could I really get rid of them?  Should I?  Would I?  Reader, I did.  I kept enough meaningful ones for the shelves we now have - ones like the Golden Treasury of Myths and Legends that my parents gave me at age 9.  Travel books that would still be useful, along with French and Italian language books. Every beautiful art book stayed, as did books on opera and music.  Everything else went - crumbly paperback Faulkners and Edith Whartons (notes in the margins, pages almost orange from age).  I regret a few - a complete set of Dickens, some cookbooks that contained memories of great dinners past, but other than that, it is good.  I like to think my books found a happy home where someone new can experience the joy they brought to me.",
+          "recommendations": 24,
+          "replyCount": 0,
+          "timestamp": 1791734262,
+          "timesPick": false
+        },
+        {
+          "name": "virginia",
+          "location": "Texas",
+          "body": "While there's much to be said for the longing to hold on, I discovered with my daughter that the inability to declutter may be a more distinct neurological inability that actually has to do with mathematical thinking as well as some other major types of thinking: the inability to sort and categorize. Once this basic mental operation has been made, decisions about keeping or letting go are much easier to make. But without this ability, decluttering is impossible, because each item presents the entire the challenge to the person attempting to declutter.",
+          "recommendations": 15,
+          "replyCount": 0,
+          "timestamp": 1791734222,
+          "timesPick": false
+        },
+        {
+          "name": "Peggy Datz",
+          "location": "Berkeley, CA",
+          "body": "I realize I've held in the back of my mind some future scene where I go through old photos, books, etc. with my children or grandchildren.  Time to lay that possibility away: at 84, I have neither children nor grandchildren. Time to first purge some unrealistic assumptions.",
+          "recommendations": 18,
+          "replyCount": 0,
+          "timestamp": 1791733969,
+          "timesPick": false
+        },
+        {
+          "name": "A older feminist & Mother",
+          "location": "NY",
+          "body": "I appreciate this article but I also find some of its assumptions unscientific shall we say. The idea that living a \"spare\" life is in fact intellectually, emotionally etc. nourishing. \n\nI've never found it so. I've found it a visual dessert. Most people, especially designers of \"spare\" rooms have not the least idea how to use negativee space.\n\nAdditionally the army of the spare, keep turning utilitarian rooms into places of community so that a person can't put  necessary items out. Thus spaces have to get bigger and bigger (and more expensive) in order to have both proper work space and the right look.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791733802,
+          "timesPick": false
+        }
+      ],
+      "title": "The Neuroscience of Decluttering",
+      "byline": "Emily Falk",
+      "publishedAt": "October 11, 2026",
+      "summary": "Decluttering is a challenge for many Americans, but neuroscience indicates we can make the process easier on ourselves and our loved ones.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/11/opinion/11falk/11falk-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/business/autos/americas-ev-downturn-hides-a-silver-lining-charging-is-quietly-getting-better-8e44ef4d",
+      "title": "America’s EV Downturn Hides a Silver Lining: Charging Is Quietly Getting Better",
+      "byline": "Patrick George",
+      "summary": "Public EV chargers continue to be installed at a steady clip, even as the industry faces a tough road to long-term profitability.",
+      "section": "Business",
+      "thumbnail": "https://images.wsj.net/im-79178797/social",
+      "modifiedAt": "2026-10-11T00:00:00.000Z",
+      "publishedAt": "2026-10-11T00:00:00.000Z",
+      "totalComments": 356,
+      "comments": [
+        {
+          "name": "Brian P",
+          "location": "",
+          "body": "The story fails to take into account inflation and interest rates are over 7%. I would love to purchase a new truck but I’m not paying that much. I have always lived by the notion that a car payment over four hundred and fifty dollars is too much. The reality of paying upon a depreciating interest payment nightmare is not comprehensible. I’m not in my car very much. The average day is 50 minutes to work and back plus a daily trip to the gym.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740616,
+          "timesPick": false
+        },
+        {
+          "name": "P Minton",
+          "location": "",
+          "body": "The US is dangerously short sighted on EV cars. They’re the future, Trump just delayed it. Us car manufacturers are also short sighted. They are going to get their butts kicked by not investing in EV. China has it all over us.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740531,
+          "timesPick": false
+        },
+        {
+          "name": "Alex A",
+          "location": "",
+          "body": "Until charging times are short and the charging infrastructure robust, EV's are not for everyone, or for that matter not for most of us.\n\nER-EV's are a viable transition technology.  You can charge them at home overnight with a standard AC outlet or an inexpenisve level 2 outlet; this will be fine or errands or commuting.  When you travel just gas'em up.\n\nPHEV's also offer this versatility, but they have less electric range and more mechanical complexity.\n\nIt's a real shame there are no ER-EV's available  in the US today.  GM pioneering this technology with the Volt, but discontinued the Volt in 2019.  If an updated version were sold today, it would likely sell well.  GM has fine engineering, but the marketing folks that control vehicle production roadmaps seem awfully nearsighted.\n\nFinally, the nation needs standards for bidirectional charging, so that interested car owners can use their vehicles to provide power to their  homes during an outage, or perhaps help support the grid itself when regional power demand is high.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740335,
+          "timesPick": false
+        },
+        {
+          "name": "Bryan Dorsey",
+          "location": "",
+          "body": "Thank you President Biden!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740229,
+          "timesPick": false
+        },
+        {
+          "name": "Ladybug Benson",
+          "location": "",
+          "body": "gas prices, driven up more than 50% this year by the war with Iran\n\nIt's less expensive to charge an EV at home and a lot more convenient than going to a gas station with a gas powered vehicle.  However, I'm glad to hear that the number of EV charges are growing. Maybe soon we will feel comfortable enough to take our EV on a road trip as it will be easier to find places to charge it.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739543,
+          "timesPick": false
+        },
+        {
+          "name": "Jodee Molina",
+          "location": "",
+          "body": "Chinese tech can outperform Tesla any day. The electric vehicles available to us are garbage compared to some of the Chinese brands.  But hey, when you got a trillion dollar as behind you, you can make whatever rules come to you for your benefit.\n\nP.S.  written by Rodolfo Molina",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739418,
+          "timesPick": false
+        },
+        {
+          "name": "Mark Sturgis",
+          "location": "",
+          "body": "EVs will not become a large part of the auto market in the US until gas gets to $7-$10 per gallon and stays there for years. \n\nBefore that happens, we will have tens of millions of robo taxis and can get rid of at least one of two family cars ?",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791738853,
+          "timesPick": false
+        },
+        {
+          "name": "Mark Otte",
+          "location": "",
+          "body": "I live in an apartment complex. Charging from home is not an option. Thus, hybrid is the best approach for the (many) people like me.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791738733,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/us/arizona-alma-hernandez-threats-violence.html",
+      "totalComments": 330,
+      "comments": [
+        {
+          "name": "Brother of the Bear",
+          "location": "Calistoga, CA",
+          "body": "Anger and Treat Are Born of Desperation\nPoliticians are obsolete as fundamental problem solvers. The petty 'tit for tat' games they play delay critical, logical, rational response to the accelerating realities of human dominance on Earth. \nThis is where emotionless A.I. can quickly offer rational solutions into the deeply flawed process of human self-interest in decision making. \nIt is encouraging to read that A.I. is increasingly being employed in governments to find rational, logical solutions quickly. \nThe A.I. Genie is out of the bottle and is never going back inside.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791738655,
+          "timesPick": false
+        },
+        {
+          "name": "Bill E Ganna",
+          "location": "4 Corners",
+          "body": "I am from AZ and have been GOP voter since I could vote, independent though after 2016.  Basically raised in the right lean, religious, gun rights, etc...realm.   It is a complex mix now of move in's from everywhere, including other countries,  east coasters tend to be on the liberal side, CA move ins tend to be orange county republican, they almost go too far pretending to be gun toting maga, although that has died down.  Southern AZ where grandparents were from and the Rez's tend to lean dem.  But the fringe that is basically incapable of independent thought and intellectual progress, are the sort of isolated militant  all the way to the basic contractor guy that loves guns so much, he has gun stickers representing his family on the back of his truck or Expedition. This group won't read the NYtimes or the .45times for that matter. They do not read.  They want to play war fighter and have this fake patriotism expressed by anger and intimidation and firearm threat.  This group is devoid of any constitutional knowledge except they remind folks with their bumper stickers that you can pry their 9mm from their cold dead hands, referring to the  2nd amendment. Although they cannot define \"amendment\".  This group is the wrench in the cog of progress, regressionists that perpetuate the slide to uncivility and useless intimidation.",
+          "recommendations": 18,
+          "replyCount": 0,
+          "timestamp": 1791738650,
+          "timesPick": false
+        },
+        {
+          "name": "Sportsman",
+          "location": "Fort Lauderdale, Fl",
+          "body": "The Internet + frequent hate speech/racism/violence + anonymity/globalization = threats/violence squared.\n\nTrump’s statement about MTG: something like: she’s a seditious traitor, and that she deserves the threats against her and her kids, should be felony menacing. No one should get away with this rhetoric. He has debased society. Cursing now occurs frequently on CNN, Fox, MSNBC etc. It’s now occurring regularly in debates and rallies.",
+          "recommendations": 19,
+          "replyCount": 0,
+          "timestamp": 1791738645,
+          "timesPick": false
+        },
+        {
+          "name": "Ed",
+          "location": "Washington DC",
+          "body": "As reported today in NYT, most elected officials are receiving threats from constituents. Very serious threats over the past two years. Why? A number of reasons, for sure. But a big one happens to sit at the top of our executive branch. \n\nLet’s take Marjorie Taylor Greene, former Republican House member from Georgia, for example. She has received threats galore. \n\nVoices that sounded like demons, saying they wanted to dig my brains out of my head with a screwdriver, or other calls where they said they wanted to smash my head open on a curb.\n\nHer breaking point came after the president called her a “traitor.” Of the torrent of threats that followed, one stood out. It was aimed at her son.\n\n“That’s the one that bothers me on a visceral level,” she said.\n\nMs. Greene reached out to Mr. Trump, hoping for compassion from a president she had stood by for years.\n\nTrump’s five word response: “Your fault, you deserve it.”\n\nRepublican voters: is this really what you want in our political leadership? Think about who you are, and what kind of world you want to leave your sons and daughters. Then vote for who you really think will get our nation there.",
+          "recommendations": 16,
+          "replyCount": 0,
+          "timestamp": 1791738586,
+          "timesPick": false
+        },
+        {
+          "name": "Frustrated Democrat",
+          "location": "Hudson Valley",
+          "body": "Was there this level of threats against politicians BEFORE Trump?  Would be interesting to see the statistics?  Would also be interesting to see how many of these threats have been made against Democrats as opposed to Republicans?  Although we all know what these statistics will show.  Trump's nastiness and vindictiveness is like nothing we have ever seen in a president.  And he has made what is not normal become \"normal\" for his most ardent supporters.  MAGA models the behavior of their cult leader.  Have we forgotten January 6th?",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1791738420,
+          "timesPick": false
+        },
+        {
+          "name": "Flowervine",
+          "location": "Virginia",
+          "body": "The president is a bully. That’s not a secret, and he is quite proud of that fact. What made this orders of magnitude worse was the Roberts court putting him above the law. He is now unchecked, and seeing that there are no consequences to being a bully (even if there are, in theory, for everyone else) appears to give many people permission to give in to their darker instincts. This was all predictable, and predicted. The only question left is will the citizens finally decide to turn this around while there is still a democracy left to save?",
+          "recommendations": 27,
+          "replyCount": 0,
+          "timestamp": 1791737262,
+          "timesPick": false
+        },
+        {
+          "name": "Redone",
+          "location": "Chicago",
+          "body": "For those saying this isn’t America, I say it definitely is. Political violence went slightly dormant but Trump has reignited it. Weren’t the Capitol insurrectionists “beautiful people?” Didn’t he pardon them all? Think back to the 1960’s when churches were bombed, voting rights advocates were slain, marchers in Selma were ambushed by baton wielding law enforcement and Medgar Evers was shot dead in his driveway in front of his wife and children. The message was clear, Blacks shouldn’t try to vote. This was government sanctioned political violence. Bannon and Trump have brought it back.",
+          "recommendations": 28,
+          "replyCount": 0,
+          "timestamp": 1791737165,
+          "timesPick": false
+        },
+        {
+          "name": "Craig",
+          "location": "New Mexico",
+          "body": "This is what happens when civil discourse collapses.  When many politicians play to the worst elements of human emotion.  When issue-based polarization dominates our culture.  When media lies knowingly and deliberately to increase their own influence.\n\nThis has nothing to do with guns.  New laws there won't address the problem.  The problem is hate.  Our little (and sometimes not so little) echo chambers reflect and amplify it.  Hate engenders fear.  Fear leads us to withdraw into our chambers, and creates a vicious cycle of amplification.  At some point, some people will break.\n\nFirst things first.  Free speech should not include hate speech.  We have to move past hate speech before we can have meaningful dialogue.  Our political messaging, especially by the PACs who are accountable to no one, has to be reined in.\n\nBut...this won't happen.  Free speech is a cornerstone, but it's also a major part of the problem.  Reining in the abuses of speech has consistently failed.",
+          "recommendations": 30,
+          "replyCount": 0,
+          "timestamp": 1791735264,
+          "timesPick": false
+        }
+      ],
+      "title": "After Many Threats, an Arizona Lawmaker Asks: ‘Is It Really Worth It?’",
+      "byline": "Reis Thebault",
+      "publishedAt": "October 11, 2026",
+      "summary": "Threats have altered the lives of State Representative Alma Hernandez, her family, friends and neighbors. They have even transformed her policymaking.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/05/us/05nat-fear-arizona-promo/05nat-fear-arizona-1-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/us/politics/elections-political-violence-harassment.html",
+      "totalComments": 314,
+      "comments": [
+        {
+          "name": "Thomas Mac",
+          "location": "Iowa",
+          "body": "I remember as a young journalist in the mid 80s admiring many of the people who took on elected roles in government. While maybe not always “the best and the brightest,” they almost always were well intended, cared about their communities and had open minds. But it was often thankless work and it wasn’t long before I realized the people we needed most were becoming least willing to raise their hand. And now in this time when cruelty, bullying and even violence are cheered and rewarded, how much less likely are we to have good people with good hearts taking on these roles? It’s a vicious cycle that may never be broken, and certainly not until the Trump regime is roundly rejected and made accountable.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791740890,
+          "timesPick": false
+        },
+        {
+          "name": "Melanie",
+          "location": "NYC",
+          "body": "I am a teacher and teachers have lived in fear for many years. Politicians have refused to pass meaningful control. Now they understand the fear and anxiety we have felt for a long time. No one is immune.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791740872,
+          "timesPick": false
+        },
+        {
+          "name": "Neil Bellinson",
+          "location": "Forest Hills",
+          "body": "Is this what happens when our nominal representatives are not representing us?\n\nI suspect that those who would rule us via a divide and conquer strategy are tickled pink.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1791740688,
+          "timesPick": false
+        },
+        {
+          "name": "Clyde Cortright",
+          "location": "Weymouth Ma",
+          "body": "Never fear. Kash Patel will get to the bottom of this emergency.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1791740625,
+          "timesPick": false
+        },
+        {
+          "name": "SBF",
+          "location": "New York City",
+          "body": "Marjorie Taylor Greene shared that after reaching out to the occupant of the White House to alert him to the threats she and her family received - she got a five-word reply from the president: “Your fault, you deserve it.” \n\nThere is no bottom in today's United States. And, more disgraceful, taxpayers are footing the bill for security for the \"first\" family.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1791740621,
+          "timesPick": false
+        },
+        {
+          "name": "dy",
+          "location": "nyc",
+          "body": "What happened to Kirk was horrific, and bad for America.\n\nBut the right wing immediately claimed that \"democrats\" killed him--- even though not a single prominent elected democrat or liberal commentator celebrated the murder. In fact, they all condemned it. Sure, a few random keyboard warriors online celebrated it-- but to pretend that random people online represent \"democrats\" or \"liberals\" writ large is the worst kind of lie. \n\nMeanwhile, when those democratic elected officials were killed or Josh Shapiro's home firebombed (or when Paul Pelosi was attacked with a hammer by a right wing lunatic), commentators and politicians on the right were either silent or joked about it. Not just randos online; prominent right wing commentators and Republican elected officials. That's the difference. And that's why I'll never play this \"both sides\" game when it comes to violent rhetoric.",
+          "recommendations": 14,
+          "replyCount": 0,
+          "timestamp": 1791740601,
+          "timesPick": false
+        },
+        {
+          "name": "Tacos & Beer",
+          "location": "Coastal Washington.",
+          "body": "Since when is Charlie Kirk considered an elected public official? Please explain.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1791740578,
+          "timesPick": false
+        },
+        {
+          "name": "Aurora Borealis",
+          "location": "US",
+          "body": "I can't get behind people making threats and causing politicians and their families to live in hear. But also, maybe they should take it as feedback about the quality of their performance. They are the people responsible for the partisan fights in congress. Framing the other side as stupid or evil and all their policy proposals as bad, and then arguing and fighting without ever accomplishing anything is the root cause. Maybe they could start talking to each other instead of for the sound bites and memes and move us forward. And also maybe the Republicans could start demonstrating that violence isn't acceptable. They reinforced it by normalizing J6 and continue to normalize racist rhetoric and homophobic slurs, while applauding ICE violence. I wonder if they consider what they are modeling?",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1791740577,
+          "timesPick": false
+        }
+      ],
+      "title": "America’s Elected Officials Are Living in Fear",
+      "byline": "Nick Corasaniti and Haiyun Jiang",
+      "publishedAt": "October 11, 2026",
+      "summary": "A Times investigation has found that violent threats have become a new normal among public officials, reshaped private lives, cost millions in security and pushed people out of office.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/07/us/POL-FEAR-PROMO-STILL/POL-FEAR-PROMO-STILL-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/business/media/justice-department-probes-tv-networks-over-suspension-of-trump-press-pool-coverage-a8bc65ce",
+      "title": "Justice Department Probes TV Networks Over Suspension of Trump Press-Pool Coverage",
+      "byline": "Joe Flint and Dave Michaels",
+      "summary": "The major TV networks that rotate coverage of the White House learned of the investigation on Friday.",
+      "section": "Business",
+      "thumbnail": "https://images.wsj.net/im-79946193/social",
+      "modifiedAt": "2026-10-11T12:50:00.000Z",
+      "publishedAt": "2026-10-11T00:54:00.000Z",
+      "totalComments": 288,
+      "comments": [
+        {
+          "name": "WILBUR VELARDE",
+          "location": "",
+          "body": "Another easy 1st amendment loss by Mr. Trump a-coming.   But then again we're talking about threats and intimidations by our gangster-in-chief... more of the same",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741008,
+          "timesPick": false
+        },
+        {
+          "name": "John Lindauer",
+          "location": "",
+          "body": "These networks used to be news networks; now they are entertainment networks featuring talk shows.  Disney and Six Flags ought to have equal access and be part of the \"news\" networks.",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791740787,
+          "timesPick": false
+        },
+        {
+          "name": "Jay Kraus",
+          "location": "",
+          "body": "Weaponizing the DOJ on steroids.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739634,
+          "timesPick": false
+        },
+        {
+          "name": "John Thompson",
+          "location": "",
+          "body": "The bias in all media is evident. This includes ALL (Fox, CBS, NBC, ABC, CNN, MSNOW). Most Americans can determine the gray area, but some only see left vs right. The effort to divide Americans is working and part of the plan. Moderate, but strong leadership is needed on both sides of the aisle. The threats to America are from the outside and inside. At some point we will be forced find and support common goals. Otherwise we will not see another 250 years. Sad, but true.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791737646,
+          "timesPick": false
+        },
+        {
+          "name": "John Sledziewski",
+          "location": "",
+          "body": "If you can't handle scrutiny, don't make claims you can't defend.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791737239,
+          "timesPick": false
+        },
+        {
+          "name": "Thomas Hornyak",
+          "location": "",
+          "body": "Let me get this straight.  1) News  agencies are required to cover the President and 2) the President can refuse their coverage if he doesn’t like their coverage.  Does that then  make the next logical step,, since both 1and 2 must occur, that if news agencies give negative coverage they will be breaking the law because the President invokes no. 2 thereby they don’t fulfill no. 1?  Sure, sounds stupid, but from what I've seen just this week…",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791736537,
+          "timesPick": false
+        },
+        {
+          "name": "Paul L",
+          "location": "",
+          "body": "We have the ambassador to Greece actively soliciting bribes and this is where the Trump Dept. of Justice decides to spend its time.  SMH",
+          "recommendations": 3,
+          "replyCount": 1,
+          "timestamp": 1791735688,
+          "timesPick": false
+        },
+        {
+          "name": "Erin Ura",
+          "location": "",
+          "body": "Huh. Didn't this very editorial board assure us Todd Blanche would be the epitome of professional conduct should he be confirmed? What a joke. The Murdochs are a cancer just like Trump.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791735259,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb",
+      "title": "Starving Ukrainians Are Risking Death to Escape Their Front-Line Town",
+      "byline": "Nikita Nikolaienko and Ian Lovett",
+      "summary": "All year, food supplies have dwindled as mines and drones made the road increasingly impassable.",
+      "section": "World",
+      "thumbnail": "https://images.wsj.net/im-69011910/social",
+      "modifiedAt": "2026-10-11T02:00:00.000Z",
+      "publishedAt": "2026-10-11T02:00:00.000Z",
+      "totalComments": 245,
+      "comments": [
+        {
+          "name": "Errol Andrew",
+          "location": "",
+          "body": "Trump can't let this just continue forever. EU and Zelensky may want to fight into the 2030s but Trump's last two years will be hamstrung if he doesn't resolve this Ukraine problem soon.\n\nSKY just reported Trump said there is an energy ceasefire agreement. Burnham has been crowing so much the last 24 hours about how UK \"stands by Ukraine\" I am wondering if the one functional Royal Navy ship will be sent after the Russian tanker headed to our coast? Will our Navy sink the British warship if it tries to intervene?",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791734528,
+          "timesPick": false
+        },
+        {
+          "name": "B Walker",
+          "location": "",
+          "body": "What a monster Trump is, to be supporting this cruelty. When is the WSJ EB finally going to apologize for pulling the wool over American eyes about the \"Russia hoax,\" which was of course no hoax?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791733579,
+          "timesPick": false
+        },
+        {
+          "name": "Alejandro Aghayan",
+          "location": "",
+          "body": "Ukrainians are outstanding achievers and humanists. They deserve a government that reflects their refinement. Zelensky and his entourage are a liability for everyone everywhere. That's what happens when we trigger a coup d'état and install losers. Our own gvt needs upgrading too.",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791733531,
+          "timesPick": false
+        },
+        {
+          "name": "Edward Shattuck",
+          "location": "",
+          "body": "I've never understood why this war began in the first place. It seems that Putin thought that Ukraine would be a pushover and now doesn't know how to get out if it without losing face.",
+          "recommendations": 2,
+          "replyCount": 1,
+          "timestamp": 1791733104,
+          "timesPick": false
+        },
+        {
+          "name": "Daniel Perez",
+          "location": "",
+          "body": "I’m waiting for people in the US to take to the streets with signs, “I support Ukraine, I gladly pay more for Diesel and gasoline!”",
+          "recommendations": 0,
+          "replyCount": 3,
+          "timestamp": 1791732870,
+          "timesPick": false
+        },
+        {
+          "name": "Neil Marathe",
+          "location": "",
+          "body": "Yeah, all the while corrupt in Kiev keep pocketing millions that we are donating to these very same people.\n\nThis forever and \" absolutely irreplaceable.\" president allows these corrupt to flee Ukraine, and live happily thereafter in EU.\n\nAnd then he lives in the president's house forever so that he can lecture Americans on why we must help them.\n\nAnd he wants everybody to believe that he is not corrupt.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791732557,
+          "timesPick": false
+        },
+        {
+          "name": "Luke Chung",
+          "location": "",
+          "body": "This is what Donald Trump is helping happen in Ukraine. For few cents off diesel, he is helping Russia keep doing this to Ukrainians and perpetuate this aggression.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791732399,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+      "totalComments": 226,
+      "comments": [
+        {
+          "name": "Daniel",
+          "location": "Illinois",
+          "body": "\"Even foreigners often avoided it, pointing at the ceiling when they wanted to refer to China’s president.\"\n\nFor those not aware, that is a running joke for foreigners in China, because it's a running joke that whatever hotel you're in is going to be bugged.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791740820,
+          "timesPick": false
+        },
+        {
+          "name": "Ron Coleman",
+          "location": "Detroit",
+          "body": "That empty high rise photo is awfully dystopian in itself.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791740818,
+          "timesPick": false
+        },
+        {
+          "name": "2REP",
+          "location": "Washington state",
+          "body": "Look at the NYT domestic headlines over the past year. Look at them just over the past month. Look at them today. What are we doing writing about China's paranoia while our own nation and society are deteriorating an such alarming rate? And think--we voted ourselves into the our condition.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1791740816,
+          "timesPick": false
+        },
+        {
+          "name": "Gowan McAvity",
+          "location": "Bedford, NY",
+          "body": "I always think of Tank Man standing down a column of tanks alone. Giving others precious moments to flee for their lives while giving up his. Shames the whole CCP even now.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791740814,
+          "timesPick": false
+        },
+        {
+          "name": "Don",
+          "location": "Wa",
+          "body": "Haha.  Nice. Yes, the economy will determine the fate of China, not cameras and guns. But  I suppose everyone is scared of red ink.  I was ten days in China in 1983 and everyone was friendly and what a low budget traveler needed was available.  Also, no cars, bikes everywhere, bad roads full of potholes, and Tienamen Square and the Forbidden City fully open.  I walked straight through to the end where two trees intertwined.  I had a bike and rode wherever I wanted to.  This transition to surveillance state seems as much a political necessity of a repressive police state as it is of the technological capacity to do it.  Traffic cams, and private home security cams like I have n my house do the same thing.  Of course, China's population has doubled in that time.  How else are they going to keep in power except by controlling every move?  A lesson for everyone.  Don't try to control it.  It won't be so slick and new.  Just more real.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791740809,
+          "timesPick": false
+        },
+        {
+          "name": "Deborah",
+          "location": "Canada",
+          "body": "I wonder if the author realizes how much American paranoia resembles that of China?",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791740780,
+          "timesPick": false
+        },
+        {
+          "name": "Michael McBrearty",
+          "location": "New York, NY",
+          "body": "Such negative stories about China and Russia are as necessary as any drone or missile to justify the \"skyrocketing\" (VP Vance) Western increases in military spending, preparing for armed conflict with one or both of these countries, while cutting back on such basic domestic social needs as health, housing and education.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791740746,
+          "timesPick": false
+        },
+        {
+          "name": "Iz",
+          "location": "Toronto",
+          "body": "The focus here has been on the lack of privacy, but there is a more terrifying issue that seems to be neglected. There is a lack of due process. The Chinese government can take you at anytime, throw you into a cell, make your life extra miserable given even those conditions, threaten your relatives & friends, and do that with no recourse to any type of court where you can legitimately make your case. The only good thing I can say about that is the rich and powerful are treated the same, so in that respect they are egalitarian.\nThe federal legislature in the US has been mostly suborned, but our Justice system, in its somewhat feeble state, is in its way, being the hard line of resistance to the Trumpian dystopian future. I feel they are not getting the credit they deserve and are the reason why I feel reasonably comfortable that I will not be hunted down for making this comment.\nPersonally, I fear more the loss of due process than I do privacy.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740735,
+          "timesPick": false
+        }
+      ],
+      "title": "Where Every Tree Hides ‘an Enemy’: How I Watched China’s Paranoia Grow",
+      "byline": "Andrew Higgins and Gilles Sabrié",
+      "publishedAt": "October 11, 2026",
+      "summary": "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.",
+      "section": "world",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/05/multimedia/00int-china-higgins-01-jqkp/00int-china-higgins-01-jqkp-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/finance/the-sleepy-insurance-product-that-came-to-power-private-credits-ascent-e9586fa3",
+      "title": "The Sleepy Insurance Product That Came to Power Private Credit’s Ascent",
+      "byline": "Heather Gillers",
+      "summary": "Indexed annuities guarantee no market losses, but insurers can periodically adjust the formula for returns.",
+      "section": "Markets",
+      "thumbnail": "https://images.wsj.net/im-30823776/social",
+      "modifiedAt": "2026-10-11T02:46:00.000Z",
+      "publishedAt": "2026-10-11T01:00:00.000Z",
+      "totalComments": 180,
+      "comments": [
+        {
+          "name": "Mike T",
+          "location": "",
+          "body": "'indexed annuities can also be sold by state insurance agents, who aren’t subject to the same rules on disclosing conflicts of interest or acting in a client’s best interest. Indexed annuities are often among the most lucrative products these agents can sell.'\n\nSo many things wrong with all this ... Only the uninformed (uneducated, as Trump would say), would make make these investments, where the return can be unilaterally reduced at the whim of the insurer. \n\nAdd to that that the private equity giants are now plundering insurers' cash reserves for risky investments where they know they have a long time window to recoup. What could go wrong? Too many things to count. Our 'business friendly' regulatory environment comes at the expense of the consumer ... Caveat Emptor - on steroids!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741005,
+          "timesPick": false
+        },
+        {
+          "name": "Ana Ng",
+          "location": "",
+          "body": "My uncle is an insurance broker and about 8 years ago, convinced my dad, who was retiring, to put maybe half or 3/4 of his life savings (maybe $5M?) into annuities. My dad has dementia now, and my uncle controls his accounts. I’ve been trying to convince my mom (still married to my dad) that he was oversold his annuity plans and should try to figure out how and if some of those assets can be moved to another form. The whole thing is frustrating because she doesn’t know anything about finances but out of pride has kept everything secret. It’s a shame. I think my uncle took advantage of my dad.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739869,
+          "timesPick": false
+        },
+        {
+          "name": "Fred Jenkins",
+          "location": "",
+          "body": "Never, ever do business with Pirate Equity.",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791739634,
+          "timesPick": false
+        },
+        {
+          "name": "Paul Durr",
+          "location": "",
+          "body": "I kept getting invites to an Indexed Annuity presentation at a nearby high-end steakhouse.  With a degree in finance myself I figured I could withstand the (guilt enhanced?) sales pitch, so why not?  (It was an excellent steak).  It was interesting.  And probably one of the more reputable outfits.  But no sale.  Hey, they invited me, right?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791737516,
+          "timesPick": false
+        },
+        {
+          "name": "Robert Marinos",
+          "location": "",
+          "body": "These indexed annuities sound like they are being sold far too often to people who are not thinking through what they are buying, if they have the ability to understand the risks involved.  Two comments:\n\n1) Lowering the caps on shareholder gains is tantamount to \"heads I win, tails you lose\".  Shame on those who market the indexed annuity product without positively confirming with the prospective buyer that they understand the dollars and cents that they will lose when the cap is adjusted downward.\n\n2) No wonder Delaware Life got into trouble.  Turning $100,000 into $2.7 million in just 21 years is based on an outrageous assumption.  The annualized growth would have to be 16.99 percent for EACH of the 21 years to realize a compounded growth resulting in $2.7 million.  Is there a sucker born every minute?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791737208,
+          "timesPick": false
+        },
+        {
+          "name": "Thomas Mikita",
+          "location": "",
+          "body": "Sounds like too much shine trying to cover for what will turn into a lower than expected return for these annuities. If I was going to lock 100k of my retirement money away for 10 years right now, I would just buy a 10 year UST bond yielding ~5.3%. And if you don’t mind a little tinkering along the way, make a UST bond ladder up to that 10 year bond, so you can perhaps get a little more if interest rates keep increasing.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791736975,
+          "timesPick": false
+        },
+        {
+          "name": "Kevin K",
+          "location": "",
+          "body": "Nothing is free!\n\nIf you want market participation while being protected from losses your upside must be capped.  That is just the way these products work whether they are structured notes with participation tied to an underlying index or a similar insurance product.\n\nBut sleazy insurance companies take it one step further as the upside caps often offer returns not much greater than the risk free rate of return.\n\nBy the time the policy ended in late 2023, her annualized return had come to 3.7%.\n\nNothing is free!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791736388,
+          "timesPick": false
+        },
+        {
+          "name": "David Harris",
+          "location": "",
+          "body": "So the product performed exactly as advertised…. What is the problem here?  Comparing these to the sp500 on its own is ridiculous",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791734557,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24",
+      "title": "Video Cameras Are Everywhere—and Now They Are Being Hacked for War",
+      "byline": "Daniel Michaels, Anat Peled and Milàn Czerny | Design and Graphics by Audrey Valbuena and Max Rust",
+      "summary": "The highly vulnerable devices have turned into tools for combatants to track, surveil and attack the enemy.",
+      "section": "World",
+      "thumbnail": "https://images.wsj.net/im-63293717/social",
+      "modifiedAt": "2026-10-11T00:30:00.000Z",
+      "publishedAt": "2026-10-11T00:30:00.000Z",
+      "totalComments": 177,
+      "comments": [
+        {
+          "name": "Greg W",
+          "location": "",
+          "body": "Who'd have thought that the surveillance state has some downsides, lol.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740772,
+          "timesPick": false
+        },
+        {
+          "name": "John M",
+          "location": "",
+          "body": "I'm sure this is Trump's fault somehow.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740276,
+          "timesPick": false
+        },
+        {
+          "name": "Norm Young",
+          "location": "",
+          "body": "This is the water the fish swim in.  Draining the tank is not a workable solution, equivalent to just turning off the internet.  But you can bet the National security types will try this obtuse and authoritarian approach.  You're already seeing it in the banning of Chinese made IT gear, like even home routers, and before that it was inexpensive cell phones, and of course now self-driving cars.  \n\nThe bottom line is that the world now has no secrets.  Trying to change that is equivalent to shoveling sand against the tide.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739016,
+          "timesPick": false
+        },
+        {
+          "name": "Thomas Ward",
+          "location": "",
+          "body": "I'll take of isolating my cameras this week. I keep the slide shutter over my laptop camera when not in use.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791738141,
+          "timesPick": false
+        },
+        {
+          "name": "J Wasserman",
+          "location": "",
+          "body": "A great article.  And here we are, stuck with a Secretary of War who is fixated on the amount of testosterone in our soldiers.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791737516,
+          "timesPick": false
+        },
+        {
+          "name": "richard miller",
+          "location": "",
+          "body": "I installed video cams in my home to watch my kitties.  I called them kitty-cams!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791737492,
+          "timesPick": false
+        },
+        {
+          "name": "Margaret Ulfers",
+          "location": "",
+          "body": "Thinking about that the first step - knowing where the camera was that could be of interest really didn’t require hacking…",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791737022,
+          "timesPick": false
+        },
+        {
+          "name": "richard miller",
+          "location": "",
+          "body": "If it’s on the internet it’s not secure.  Get used to it.  (I was in tech for 50 years and a CIO for 32.)",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791736790,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/personal-finance/how-to-give-your-kids-money-for-a-house-without-things-getting-weird-47a48714",
+      "title": "How to Give Your Kids Money for a House Without Things Getting Weird",
+      "byline": "Terell Wright",
+      "summary": "There are many potential pitfalls that a good plan can circumvent.",
+      "section": "Markets",
+      "thumbnail": "https://images.wsj.net/im-95486814/social",
+      "modifiedAt": "2026-10-11T01:00:00.000Z",
+      "publishedAt": "2026-10-11T01:00:00.000Z",
+      "totalComments": 163,
+      "comments": [
+        {
+          "name": "Phillip Roncoroni",
+          "location": "",
+          "body": "But I thought the boomers posting here kept saying their mortgage rates were higher, and the younger people need to just stop buying avocado toast?",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791739262,
+          "timesPick": false
+        },
+        {
+          "name": "Charles Smith",
+          "location": "",
+          "body": "Not complicated. Give them a mortgage, and then forgive every payment up to the annual exclusion amount of $38K. No cash changes hands.",
+          "recommendations": 0,
+          "replyCount": 2,
+          "timestamp": 1791736349,
+          "timesPick": false
+        },
+        {
+          "name": "Allison Smith",
+          "location": "",
+          "body": "Wait. I though the evil boomers were hoarding all the money?",
+          "recommendations": 1,
+          "replyCount": 2,
+          "timestamp": 1791735947,
+          "timesPick": false
+        },
+        {
+          "name": "John K",
+          "location": "",
+          "body": "I said no. I don’t need it and 100% things would get very messy. And they are likely going to need it if the economy tanks. Inappropriate.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791735219,
+          "timesPick": false
+        },
+        {
+          "name": "Richard Dwyer",
+          "location": "",
+          "body": "Don't \"lend\" any money to a family member or friend without the expectation that it will turn into a gift.",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1791734144,
+          "timesPick": false
+        },
+        {
+          "name": "Charles Barr",
+          "location": "",
+          "body": "Congress needs to double that $19K that can be gifted annually any one person without having to file a form 709 which is a pain to file; and, currently pointless since very few people are worth over $15 million.  Estate tax is only due on estates that are over $15 million.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791733717,
+          "timesPick": false
+        },
+        {
+          "name": "Geoff Bernard",
+          "location": "",
+          "body": "I really like this personal finance section and don't spend enough time on it.\n\nDo you ever write articles comparing the individual investor approach to how funds really do after getting past all the hidden fees (which is quite often cherry picked in discussions)?\n\nFor example, the WSJ podcast this morning rightly pointed out that short term bond funds repurchase and therefore take a bigger hit than recycling your own 3 month T-bills. Add easily 33% of the return in financial fund manager expenses. I kid you not. Look at the returns when T-bills were 3% last year. Funds did 2 or 2.3%.\n\nThere is a lot of work to do - in order to help investors who are just blindly putting their earnings every paycheck into essentially junk choices.\n\nFar as this helping the kids thing - if they are able to stand on their own, let them stand on their own. You will be helping them more. We don't have that luxury with ours but if you do, exercise it! (operative word there - moving muscles). Our country continues to rot.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791733666,
+          "timesPick": false
+        },
+        {
+          "name": "Ana S",
+          "location": "",
+          "body": "16 years ago we bid on a house and that was being sold by a company as part of their executive relocation (the company already paid the executive and they were selling the home). It was in late November and the company wanted to close by the end of the year for obvious reasons.  They had a cash buyer and they went with them because they could close on the house within days.  Few days later they got back to us saying the house is back on the market because the majority of the money for  the young couple buying the house  came from a relative and the relative passed away unexpectedly. We didn’t end up buying the place because we didn’t think we could get the loan approved that quickly and did not want the pressure. But that house was more than a million $. It must be nice to have someone to give that kind of money!!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791733419,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/us-news/silicon-valleys-dream-city-has-crashed-into-small-town-politics-4521d1bd",
+      "title": "Silicon Valley’s Dream City Has Crashed Into Small-Town Politics",
+      "byline": "Zusha Elinson | Jonah Reenders for WSJ",
+      "summary": "A bitter standoff between tech-backed developers and local county leaders helped doom a $3-billion project at the edge of the Bay Area.",
+      "section": "US",
+      "thumbnail": "https://images.wsj.net/im-53777416/social",
+      "modifiedAt": "2026-10-10T23:00:00.000Z",
+      "publishedAt": "2026-10-10T23:00:00.000Z",
+      "totalComments": 162,
+      "comments": [
+        {
+          "name": "John Nieradka",
+          "location": "",
+          "body": "Ah the Network State at work.  Those Silicon  Valley dreamers in search of  their own little Utopia like Dubai or Hong Kong   Their own  Peyton Place, where the streets will be lined with gold.  I have a better idea, go build your Utopia with Balaji Srinivasan and leave this country once and for all.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741332,
+          "timesPick": false
+        },
+        {
+          "name": "Robert Kugel",
+          "location": "",
+          "body": "Attention New York based headline writers: Solano county is not \"Silicon Valley.\" Just as Sullivan county is not New York City.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791739886,
+          "timesPick": false
+        },
+        {
+          "name": "charlie amter",
+          "location": "",
+          "body": "It sure seems like Mitch Mashburn the cowboy-hat-wearing Republican county supervisor and descendant of local farmers who has complained the push for the shipyard was being “crammed down our throat\" just cost the state of California thousands of jobs. Not great news.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739597,
+          "timesPick": false
+        },
+        {
+          "name": "jack p",
+          "location": "",
+          "body": "It seems the project planners had never heard of building process in Ca or the sierra club stamp of approval.  Both difficult to deal with.\n\nI don’t know the answer, maybe someone does : why did the brewery close and why did the refinery close ?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739411,
+          "timesPick": false
+        },
+        {
+          "name": "Jay Kraus",
+          "location": "",
+          "body": "So the GOP killed jobs…The face of the opposition is Mitch Mashburn, 59, a cowboy-hat-wearing Republican county supervisor and descendant of local farmers who has complained the push for the shipyard was being “crammed down our throat.”",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791738774,
+          "timesPick": false
+        },
+        {
+          "name": "I Stephens",
+          "location": "",
+          "body": "Sounds like a high flying investor came in and tried to get his way with political muscle and high-flying promises and the county called him on it. \n\nHouses 90 minutes away from San Francisco aren't going to solve that housing shortage and the local county doesn't have one.",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1791737840,
+          "timesPick": false
+        },
+        {
+          "name": "Gary Blakely",
+          "location": "",
+          "body": "Everyone with a brain is trying to get out of California (like I did).  Why would someone consider building a new city there?",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791737313,
+          "timesPick": false
+        },
+        {
+          "name": "Doug W",
+          "location": "",
+          "body": "Texas welcomes all entrepreneurs who are being stifled by California Democrat idiocy.",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791736814,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/opinion/economy-supply-shocks-groceries-gas.html",
+      "totalComments": 151,
+      "comments": [
+        {
+          "name": "Duncan Lennox",
+          "location": "Canada",
+          "body": "\"Mr. Orszag signaled that more rate increases are likely, warned of a sharp jump in food prices next summer & said TSMC’s Arizona chip plant barely dents U.S. exposure to a Taiwan disruption.\"\n\nOnce again the Dems & their next POTUS will have the corrupt GOP-Trump-Kushner-Witkoff mess to clean up.\n\nWhat Mr. Orszag described is called a \"Black Swan Event\" re the AI investment in AI centers , etc. Since the trillions of $ being spent (& forecast to be spent) are dependent on a non Black Swan Event & their is no forecast of those trillions achieving a ROI it is more than likely that will never be a ROI but rather a collapse.  Eg China`s workforce has 10X more engineers & scientists vs the USA.  Also China usually makes things much cheaper & often better.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741306,
+          "timesPick": false
+        },
+        {
+          "name": "Warthog",
+          "location": "Marfa, TX",
+          "body": "I really do hope China cuts off western tech companies’ chip supplies. It’s the only thing that is going to save us from the burgeoning AI economic collapse corporations are currently welcoming with open arms.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741226,
+          "timesPick": false
+        },
+        {
+          "name": "Fred",
+          "location": "Small Town SoCal",
+          "body": "My wife paid $4 for an apple today, and she bought more than one. Let that sink in.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741199,
+          "timesPick": false
+        },
+        {
+          "name": "Inky",
+          "location": "Maine",
+          "body": "Anthropic, one of the AI companies that stole my novels to train its chatbots, reported a net loss of $42 billion in 2025. Open AI reported profits of $13 billion and losses of $38 billion. So even though their business model is based on theft, these are not profitable—yet or maybe ever. More and more they will try to force us to buy their useless product or sell it to the government for surveillance. All these AI billionaires were with Trump last week; I predict that soon they will be asking for a bailout. \n\nPS I don’t trust anyone like Orzsag who says they use AI. It shows they can’t think for themselves.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741194,
+          "timesPick": false
+        },
+        {
+          "name": "Roxanne",
+          "location": "Golden State of Mind",
+          "body": "Orszag talks a lot about supply choke points and \"O-Rings\" but says *nothing* about market consolidation.  For example, only 3 corporations control 85% of the beef market in the US.  That has no effect upon pricing?  Seriously?  Why didn't he talk about that?  My guess is because Lazard's clients wouldn't like it very much if he told the truth - that corporations and Wall Street have rigged the political and economic system to rip-off the 99%.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741154,
+          "timesPick": false
+        },
+        {
+          "name": "Mildly Manifested 🐳🗻⛷️",
+          "location": "Teslas Burn in Seattle",
+          "body": "I think people are missing this article's point.\nIt's the fragile economy supply line that has choke points like Hormuz which Donald moronically destroyed because he simply can't comprehend any fact. \nThis conman can't understand why the US had a trade deficit. \nHe actually thinks importing more than exporting is \"losing.\"\nCan you fathom that? \nHe has unknowingly caused world inflation because of Hormuz and handed Iran unprecedented leverage over the world's economy.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741014,
+          "timesPick": false
+        },
+        {
+          "name": "Joe",
+          "location": "White Plains",
+          "body": "A lot of ink wasted (metaphorically) to explain that prices are going to go up.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740984,
+          "timesPick": false
+        },
+        {
+          "name": "TJ",
+          "location": "California",
+          "body": "I think I’m going to write an Op-Ed and submit it for review to the NYT.\nI’ll find a rock solid, doom and gloom headline and then just fill in the blanks with cherry picked issues in support. Utilizing “experts” who want to plant their flag in the sand for their own reasons. \nBecause unless I missed something, I saw the words “food”or “grocery” just two or three times in this. What I did see is an indictment of the entire system with a healthy dose of fear of what’s to come. All problems and no solutions. Just things we should focus on and, my favorite, it’s time we had a conversation. \nIt seems that the new adage is, “If it bleeds-they read.”",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791740978,
+          "timesPick": false
+        }
+      ],
+      "title": "Why Your Grocery Bill Will Get Worse",
+      "byline": "Kathleen Kingsbury and Peter R. Orszag",
+      "publishedAt": "October 11, 2026",
+      "summary": "Supply shocks have become endemic to the global economy. Are we ready to face that fact?",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/11/multimedia/11kingsbury-orszag-transcript-ckqb/11kingsbury-orszag-transcript-ckqb-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/travel/piero-della-francesca-artworks-tuscany.html",
+      "totalComments": 91,
+      "comments": [
+        {
+          "name": "elzbietaj",
+          "location": "Chicago",
+          "body": "In San Francesco, after we studied the Legend of the True Cross cycle, our guide Prudence shared some advice her mother gave her. To paraphrase, if you're ever anxious or depressed, look at a Piero della Francesca for a few minutes. Didn't matter if it was the real thing or a reproduction in a book. It would calm your mind. \n\nIt works.\n\np.s. Noticed the errors by author. How hard to fact check an artwork's location these days if it's in situ?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739877,
+          "timesPick": false
+        },
+        {
+          "name": "Mr. Reeee",
+          "location": "NYC",
+          "body": "Fantastic!\n\nWe were in Milano a couple of years ago and chanced on an exhibit of Piero Della Francesca panels that hadn’t been seen together for something like 500 years. \n\nA map would be nice for an article like this!",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791739596,
+          "timesPick": false
+        },
+        {
+          "name": "FM",
+          "location": "Los Angeles, California",
+          "body": "The article includes a photograph of the Mary Magdalene that is in the duomo in Arezzo, but did the author and her group visit it? I'm guessing they cut their visit short to get back to Florence for their flight of Negronis.\n\nI thank other commentators for mentioning other Pieros, whether in Italy or beyond. Good artist.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791738036,
+          "timesPick": false
+        },
+        {
+          "name": "Flo B",
+          "location": "Philadelphia",
+          "body": "Words cannot prepare the viewer for seeing the Madonna del Parto. It is a large work, almost 6 by 10 feet, and the only work in the room. It is a dimly lit space forcing the viewers' eyes to focus on nothing else. \nThe Madonna's placement of hands on her back and pregnant belly clearly show the humanness of her pregnancy. The direct gaze of the angels draw the viewer into the scene but seem to be denying us entry. Are they opening or closing the curtains ? Are we asked to enter or turn away? \nFor me Piero della Francesca's Madonna del Parto is art of the highest form.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791736451,
+          "timesPick": false
+        },
+        {
+          "name": "SA",
+          "location": "Dc",
+          "body": "So where are the best places to eat?",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791736347,
+          "timesPick": false
+        },
+        {
+          "name": "Martin",
+          "location": "Washington, DC",
+          "body": "Piero's portrait of the Duke of Urbino, Federico da Montefeltro, does not show a \"Roman nose\". Federico lost his right eye in a sword fight. He was afraid of being attacked from that side and not being able to see the attacker. So he had a surgeon (?) remove the cartilage at the top of his nose so his left eye could see more of what was going on on his right side.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791736296,
+          "timesPick": false
+        },
+        {
+          "name": "Cruz",
+          "location": "Chicago",
+          "body": "When we visited Florence and surrounding areas 10 years ago, we pre-purchased tickets and reservations for as much as we could. Stayed in inexpensive hotels in the city and the country side and were able to bypass the crowds and see the beauty of Italy without spending all our time in lines. Prepay is risky, but well worth it. Italy is as memorable and magical as the frescos depict it.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791736280,
+          "timesPick": false
+        },
+        {
+          "name": "g. harlan",
+          "location": "midwest",
+          "body": "The picture at the top of the article shows Piero's painting of Saint Mary Magdalene in the  Duomo or Cathedral of SS. Donato and Peter, not the Basillica di San Francesco.  The Duomo is also in Arezzo, just up the hill from the Basillica, but it's a different building entirely.  \n\nThe intrepid enthusiast should also know that a bit further down the Piero trail lies the town of Urbino, in which one can view the artist's great masterpiece, The Flagellation.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1791736245,
+          "timesPick": false
+        }
+      ],
+      "title": "A Piero della Francesca Treasure Hunt Through Tuscany",
+      "byline": "Florence Fabricant and Clara Vannucci",
+      "publishedAt": "October 11, 2026",
+      "summary": "A writer’s road trip in search of the early Renaissance master’s most resplendent works takes her to towns beyond Florence, the birthplace of the Italian Renaissance.",
+      "section": "travel",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/02/multimedia/00trav-ITALY-PIERO-fjlw/00trav-ITALY-PIERO-fjlw-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/nyregion/metropolitan-diary.html",
+      "totalComments": 89,
+      "comments": [
+        {
+          "name": "Guido",
+          "location": "Cincinnati",
+          "body": "Mr. Zhang\n\nWhenever we go some place \nWherever it may be\nWhomever we’re talking to\n\nThe first thing I always say to a stranger is:\n“Your English is better than my (name of stranger’s language)!”\nWorks every time since it makes both of us laugh, then communicate in one way or another.\n\nIn other words, there’s no such thing as a ‘foreigner’.\nNever should have been\nWe’re all in this together\n\nThe sooner we understand that\nThe better our lives in this world will be.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741033,
+          "timesPick": false
+        },
+        {
+          "name": "Janis",
+          "location": "WOW County Wisconsin Democrat",
+          "body": "I had an opportunity to go to a lakefront air and watershow and sit in the VIP area. \n\nAs I was checking in, the person checking us in knew my name. She looked very familiar, we chatted, but I could not place her. Thankfully my husband didn't ask her name in front of her. \n\nI wracked my brain for the whole weekend trying to know who she was and how I knew her.\n\nMonday morning, who walks into my office, this women.  Now in this setting, I knew who she was. \n\nShe was a pharmaceutical representative who I write and seek financial grants from for fellowship physician education opportunities. \n\nI was never so embarrassed in my life.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741033,
+          "timesPick": false
+        },
+        {
+          "name": "KJ",
+          "location": "tn",
+          "body": "I hope the security guard who helped the Goldsteins retrieve their lost treasure is a Metropolitan Diary reader. He deserves to feel as good as I did when I read about him.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741032,
+          "timesPick": false
+        },
+        {
+          "name": "RCS",
+          "location": "New Jersey",
+          "body": "As a longtime New Yorker, a Knicks fan and a proud N.Y.U. alum, I always feel rejuvenated by perusing through the great stories of the “Community Spirit” of the New Yorkers in the Metropolitan Diary! \n\nI firmly believe that ordinary people perform extraordinary acts of bravery and display remarkable kindness and this spirit would always hold us together as “Human Beings” in the midst of our Kafkaesque, A.I. anxiety-ridden, deeply polarized, hyper partisan and precariously perched weary war-torn war.\n\n#staysafe #staywell",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741032,
+          "timesPick": false
+        },
+        {
+          "name": "Word Lover",
+          "location": "Southern US",
+          "body": "lol y'all at the Diary -- did you pick and draw these particular stories for Trick or Treat? My bag is full! Thank y'all!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741032,
+          "timesPick": false
+        },
+        {
+          "name": "Deborah",
+          "location": "Canada",
+          "body": "Two things happened this week that I am truly struggling to get past, on my way back to you. \n1. The live streaming of an execution. This is far and away past everything I can accept or excuse.  It reminds me of ancient Rome and thousands of people cheering with their thumbs pointed down.\n2. Possibly the more egregious of the two is Trump favouring Russia over Ukraine because of oil!  \nI’m truly trying to get past this, because the Metropolitan Diary represents humanity prevailing over all else.  I truly admire these principles!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741032,
+          "timesPick": false
+        },
+        {
+          "name": "Guido",
+          "location": "Cincinnati",
+          "body": "Here's what I tell anybody, and this is what I believe. The greatest gift we have is the gift of life. We understand that. That comes from our Creator. We're given a body. Now you may not like it, but you can maximize that body the best it can be maximized.\n--Mike Ditka\n\nYou're never a loser until you quit trying.\n--Mike Ditka\n\nSuccess is measured by your discipline and inner peace.\n--Mike Ditka\n\nI always tell people I want to live to be 150 and they say why would you want to do that. I say, well there's a few people I haven't made mad yet, I want to get them.\n--Mike Ditka",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741031,
+          "timesPick": false
+        },
+        {
+          "name": "Katharine Rauch",
+          "location": "Warwick Rhode Island",
+          "body": "Good morning, neighbors!\nI have been back at work so today’s morning beach walk showed how the season has changed. We met a miniature golden retriever named Percy Pumpkin, fittingly. The rising sun was low retreating behind a veil of clouds, the bay as clear and dark as jet with dashes of coral pink scattered over the ripples. The beach sand cool, the tide high, quahog shells casting little shadows while the shorebirds float lackadaisically, only flying a little bit away as we approach.\nCalm, relaxed and drowsy— the mysterious pumpkin season, where nature redecorates itself in fulsome repose. Remember these colors, be thankful for the harvest. \nA squirrel dive bombs through the tree branches disturbing the quiet— what a commotion!\nThe squirrel must be a fan of the Tampa Rays!\nRegardless of which team— I am cheering for all of us here on the stoop. We’re friends whether we know each other or not— hello! Hello! Love ya!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741031,
+          "timesPick": false
+        }
+      ],
+      "title": "‘He Went Inside, and We Waited as People Started to Stream Out’",
+      "byline": "",
+      "publishedAt": "October 11, 2026",
+      "summary": "Losing a precious item on a night out, recalling a big Knicks spring and more reader tales of New York City in this week’s Metropolitan Diary.",
+      "section": "nyregion",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/11/nyregion/11diary-illos-1/11diary-illos-1-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/tech/personal-tech/how-to-keep-your-webcam-safe-from-prying-eyes-20c05b74",
+      "title": "How to Keep Your Webcam Safe From Prying Eyes",
+      "byline": "Will Briskin",
+      "summary": "Weak passwords, outdated software and poor Wi-Fi security can let strangers access your home camera.",
+      "section": "Tech",
+      "thumbnail": "https://images.wsj.net/im-40206758/social",
+      "modifiedAt": "2026-10-11T00:57:00.000Z",
+      "publishedAt": "2026-10-11T00:57:00.000Z",
+      "totalComments": 71,
+      "comments": [
+        {
+          "name": "Rafer Keelhaul",
+          "location": "",
+          "body": "I unplug my web cam when its not in use. For ones I cannot disconnect, I put tape over the lens.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791741325,
+          "timesPick": false
+        },
+        {
+          "name": "William Hollinger Jr",
+          "location": "",
+          "body": "Some interesting ideas, but for most of us in our 70s, 80s, and beyond this digital world, hacks, etc are indecipherable mysteries. For example, we don't understand what you are talking about when you tell us the steps you've taken top secure your laptops, or why you tape the laptop camera. The other day two of us in our mid 70s ad mid 80s, one a PhD astrophysicist and the other a retired CEO holder of multiple patents spent over an hour working with a technician on the phone as we attempted to change TV control boxes and merge two controls into one. Senior centers would do well to offer courses in these areas instead of thinks like \"line dancing\".",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1791737802,
+          "timesPick": false
+        },
+        {
+          "name": "Alex Agorio",
+          "location": "",
+          "body": "Cameras don't stop people from breaking into your home in the first place. Have a friend who has cameras plastered all over his house but someone the other day broke into his house. The intruder fled and was arrested for a series of crimes the same day. He had been arrested before and released without bail. He will probably be released again without bail.",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1791735459,
+          "timesPick": false
+        },
+        {
+          "name": "James Toher",
+          "location": "",
+          "body": "How to keep your webcam safe from prying eyes?  Turn it off.  \n\n(Nobody wants, or needs, to see what you're doing anyway.)",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791734767,
+          "timesPick": false
+        },
+        {
+          "name": "Susan Kosar",
+          "location": "",
+          "body": "MFA is now considered to be obsolete, the WSJ info is not very current. These comments from an AI tool on what works best today where hackers have AI tools to get past passwords are very interesting:\n\n  1. Passkeys & FIDO2/WebAuthn: The most practical upgrade to consumer and enterprise security is the widespread adoption of passkeys. Based on public-key cryptography, passkeys bind the login attempt to the specific, verified domain (RP ID) in the browser. Because there is no shared secret (like a password) stored on a server and no code sent via SMS, an AI agent cannot guess it, brute-force it, or trick a user into handing it over.2. Hardware Security Keys: For critical infrastructure and developer accounts (like GitHub or AWS where API keys often leak), physical security keys (e.g., YubiKeys) enforcing FIDO2 offer the strongest defense against unauthorized logins.3. Zero-Trust Identity & Short-Lived Tokens: For automated systems and APIs, static credentials stored in code repositories must be eliminated entirely. Moving to short-lived, environment-bound tokens ensures that even if an AI agent discovers a credential, it becomes useless almost immediately\n\nBill",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791734285,
+          "timesPick": false
+        },
+        {
+          "name": "Ed Williams",
+          "location": "",
+          "body": "If you have your own wifi access point (the wifi transmitter, your cable router, etc) you should do at least 2 things: turn on encryption, and turn off the SSID announcement.\n\nThe first means that any user of your wifi needs the password for your wifi, they can't just connect.  Without this anyone can connect.  This is often but not always on by default, so check it.\n\nThe second means that your wifi is not spending all day every day broadcasting \"I'm here and my name is...\" so everybody in range can see it.  Devices can still use it, but they have to know the name of your wifi before they can connect.\n\nIf you need more security, because you have valuable stuff attached to you network, there are more complex actions you can take to control who can use it and what they do.  \n\nIf you use someone else's wifi you need to think about how much you trust them, and with what you trust them.  Probably take a few extra steps, like at minimum be sure the connect to the website uses HTTPS not just HTTP, or use a VPN.  Just realize that nothing is perfect, just better or worse.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791734221,
+          "timesPick": false
+        },
+        {
+          "name": "Shav Noche",
+          "location": "",
+          "body": "How about some recommendations and brands to stay away from and flock to? That would be value. The resto of this is just common sense. Certainly doesn't need a subscription to investigative journalism sites.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791733158,
+          "timesPick": false
+        },
+        {
+          "name": "Richard Owen",
+          "location": "",
+          "body": "That phone that you keep with you or next to you 24/7 is also spying on you 24/7, telling the world where you are at all times and guessing pretty accurately what you are doing.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791732774,
+          "timesPick": false
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/opinion/hungary-sanyi-rooster-bekescsaba-mayor.html",
+      "totalComments": 66,
+      "comments": [
+        {
+          "name": "Michele506a",
+          "location": "New York",
+          "body": "Thank you for sharing the story of Sanyi who brought hope and filled an empty space in the lives of many. Just as our cats, dogs and other pets fill an empty space and give us unconditional love and hope as Sanyi did for the oppressed people in Hungary.\n\nHe is now free, and freedom is what we all desire and deserve.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791740044,
+          "timesPick": false
+        },
+        {
+          "name": "TheraP",
+          "location": "west coast",
+          "body": "Chickens?  Google Joyce Vance!\n\nI’m not kidding.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791739316,
+          "timesPick": false
+        },
+        {
+          "name": "Anonymous",
+          "location": "California",
+          "body": "Why are there so many cruel people who feel happy to hurt what other people care for?\nLike Pedals the bear, and so many other animals.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739316,
+          "timesPick": false
+        },
+        {
+          "name": "Mike",
+          "location": "California",
+          "body": "This is so very sweet I just really loved it.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739248,
+          "timesPick": false
+        },
+        {
+          "name": "W.",
+          "location": "Portland",
+          "body": "What a nice story, I didn’t think Hungarian folks reality would be on my radar today.\nShows the disparity between folks isn’t just with the US, a lot of politicians have their foot on that old gas. I do wonder though, if a rooster brings this much passion..What would a friendly dog or cat do for this community? I’d guess a lot.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791738689,
+          "timesPick": false
+        },
+        {
+          "name": "MustWithHoldThisTime",
+          "location": "Albuquerque",
+          "body": "A poignant parable of community lost, gained, and fragmented. Bekescsaba, Hungary's town square represents and invites community by design, but struggles against government policy that crush community spirit.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791738199,
+          "timesPick": false
+        },
+        {
+          "name": "Erika",
+          "location": "Berkeley",
+          "body": "The images of the plastic wrapped live chickens is just horrible. Maybe when humans treat animals with compassion and love, this world will be a better place.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791737446,
+          "timesPick": false
+        },
+        {
+          "name": "Wolfy Amadeus Mole",
+          "location": "The valley",
+          "body": "What an amazing story, how a brave rooster became an integral part of a community. He was a true local hero. This movie was like a fairy-tale come to life. Bravo Sanyi and R.I.P.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791737190,
+          "timesPick": false
+        }
+      ],
+      "title": "The Rooster That Brought a Hungarian Town Together",
+      "byline": "Lotte Salomons",
+      "publishedAt": "October 11, 2026",
+      "summary": "A Hungarian town, an escaped rooster and the universal longing for freedom.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/05/arts/Sanyi-thumb-primary/Sanyi-thumb-primary-largeHorizontalJumbo.png",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+      "totalComments": 13,
+      "comments": [
+        {
+          "name": "V",
+          "location": "Toronto, ON",
+          "body": "I read this piece and I am left wondering what I learned or even understood. It is possible that I don’t have the deep thoughtfulness that nytimes expects of its readers but I have this feeling that I am sometimes reading articles that exist for the sake of existing. In fact, sometimes I find the regular news sections to be so unecessarily long that I think there must be some incentive that stopped working as a performance metric long ago. Clearly, printed paper kept a lid on some of these things but in the digital era it’s like swimming in text that is searching for meaning instead of the other way around.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791739018,
+          "timesPick": false
+        },
+        {
+          "name": "INCLUDE ME OUT",
+          "location": "Seattle, WA",
+          "body": "Did the acquisition of great wealth create the arrogance demonstrated by the likes of Zuckerberg, Musk and others?\n\nOr did a pre-existent arrogance within them help to enable their financial success?\n\nI tend to believe the former, with perhaps just a tad bit of the latter.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791739005,
+          "timesPick": false
+        },
+        {
+          "name": "Cannoneers74",
+          "location": "Solvang, CA",
+          "body": "Zuckerberg seems an awkward fellow who has never fit in socially. He finds himself in a place where he will, chameleon-like, morph into whatever persona is necessary to further his business. He can be liberal or conservative depending on the prevailing political winds. If he needs to be more cage-fighter masculine or Joe Rogan political, he will take lessons and become so. \n\nHe seems a lump of clay that will attempt to take on a personality that is presently convenient, but still seems awkward doing so. \n\nI think he must be a lonely character.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791738947,
+          "timesPick": false
+        },
+        {
+          "name": "Serena Kratz",
+          "location": "Windham, New York",
+          "body": "A Man who has no moral compass. He thinks nothing of what impact his company has on people, countries and the world.  Huegens book \" Carless People\" should be required reading in all business schools as a moral warning of what not to be and do.  He was always an entitled person before he created Meta and now he is just one of many technocrats who think that they and they alone know anything worth knowing.  .",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791738938,
+          "timesPick": false
+        },
+        {
+          "name": "abraham quisling",
+          "location": "norwegia",
+          "body": "you’d think they would have updated zuck’s software by now to make him more human-like.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791738931,
+          "timesPick": false
+        },
+        {
+          "name": "DM",
+          "location": "Scotland",
+          "body": "“the corporate world is pretty culturally neutered” and calling for “masculine energy” and “a culture that celebrates the aggression a bit more.”\n\nThis is a man with no experience of the world before his living memory. I mean, the 80s, Gordon Gecko and \"greed is good\". How could anyone miss previous overly-macho decades, if there is ever not one?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791738928,
+          "timesPick": false
+        },
+        {
+          "name": "V",
+          "location": "Brooklyn",
+          "body": "I mean people are generally complex and hard to pigeonhole as one type of person. Like the line from Walt Whitman “do i contradict myself? Very well I contradict myself, I am large, I contain multitudes”\nHe could very well be all of those characters (not the Eisenberg one) or all of it’s an act.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791735880,
+          "timesPick": false
+        },
+        {
+          "name": "Victoria",
+          "location": "Oregon",
+          "body": "Thought strong caught the essence but he seemed a bit overly stiff. But then he knows more than I do. But he certainly made him unlikable. Very hard to watch.",
+          "recommendations": 2,
+          "replyCount": 1,
+          "timestamp": 1791727449,
+          "timesPick": false
+        }
+      ],
+      "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+      "byline": "Alissa Wilkinson",
+      "publishedAt": "October 11, 2026",
+      "summary": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach.",
+      "section": "movies",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/11/arts/11cul-zuckerberg-film/11cul-zuckerberg-film-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/books/review/shere-hite-report-biography.html",
+      "totalComments": 12,
+      "comments": [
+        {
+          "name": "Harriet Griffey",
+          "location": "London, UK",
+          "body": "I was the editor who worked with Hite on the republication of various titles — including The Hite Report on Men — in the 1990s & to whom she said she kissed (not licked) her handsome young husband’s teeth, as teeth survive after death.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740121,
+          "timesPick": false
+        },
+        {
+          "name": "hd",
+          "location": "la",
+          "body": "loved this but would have appreciated Alexandra Jacobs sparing a sentence (at least) on what was in the \"Hite Report\"",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740104,
+          "timesPick": false
+        },
+        {
+          "name": "formerlyspinet",
+          "location": "oregon",
+          "body": "\"like Sherry without the y?\" um\n...why not simply like SHARE or better yet CHER?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1791740093,
+          "timesPick": false
+        },
+        {
+          "name": "teach",
+          "location": "NC",
+          "body": "I'm so thankful that I had women like Steinhem and Hite as models in my early adulthood.  Gosh, they still seem so much more real and \"out\" as human beings than most people in the limelight now.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1791739850,
+          "timesPick": false
+        },
+        {
+          "name": "Theresa",
+          "location": "Walnut Creek",
+          "body": "Our Bodies Ourselves, The Hite Report, The Sensous Woman by J, Our Secret Garden,  provided me as a college junior an education in my body and what sex could be but at that point certainly was lacking in my actual experience. I thank all the authors. My poor mother did her best but was so embarrassed she never got past “ it’s a beautiful thing that can happen between a husband and wife”.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1791733236,
+          "timesPick": false
+        },
+        {
+          "name": "Hortense",
+          "location": "NYC",
+          "body": "As always, Alexandra Jacobs delivers a witty and interesting review, in this case of a book that seems like it's probably not as fascinating as it should have been, given the subject. Great review, anyway, and great subject.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1791732914,
+          "timesPick": false
+        },
+        {
+          "name": "Elinct",
+          "location": "danbury CT",
+          "body": "I wish you had named the documentary . It is\" The Disappearance of Shere Hite\". It is fascinating and wonderful portrait of a ground braking woman with fantastic archival footage. Shocking how she was dismissed and condescended to.\nI very highly recommend it!",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1791731220,
+          "timesPick": false
+        },
+        {
+          "name": "Fg",
+          "location": "Ann Arbor, Michigan",
+          "body": "\"A typewriter so smart she doesn't have to be\" is a line that brings back the pain of being an early female boomer who saw little opportunity to find a fulfilling career or the respect that we all deserved and were instead relegated to using typewriters that were  \"smarter \"than us and taking a back seat in our careers to men who were \"more qualified\" than we were.  Thank goodness for fighters like Shere Hite who helped break these barriers to equality giving the rest of us a little gumption to fight for ourselves, even if we often won a few battles but lost the war as I did in taking legal action for an equal salary and being punished by losing my job and my career and this still happened in the late nineties.  Sad.",
+          "recommendations": 12,
+          "replyCount": 1,
+          "timestamp": 1791727418,
+          "timesPick": false
+        }
+      ],
+      "title": "50 Years Later, a Hit Book on Women’s Sexuality Deserves Some Love",
+      "byline": "Alexandra Jacobs",
+      "publishedAt": "October 11, 2026",
+      "summary": "Its author became a pop culture celebrity, and sometimes punchline, but “The Hite Report” helped make way for frank discussions about pleasure.",
+      "section": "books",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/11/multimedia/11tbr-hite-notebook-vwjp/11tbr-hite-notebook-vwjp-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/10/11/nyregion/owls-upper-west-side-new-york-city.html",
+      "totalComments": 7,
+      "comments": [
+        {
+          "name": "L",
+          "location": "Jersey City, NJ",
+          "body": "Neither Dave Barnett nor Birding Bob are ethical birders that follow guidelines, they call birds on and harasses birds like owls. Would love to see responsible birders quoted rather than those who have built followings by harming birds.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1791739570,
+          "timesPick": false
+        },
+        {
+          "name": "Don",
+          "location": "Davis, CA",
+          "body": "One great threat to barn owls are great horned owls, which displaced our resident family. Barn owls screech, great horned owls hoot. Hoping for lots of screeching and no hooting on the upper west side.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1791735084,
+          "timesPick": false
+        },
+        {
+          "name": "J. Daniel Von Peartree",
+          "location": "Upper Upper West Side",
+          "body": "The story is great and the photos are gorgeous.",
+          "recommendations": 11,
+          "replyCount": 0,
+          "timestamp": 1791730345,
+          "timesPick": false
+        },
+        {
+          "name": "Dan Hewson",
+          "location": "Montclair N.J",
+          "body": "This is the best bird story in the big city I've yet seen. The fact that it's a large family makes it truly unique. I hope it's just a vacation of sorts for the Owls, as true wilderness is a better option for a healthy life for these beautiful birds.",
+          "recommendations": 16,
+          "replyCount": 0,
+          "timestamp": 1791727700,
+          "timesPick": false
+        },
+        {
+          "name": "Christopher Maag",
+          "location": "New York City",
+          "body": "I love stories of awe and delight. When I was assigned to write about New York's latest celebrity owl -- who isn't just one bird but an entire family, including adolescents learning to fly -- my only thought was YES.",
+          "recommendations": 24,
+          "replyCount": 0,
+          "timestamp": 1791725844,
+          "timesPick": false
+        },
+        {
+          "name": "A pea in the ocean",
+          "location": "USA",
+          "body": "This is the best.  Despite looking hard to see a Barn Owl in the United States, I have never been successful.  That is, with the exception of a dead one in southeast Arizona.  Now, a long over due visit to NYC is calling my name.  I can hear the owls screeches from here.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1791724698,
+          "timesPick": false
+        },
+        {
+          "name": "N. Smith",
+          "location": "New York City",
+          "body": "No doubt many world-weary New Yorkers will kindly think of 'Flaco', the Eurasian eagle-owl who captured our attention -- and ultimately, our hearts....and I will be one of them.",
+          "recommendations": 28,
+          "replyCount": 0,
+          "timestamp": 1791720901,
+          "timesPick": false
+        }
+      ],
+      "title": "New York’s Latest Famous Family Is a Hoot. Yes, They’re Owls.",
+      "byline": "Christopher Maag",
+      "publishedAt": "October 11, 2026",
+      "summary": "The city’s latest feathered extraordinaires are captivating the Upper West Side with their screeches.",
+      "section": "nyregion",
+      "thumbnail": "https://static01.nyt.com/images/2026/10/10/nyregion/00met-Viral-Owl-Family-02/00met-Viral-Owl-Family-02-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    }
+  ]
+}
