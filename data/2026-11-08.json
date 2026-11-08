@@ -1,0 +1,2314 @@
+{
+  "generatedAt": "2026-11-08T18:15:59.966Z",
+  "days": [
+    "2026-11-07",
+    "2026-11-08"
+  ],
+  "mode": {
+    "deep": true,
+    "past24Hours": true,
+    "scanAllCandidates": true,
+    "todayOnly": false,
+    "commentLimit": 8,
+    "commentsToStore": 8,
+    "windowEnd": "2026-11-08T18:15:02.470Z",
+    "windowHours": 24,
+    "windowStart": "2026-11-07T18:15:02.470Z"
+  },
+  "sources": [
+    {
+      "id": "nytimes",
+      "name": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "id": "wsj",
+      "name": "The Wall Street Journal",
+      "domain": "wsj.com"
+    },
+    {
+      "id": "wapo",
+      "name": "The Washington Post",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  "articles": [
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/democrats-midterms-2028-presidential-race.html",
+      "totalComments": 590,
+      "comments": [
+        {
+          "name": "Aaron",
+          "location": "West Virginia",
+          "body": "Rahm Emanuel withheld the release of the Laquan McDonald CPD shooting for 13 months. When the rejection of ICE brutality was a driving forces of the Blue tsunami, the NYT's idea that Emanuel speaks for the Democratic voters who delivered Tuesday victory is ridiculous.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794118867,
+          "timesPick": false
+        },
+        {
+          "name": "Lawrence Lewis",
+          "location": "Ridgefield, WA",
+          "body": "Two years ago voters wanted to believe the lies of Trump and Republicans. They  got destruction and ruin instead. Hope that Democrats can give them the basics of governing a denocracy and a the processes of good government.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794098764,
+          "timesPick": false
+        },
+        {
+          "name": "Summer",
+          "location": "SoCal",
+          "body": "Please, just remember that you are on probation by those voters who swung Dem and put Dems over the top. Concentrate on achievable actions that clearly benefit ordinary people—and then publicize those actions—don’t get sidetracked by virtue signaling, extreme positions, and impossible to achieve pipe dreams. \nWe have to win again in 2028. Be smart, be strategic, eyes on the prize.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794098757,
+          "timesPick": false
+        },
+        {
+          "name": "Mike",
+          "location": "Boston",
+          "body": "Democrats are progressive compared to other parties. Trying to differentiate democrats consider these issues:\n\nDo you support - \n\nMedicare and Medicaid\nA system of fair taxes, not one that favors corporations and the very rich over the working and middle classes\nA balanced federal budget\nTax deductions for child care and elder care\nSocial Security\nA uniform system for immigration based on equal chances and not based on income or corporate needs\nA country based on the separation of church and state, (originally adopted to protect religious freedoms)\nWomen’s rights\nWorking with our allies, and not offending them\nNon-political SCOTUS and DOJ\n\nIf you do, then there is no reason to use terms like centrist, progressive or liberal. All you have to use is the term Democrat. \n\nHaving Americans think the Democrats are having an internal fight over control of the party is a problem in identifying what Democrats believe. There is room for all who believe in the principles of the party.",
+          "recommendations": 12,
+          "replyCount": 0,
+          "timestamp": 1794084378,
+          "timesPick": false
+        },
+        {
+          "name": "George vs",
+          "location": "Morrisville",
+          "body": "If the Democrats elect Schumer and Jefferies to the leadership they will squander the incredible victory we had. \nIt seems the corporate media including the NYT are set on endorsing them. \nDemocrats overwhelmingly do not want them for leaders - 90% want Schumer to step aside and 70% want Jefferies to step aside.  \nWe voted for real change.",
+          "recommendations": 12,
+          "replyCount": 0,
+          "timestamp": 1794083982,
+          "timesPick": false
+        },
+        {
+          "name": "JA",
+          "location": "Denver",
+          "body": "The Blue Dog centrists are conjuring up a false choice here. Polling shows solid approval for a higher minimum wage, higher taxes on the wealthy and big corporations, medicare for all and other items that for some reason have been delegated to progressive wish list status. They could at least pretend to argue that these are difficult issues to pass and we need to be more cautious, not disingenuously tell us that they will turn voters off. A more honest argument might be that the donor class doesn't like these ideas. A tiny bit of sleuthing revealed that Blue Dog is synonymous with Center Forward, a dark money pac that receives heavy funding from big pharma and the telecom industry. The centrists and the progressives appear to be courting two different constituencies here, one corporate and one populist. \nAlready the centrists have been testing the limits of just how extreme they can portray these 'radicals' without alienating their supporters. Like the right, they may go so far as to try and conflate  progressive, populist economic ideas with wokism and turn the whole thing into some mess they can label socialism and declare out of bounds.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794083980,
+          "timesPick": false
+        },
+        {
+          "name": "Christopher",
+          "location": "Salt Lake City, UT",
+          "body": "I think the media class likes to create the chaos and the dog fight. Even a lot of the moderate candidates held progressive positions. Even the vast majority of left-leaning voters aren't DSA. Many of the moderate camp are trying to remain relevant. Being moderate is not a policy. We need to do actual work. Though I don't like Ram Emanuel I agree with what he said about an ethics bill and restoring Obamacare funding.. etc. and there needs to be hearings. I do think many of the progressives within the Democratic caucus understand that there needs to be a movement towards ideals but not overnight. I wish people would stop listening to the media class and allow them a chance to do something they haven't even been sworn in yet for god sakes.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794083979,
+          "timesPick": false
+        },
+        {
+          "name": "RM",
+          "location": "Worcester",
+          "body": "Not the time for any fight. Democrat brand is tarnished and voters are cautiously optimistic that they would stop childish games to please vested interests. Voters want good governance and they care for affordability, jobs and health care, not divisive social issues. Instead of building their own vote bank pockets, all of them must work together to deliver those three to benefit everyone in concurrence with establishing government accountability. Trump’s win in 2024 should be a cautionary tale for them. Same childish selfish games practiced by fringe factions during Biden Presidency brought the most unqualified person to the White House. Instead of working on promoting selfish agendas, they should work hard to deliver and earn our trust. All of the election gains would evaporate in 2028, if they fail.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794081023,
+          "timesPick": false
+        }
+      ],
+      "title": "Democrats, Newly Ascendant, Begin a Fight to Shape the Party’s Future",
+      "byline": "Lisa Lerer and Reid J. Epstein",
+      "publishedAt": "November 7, 2026",
+      "summary": "At a moment of opportunity for the party, its long-feuding factions are seizing on the midterm results to make their case for tacking to the center or to the left.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/us/07pol-democrats/07pol-democrats-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/nyregion/nyc-parking-violations.html",
+      "totalComments": 533,
+      "comments": [
+        {
+          "name": "David A.",
+          "location": "Brooklyn",
+          "body": "For revenge, I suggest she should google XKCD and “little Bobby tables”, and then order new vanity plates.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794139589,
+          "timesPick": false
+        },
+        {
+          "name": "C Charles",
+          "location": "Jersey",
+          "body": "Blankety blanket blanking Blankenship blanked the blank all up.\n\nI’m wondering what would happen were she to drop her middle name to NMN for no middle name!",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794139588,
+          "timesPick": false
+        },
+        {
+          "name": "Fenton Hardy",
+          "location": "Bayport on Barmet Bay",
+          "body": "Change that vanity plate to\na standard one. Now.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794139587,
+          "timesPick": false
+        },
+        {
+          "name": "Matt",
+          "location": "Austin",
+          "body": "So yeah let’s give the government more money and power",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794139583,
+          "timesPick": false
+        },
+        {
+          "name": "Cat",
+          "location": "Boston",
+          "body": "“ “We will never reissue this same plate combination to another registrant,” said Walter McClure, a spokesman.”\n\nThat’s their solution???",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794139582,
+          "timesPick": false
+        },
+        {
+          "name": "Paul Axford",
+          "location": "New Zealand",
+          "body": "There is not much lower than parking enforcement. “Guilty until proven innocent” is the assumption.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794139581,
+          "timesPick": false
+        },
+        {
+          "name": "Fitzman",
+          "location": "Long Island",
+          "body": "Ms. Blank needs to surrender her plates to NYS DMV and get new assigned numbered plates. She will be better off as this issue will never go away with her current license plates. good luck with getting all the tickets dismissed.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794139580,
+          "timesPick": false
+        },
+        {
+          "name": "Margaret",
+          "location": "West Village NYC",
+          "body": "I guess I'm the only one who cringed when I read what her license plate read. No, that doesn't excuse the utter stupidity of the bureaucracy, but as someone who expects things to go wrong, I would never ever drive a car with a license plate BLANK.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794139579,
+          "timesPick": false
+        }
+      ],
+      "title": "Why Did She Rack Up $40,000 in Parking Tickets? Fill in the ______.",
+      "byline": "Ed Shanahan",
+      "publishedAt": "November 7, 2026",
+      "summary": "A New York woman has a distinctive name. She was stunned by violations and fines linked to her BMW convertible.",
+      "section": "nyregion",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/15/multimedia/15met-blank-parking-print1/00met-blank-parking-01-zlwb-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+      "totalComments": 466,
+      "comments": [
+        {
+          "name": "Dr. Amjad Burq",
+          "location": "Lahore, Pakistan",
+          "body": "Can anyone re-check authenticity of those studies which paved the way of FDA approval of these drugs!",
+          "recommendations": 30,
+          "replyCount": 0,
+          "timestamp": 1794110755,
+          "timesPick": false
+        },
+        {
+          "name": "Airpilot1",
+          "location": "USA",
+          "body": "As others have said, even failure is a data point.  We must NOT stop science!  Developmental trials must continue.  Look only to mRNA development: shortening humanity's response to a mass-destructive pandemic threat to a year instead of, what, five?  \n\nForget Rump and his short-sighted power and money-hungry minions: scientific research must continue, or we all risk early death.",
+          "recommendations": 106,
+          "replyCount": 0,
+          "timestamp": 1794110751,
+          "timesPick": false
+        },
+        {
+          "name": "PGC",
+          "location": "San Francisco",
+          "body": "As Thomas Henry Huxley put it:   \"  ... the slaying of a beautiful hypothesis by an ugly fact....\"",
+          "recommendations": 40,
+          "replyCount": 0,
+          "timestamp": 1794110750,
+          "timesPick": false
+        },
+        {
+          "name": "Samyukta",
+          "location": "India",
+          "body": "There is already one clinically test drug that works in people. “Whole Plants”. \n\n“Eat Food. Mostly Plants” works\nThe China Study- Esselstyn. Ornish. And about 2 billion people longitudinal lifestyle observation.",
+          "recommendations": 61,
+          "replyCount": 0,
+          "timestamp": 1794110750,
+          "timesPick": false
+        },
+        {
+          "name": "Pigdog",
+          "location": "The Pen",
+          "body": "Oh well. Back to steak and potatoes for me.",
+          "recommendations": 20,
+          "replyCount": 0,
+          "timestamp": 1794110749,
+          "timesPick": false
+        },
+        {
+          "name": "Robert",
+          "location": "Dallas",
+          "body": "\"...The drugs — pelacarsen and ziltivekimab...\"\n\nThey're ineffective drugs? Those aren't even real words.",
+          "recommendations": 30,
+          "replyCount": 0,
+          "timestamp": 1794110748,
+          "timesPick": false
+        },
+        {
+          "name": "Steve Hyde",
+          "location": "Colorado",
+          "body": "1. Great news! We learned so much! \n2. I'm the meantime, take placebos. \n\nCheers, Steve",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794110747,
+          "timesPick": false
+        },
+        {
+          "name": "KC",
+          "location": "Rhode Island",
+          "body": "Stress and what we eat most certainly contribute to heart disease. Eat your vegetables. Avoid inflammatory foods. If you don’t know what an ingredient is that you’re putting in your body then you probably shouldn’t be eating it.  \nAnd drink water!",
+          "recommendations": 33,
+          "replyCount": 0,
+          "timestamp": 1794110747,
+          "timesPick": false
+        }
+      ],
+      "title": "Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs",
+      "byline": "Gina Kolata",
+      "publishedAt": "November 7, 2026",
+      "summary": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
+      "section": "science",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html",
+      "totalComments": 466,
+      "comments": [
+        {
+          "name": "G.O. Benton",
+          "location": "Sonoma",
+          "body": "Aptly named, Turning Point helped turn America away from misogynistic, racist and fanatical religious practices, and back toward something more rational. Keep it up, Turning Point! Your help was indispensable in Arizona and elsewhere. We progressives really appreciate the strange, extreme and rigid views you helped our country dismiss.",
+          "recommendations": 530,
+          "replyCount": 0,
+          "timestamp": 1794113454,
+          "timesPick": false
+        },
+        {
+          "name": "LIChef",
+          "location": "East Coast",
+          "body": "The so-called “conservative values” now comprise hate, cruelty, racism, inequality and other such negative descriptions.  Call yourself  conservative or even a Republican at your own risk.  The values of Republicans such as Bob Dole and Nelson Rockefeller are long gone.",
+          "recommendations": 415,
+          "replyCount": 0,
+          "timestamp": 1794113453,
+          "timesPick": false
+        },
+        {
+          "name": "chambolle",
+          "location": "Bainbridge Island",
+          "body": "I could swear I recall that within recent memory, prominent ‘Republican leaders’ were seriously contemplating sainthood for Charlie Kirk. Flags flew at half staff upon his death. He was hailed as a great statesman and a deep thinker. The President, cabinet members, Congressmen and billionaires attended  memorial for Kirk, held in an enormous arena. Kirk’s widow became an instant MAGA celebrity; no doubt hundreds of millions in funding poured into the organization.\n\nTurning Point was suddenly a popular movement ‘the likes of which the world has never seen.’  In fact, the President of the United States and a few of his most prominent henchmen — like the newly anointed White House Chief of Staff — condemned all who declined to climb aboard as godless communists, radical left lunatics, freaks of nature.\n\nBut I’ll admit I’m getting old. Perhaps my memory is playing tricks on me. Perhaps that did not happen a matter of just a few moments ago.",
+          "recommendations": 475,
+          "replyCount": 0,
+          "timestamp": 1794113453,
+          "timesPick": false
+        },
+        {
+          "name": "Nick",
+          "location": "the Hub",
+          "body": "All about ego, power, and name-calling- nothing about self-examination, serving and governing. Pathetic. \n\nBy the same token, if Democrats can’t govern, then the big victory is all for nought.",
+          "recommendations": 118,
+          "replyCount": 0,
+          "timestamp": 1794113452,
+          "timesPick": false
+        },
+        {
+          "name": "Deirdre",
+          "location": "New Jersey",
+          "body": "Turns out that hating trans people and taking away women’s  autonomy doesn’t pay for gas or groceries or rent or childcare \n\nJust saying…",
+          "recommendations": 411,
+          "replyCount": 0,
+          "timestamp": 1794113452,
+          "timesPick": false
+        },
+        {
+          "name": "Johnny Cake",
+          "location": "Allentown",
+          "body": "Turning Point sounds like an organization without a rudder. Hopefully they will just keep sailing in circles and talking and arguing with each other in their echo chamber while the country heals and moves forward without them. Good riddance.",
+          "recommendations": 330,
+          "replyCount": 0,
+          "timestamp": 1794113452,
+          "timesPick": false
+        },
+        {
+          "name": "Long Island Dave",
+          "location": "Long Island",
+          "body": "Watch out for Trump. The master con man is acting a bit reasonable, \"willing to work with democrats*.\n\nI'm reminded of Henry Rollins' \"Liar\".\nduck://player/awY1MRlMKMc",
+          "recommendations": 52,
+          "replyCount": 0,
+          "timestamp": 1794113451,
+          "timesPick": false
+        },
+        {
+          "name": "Westchester Peach",
+          "location": "Up North",
+          "body": "All this talk of “the base” and “making deals” is missing the point: we are one nation, folks. Can we please stop the us vs. them talk and start messaging unity?",
+          "recommendations": 94,
+          "replyCount": 0,
+          "timestamp": 1794113450,
+          "timesPick": false
+        }
+      ],
+      "title": "Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.",
+      "byline": "Reis Thebault and Sejal Govindarao",
+      "publishedAt": "November 7, 2026",
+      "summary": "Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07nat-turningpoint-midterms-01-thwk/07nat-turningpoint-midterms-01-thwk-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/opinion/midterms-republicans-trump-hubris.html",
+      "totalComments": 436,
+      "comments": [
+        {
+          "name": "Tracy Dixon",
+          "location": "Wahiawa, Hawaii",
+          "body": "After listening to the video in the link I think Trump violated all 10 of Notorious B.I.G’s Crack Commandments! Brilliant!",
+          "recommendations": 22,
+          "replyCount": 0,
+          "timestamp": 1794123186,
+          "timesPick": false
+        },
+        {
+          "name": "Purpletornado",
+          "location": "Parts unknown",
+          "body": "Never get high on your own supply actually comes from the  film Scarface. Frank tells that to Tony when they first meet at Frank’s house after Tony deals with the Colombians.",
+          "recommendations": 24,
+          "replyCount": 0,
+          "timestamp": 1794123186,
+          "timesPick": false
+        },
+        {
+          "name": "Metalmom",
+          "location": "somewhere",
+          "body": "My favorite parts? That Musk could not buy the electorate with all his millions. And that it has been shown that white men do not get to choose who wins the elections. There were so many flips and firsts I couldn’t keep up.\n\nBy the way Elon,  you may be in a case of heavy denial, but all your millions will count for nothing when the final bill comes due.",
+          "recommendations": 93,
+          "replyCount": 0,
+          "timestamp": 1794123186,
+          "timesPick": false
+        },
+        {
+          "name": "Tiger29",
+          "location": "New Smyrna Beach, FL",
+          "body": "Every trump touches he destroys. Price me wrong.",
+          "recommendations": 16,
+          "replyCount": 0,
+          "timestamp": 1794123185,
+          "timesPick": false
+        },
+        {
+          "name": "Jamie Lynne Keenan",
+          "location": "queens nyc",
+          "body": "It's what happened after Vietnam and Watergate. It's about how the Republicans handled the AIDS crisis. Lie and blame and ridicule the victims.  They are out of touch rich bullies.",
+          "recommendations": 38,
+          "replyCount": 0,
+          "timestamp": 1794123184,
+          "timesPick": false
+        },
+        {
+          "name": "Alisa A. Rhone-Simmons",
+          "location": "Merida, Yucatán",
+          "body": "Well done. Thanks 🫡!",
+          "recommendations": 16,
+          "replyCount": 0,
+          "timestamp": 1794123183,
+          "timesPick": false
+        },
+        {
+          "name": "PK",
+          "location": "Sacramento",
+          "body": "In October 2025 in an AI-generated video posted on Truth Social, arrogant Donald Trump was depicted piloting a fighter jet, wearing a crown and dropping feces and brown sludge onto crowds of protestors below on the \"No King” rally. \n\nAmerican voters have etiquettes; on November 3rd they returned the favors to King Trump in spades. And now both him and his GOP acolytes are up to their neck in whatever Trump showered the protestors with from his plane. No need for an AI generated image video for that, just imagining that spectacle tickles me.",
+          "recommendations": 38,
+          "replyCount": 0,
+          "timestamp": 1794123183,
+          "timesPick": false
+        },
+        {
+          "name": "Newsgirl",
+          "location": "Maryland",
+          "body": "Bravo, Mr. Bouie! It takes an exceptional writer to work in quotes from Biggie and Kane in the same column; and one about a political reckoning no less!! And you’re right about “no half-steppin” , all these factions of the Democratic Party; liberal, moderate, democratic socialists need to get in a room, hash out their differences, and come out with a plan that keeps their majority at least through the 2028 elections and beyond. If there was ever a time for compromise, this is it. And compromise that does not involve turning the other cheek at every opportunity. The politicians who emerged victorious should also pay attention to the questions on ballots across the country…for instance ,people want to stop ICE -induced violence but they still want immigration reform that makes sense. So much more but come January 20th, in the words of the Isley Brothers, we got work to do.",
+          "recommendations": 32,
+          "replyCount": 0,
+          "timestamp": 1794123183,
+          "timesPick": false
+        }
+      ],
+      "title": "Republicans Got Ruinously High on Their Own Supply",
+      "byline": "Jamelle Bouie",
+      "publishedAt": "November 7, 2026",
+      "summary": "Republicans violated the Notorious B.I.G.’s fourth crack commandment.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07bouie-newsletter-zvkq/07bouie-newsletter-zvkq-largeHorizontalJumbo-v2.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html",
+      "totalComments": 401,
+      "comments": [
+        {
+          "name": "ZTM",
+          "location": "There",
+          "body": "Trump never cared about the American people.",
+          "recommendations": 32,
+          "replyCount": 0,
+          "timestamp": 1794139890,
+          "timesPick": false
+        },
+        {
+          "name": "Mary",
+          "location": "Rome",
+          "body": "An. important part of parenting is that if  a child misbehaves, they get time out, 2024 was that time out for the Democrats for being too woke, elite, and forgetting rural America.  \n\nTime out is necessary to give pause for reflection.   \n\nAmericans are not naive about economic/cultural power and special interest. Like parents, they let things be until a time out is needed. And that is when their voting power matters. \n\nNow it’s GOP time out. \n\nPerhaps this is necessary for 2026 to bring us a functioning bipartisan government to tackle the major policy issues - social security being one.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794139890,
+          "timesPick": false
+        },
+        {
+          "name": "zb",
+          "location": "Miami",
+          "body": "Another reminder that beneath it all there remains a very large segment of the country driven by hate.  As that commercial saying goes, what's in their pocket, is all that really matters.  The rights of others, the fundamental principles of democracy, truth, equality, justice, and basic decency \nhave no place in their life so long as they have money in their pocket and somebody to blame and hate.  In the end, they voted for Trump time and time again, because deep down that's who they really want to be.",
+          "recommendations": 21,
+          "replyCount": 0,
+          "timestamp": 1794139889,
+          "timesPick": false
+        },
+        {
+          "name": "Henry",
+          "location": "USA",
+          "body": "Lacking a college degree does not make you working class, and you can still be working class even if you have a college degree (in fact, most people with a college degree are working class). I'm sick of this conflation of education level and class that the Times and most other major outlets engage in. Class is a description of your relation to the means of production. If you sell your labor for a wage in order to live, you are working class.",
+          "recommendations": 40,
+          "replyCount": 0,
+          "timestamp": 1794139885,
+          "timesPick": false
+        },
+        {
+          "name": "Jim",
+          "location": "Florida",
+          "body": "The Dems need to resist their primal urge to go woke on social issues.  Stay focused on the economy, corruption, democracy, and the rule of law.  Leave the social issues out of the picture and we'll win again be in 2028.  \n\nDon't impeach Trump again, even though he richly deserves it.  It's an exercise in futility and swing voters will view it as retribution politics.",
+          "recommendations": 29,
+          "replyCount": 0,
+          "timestamp": 1794139885,
+          "timesPick": false
+        },
+        {
+          "name": "Hans Scholl",
+          "location": "Boulder, Colorado",
+          "body": "The Dems will go woke, they can’t help themselves.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794139884,
+          "timesPick": false
+        },
+        {
+          "name": "VJR",
+          "location": "North America",
+          "body": "It's a shame that these people needed 10 years to realize the fraud that was Donald Trump.\n\nAs a native NYer now living in Missouri, I've had 53 years of experience with his nefariousness ever since the NYT reported in October 1973 about the Trumps being charged by the Nixon Administration for violating the 1968 Fair Housing Act.  Too bad that never went trial.  Too bad more so that it would have been a civil trial and not a criminal trial.  Their racism and criminality would have been public and we all would have been spared.\n\nSadly, \"Those who don't study history are doomed to repeat it.  Yet, those who do study history are doomed to stand by helplessly while everone else repeats it.\"",
+          "recommendations": 30,
+          "replyCount": 0,
+          "timestamp": 1794139882,
+          "timesPick": false
+        },
+        {
+          "name": "Dan",
+          "location": "Manhattan",
+          "body": "Stay to the right, white working class. You clearly have wanted to vote against your best interest for the past 10 years, stay aligned with the tech bros and trump. You voted for him and did so much damage to this country that will last forever.",
+          "recommendations": 13,
+          "replyCount": 0,
+          "timestamp": 1794139881,
+          "timesPick": false
+        }
+      ],
+      "title": "White, Working-Class Voters Shifted Left in the Midterms. We Asked Them Why.",
+      "byline": "Bayliss Wagner",
+      "publishedAt": "November 7, 2026",
+      "summary": "White voters without a college degree, a cornerstone of the Republican base in the Trump era, moved left this year. Some cited high prices, the war with Iran and more in their decisions.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07pol-white-working-class-tcwv/07pol-white-working-class-tcwv-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/style/illeana-douglas-the-women-cat-fight.html",
+      "totalComments": 206,
+      "comments": [
+        {
+          "name": "Pablo",
+          "location": "MTA",
+          "body": "Just to say that Illeana Douglas and Martin Scorsese look quite nice together in that photo. Ah, youth!",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794146324,
+          "timesPick": false
+        },
+        {
+          "name": "Tony",
+          "location": "New York City",
+          "body": "Excellent article, look forward to reading the book. Capitalism forces everyone to be competitive to the extremes .  We eat each other to advance our careers and  right now we have a govt that is eating the American people to advance their psychotic careers.\n\nA united front is what women need to present to the financial world of white male elites who believe they own everything and  everyone as they call the shots. \n\n Women need to get out of the silo mentality and support each other especially in all aspects of life.  When they become board member they act with the same hatred towards women,minorities as white men do.  Becoming a woman  board member doesn't mean your enlightened.  When all the Black female  professionals were fired from the Federal govt, NIH, military  minority women are still waiting to watch the press conference that women's organization should of held to protest the govt or to stand up for the Epstein victims.\n\nFortunately black women support each other and with the election have eight women in  powerful key positions in Georgia al\n\nNormal people are not looking for a cat fight we want justice for women. We want the same rights that men have. Women want control of their bodies.  Americans  had a united front on election day and  will continue to not allow one  ugly White nationalist slight go by without a forceful legal response from the United front of women.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794146318,
+          "timesPick": false
+        },
+        {
+          "name": "James C",
+          "location": "Nashville, TN",
+          "body": "I have such a crush on Illeana Douglas.  What a presence!",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794146318,
+          "timesPick": false
+        },
+        {
+          "name": "Denise Cummins",
+          "location": "Boulder, CO",
+          "body": "Sorry to say, but the most insidiously toxic force on the planet is female jealousy. If you don't believe me, read Odd Girl Out (Rachel Simmons), Queen Bees and Wanna Bes (Rosalind Wiseman),  and Woman's Inhumanity to Woman (Phyllis Chesler). They describe deadly female \"covert and deniable\" strategies girls and women use to drive out other women they perceive to be threats. Or take a look at the 2024  Workplace Bullying Institute report which found that women bully women at almost twice the rate that men bully women in the workforce.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794116571,
+          "timesPick": false
+        },
+        {
+          "name": "Down Home Doctor",
+          "location": "NC",
+          "body": "\"Sex and the City\" was such a repellent show.  Four smart women in NYC and all they do in that world of wonders is talk about men and sex?  It was very useful for sexists wanting to do harm to smart women trying to avoid constant sexual harassment and lost opportunities due to their gender.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794116555,
+          "timesPick": false
+        },
+        {
+          "name": "SMAC",
+          "location": "Mass",
+          "body": "I can’t wait to read this. Yeah, sisterhood, when push comes to shove and it involves men, is no fraternity… yeah, that’s no praise for sisterhood.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794116535,
+          "timesPick": false
+        },
+        {
+          "name": "gene",
+          "location": "CT",
+          "body": "wow. The Women. \"I trust him about as far as I can kick this lemon pie.\" A quote that followed me and a few friends through grad school (1980's)... We all loved going to see films from that era.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794116533,
+          "timesPick": false
+        },
+        {
+          "name": "ManhattanWilliam",
+          "location": "NYC",
+          "body": "It's funny that George Cukor even ordered that the animals used in The Women be female - no men allowed, even if they were species other than homosapiens.  Of course George was excluded from this edict, and in fact from stories I've read about him, he only marginally broke his own edict.\n\nNo doubt about it.  Women and gay men make up the fan base for the film and for the genre.  Sorry to disagree with Maureen but straight men do NOT constitute the clientele for this stuff.  I don't deny that I enjoy some of it (although I've outgrown the Housewives who are, I might add, mostly Republicans) ages ago.  But The Women is great.  Crawford and Bette Davis and their feud, though exaggerated, did exist (at least on the part of Bette) and those of my tribe eat it up.  \n\nAnd did Maureen REALLY believe that woman's lib was gonna make all female \"sisters\"?  She DOES know that White women voted for Trump in each of the THREE TIMES he ran for president?  Not sure their non-White sisters found that anything to bond over although it might be that things are bringing them - AND MEN! - closer together based on the recent election results.  Time will tell.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794116495,
+          "timesPick": false
+        }
+      ],
+      "title": "Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’",
+      "byline": "Maureen Dowd",
+      "publishedAt": "November 7, 2026",
+      "summary": "After publishing a book about the 1939 classic “The Women,” the actress and writer talks about her film career and her role in #MeToo.",
+      "section": "style",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-ILLEANA-DOUGLAS-4-bjvh-grid-hp/07ST-ILLEANA-DOUGLAS-4-bjvh-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html",
+      "totalComments": 202,
+      "comments": [
+        {
+          "name": "Zen Weasel",
+          "location": "Greater LA",
+          "body": "Forgot the incredibly creepy ad that Steve Hilton (Republican, of course!) ran in California.  Two girls who either looked or like they were hostages, or AI slop.  \"I'll do ALL the work,\" one girl says salaciously to the other.  \n\nJust ick.  It ALMOST makes the Ranaswamy ad look decent by comparison.",
+          "recommendations": 13,
+          "replyCount": 0,
+          "timestamp": 1794118942,
+          "timesPick": false
+        },
+        {
+          "name": "JV",
+          "location": "Ohio",
+          "body": "The republicans might want to find some people who are not vulgar and crass, these people are nasty. Looks like people are getting tired of the loss of decency. Ramaswamy’s ad takes the cake for the worst; it’s vile and I don’t know how it got released. \n\nI’ll remind everyone he called any decent gop whiny and he supported its release. So many things to remind people of so he’s never potus. \n\nLoved the ‘other proteins’ ad- brilliant! As well as the one with grandparents- that was great too!",
+          "recommendations": 11,
+          "replyCount": 0,
+          "timestamp": 1794118907,
+          "timesPick": false
+        },
+        {
+          "name": "DMG",
+          "location": "Cape Elizabeth, Maine",
+          "body": "This is by far the best ad of all the campaigns.\n\n\"Sinator\" from Mississippi:\n\nhttps://www.youtube.com/watch?v=yGG1tSCoNbk",
+          "recommendations": 26,
+          "replyCount": 0,
+          "timestamp": 1794112031,
+          "timesPick": false
+        },
+        {
+          "name": "Sara Jones",
+          "location": "Minneapolis, MN",
+          "body": "Of all the ads that stood out to me, I think the constant onslaught of attacks on the Somali community used to tie Peggy Flanagan and Keith Ellison to fraud, were some of the most egregious dog whistle politics I saw. The community was scapegoated and attacked for a single large fraud event that was orchestrated by a minority of the community and it was Aimee Bock, a white woman, who came up with the idea during the COVID era. They offenders were caught and prosecuted. It was such a stretch to tie Ellison and Flanagan to the issue and it felt incredibly racist. I am glad voters in Minnesota saw through the propaganda.",
+          "recommendations": 21,
+          "replyCount": 0,
+          "timestamp": 1794112030,
+          "timesPick": false
+        },
+        {
+          "name": "Linda Marler",
+          "location": "Eastern Washington State",
+          "body": "Our Congressman voted lockstep with Trump for two years, then made ads telling us how much he cares about our district. Yes, he voted to push needy people off Medicaid, reduce food aid, decrease taxes for our wealthiest people, exert no control of tariffs that are ruinous to our state, supported unhelpful agricultural policies, and didn't object to terrorizing immigrants and citizens who \"look like\" immigrants.  Then he lied about his opponent's positions on everything from increasing the cap on Social Security taxes, trans athletes, and just about everything.  \n\nHe beat her by 20 points two years ago, but we are watching a very close race that is not yet decided.  His strutting arrogance really begs for him to lose.",
+          "recommendations": 20,
+          "replyCount": 0,
+          "timestamp": 1794112029,
+          "timesPick": false
+        },
+        {
+          "name": "CWms",
+          "location": "SC",
+          "body": "I would like to see NO political ads. Except for Senator (prayerfully) Colom's ads,most were dreadful. The ads showed me that the candidates placing these ads think we're all stupid enough to believe what they say. I was sick of the ads that disparaged the opposing candidate with very little truth included.",
+          "recommendations": 11,
+          "replyCount": 0,
+          "timestamp": 1794112028,
+          "timesPick": false
+        },
+        {
+          "name": "Joanne",
+          "location": "Boston",
+          "body": "Oh yes, and Colom's suggestion to pick another senator instead of another protein source. Humor at its best. I loved it - even though I'm vegetarian and agree with what Hyde-Smith said! Of course, it was royally insensitive of her to say it in the context of people's financial suffering.",
+          "recommendations": 17,
+          "replyCount": 0,
+          "timestamp": 1794112028,
+          "timesPick": false
+        },
+        {
+          "name": "William R MEYER",
+          "location": "IA",
+          "body": "My favorite ad was against Rob Sands, the Democratic candidate for Iowa governor. It was an AI expose of his brief career as a model in his youth. I'm still not sure what the point was.  He won.",
+          "recommendations": 11,
+          "replyCount": 0,
+          "timestamp": 1794112027,
+          "timesPick": false
+        }
+      ],
+      "title": "The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms",
+      "byline": "Shane Goldmacher and Tim Balk",
+      "publishedAt": "November 7, 2026",
+      "summary": "In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/06/us/politics/thumb4/thumb4-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+      "totalComments": 200,
+      "comments": [
+        {
+          "name": "ahe",
+          "location": "usa",
+          "body": "Undermining Ukraine strengths and abilities is a continuation of trump's retribution course. Soured by Zelinsky's refusal to investigate Hunter Biden allowed trump to stand behind the perpetrator, putin.\nThe world knows the truth about this tragic war and having incorporated brave NYT journalists inside this \nwar highlights Ukraine's need for continued support.\nGood piece.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1794140417,
+          "timesPick": false
+        },
+        {
+          "name": "John",
+          "location": "Port of Spain",
+          "body": "Blessings on these brave men and women.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794140416,
+          "timesPick": false
+        },
+        {
+          "name": "Voxandreas",
+          "location": "Westchester Wonderer",
+          "body": "As far as I know, this article is profoundly inaccurate. The Ukrainians are losing and the Russians are turning Ukraine into landlocked pile of rubble. Most key bridges on the Dneiper River have been destroyed or badly damaged. The UKRAINIANS stated that Ukraine is losing 30,000 soldiers a month. The Ukrainian to Russian body exchange ratio is 10 to 1. That means ten Ukrainian fallen soldiers for every one Russian fallen soldier. That also means the Ukrainians are suffering much greater casualties than the Russians. Operation Vivaldi has produced no territorial gains as the Russians have stymied the offensive. At this point, Russia controls ninety percent of the Donbass. Drones have slowed, but not stopped the Russians from advancing.  Also, Ukraine has lost HALF of its population with most younger people leaving the country. It's time to surrender before Ukraine completely disappears as a nation.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794140415,
+          "timesPick": false
+        },
+        {
+          "name": "Laurence",
+          "location": "Berkeley, CA",
+          "body": "Since the Ukrainians are technologically superior, they should be \nable to win the war and drive the Russians out.\nIF, Trump would supply them with missiles to destroy drones \nand attack missiles now flooding into civilian territory in\nUkrainian cities.\nBut Trump is Putin's water boy.\nI know it isn't legally viable, but to me this homage to tyranny \nis TREASON.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794140412,
+          "timesPick": false
+        },
+        {
+          "name": "Planetary Occupant",
+          "location": "Culver City, California",
+          "body": "May they continue to do well.  Would that Putin be forced to stop this war.   Is he too dumb to realize the extent to which he is damaging his own country, or doesn't he care?",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794140411,
+          "timesPick": false
+        },
+        {
+          "name": "Alabama Liberal",
+          "location": "Alabama",
+          "body": "I don't even know what to say on the topic of Ukraine any longer... For years, they have repelled one of the most dangerous and autocratic-supporting countries on the planet and have been the de facto leader of the free world in an era where Trump seems subservient to Putin. \n\nIt is simply embarrassing what our leaders are doing at this time while Ukraine fights the most heroic battle in eons. I cannot cheer them on nearly enough, and the fact that they've HAD to fight this invasion for 5 years while Putin sleeps cozy in his mansion/bunker actually makes me sick.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794140410,
+          "timesPick": false
+        },
+        {
+          "name": "Michael",
+          "location": "Minnesota",
+          "body": "I admire those young people, shown in the pictures, fighting for their country. I can't imagine doing what they are doing when I was their age. And sadly, because of old egotistical dictators, they have to spend their precious young years fighting a war only Putin wanted.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794140409,
+          "timesPick": false
+        },
+        {
+          "name": "Bruce Maier",
+          "location": "Shoreham, NY",
+          "body": "I routinely watch Youtube videos from multiple sources on the Ukrane war. Ukraine is winning. They are cutting off Russian logistical supply to both Crimea and to the rest of Uraine.\n\nThey are attacking deep inside Russia, destroying the places where Russia creates weapons of war, refineries, and even the Russian equivalent of Walmart.\n\nRussia is rushing poorly trained soldiers to the front, only to be killed in a few minutes. Russia cannot continue to refill their military ranks, as the number of casualties is now exceeding there continuously decreasing ability to add recruits.\n\nPutin cannot concede, lest History repeat itself. He can't stop, but his syncophants are not telling him the truth.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794140409,
+          "timesPick": false
+        }
+      ],
+      "title": "Inside the Operation That Helped Ukraine Turn the Tables",
+      "byline": "Carlotta Gall, Kamila Hrabchuk and Mauricio Lima",
+      "publishedAt": "November 7, 2026",
+      "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+      "section": "world",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/opinion/naza-documentary-gaza-israel.html",
+      "totalComments": 176,
+      "comments": [
+        {
+          "name": "Leesa M",
+          "location": "Portland OR",
+          "body": "Important words... the world needs to understand what this hellscape is like from a personal point of view.\n\nI'm a Jewish American and I've been looking at Gaza from the outside in, and the truth is Palestinians have been surveilled, caged and attacked for decades now. What the Israeli government is visiting upon Gaza, Lebanon and the West Bank is a murderous land grab, and man-on-the-street interviews with Israeli citizens (even teenage girls) will say that out loud.\n\nMy husband and I have been contacting our legislators and demanding an end to funding these war crimes. We both say Not In Our Name!",
+          "recommendations": 101,
+          "replyCount": 0,
+          "timestamp": 1794122688,
+          "timesPick": false
+        },
+        {
+          "name": "James Steerforth",
+          "location": "Wai Pounamu",
+          "body": "What was missing in Gaza was independent journalism. Israel knew what it was doing was shameful and wrong and attempted to hide it by targetting and killing local reporters and preventing international journalists from reporting the truth. Even now, Gaza is hidden from view and Israel is trying to suppress the voices of their own troops. Charging Netanyahu for committing war crimes is deserved.",
+          "recommendations": 62,
+          "replyCount": 0,
+          "timestamp": 1794122682,
+          "timesPick": false
+        },
+        {
+          "name": "Virginia",
+          "location": "Florida",
+          "body": "It is sad what happens in Gaza. This film is incomplete. It does not tell how Hamas on October 7 2023 invaded Israel with the sole purpose of killing innocent people. Gaza would not be what it is today should October 7, not had happened.\nThe film does not show how Hamas used money from the people of Gaza to build tunnels that reached Israel. What makes it ok for Hamas to kill, rape and burn innocent Jews? That, I don’t understand. What did they expect, that there was not going to be a consequence? They were wrong. There are consequences to any behavior, Hamas is to blame!,,,",
+          "recommendations": 57,
+          "replyCount": 0,
+          "timestamp": 1794122356,
+          "timesPick": false
+        },
+        {
+          "name": "Jonathan Reed",
+          "location": "Las Vegas, NV",
+          "body": "The Palestinians would have been much better served by a Mahatma Ghandi than by their various leaders.",
+          "recommendations": 27,
+          "replyCount": 0,
+          "timestamp": 1794121849,
+          "timesPick": false
+        },
+        {
+          "name": "chacmool",
+          "location": "San jose",
+          "body": "To call Gaza a “war zone” is a misnomer. It is actually a killing zone. Israel continues to bomb a trapped, defenseless people with children being killed every day. After NAZA, it is stunning to see the gyrations of Israel defenders and the attempts to blame Palestinian civilians for the horror wrought by Israel.",
+          "recommendations": 52,
+          "replyCount": 0,
+          "timestamp": 1794121827,
+          "timesPick": false
+        },
+        {
+          "name": "ccw",
+          "location": "New York, NY",
+          "body": "See Naza. Then see American Doctor to understand what happens after the missiles are launched.",
+          "recommendations": 28,
+          "replyCount": 0,
+          "timestamp": 1794121515,
+          "timesPick": false
+        },
+        {
+          "name": "DB",
+          "location": "Philly",
+          "body": "Aside from the ancient history of the region, folks need at teach-in about the history of early 20th century when the Middle East was part of the Ottoman Empire and ruled from that group.\n\nRemember when oil was necessary for shipping, the WWI folks from Britain and France drove the Ottoman Empire out and ruled the Middle East setting up the Sheikdoms and sucking out the petroleum.  They carved up the countries for control and set up the mandates of who owned what resources.   \n\nSo rather than just focusing on the Israelis and Palestinians, look at the history of all of the Middle East countries that came into being, ruled by set up dictators and how it all changed in the second half of the 20th century.   And don't leave out the famous photograph of Hitler meeting the Grand Mufti of Jerusalem as well.  Ooops!  Left out how the US and Brits had the elected ruler of Iran deposed and set up the brutal Shah; we're still feeling those repurcussions! \n\nFolks should really learn how the animosity and fighting now are the symptoms of the over 100 years of these strategies.",
+          "recommendations": 32,
+          "replyCount": 0,
+          "timestamp": 1794121512,
+          "timesPick": false
+        },
+        {
+          "name": "JB",
+          "location": "Walnut Creek",
+          "body": "Will there be an opinion piece from the Israeli side? Having read some critiques and delved into the background of the film maker there would be more than enough material. Had Israel intended to kill Palestinian civilians it did a rather bad job of it given that the war lasted two years and Hamas set the battle field with the intention of maximizing the casualties of its own people in the event Hezbollah, the Houthis and Iran did not join the \"Al Asqua Flood\" and they were on their own. They knew with this Plan B gullible ignorant Westerners would fall for the type of propaganda that NAZA represents.",
+          "recommendations": 40,
+          "replyCount": 0,
+          "timestamp": 1794121247,
+          "timesPick": false
+        }
+      ],
+      "title": "‘NAZA’ Is a Window Into a World Even Gazans Can’t Reach",
+      "byline": "Mohammed Sawwaf",
+      "publishedAt": "November 7, 2026",
+      "summary": "A Gazan journalist watches the controversial documentary from inside the war zone the film is about.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/opinion/07Sawwaf/07Sawwaf-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html",
+      "totalComments": 167,
+      "comments": [
+        {
+          "name": "Gerhard Wittenberg",
+          "location": "Portland, OR",
+          "body": ".\nFYI\n\nThe English word Senate comes from the Latin SENATUS which in turn derives from the Latin SENEX which it means “old man” or “elderly.” And therefore, SENATUS (Latin) or Senate (English) means “assembly of the elderly.”\n\nGot the idea?\n.",
+          "recommendations": 15,
+          "replyCount": 0,
+          "timestamp": 1794129708,
+          "timesPick": false
+        },
+        {
+          "name": "Anon",
+          "location": "Earth",
+          "body": "For all New York Times readers like to moan and chastise the youth, people age 18-29 make up roughly 16% of the population and made up 11% of midterm voters. 75% of them voted for democrats. 30-44, 20% of the population and of the midterm voters 2/3 voted form Democrats. From there it was 50/50, skewing Republican as the age rose. Boomers just can't get enough of MAGA.\n\nA falling age of politicians is a sign of progress and better things to come.",
+          "recommendations": 21,
+          "replyCount": 0,
+          "timestamp": 1794129689,
+          "timesPick": false
+        },
+        {
+          "name": "Pablo",
+          "location": "MTA",
+          "body": "I oppose age limits because some of the best in Congress have been older. Bernie has remained inspiring and Leahy was too.  Ron Wyden. There are many examples.  However, we the voters should not be returning the same people to office for decades and decades. It was finally time for Nancy Pelosi to retire after almost 40 years. And it's time for someone other than Schumer to lead. However let's pay more attention to corruption and get rid of the corrupt people first.",
+          "recommendations": 20,
+          "replyCount": 0,
+          "timestamp": 1794129644,
+          "timesPick": false
+        },
+        {
+          "name": "Suzanne",
+          "location": "California",
+          "body": "Aged Democratic Party operatives and Congresspeople noticeably lagged this election in understanding the urgent economic and ethical messages & issues today's voters care about. Such cluelessness translated into a party and its leaders, like Schumer, NOT supporting El-Sayed, who won anyway, and Angela Nixon, who should not have lost a Democratic FLA Senate seat by such a slim margin. \n\nAmerica must seriously consider age & terms limits for Congress and SCOTUS. Just because a few people, \"some people\", might be competent at 75 or 80 or 93 does not mean it is ok to codify such loose thinking into good policy. And by loose thinking, I mean the sheer vanity of us old folks thinking we are as EFFECTIVE at 70 or 80 as we were at 40 or 50 or 60. Because we are not. And neither are McConnell or Schumer or Grassley - or a current or immediate past president. The shiny gleam of power does not guarantee strength or competence.\n\nEspecially re: SCOTUS, age & terms limits asap please!",
+          "recommendations": 17,
+          "replyCount": 0,
+          "timestamp": 1794129637,
+          "timesPick": false
+        },
+        {
+          "name": "blue wave surfer",
+          "location": "seattle",
+          "body": "YAY!!!  it's about time the younger generations get involved in their own futures!  now the task is to impose TERM LIMITS or AGE LIMITS.\n\nroll up those sleeves, there's a ton of work to be done ASAP, before they make things even worse.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794129611,
+          "timesPick": false
+        },
+        {
+          "name": "rtj",
+          "location": "Massachusetts",
+          "body": "Proud of the contribution of the ages of my 2 Senators (77 and 80) to the lofty total.  Oh, wait...\n\nThe 80 year old was just elected to another 6 year term.  The 77 year old is up for reelection in '30, when she will be 80.  Alas, the talent in our state is so lacking, and she has some redeeming qualities, she's probably better than anyone else who might challenge her.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794129606,
+          "timesPick": false
+        },
+        {
+          "name": "Diana",
+          "location": "Midwest",
+          "body": "It’s about time!",
+          "recommendations": 43,
+          "replyCount": 0,
+          "timestamp": 1794102150,
+          "timesPick": false
+        },
+        {
+          "name": "Del",
+          "location": "NYC",
+          "body": "Schumer should make way for a next-generation leader of the Senate or the Democrats will soon find themselves back in the old-school loser box.",
+          "recommendations": 57,
+          "replyCount": 0,
+          "timestamp": 1794102148,
+          "timesPick": false
+        }
+      ],
+      "title": "With So Much New Blood in the Senate, the Average Age Is Falling. To 63.",
+      "byline": "Francesca Paris and C.J. Robinson",
+      "publishedAt": "November 7, 2026",
+      "summary": "Incoming senators are nearly 15 years younger than departing ones, on average. But the chamber’s overall age isn’t shifting much.",
+      "section": "upshot",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-new-senate-ages-index/2026-11-06-new-senate-ages-index-largeHorizontalJumbo-v2.png",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/books/review/dustin-hoffman-look-at-me.html",
+      "totalComments": 164,
+      "comments": [
+        {
+          "name": "nowadays",
+          "location": "New England",
+          "body": "There was a time in my life I would have been excited to meet great actors. But today, I far prefer the company of nobodies, many of whom are truly great. Its just that nobody knows it.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794160444,
+          "timesPick": false
+        },
+        {
+          "name": "Michael H",
+          "location": "New Mexico",
+          "body": "A simply amazing talent!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794160263,
+          "timesPick": false
+        },
+        {
+          "name": "d ascher",
+          "location": "Boston",
+          "body": "When I saw \"Kramer vs Kramer\" I was completely puzzled that the raves were for Meryl Streep's performance and Hoffman was barely acknowledged as having been in it. His performance went directly to my insides. \n\nThere is no rule that says a great actor or great anything else must be beyond reproach in every aspect of their life. It is probably difficult for a squeaky clean person to become a great actor - you can see plenty of examples of that on the Hallmark Channel.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794159844,
+          "timesPick": false
+        },
+        {
+          "name": "VZ",
+          "location": "NYC",
+          "body": "Equating the length of a memoir with the age of its subject is a rather absurd way to judge its substance.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794159122,
+          "timesPick": false
+        },
+        {
+          "name": "wendy",
+          "location": "New York City",
+          "body": "How could you not include Midnight Cowboy?",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794159122,
+          "timesPick": false
+        },
+        {
+          "name": "Eddie Mack",
+          "location": "New England",
+          "body": "Best line ever:\n  \"I'm walkin' heah ! \n(Ratso)",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794159122,
+          "timesPick": false
+        },
+        {
+          "name": "Phil Glass",
+          "location": "London",
+          "body": "Dustin Hoffman's pairing with Simon and Garfunkel in The Graduate is the stuff of severe migraines.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794159121,
+          "timesPick": false
+        },
+        {
+          "name": "Randall of Mad Town",
+          "location": "Madison WI",
+          "body": "He should have won the Oscar for \"Lenny\".",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794159121,
+          "timesPick": false
+        }
+      ],
+      "title": "Dustin Hoffman Thought He’d Be a Nobody",
+      "byline": "Alexandra Jacobs",
+      "publishedAt": "November 7, 2026",
+      "summary": "“Look at Me,” his long-awaited memoir, is an entertaining, if incomplete, reminder of how wrong he turned out to be.",
+      "section": "books",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/01/multimedia/01tbr-hoffman-review-bqvk/01tbr-hoffman-review-bqvk-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
+      "totalComments": 147,
+      "comments": [
+        {
+          "name": "Steve Bolger",
+          "location": "New York City",
+          "body": "Keep an open mind. It is interesting to see other people’s perspectives.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794119621,
+          "timesPick": false
+        },
+        {
+          "name": "mdet",
+          "location": "bklyn",
+          "body": "Of course, it's great Ossoff and Lance Bottoms won decisively in Georgia. It's not going to be great when voters review Ossoff's voting records. \n\nHe along with a few other Democrats gave Trump his first legislation win - Laken Riley Act which eliminated due process for migrants. Ossoff helpted Trump take away people's constitutionally protected right. Not to mention how he took crypto money then passed a law benefitting his donors.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794119547,
+          "timesPick": false
+        },
+        {
+          "name": "Chris",
+          "location": "Baltimore",
+          "body": "How did you get through that conversation and never mention Jimmy Carter?",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794119546,
+          "timesPick": false
+        },
+        {
+          "name": "Karen",
+          "location": "Bay Area, CA",
+          "body": "The democrats did not massively win because voters want our elected officials to have tea parties with trump, or eat s’mores with Republican trump cult members. The worst president in USA history must be marginalized as much as possible and made to look as ridiculous and dangerous as he is. His republican supporters must be publicly humiliated. \nBeware trumps increased love for S. Miller. Be on high alert between now and mid January. Do not listen to my “friends across the aisle” claptrap. Americans voted for democrats because they are sick of being embarrassed by a man who’s declared war on Canada, while invading Iran, and making like-like with Russia’s authoritarian president. \nIt is not just gas prices. \nPundits and Democrats: There is no compromising with a kidnapper. The good guys work to free the hostages, while punishing the bad guys.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794119545,
+          "timesPick": false
+        },
+        {
+          "name": "George Mitchell",
+          "location": "California",
+          "body": "It's great to see Democrats appealing to citizens rather than lecturing them. It's great to see candidates who are genuine in their care for others. And honestly, it's great to see that Newsom's approach was a dud. I will not miss that guy.",
+          "recommendations": 17,
+          "replyCount": 0,
+          "timestamp": 1794109624,
+          "timesPick": false
+        },
+        {
+          "name": "MC",
+          "location": "Midwest",
+          "body": "Consider this, what changed the election outcome for many candidates was minority voters voting for Democrats. White voters in aggregate voted the same as in previous elections. Some individuals might have changed but in totality they were consistent with past elections.\n\nIt is not like Republican white voters changed their voting preferences to Democrats. They largely voted along the same lines as they did in 2024. Many stayed home vs. voting. \n\nThe euphoria of the election is great but realize the fight has begun and Democrats voted for change. Jeffries and Schumer are not the agents of change. They are the system vanguard we voted to remove.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1794109623,
+          "timesPick": false
+        },
+        {
+          "name": "EliLo",
+          "location": "New York",
+          "body": "Many voters are uninterested in the religious beliefs of their political leaders, may even be turned off by a candidates' need to speak about how religion \"guides\" them in political decisions. Some do not trust people who need religion to dictate how to be a \"good\" person. Show us who you are by actions. Save your religious guidance for your personal life and dictate your political responsibilities by the needs of your constituents. Morality does not need religious guidance.",
+          "recommendations": 16,
+          "replyCount": 0,
+          "timestamp": 1794109620,
+          "timesPick": false
+        },
+        {
+          "name": "James Ricciardi",
+          "location": "Panama, Panama",
+          "body": "The most important president to this result was Donald Trump.  The second most important was Lyndon Johnson.  Trump's  attempts to block the effects of the civil rights act of 1964 and the voting rights act of 1965 were far too little and far too late.  Imagine this result in NC, SC, Georgia, Texas and probaly Mississippi without those two landmark laws signed by President Johnson!",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794109618,
+          "timesPick": false
+        }
+      ],
+      "title": "What Michelle Goldberg Learned From the Most Exciting Democrats",
+      "byline": "Ezra Klein and Annie Galvin",
+      "publishedAt": "November 7, 2026",
+      "summary": "Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/opinion/07eks-goldberg-image01/07eks-goldberg-image01-largeHorizontalJumbo.png",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/opinion/midterms-tech-economy.html",
+      "totalComments": 134,
+      "comments": [
+        {
+          "name": "Tell the truth",
+          "location": "USA",
+          "body": "Speaking of depravity ... Stephen Miller was just appointed Prime Minister, a function he and Russel Vought have pretty much been imposing on America since T 2.0, day 1.\n\nThey do not care about how any citizens voted or the will of the people. Their only interest is to dominate and rule and impose, and then extract. \n\nAs the author says, there is a growing moral revulsion, and it's so much broader and deeper and wider than rejecting Kalshi or tariffs or war. It's rejecting men who want to dominate us, whether it's through the deeds of Jeffrey Epstein or the actions of a corrupt administration.\n\nAnother headline today says \"Miller isn't fazed.\" Well, he should be.\n\nThe voters rejected the depravity. We reject the imposition of these men's wills on our daily lives. There are more people who want to live decently with their neighbor then there are ghoulish manipulators. We reject you.",
+          "recommendations": 43,
+          "replyCount": 0,
+          "timestamp": 1794097691,
+          "timesPick": false
+        },
+        {
+          "name": "Logic",
+          "location": "California",
+          "body": "In another news today, California still has 5 million votes to count even after 5 days of election. Its a shame. A country like India counts close to 700 million votes and announce the results same day. This cant be democracy that too in the hub of tech.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794097690,
+          "timesPick": false
+        },
+        {
+          "name": "Steve",
+          "location": "South of NYC",
+          "body": "Section 230. Section 230. Section 230. I can’t say it enough. Section 230 has permitted too many self-proclaimed know-it-alls to get away with harming the rest of us. Get rid of it and force technologists to bear responsibility for their products and the damage they do.",
+          "recommendations": 15,
+          "replyCount": 0,
+          "timestamp": 1794097689,
+          "timesPick": false
+        },
+        {
+          "name": "Guido",
+          "location": "Cincinnati",
+          "body": "God Bless America\n\nTo Those We Chose\nTo serve us\nInstead of themselves\nAnd their pockets\n\nTo work with us\nInstead of against us\n\nTo lead us\nTo protect us\nTo respect us\nTo defend us\n\nTo engage us\nTo challenge us\nTo strive with us\nTo achieve with us\n\nGod Bless America\n\nLand of the free\nHome of the brave\nStill",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794097688,
+          "timesPick": false
+        },
+        {
+          "name": "Gatunboy",
+          "location": "Amherst, Ohio",
+          "body": "The so-called \"prediction markets\" are nothing more than on-line gambling sites. Shut them down, all of them! Same with sports betting!",
+          "recommendations": 15,
+          "replyCount": 0,
+          "timestamp": 1794097687,
+          "timesPick": false
+        },
+        {
+          "name": "Al Maniac",
+          "location": "Montgomery County, MD",
+          "body": "Yes, absolutely — let’s put guardrails around “predictions markets” such as Kalshi.\n\nBut let’s also go after bigger fish such as healthcare insurance for everyone, a living wage and education reforms that might lead to fewer MAGA voters down the road.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794097687,
+          "timesPick": false
+        },
+        {
+          "name": "Bob",
+          "location": "Canada",
+          "body": "\"Jason Koebler noted that Americans are sick of being told they should “shut up and suffer” while tech barons make scads of money and economically and spiritually impoverish the rest of us by automating our jobs and humanity away. His term for the corrupt status quo is “the depravity economy.\"\n\nSome headlines: https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html \nhttps://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html\nhttps://www.ft.com/content/47dba9d2-4c82-4e17-969d-f1728ef13a5a?syn-25a6b1a6=1 \n\nIn what bizarre universe is AI impoverishing us? Is Ms. Grose even paying attention to real economic findings or forecasts, as opposed to the negative hype that's gone viral? Employment by others is falling even as individual-level entrepreneurship is taking off. \n\nIs the argument that there is mass impoverishment or is the argument that tech barons making a scad of money? Those are non-equivalent. Would Ms. Grose prefer, for instance, a pre-Industrial Revolution society? \n\nAs for the spiritual aspects--do armchair thinkers really prioritize them over the jobs created, the medical treatments innovated and the hope generated by AI? If you don't believe that  is happening, see: https://www.bbc.com/future/article/20260309-ai-is-finding-treatments-for-incurable-diseases \n\nWhat is the goal here -- to find the morally optimal approach or to reach morally optimal solutions? Those, also, are nonequivalent.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794097687,
+          "timesPick": false
+        },
+        {
+          "name": "Jennifer T. Schultz",
+          "location": "NY",
+          "body": "In 1997, SCOTUS struck down the CDA, the Communications Decency Act, said it went against the first amendment. Then make another law. This is stupid.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794097686,
+          "timesPick": false
+        }
+      ],
+      "title": "We Just Had an Anti-Slop Election",
+      "byline": "Jessica Grose",
+      "publishedAt": "November 7, 2026",
+      "summary": "Technology is increasingly a moral issue — and a bipartisan one.",
+      "section": "opinion",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/opinion/07grose-newsletter/07grose-newsletter-largeHorizontalJumbo-v3.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/magazine/chatbot-elderly-mother-ethics.html",
+      "totalComments": 132,
+      "comments": [
+        {
+          "name": "M R Sullivan",
+          "location": "Boston",
+          "body": "I looked after a relative who was great and independent until 92, and then simply got more frail, experienced more pain, and more loss of family and peers from 92-94.  She was genuinely afraid.  Mostly afraid of falling and breaking a hip, as she had seen so many do, to the point where after a fall that did not break a hip, she would not get up and do PT with most therapist, afraid she would fall.  She had constant back pain from cracked vertebrae.  She was always kind, but the anxiety impaired her as much as her physical limitations.  A mild anti anxiety pill prescribed by her doctor, and then by hospice (which over 18 months) gave her more quality of life in the end.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794160896,
+          "timesPick": false
+        },
+        {
+          "name": "Marshal",
+          "location": "Brazil",
+          "body": "I would not use the Chatbot, but I would drastically cut back on phone calls and visits. Instead, I would enlist family members to take up the slack. Others will have their own opinions, and that's OK with me. To each their own.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794160721,
+          "timesPick": false
+        },
+        {
+          "name": "P. Drake",
+          "location": "New York",
+          "body": "According to LW, LW's mother is a complainer.  And that, for LW, is the problem.  The problem is a global one.  LW doesn't seem to be interested in whether one or more of the things the mother complains about are actually things to be concerned about or justify the complaints.  She just, according to LW, complains about everything.\n\nQuite plausibly, the mother overdoes it, as LW says.  But I don't see a very fine-grained view on LW's part of what those things are that she complains about, or much curiosity.  The problem for LW seems to be one of \"trying to end calls with her,\" but is she right about anything?  There is no indication here that LW takes mother seriously as a rational person.  Maybe it would help to prioritize things and concentrate on what is most important.  LW says that the facility offers \"extensive services,\" but does that mean that mother's complaints are groundless and should be dismissed?  Or redirected to a bot?  At least when you call Customer Service, when you say \"agent,\" you can still sometimes get a live person!",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794157948,
+          "timesPick": false
+        },
+        {
+          "name": "BB",
+          "location": "H.R, CO",
+          "body": "I had a mother, she in FL, me in NJ, that was similar to that of the LW.  From experience as a Dir of Marketing in senior housing, and certificate in gerontology, please be advised that your mother will NOT change so it's time to stop trying to because she is not looking for advice from you.  She has the psychiatrist for that. Just listen, say \"uh huh\", \"oh, that's too bad\", \"ok, mom I have work to do, dinner is ready, etc., I'll talk to you tomorrow.\"  It may take some getting used to on your part but well worth it.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794157539,
+          "timesPick": false
+        },
+        {
+          "name": "Dan",
+          "location": "USA",
+          "body": "Many commenters clearly ignored the line \"we could offer her a clearly identified chatbot\" - it would be her choice to turn on the computer or pick up the phone and call one of her children. The letter writer is exhausted because they care and want to be there for her.\n\nSocial engagement helps to hold off, and can even reverse, mental decline. Using a chatbot, which involves language understanding and construction, may offer some fraction of that. Far better than just ignoring her calls or telling her \"you're an emotional vampire, stop feeding off us\".\n\nThe writer also already uses AI, social ills aside - arguments against AI are going to fall on deaf ears.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794156809,
+          "timesPick": false
+        },
+        {
+          "name": "Here There And Everywhere",
+          "location": "Out There",
+          "body": "I realized in my situation that mother was never happy unless she had something to be unhappy about. That was who she was. There was no ever making her happy. She enjoyed being miserable. \n\nThe LW needs to realize this is who his mother is. She is never going to change. The only thing that can change is his response to the situation.  Just get off the phon --hang up if you have to--e or get up and leave a visit when she starts in. Limit the amount of time for your visits and how often you visit,.\n\nIt is soul sucking to be around someone like this.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794151236,
+          "timesPick": false
+        },
+        {
+          "name": "faye",
+          "location": "SoCal",
+          "body": "Why on earth is the letter writer or her brother putting up with their mother's behavior? Why are they being such doormats? End the phone call/leave the room whenever mom complains/is negative. By continuing to engage, you are reinforcing/rewarding mom's bad behavior. If you detach/end the call when mom complains, she'll eventually learn that she can't do that if she wants to retain your attention. It won't be easy -- you've indulged her bad behavior for decades. But it's not too late to establish boundaries: what behavior/treatment do you want to accept? What do you not? Seems that the letter writer and her brother would benefit from some self-worth counseling",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794151236,
+          "timesPick": false
+        },
+        {
+          "name": "Mythical",
+          "location": "Battle Born State",
+          "body": "“She takes medication prescribed by a psychiatrist and attends regular counseling,” so she must have some awareness of her issues and doesn’t always “refuse to admit she needs help.”  You’re quite fortunate your family member is willing to engage in mental health services. Just because these interventions haven’t addressed her outlook to a point that relieves the pressure on you and your sibling doesn’t mean they can’t. You could ask your mother’s permission have a two-way conversation with the counselor to work on some topics to her, e.g. “Mom, since I’m far away and can’t always talk, can I ask your counselor to follow up on a few things I might not have time to get to?” If she won’t go for that, you can email or leave voicemails to the counselor and psychiatrist. They may not be getting the full picture from her. Seems prudent to at least try with the trained, human professionals who know her before resorting to AI. As others suggested you could also seek different providers but only if Mom likes that idea.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794150354,
+          "timesPick": false
+        }
+      ],
+      "title": "Can I Have an A.I. Chatbot Field My Mother’s Endless Complaints?",
+      "byline": "Kwame Anthony Appiah",
+      "publishedAt": "November 7, 2026",
+      "summary": "It could serve as an infinitely patient sounding board and source of practical help.",
+      "section": "magazine",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/15/magazine/15mag-ethicist/15mag-ethicist-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/well/eat/nutrient-inadequacy-signs.html",
+      "totalComments": 125,
+      "comments": [
+        {
+          "name": "Erda",
+          "location": "Virginia",
+          "body": "It is alarming how many of us take vitamins in a sort of willy-nilly, more-is-better mode, which has fueled the \"supplement\" industry.  My PCP and I have made a deal that he will not advise vitamins without proof of a deficiency.  Recently, he said I should take B-12 but agreed to defer until getting results of a blood test. My existing vitamin B level proved to be high.  I follow this procedure for medications, as well - no prescriptions unless I have adequate information about the cause they address and how to measure the effect.  I don't mean to be cranky - just believe that we are sometimes too gullible about medications and supplements.  And the drug industry is laughing its way to the bank.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794158011,
+          "timesPick": false
+        },
+        {
+          "name": "Richard Whiteford",
+          "location": "West Chester, PA",
+          "body": "It would be help if you named some of the foods that are needed for each catagory.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794157294,
+          "timesPick": false
+        },
+        {
+          "name": "Here In NJ",
+          "location": "NJ",
+          "body": "Shocked that you didn't mention the low Vitamin D/breast cancer connection. Not everyone with low D levels gets breast cancer, but it's VERY common for those who have been diagnosed to have lower levels of D. Many need an Rx level push of it to get to normal levels.\nWomen (ESPECIALLY) should ask their doctors to check their D levels.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794151511,
+          "timesPick": false
+        },
+        {
+          "name": "Kgpnative",
+          "location": "Maryland",
+          "body": "The article and most of the comments from the readers are very informative. However, the symptoms I would see appear very similar for each of these deficiencies. As a layman, can someone help me understand the impacts even in groups of two deficiencies that occur with the deficiencies that I can identify without a laboratory test that only my GP can prescribe? When I feel tired and lethargic next time, should I attribute that to long term deficiencies of some of all of these in the article?",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794151000,
+          "timesPick": false
+        },
+        {
+          "name": "Wendy B.",
+          "location": "UT",
+          "body": "Something this article failed to mention: do not just run out and take supplements on the off chance you are deficient in something. An excess of a nutrient can be very toxic. \nYou should consider your diet carefully and perhaps talk to a nutritionist before deciding whether to take a supplement or not. It's a lot safer to decide to change your diet a little bit to increase say, your intake of B12 or zinc from food instead of popping pills. You should resort to pills only if you cannot or will not change your diet to a healthy omnivorous diet that covers everything.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794147769,
+          "timesPick": false
+        },
+        {
+          "name": "steinbej",
+          "location": "Upstate NY",
+          "body": "Michael Pollan said it best, and he said it here in his NYT Magazine piece of January 2007.  \"Eat Food.  Not too much.  Mostly plants.\"",
+          "recommendations": 6,
+          "replyCount": 3,
+          "timestamp": 1794142639,
+          "timesPick": false
+        },
+        {
+          "name": "JF",
+          "location": "Under the Sea",
+          "body": "I started reading this with interest, but when the old, false statement about vegans/vegetarians not getting enough iron was put forth, I lost all faith in the credibility of the source. Vegans and vegetarians get plenty of iron in a plant-based diet. Enough with this canard - you do NOT need animal products to be healthy. In fact, it's just the opposite.",
+          "recommendations": 6,
+          "replyCount": 1,
+          "timestamp": 1794142292,
+          "timesPick": false
+        },
+        {
+          "name": "JJ Flowers",
+          "location": "Dana Point, CA",
+          "body": "Eighty percent of people take vitamins, and many more eat fortified foods. Also, the daily recommended amount of any one vitamin almost certainly varies body to body. All these symptoms can be answered the old fashioned way: limit alcohol, eat mostly plants, get better sleep and exercise. Also, most of all think positive about your health.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794140682,
+          "timesPick": false
+        }
+      ],
+      "title": "5 Nutrients You May Not Be Getting Enough Of",
+      "byline": "Caroline Hopkins Legaspi",
+      "publishedAt": "November 7, 2026",
+      "summary": "And the signs you may be falling short.",
+      "section": "well",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/well/07WELL-nutrient-deficiencies-cover/07WELL-nutrient-deficiencies-cover-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
+      "totalComments": 87,
+      "comments": [
+        {
+          "name": "Patrick",
+          "location": "Woodstock, Vermont",
+          "body": "Accordingly to Netanyahu, Israel will end if the opposition joins together to end his right wing government. I don’t see any other choice for the opposition. Try it. When the sky doesn’t fall and progress is made towards peace then there won’t be the electoral case for another right wing government.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794118521,
+          "timesPick": false
+        },
+        {
+          "name": "paul",
+          "location": "White Plains, NY",
+          "body": "Netanyahu is Israel's last best hope to remain the only democracy in the Middle East. When your country is surrounded by Islamic countries whose sole goal in life is destroy the Jewish state, then you need a strong leader. Netanyahu has been that leader for Israel. Why would the Israeli people want to give the reigns of power over to someone who wants to appease Israel's Islamic enemies, and the growing anti-Jewish Arab presence in the Israeli government?",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794118514,
+          "timesPick": false
+        },
+        {
+          "name": "Richard",
+          "location": "New York",
+          "body": "Probably worth remembering that Netanyahu got the most votes. So trying to oust him isn’t exactly democracy at work.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794114626,
+          "timesPick": false
+        },
+        {
+          "name": "trblmkr",
+          "location": "NYC",
+          "body": "Say bye bye to Liberman, bring in Raam, and work with the List from the outside.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794114625,
+          "timesPick": false
+        },
+        {
+          "name": "FS",
+          "location": "NY",
+          "body": "Israeli experiment as a Jewish State has miserably failed and has turned it into Theocratic Extremist State with religious extremist settlers out of control with the help of security forces and has been called \"Jewish Terrorists\" by Thomas Friedman and Mike Huckabee. It is delusional to think that it will survive as Jewish State. Only way Israel can survive is as a Secular State with equal rights for every citizen. And for that first step is for the opposition to include Arabs in their coalition. It will be welcome by whole world and is best for Israel itself.",
+          "recommendations": 33,
+          "replyCount": 0,
+          "timestamp": 1794114623,
+          "timesPick": false
+        },
+        {
+          "name": "SME",
+          "location": "Scottsdale AZ",
+          "body": "I agree that foreigners should keep their noses out of other nations' elections. Many US voters were outraged when Israel's PM visited with Trump at MarALago and told US voters to support Trump in the 2024 election.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794114622,
+          "timesPick": false
+        },
+        {
+          "name": "Marty",
+          "location": "Mexico City",
+          "body": "It would seem, after all the horrors in Gazaand the West Bank and now Jordan, that both sides are terrorists.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794114622,
+          "timesPick": false
+        },
+        {
+          "name": "Mark Keil",
+          "location": "Ra'anana, Israel",
+          "body": "The negotiations will surely be complex and difficult. However, the arithmetic is straightforward: there are basically 3 ways the opposition can form a government, namely, they are joined by (1) the Haredi parties or (2) the Arab parties or (3) the Likud if they free themselves from Netanyahu and his toxic cohorts.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794114621,
+          "timesPick": false
+        }
+      ],
+      "title": "Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.",
+      "byline": "David M. Halbfinger",
+      "publishedAt": "November 7, 2026",
+      "summary": "Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.",
+      "section": "world",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/arts/alexander-skarsgard-sexuality.html",
+      "totalComments": 82,
+      "comments": [
+        {
+          "name": "LNick",
+          "location": "Vt",
+          "body": "A wonderful actor whose performances always have layers, even roles like the Northman or Tarzan. He has an innate, maybe the word  slyness?, subtlety?, that hints at vulnerability even when doing despicable or hard things. In Pillion, a movie I would never have watched but was stunned by when I did because he was in it, that side by side of one persons beautiful but painful awakening into their ownership of their intimacy capacity and the others tragic painful knowledge of stuckness in their stunted relationship was brilliant and moving. His interviews about it revealed such courage and openness about humanity. Is he handsome? Lots of men are. Is he utterly compelling as a man and a person?Absolutely.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794161133,
+          "timesPick": false
+        },
+        {
+          "name": "robert",
+          "location": "new york. n.y.",
+          "body": "What many of these comments  about Alexander Skarsgard  overlook is that he is a very serious actor who chooses his roles very carefully. He could easily do one-dimensional commercial  romantic comedies with stereotyped  shallow characters, but he instead tries to choose roles that will break that mold in which the moviegoing public casually tries sees him: as a sex symbol. Blessed, or possibly cursed, with incredibly good looks, Skarsgard has to overcome this common Hollywood stereotype. When you analyze the variety of roles he has undertaken in both television and movies, you have to acknowledge the seriousness of his acting choices and that he is, bottom line, a very fine, intelligent  actor.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794161132,
+          "timesPick": false
+        },
+        {
+          "name": "Quirk",
+          "location": "NY",
+          "body": "Don't forget \"War on Everyone\"   -  he still had the muscular physique from Tarzan, but played a bumbling, haunted alcoholic indifferent to his own destruction - it's a wild performance.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794161132,
+          "timesPick": false
+        },
+        {
+          "name": "Keen Observer",
+          "location": "NM",
+          "body": "I'm not sure why this article felt the need to focus so much on Skarsgard's looks/magnetism/sex appeal. He's a very good actor who's also very attractive. But very good actor first.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794161132,
+          "timesPick": false
+        },
+        {
+          "name": "Liz",
+          "location": "Berkshire County",
+          "body": "What about \"The Legend of Tarzan?\" C'mon, in no movie he's been in do we see him shirtless more! He is very sexy in that role. Taming the beast is a long lived particular theme of romance.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794141591,
+          "timesPick": false
+        },
+        {
+          "name": "Sharon",
+          "location": "Maryland",
+          "body": "I am unfamiliar with Mr. Skarsgard as an actor, but I have seen many comments here and in other places regarding his appearance and “magnetism”.  His appeal totally escapes me…it is not a universal feeling at all.  Sorry.  My opinion only, of course.",
+          "recommendations": 9,
+          "replyCount": 1,
+          "timestamp": 1794141590,
+          "timesPick": false
+        },
+        {
+          "name": "Phil",
+          "location": "Connecticut",
+          "body": "Based on the comments, I really want to watch \"MurderBot\" now!",
+          "recommendations": 10,
+          "replyCount": 1,
+          "timestamp": 1794141589,
+          "timesPick": false
+        },
+        {
+          "name": "Kathy",
+          "location": "Rhode Island",
+          "body": "Guess ill have to pay more attention., just never noticed him. Im 72. I know who Bill Skarsgard is. Brad Pitt for me, does a great bed scene when he does and aging well.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794141588,
+          "timesPick": false
+        }
+      ],
+      "title": "The Unsettling Onscreen Sexuality of Alexander Skarsgard",
+      "byline": "Maya Phillips",
+      "publishedAt": "November 7, 2026",
+      "summary": "In many of his roles, the actor subverts the classic notion of a sex symbol into something more sinister.",
+      "section": "arts",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/03/06cul-skarsgard-18950/06cul-skarsgard-18950-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+      "totalComments": 78,
+      "comments": [
+        {
+          "name": "Annabelle",
+          "location": "NZ",
+          "body": "Profit wins over security.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794118606,
+          "timesPick": false
+        },
+        {
+          "name": "Mike",
+          "location": "NJ",
+          "body": "DT could do literally ANYTHING without repercussions. He is a king above all laws. Supreme Court said so. Just as our founders intended.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794118605,
+          "timesPick": false
+        },
+        {
+          "name": "rak023",
+          "location": "Victoria BC",
+          "body": "Well, Nvidia DID contribute millions to the White House ballroom, so they kind of deserved this, right…?",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794118603,
+          "timesPick": false
+        },
+        {
+          "name": "James",
+          "location": "USA",
+          "body": "I’d like to know who specifically at the Commerce Department signed their name to the approval for export of H200 chips to New Matrix and Maginfra. \n\nA Congressional inquiry seems warranted, if not an FBI investigation.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794118600,
+          "timesPick": false
+        },
+        {
+          "name": "Dulles1",
+          "location": "VA",
+          "body": "We are being systematically infiltrated and exposed by the Chinese with literally no pushback.  We are exposing our ally Taiwan to their pressure and gaining nothing .  We must be much more aggressive about stopping Chinese spying and stealing our best technology. Our national defense, our allies and the world deserve our best efforts to dismantle Chinese in flirtation, not enable it.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794118600,
+          "timesPick": false
+        },
+        {
+          "name": "Verseau",
+          "location": "Los Angeles, CA",
+          "body": "As Secretary of Commerce, Howard Lutnick should be mentioned in this article. He is not. Given the gravity of the situation, this omission is troubling considering Lutnick’s close ties to Trump and the Administration.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794118599,
+          "timesPick": false
+        },
+        {
+          "name": "WCI",
+          "location": "Maryland",
+          "body": "I suspect the only thing the Commerce Department is worried about is it's Secretary and his boss's cut!",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794118599,
+          "timesPick": false
+        },
+        {
+          "name": "Z",
+          "location": "Virginia",
+          "body": "Same old same old. \n\nNow the Dems take over the congress and the senate, it becomes popular again to blame the GOP as panda hugger, with the sheeping crowds murmuring, totally ignoring the whole Trump trade war was intended to weaken China and the Dems were the ones who wanted to end it. \n\nObviously the chip choke never worked and will not work in the future either, otherwise how come China churned out one LLM after another that matched US frontier models and costed far less? China has also released a number of new chips that could flip Nvidia dominance.\n\nTime to get over your short-sighted emotional reactions and try to work with China on AI.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794118599,
+          "timesPick": false
+        }
+      ],
+      "title": "U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties",
+      "byline": "Ana Swanson, Kalley Huang and Keith Bradsher",
+      "publishedAt": "November 7, 2026",
+      "summary": "The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.",
+      "section": "business",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
+      "totalComments": 58,
+      "comments": [
+        {
+          "name": "AK",
+          "location": "Seattle",
+          "body": "The homelessness industrial complex is thriving over here where the homeless population grew by 8% while the nation's shrank by 6%.  We just had the 5th CEO of the King Country Regional Homeless Authority resign, learned that over $16 million of missing funds is \"unrecoverable\".  The KCRHA had previously tried to a registered sex offender to its board.\n\nIt's a progressive utopia over here.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794112525,
+          "timesPick": false
+        },
+        {
+          "name": "herzliebster",
+          "location": "CT",
+          "body": "How you count them makes a difference also.  Christopher Armitage on Substack looks into the deceptive ways this administration has counted unhoused people to make it look as if their punitive policies have had a beneficial effect -- in much the same way that the regime was recently boasting about \"lifting\" people off food stamps when what they had done was to cut them off.\n\nhttps://cmarmitage.substack.com/p/trump-admin-claims-homelessness-is",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794112525,
+          "timesPick": false
+        },
+        {
+          "name": "Pepe",
+          "location": "California",
+          "body": "How many apartments could have been built with Musk’s $500 million campaign money?",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794112520,
+          "timesPick": false
+        },
+        {
+          "name": "Sarah",
+          "location": "Boston",
+          "body": "And chronic homelessness is going to go up significantly over the next year. In its move away from the Housing First model, the current administration instructed HUD to prioritize Transitional Housing over Permanent Supportive Housing in this year's funding process. A number of programs in my area are shutting down in mid 2027 at the end of their current funding cycle. Just from those programs, in one city, hundreds of people are about to lose their housing and have nowhere else to go.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794099131,
+          "timesPick": false
+        },
+        {
+          "name": "Tiddle",
+          "location": "Somewhere",
+          "body": "Can we just for once put politics aside and admit that a drop of homeless population is good news? If whatever policy that was started or has been ongoing is working, then that's the path we can keep pushing forward. I don't really care if it's Trump or Dems who take credit for it, so long as we see the positive outcome, that's what I care about.",
+          "recommendations": 3,
+          "replyCount": 1,
+          "timestamp": 1794098775,
+          "timesPick": false
+        },
+        {
+          "name": "Susan Joy",
+          "location": "NYC",
+          "body": "There are fewer than a million homeless? Hard to believe so few are degrading the quality of life for so many. I’d be happy to pay to build a commune in the middle of the desert or mountains, drop in supplies periodically, have it far enough away that it would be very hard for them to travel back to set up their tents in public parks. Provide satellite so those who wish can have amusements or search for jobs or find housing in population centers. Drug addicts will be forced to make do and the mentally ill will have shelter and food. Shall we start a go fund me? I’m sure we’ll get millions to contribute hundreds of millions to have somewhere to send those who will not accept help or social services but would rather commandeer our public parks and sidewalks.",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1794098772,
+          "timesPick": false
+        },
+        {
+          "name": "Laurel",
+          "location": "San Diego, CA",
+          "body": "What about deaths as a reducer of the homeless population?  Life on the streets is dangerous for both health and crime reasons. Many, many homeless are older, or been forced onto the streets by medical bankruptcy or have bad health from yars of addiction.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794098771,
+          "timesPick": false
+        },
+        {
+          "name": "Benjamin",
+          "location": "Fort Worth",
+          "body": "Well, that's some good news.  I used to volunteer pretty often at a homeless shelter and I observed the conditions of the people outside the shelters.  I thought the proposed changes to dealing with homelessness by the Trump administration were counter productive.  People really need to be off the streets with a roof over their heads and whatever support they need.  The proposed change of forcing people into mental health treatment and then releasing them to the streets guarantees they will be back.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794098771,
+          "timesPick": false
+        }
+      ],
+      "title": "U.S. Homeless Population Had Record Drop in 2025",
+      "byline": "Jason DeParle",
+      "publishedAt": "November 6, 2026",
+      "summary": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/06/multimedia/06dc-homeless-drop-02-gzwf/06dc-homeless-drop-02-gzwf-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
+      "totalComments": 34,
+      "comments": [
+        {
+          "name": "Rsmith",
+          "location": "Alabama",
+          "body": "With respect to Mr. Wigand, another hero of the tobacco case is Mike Moore, the attorney general of Mississippi at the time and the lead lawyer in the suit against big tobacco. He is wearing the multicolored tie and is behind Wigand in the photo. I lived in Jackson at the time and once saw Mr. Moore shopping with his family at T.J Maxx",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794141041,
+          "timesPick": false
+        },
+        {
+          "name": "Margo",
+          "location": "Atlanta",
+          "body": "Being a whistleblower can, in some cases, be easier with anonymity.  Tom Devine, quoted in the article, has a book \"The Corporate Whistleblower's Survival Guide\" with info that can help show how to prepare info and report to the right authorities. Many of us in  corporate employment can use this, I have.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794141040,
+          "timesPick": false
+        },
+        {
+          "name": "KSLAWW",
+          "location": "Des Moines, IA",
+          "body": "Thank you, David Streitfeld for writing and NYT for publishing this article.",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794141039,
+          "timesPick": false
+        },
+        {
+          "name": "Vulgarity",
+          "location": "Fundamental violations",
+          "body": "Violations of fundamental humanity and autonomy, the implementation of those violations, is vulgar. \n\nI am truly sorry for the human beings who, in the act of violating fundamental humanity and autonomy, are so used to playing ridiculous surface variable manipulation games, that they are blind to the vulgarity of their acts and instead interpret that word to mean something literal and juvenile. \n\nHowever, thank you for proving my overall point. Methodologies that refuse to be restrained by humanity and human autonomy are flawed at their core - in addition to being immoral and against fundamental principles, they inevitably lead to incompetence and are therefore counterproductive to their intended (as presented) goals - because all they reflect is their own perspective.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794141038,
+          "timesPick": false
+        },
+        {
+          "name": "Reader",
+          "location": "Santa Monica",
+          "body": "What courage!",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794141037,
+          "timesPick": false
+        },
+        {
+          "name": "Niko Khan",
+          "location": "Lucerne",
+          "body": "How about a word for some of the men who kept freedom alive long enough to vote for it last Tuesday?\n \nThey were reviled, exiled and imprisoned and they deserve at least some belated gratitude.\n\nThank you to \nBill Binney\nEdward Snowdon \nJulian Assange\nChelsea Manning\nJohn Kiriaku\n\nThey risked everything and got nothing in return.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794141036,
+          "timesPick": false
+        },
+        {
+          "name": "Renato de Mujeres",
+          "location": "Bronx NY",
+          "body": "Everyone had long known exactly how addictive and harmful smoking was, then Wigand told a lot of lies about the company that employed him. He said they put ‘rat poison’ in cigarettes, but that was Wigand the Scientist not knowing the difference between the   traditional flavorant coumarin and the blood thinner/rat poison coumadin. When that lie was rebutted, he switched to a new lie that ‘toilet bowl cleaner’ was put in commercial cigarettes. A gullible media hungry for heroes bought his baloney, and when the old cigarette company committed an ‘own goal’ of trying to besmirch his character, Wigand was forever deified by the WSJ and the broader media. Almost everything he says is a falsehood, as anyone who studied up on this character knows.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794141035,
+          "timesPick": false
+        },
+        {
+          "name": "Paul",
+          "location": "NJ",
+          "body": "Where is the share with Whitehouse staff button?",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1794141035,
+          "timesPick": false
+        }
+      ],
+      "title": "When Would-Be Whistleblowers Have a Secret to Tell, He Gets the Call",
+      "byline": "David Streitfeld",
+      "publishedAt": "November 7, 2026",
+      "summary": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
+      "section": "technology",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/08/multimedia/WHISTELBLOWER-02-wphl/WHISTELBLOWER-02-wphl-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/style/holiday-gift-shopping-tips-priya-parker.html",
+      "totalComments": 31,
+      "comments": [
+        {
+          "name": "Bill",
+          "location": "Devon, Pa.",
+          "body": "I and nearly everyone I know are well over fifty, and if we want something, we buy it for ourselves. We see no reason to clutter other people's dwellings with objects our consumer culture commands us to purchase. If I give anything other than my best wishes to anyone, it's a book with the stipulation that if they don't like it after a few pages they are to stop reading it and pass it on to someone who might.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794159512,
+          "timesPick": false
+        },
+        {
+          "name": "Lynn",
+          "location": "Los Angeles",
+          "body": "To me a great gift is something that delights the recipient but is something that they would never purchase for themselves. \nI also have no problem asking my adult kids for gift suggestions, that way they are assured of getting what they want with no money wasted.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794145427,
+          "timesPick": false
+        },
+        {
+          "name": "Binne",
+          "location": "New Paltz",
+          "body": "Lovely article! \"How do we want to do this, and why?\" I would turn this sentence on its head: \"Why do we want to do this, and how?\"",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794093548,
+          "timesPick": false
+        },
+        {
+          "name": "Celia Lyons",
+          "location": "Massachusetts",
+          "body": "To be a thoughtful gift-giver to someone with you have an emotionally reciprocal relationship, but who does not have much money, don't be too extravagant. You may mean it as a generous gesture, but it may cause the other person stress when they're not able to reciprocate in kind--or have to take on significant debt to do so.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794093268,
+          "timesPick": false
+        },
+        {
+          "name": "bee",
+          "location": "concord,ma",
+          "body": "I love getting and giving simple homemade treats \"con amore\" in festive containers, e.g. Christmas cookies, candied pecans,  and/or snack mix. Pomanders and lavender sachets are also easy to make and favorites to give and to get.  The recipients appreciate the homemade aspect very much.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794093171,
+          "timesPick": false
+        },
+        {
+          "name": "First Time Caller",
+          "location": "NYC",
+          "body": "Nothing will give you that special feeling like receiving a gift from the “drawer full of gifts”.\n\nTalk about warm and fuzzy, not to mention thoughtful. Keep your gift, I won’t have to write a thank you note, and we can continue as always, no harm no foul.",
+          "recommendations": 7,
+          "replyCount": 0,
+          "timestamp": 1794077512,
+          "timesPick": false
+        }
+      ],
+      "title": "This Is the Gift-Giving Pep Talk You Need",
+      "byline": "Anya Strzemien",
+      "publishedAt": "November 7, 2026",
+      "summary": "The author and self-described “meaning maker” Priya Parker explains why presents can deepen, break or distort our relationships.",
+      "section": "style",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-GIFTING-PEP-TALK-gpmc/07ST-GIFTING-PEP-TALK-gpmc-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/style/ceramic-wedding-bouquets-bridal.html",
+      "totalComments": 21,
+      "comments": [
+        {
+          "name": "angelique",
+          "location": "ct",
+          "body": "If this is a trend, it is going nowhere.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794146324,
+          "timesPick": false
+        },
+        {
+          "name": "Katie",
+          "location": "Chicago",
+          "body": "As a ceramicist myself, I love that we are getting in on the wedding photographer scam of attaching the term “investment” to something expensive that is absolutely no such thing. I also love the idea that spending $3000 on a ceramic bouquet you saw on Instagram is striking a blow for Craft and Tradition and the Real, and somehow different from deciding you have to have a live painter or a photo booth because you are spending a lot of time looking at wedding inspo on Pinterest!",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794146323,
+          "timesPick": false
+        },
+        {
+          "name": "Margie",
+          "location": "Virginia",
+          "body": "While I genuinely marvel at the artistry involved in the creation of these ceramic flowers, real life intrudes.  \n\nStuff happens and breakage occurs.  The dog bumps the display table/, cabinet/ pedestal.  Future child throws a teddy bear and oops! (That's what happened to Great Grandma's Blue Willow plate at my house. Who knew a 2 year old could throw something that high in the air?)  Someone catches their toe on a rug and bumps something and. . . . . SUPERGLUE TO THE RESCUE!",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794146321,
+          "timesPick": false
+        },
+        {
+          "name": "Liz",
+          "location": "WA",
+          "body": "Maybe its just me but $3000 for 8 ceramic lilies seems just a tad expensive.",
+          "recommendations": 8,
+          "replyCount": 0,
+          "timestamp": 1794146320,
+          "timesPick": false
+        },
+        {
+          "name": "G",
+          "location": "Seattle",
+          "body": "I knitted Calla Lilly boutonnieres for my wedding party - we're two guys so no bouquets.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1794146320,
+          "timesPick": false
+        },
+        {
+          "name": "Anon Anonington",
+          "location": "Drake Passage",
+          "body": "pretty bland colors for flowers!\nI will never understand why ceramicists generally choose boring neutral colors for glazes, esp for wedding flowers - white? brown?",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794146320,
+          "timesPick": false
+        },
+        {
+          "name": "Wikfors",
+          "location": "CT",
+          "body": "That is NOT a bouquet I would want to catch!",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794146318,
+          "timesPick": false
+        },
+        {
+          "name": "dg",
+          "location": "nj",
+          "body": "This all seems to be up to the individual bride's tastes. Some will like a memory of the day (after all, what are the ring, the dress, the cake topper about?). Some will think the day is the day, and the memories stay with it. It's all good.\n\nThat said - I can see these in the right vase in a home. Perhaps some day!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794142704,
+          "timesPick": false
+        }
+      ],
+      "title": "Would You Carry a Bouquet Made from Clay?",
+      "byline": "Alexis Benveniste",
+      "publishedAt": "November 7, 2026",
+      "summary": "A growing group of brides are forgoing fresh flowers for ceramic pieces that are built to outlast the wedding day. And they’re not cheap.",
+      "section": "style",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07ST-CERAMIC-BOUQUETS-06-kbzw/07ST-CERAMIC-BOUQUETS-06-kbzw-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+      "totalComments": 13,
+      "comments": [
+        {
+          "name": "Moritz",
+          "location": "Vienna (Austria)",
+          "body": "I wonder why these supermarket fridges were remote controllable in the first place?\n\nMaybe one lesson to be learned here is that connecting stuff to the internet is not always a good idea. Making stuff remote controllable when there’s little to no reason for it is just asking for trouble. \n\nAnd the bigger lessons we have to learn is that (1) there are indeed bad actors out there, and we have to build our systems accordingly; and (2) redundancies and frictions are not always just inefficiencies to be removed, but often the things that stand between us and total chaos when stuff goes wrong (which happens all the time, and even more so if you have bad actors out there).",
+          "recommendations": 10,
+          "replyCount": 0,
+          "timestamp": 1794086240,
+          "timesPick": false
+        },
+        {
+          "name": "EFitz",
+          "location": "Denver",
+          "body": "Russia is suspect yet without US popular support, this administration continues to be a Putin proponent.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794084300,
+          "timesPick": false
+        },
+        {
+          "name": "Yahv",
+          "location": "New York",
+          "body": "Russia, China, North Korea ... pick one.\n\nEuropean countries are experiencing problems but not Russia?",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794084300,
+          "timesPick": false
+        },
+        {
+          "name": "Dr. Biri",
+          "location": "Finland",
+          "body": "I presume that some attacts are made just beccause they have been so easy. Many freezer systems shared the same default password that was not changed with installation. \nIt has not caused any food security problems. It is good for people to know that many systems are vunerable and one must be prepared  ... even for a sudden snow storm.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1794082034,
+          "timesPick": false
+        }
+      ],
+      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+      "byline": "Adam Goldman",
+      "publishedAt": "November 7, 2026",
+      "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+      "section": "world",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/arts/music/dove-cameron-rex-orange-county-shygirl-songs.html",
+      "totalComments": 7,
+      "comments": [
+        {
+          "name": "LiberalTed",
+          "location": "Midtown",
+          "body": "I am always looking for new music and sounds but I think we have totally different tastes in music. We all have different tastes but I think your vibe is like the music from the show Suits... there were people that loved their tracks but I didn't like a single one... like where did they find all this music I don't like?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794108293,
+          "timesPick": false
+        },
+        {
+          "name": "vishmael",
+          "location": "madison, wi",
+          "body": "Today - 7 NOV - 10th anniversary of death of Leonard Cohen.\n\n\"Blessed be the memory of everybody's child.\"",
+          "recommendations": 0,
+          "replyCount": 2,
+          "timestamp": 1794108285,
+          "timesPick": false
+        },
+        {
+          "name": "J",
+          "location": "Minneapolis, MN",
+          "body": "Each time Pareles posts a list, I listen to it, hoping to find something I like, and each time go away empty-handed. \n\nI recently learned that when Pareles reviewed Mariah Carey's now-classic Christmas album, he accused the young woman of \"turning expressions of devotion into narcissistic displays.\" In truth, she made those songs her own in a good way. They are some of the best renditions of those songs available. And this approach is itself a way of expressing reverence. In any case, if he missed the boat with this album, maybe I shouldn't be surprised that he doesn't reveal the songs that are going to be future gems.\n\n(Granted, this is all very subjective.)",
+          "recommendations": 0,
+          "replyCount": 1,
+          "timestamp": 1794106103,
+          "timesPick": false
+        },
+        {
+          "name": "A Guy",
+          "location": "Suburb",
+          "body": "I wonder how much these artists pay to be included in these lists, and whether or not it's even worth it.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794103556,
+          "timesPick": false
+        }
+      ],
+      "title": "Heartaches and a Mission Statement: 11 Songs We’re Talking About",
+      "byline": "Jon Pareles",
+      "publishedAt": "November 7, 2026",
+      "summary": "Dove Cameron’s retro melodrama, Rex Orange County’s ’60s echoes, Shygirl’s “Mantra” and more.",
+      "section": "arts",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07cul-songs-kgzv/07cul-songs-kgzv-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html",
+      "totalComments": 5,
+      "comments": [
+        {
+          "name": "Mike",
+          "location": "Somewhere in Idaho",
+          "body": "Judges don’t get to be angry. They are officers of the court and as such need to be impartial as to outcome, and in their rulings it needs to be logical, legal, and mostly rational.  Should anger appear to be tilting the thought process there will be an appeal and their ruling will be overturned. They better live up to this or they will be taken out to the woodshed for an attitude adjustment session.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794160746,
+          "timesPick": false
+        },
+        {
+          "name": "RC",
+          "location": "Colorado",
+          "body": "Even with the Supreme Court immunity rulings, violationg judge's orders cannot be considered an official act. I believe that he and any builders working in violation of court orders should be held in contempt, and he personally (not using government money) fined/billed to return things to how they were at the time of the order. His actions have been un-American and should not be permitted to prevail. The overwhelming majority of Americans don't want his garish contruction.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794159443,
+          "timesPick": false
+        },
+        {
+          "name": "Elizabeth B",
+          "location": "Connecticut",
+          "body": "As any property owner knows, a rushed construction job is always a mistake. Especially in the case of Trump’s self-aggrandizing projects, failure to consult with environmental, historical, cultural, and landmark groups will only lead to ugly, grandiose, and faulty megaliths that most Americans do not want in their capital.\n\nIt should also be noted that most of these projects (the ballroom, the elite golf course taking over a public park and golf course, fencing in Lafayette Square Park, gold all over the White House, etc., etc.) will be restricted to only the wealthy and political insiders. Most Washingtonians and Americans will have no access to them. \n\nIronic, since we, the American taxpayers, are the people paying for these projects — despite Trump’s claim that he’s paying out of his own pocket (the ballroom) or that MAGA donors are paying for them.\n\nTrump should restrict his dreams of grandeur to tarting up Mira Lago. Or maybe he should build a new casino.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1794159443,
+          "timesPick": false
+        },
+        {
+          "name": "Betsy Smith",
+          "location": "Cape Cod",
+          "body": "The President is the temporary occupant of the White House.  He does not own it or the surrounding property, the District of Columbia.  They belong to \"We, the People.\"  He needs to undo the damage he has done so far, do the necessary repairs (e.g., tear down the \"ballroom/fortress\"and replace the East Wing as it was, brick by brick) and to refrain from any future construction projects.  He can do whatever he likes at Mar-a-Lago, since that is his house.  The White house is mine, and yours, and ours.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1794159443,
+          "timesPick": false
+        },
+        {
+          "name": "Ed Martinez",
+          "location": "Miami",
+          "body": "I believe it to be crucial to halt Trump’s plan for the capital. We mustn’t allow any building without the consent of congress. Anything that has been built at this point must come down.",
+          "recommendations": 17,
+          "replyCount": 0,
+          "timestamp": 1794154566,
+          "timesPick": false
+        }
+      ],
+      "title": "Trump’s D.C. Construction Blitz May Be About to Get Tougher",
+      "byline": "Luke Broadwater and Emily Badger",
+      "publishedAt": "November 6, 2026",
+      "summary": "The president has bulldozed through obstacles as he has sought to remake the face of Washington. But newly empowered Democrats and angry judges are setting up a high-stakes showdown.",
+      "section": "us",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/07/multimedia/07dc-trump-makeover-top2-fpwz/07dc-trump-makeover-top2-fpwz-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/weather/la-heat-fire-temperature.html",
+      "totalComments": 3,
+      "comments": [
+        {
+          "name": "bgr",
+          "location": "Ca",
+          "body": "Wheres the super el nino?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794153772,
+          "timesPick": false
+        }
+      ],
+      "title": "Breezy, Hot Weather Raises Wildfire Risk in Southern California on Saturday",
+      "byline": "Amy Graff",
+      "publishedAt": "November 7, 2026",
+      "summary": "Temperatures could climb close to 90 around Los Angeles.",
+      "section": "weather",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/06/weather/2026-11-06-outlooks-fire-index-promo/2026-11-06-outlooks-fire-index-promo-largeHorizontalJumbo-v29.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/07/arts/television/dorinda-medley-real-housewives-golden-age.html",
+      "totalComments": 2,
+      "comments": [
+        {
+          "name": "Jason Carey",
+          "location": "New York",
+          "body": "The emptiness of our culture summed up by this all.",
+          "recommendations": 12,
+          "replyCount": 1,
+          "timestamp": 1794108289,
+          "timesPick": false
+        }
+      ],
+      "title": "Dorinda Medley: ‘Housewives’ Alumna, D.J., Mayonnaise Defender",
+      "byline": "Derrick Bryson Taylor",
+      "publishedAt": "November 7, 2026",
+      "summary": "The reality TV star keeps busy with new shows and a new book, but she makes time for shopping the RealReal, decorating her manor and “crone-like things.”",
+      "section": "arts",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/15/arts/15Myten-Medleyfinal/15Myten-Medleyfinal-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    }
+  ]
+}
