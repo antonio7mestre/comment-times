@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:18:15.600Z",
+  "generatedAt": "2026-11-15T19:29:59.222Z",
   "days": [
     "2026-11-14",
     "2026-11-15"
@@ -11,9 +11,9 @@
     "todayOnly": false,
     "commentLimit": 8,
     "commentsToStore": 8,
-    "windowEnd": "2026-11-15T19:17:13.586Z",
+    "windowEnd": "2026-11-15T19:29:02.827Z",
     "windowHours": 24,
-    "windowStart": "2026-11-14T19:17:13.586Z"
+    "windowStart": "2026-11-14T19:29:02.827Z"
   },
   "sources": [
     {
@@ -129,96 +129,6 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html",
-      "totalComments": 1266,
-      "comments": [
-        {
-          "name": "El Gringo",
-          "location": "San Diego",
-          "body": "Isn't Megaspeed also in southeast Asian data centers? Because Lutnick's kids' interests in Cantor Fitzgerald and Megaspeed's interests align, it's possible that Lutnick wanted to slow the investigation into Megaspeed to protect his kids' wealth.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1794769905,
-          "timesPick": false
-        },
-        {
-          "name": "Roger",
-          "location": "Rural Eden",
-          "body": "Business as usual in the trump administration.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794769897,
-          "timesPick": false
-        },
-        {
-          "name": "Faye",
-          "location": "Washington County, MN",
-          "body": "Marco Rubio needs some help. I hope the Democrats are going to listen to him.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769883,
-          "timesPick": false
-        },
-        {
-          "name": "Bondosan",
-          "location": "Crab Key",
-          "body": "Do we expect anything different from this administration?",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794769848,
-          "timesPick": false
-        },
-        {
-          "name": "Joyce",
-          "location": "Delaware",
-          "body": "The corruption in this administration IS the point.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794769846,
-          "timesPick": false
-        },
-        {
-          "name": "Margot",
-          "location": "Silicon Valley",
-          "body": "Time to clean house. Lutnick, along with Hegseth and Duffy, should all be removed from office. The appalling and immoral actions by this Administration and its minions just keeps on coming. Not to mention the deep, deep incompetence of these cabinet members. Not a single one of them is fit for duty.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1794769846,
-          "timesPick": false
-        },
-        {
-          "name": "Julia",
-          "location": "boston ma",
-          "body": "Again no big surprise. Another crooked, greedy cabinet member who needs to go. The sooner the better.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794769842,
-          "timesPick": false
-        },
-        {
-          "name": "Mark Alfson",
-          "location": "Dayton, Ohio",
-          "body": "I’m sooooo glad to read how DJT has managed to drain the swamp. Makes all the other minor missteps worthwhile. \n\nAhem.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794769833,
-          "timesPick": false
-        }
-      ],
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-      "byline": "Ana Swanson, Aaron Krolik and Paul Mozur",
-      "publishedAt": "November 15, 2026",
-      "summary": "The commerce secretary has been writing new rules that would affect Southeast Asian data centers, some of which are clients of his former firm.",
-      "section": "us",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html",
       "totalComments": 1096,
       "comments": [
@@ -244,7 +154,7 @@
           "name": "dkensil",
           "location": "mountain view, california",
           "body": "There are arguabty countless adjectives that can be used in describing Donald Trump. But after reading of Trump's (and Lutnick's) role in allowing the sale of very valuable chips to China, I want to offer this one: Trump is the most unpatriotic of the Presidents we have ever had.",
-          "recommendations": 451,
+          "recommendations": 452,
           "replyCount": 0,
           "timestamp": 1794689070,
           "timesPick": false
@@ -271,7 +181,7 @@
           "name": "s. deutsch",
           "location": "venice, CA",
           "body": "The oligarchs suffer from savant syndrome. They are monomaths only in the universe that brought them incomprehensible riches. If not incels in their youth, they were certainly incel adjacent. They are making up for lost time now that they have the money and power to do so. \n\nNot exactly sure why everyone is shocked, shocked that gambling is going on here... This behavior, stunning only for the extraordinary consequences (not only to Jensen Huang and Nvidia, but U.S. national security and the economy, which is propped up almost entirely by their companies), was not invented by tech bros. Since when do many (often wealthy) men keep it in their pants?",
-          "recommendations": 86,
+          "recommendations": 87,
           "replyCount": 0,
           "timestamp": 1794689064,
           "timesPick": false
@@ -325,7 +235,7 @@
           "name": "Confounded",
           "location": "Earth",
           "body": "Too little too late. Rogan, and the rest that voted for and support Trump in 2024 were short sighted and just plain stupid. They got what they voted for and deserve. And no, I'm no longer going to listen to the \"other side\". That ship has sailed.",
-          "recommendations": 147,
+          "recommendations": 148,
           "replyCount": 0,
           "timestamp": 1794719597,
           "timesPick": false
@@ -406,7 +316,7 @@
           "name": "Betina",
           "location": "CA",
           "body": "Football players are good at one thing - football. Why does anybody (and in particular a NY Times columnist) pay attention to what they say about moon landings, or anything else that lies outside their area of expertise? What they believe outside their core competence is irrelevant. You would not write an article about a rocket scientist spouting thoughts about sports (or paleontology, for that matter), so why the other way round? High time we stop venerating athletes, actors, etc., as \"icons\" with general insights about life, politics, etc., and judge them by the one thing that they are good at. Journalists should lead the way in this, instead of drawing more attention to the irrelevant.",
-          "recommendations": 729,
+          "recommendations": 734,
           "replyCount": 0,
           "timestamp": 1794698315,
           "timesPick": false
@@ -415,7 +325,7 @@
           "name": "Aaron Of Gladstone",
           "location": "Gladstone",
           "body": "It just validates to me that CTE can manifest itself in multiple different ways. Me thinks that his bell has been rung too many times.",
-          "recommendations": 505,
+          "recommendations": 509,
           "replyCount": 0,
           "timestamp": 1794698312,
           "timesPick": false
@@ -424,7 +334,7 @@
           "name": "jack",
           "location": "ny",
           "body": "I sincerely hope he is a better player than thinker.",
-          "recommendations": 268,
+          "recommendations": 271,
           "replyCount": 0,
           "timestamp": 1794698311,
           "timesPick": false
@@ -433,7 +343,7 @@
           "name": "Dave Fript",
           "location": "Chicago",
           "body": "First of all, Drake Maye is the QB of the Patriots.  Josh Allen would never have said this. So, at first I had to be sure it wasn’t a piece from the Onion. \nNow, I can get why someone Drake’s age would be a doubter.  He probably doesn’t know what the Cold War was, and has no idea that the Russians were following every step of the mission. They would have proclaimed to the whole world that it was an an American, capitalist plot to exploit the freedom loving workers of the world.   (The KGB made up the fake landing myth after all.). They would have milked it for years.  Plus Drake doesn’t know that there were multiple moon landings. How could NASA keep three fakes quiet, much less one?   All those actors and crew?  There would be hundreds of books by now.   That said, how any adult could believe this nonsense confounds me.",
-          "recommendations": 280,
+          "recommendations": 282,
           "replyCount": 0,
           "timestamp": 1794698306,
           "timesPick": false
@@ -442,7 +352,7 @@
           "name": "Bogart",
           "location": "brooklyn",
           "body": "On Tubi I caught the 2018 movie, 'Behind the Curve', about the flat earthers, apparently millions of them.\nAt least with the moon landing the conspiracy types can claim that the pictures and videos were faked, but the earth as a globe has been observed and tested since long before 1492.\nI'm not a sailor, but I seem to recall that about 7 miles away from you a ship will appear to sink, not disappear. That observation of the curve of the earth affecting your sighting of the ship is called \"hull down\" and was good enough for Columbus.\n\nI got a cheap round the world airline ticket in 1989 and again in 1991. I went west from NYC and if I took a detour in any other direction I had to pay extra, which I did to get to Nepal. Once I wangled a free ticket going east from NYC, but I didn't make many stops, just Zurich, Bangkok and back to NYC. I wish Terry Pratchett's Disc World was real, but I didn't see it. \n\nWhy would governments, explorers, and scientists world wide for centuries try to hide that the earth is flat?\nAsking about motivation often puts paid to the wilder conspiracy stories.\n\n If the Moon Truthers think we faked the moon landing to beat the Soviet Union in a space race, how come the Soviets didn't call us out on it?",
-          "recommendations": 135,
+          "recommendations": 136,
           "replyCount": 0,
           "timestamp": 1794698297,
           "timesPick": false
@@ -460,7 +370,7 @@
           "name": "Anthony Nicholls",
           "location": "santa fe",
           "body": "When Novak Djokovic refused the COVID shot I started rooting against him at every turn. Great player, awful human being. Despite being a Patriots fan and wishing the cold weather Bills an eventual success (Jim Kelly!), I'll probably now root against them while Maye and Allen are at the helms. The trouble is, I suspect most sportspeople, as well as actors and musicians, are probably no different. Not people we would like in real life. Same goes for a lot of CEOs of major tech companies! All ego.",
-          "recommendations": 164,
+          "recommendations": 165,
           "replyCount": 0,
           "timestamp": 1794698283,
           "timesPick": false
@@ -469,7 +379,7 @@
           "name": "GuntherG",
           "location": "Los Angeles",
           "body": "40% of Americans believe Man walked with Dinosaurs and the Earth was created less than 10,000 years go. Let’s not even get into 50% voting for Trump, twice. Guys who go to school but are not required to pass a class having doubts on the Moon landing is really not that much of a surprise.",
-          "recommendations": 509,
+          "recommendations": 512,
           "replyCount": 0,
           "timestamp": 1794698254,
           "timesPick": false
@@ -580,13 +490,31 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/14/well/obesity-paradox-weight-older-people.html",
-      "totalComments": 711,
+      "totalComments": 717,
       "comments": [
+        {
+          "name": "pf",
+          "location": "LA",
+          "body": "I'm a male, very athletic but with stubborn slight abdominal fat.  My side profile illustrates exactly my concern with this article---the vast majority of males have their \"overweight/obesity\" localized in the abdominal area!  Absolutely, positively, for the vast majority of men, losing weight is an important goal to reduce this dangerous fat.\n2. Even if our heart health isn't affected (conclusions of the present research highly questionable with a need for much more intensive future research) excess weight puts tremendously increased pressures on knee, hip, and ankle joints, and reduces social mental health because we feel much less confident when we don't feel comfortable with our bodies in clothes; as well as other studies noting reduced sexual activity with excess weight.  \nSo, forget the GLP1s for me, but I am not convinced by this article to abandon meal tracking, exercising, staying active, and cutting out ultra-processed foods, meat, sugars, excess sodium.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794770937,
+          "timesPick": false
+        },
+        {
+          "name": "silva153",
+          "location": "usa",
+          "body": "What I've have noticed in my 11 years of going to my gym is that the majority of elderly overweight people seem to seldom stay with their plan of \"working out\"  most seem to stop coming to the gym after a few months.  The majority of the seniors at my gym all seem to be what would be considered normal healthy weight - some few are a in the little overweight category what we all have in common is that we keep going to the gym regularly.  It's healthy, far as I have been able to learn, to keep weight within a Not Large Overweight category.  I am a prime example of having \"great results\" from going to the gym.  When I started right after I qualified for my Medicare benefits I got on the Silver Sneakers program.  My first medical test all showed Red Flags for heart disease from top to bottom now for many years post my gym workouts I have excellent test regarding heart health and general health.  I lost 12 from my gym workouts and change of eating habits.  I have no intentions of getting back those 12 pounds.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1794770583,
+          "timesPick": false
+        },
         {
           "name": "Tstarwich",
           "location": "Seattle",
           "body": "Thank you for this thoughtful article. As a holistic health coach and a 66-year-old woman, I often wonder what I would tell my 50-year-old self. I would tell her to worry less about being thin and focus more on nourishing her body with calcium-rich foods, adequate protein, strength-building movement, and healthy lifestyle habits.\n\nBut most importantly, I would encourage her to make an emotional shift in how she views aging.\n\nThe woman in this article who still holds on to clothes from 30 years ago really struck me. How many of us are doing the same thing, physically or emotionally? Holding on to an image of ourselves that no longer reflects who we are becoming?\n\nMany women of my generation were raised to believe that thinness equaled beauty, desirability, and even self-worth. We have spent decades trying to control our weight, often at the expense of appreciating our bodies.\n\nOf course, excess weight can carry health risks, but a few extra pounds as we age do not necessarily mean we are unhealthy. Perhaps it's time to shift our attention away from trying to reclaim our younger bodies and toward building strength, nourishing ourselves, and embracing the natural changes of aging.\n\nI believe healthy aging is as much an emotional and spiritual transition as it is a physical one. What if we spent less energy trying to look like the women we were at 30 and more energy appreciating the women we are becoming?",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1794768800,
           "timesPick": false
@@ -604,7 +532,7 @@
           "name": "PaulL",
           "location": "Greensboro NC",
           "body": "An unexpected hospitalization (I'm around 70) of three days caused me to loose 15 pounds just like that. I'm about 5'-11\", 165, so not heavy but still embarrassed about my modest pot belly. I have changed my mind about my spare tire. It turns out if you get a flat you might need it.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1794768482,
           "timesPick": false
@@ -613,7 +541,7 @@
           "name": "Nilaco",
           "location": "New Mexico",
           "body": "Also not mentioned in this article is the height reduction we experience as we age.  I used to be almost 5'8\", now I'm 2\" shorter, same weight and a size larger.  As my spine and ribs settled, the flesh had to go somewhere; the path of least resistance.  \nI'm learning to strategically let out my beloved wardrobe favorites.  Tired of fighting it.",
-          "recommendations": 3,
+          "recommendations": 4,
           "replyCount": 0,
           "timestamp": 1794767734,
           "timesPick": false
@@ -634,24 +562,6 @@
           "recommendations": 0,
           "replyCount": 0,
           "timestamp": 1794766892,
-          "timesPick": false
-        },
-        {
-          "name": "Craig",
-          "location": "Texas",
-          "body": "I can't help thinking a good old fashioned solution is in order, a local master tailor that handles daily wear.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794766126,
-          "timesPick": false
-        },
-        {
-          "name": "Joyce Miller",
-          "location": "Vancouver BC",
-          "body": "This advice is pure and utter nonsense. You don't need extra weight to live longer. \n\n I am 82 years old. When I was in my 20's I started gaining weight going on diets. Loosing weight and then gaining more.  So after doing this for over a year I went to see an endocrinologist  and got brilliant advice.\n\nHe said the hypothalamus that controls our appetite shuts down after 20 minutes. Most people eat quickly and finish their main entree in less then 10 minutes. The Hypothalamus  has not shut down so they still feel hungry and continue to eat more.\n\nHe said if I wanted to loose weight & keep it off, I could eat what I want & as much as I want with the PROVISO that I chew my food, eat slowly and take NO LESS than 20 minutes to eat my meal.\n\nEating quickly was a tough habit to change but slowing down worked!\n\n For almost a year I sat with a watch when I ate and made sure I did not finish in less than 20 minutes. Now its automatic.\n\nI lost my 26 lbs and have stayed the same weight between 110 & 118 (winter adds a few lbs) for the past 50 years.  \n\nEating on the run and gobbling down our food in America is what everyone does & in my view contributes obesity along with not moving much.\n\nMovement is Key!\n\nWhile I could afford it (am a retired lawyer Judge) never owned a car. Walk every where and do daily Qigong. \n\nSad to see that in North America people take better care of their car than their body.\n\n Ask yourself \"If I don't take care of your body,where will I live.\"",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794765881,
           "timesPick": false
         }
       ],
@@ -856,7 +766,7 @@
           "name": "Blossom",
           "location": "Ithaca NY",
           "body": "‘Grounds to Highlights Chronic Incompetence of Trump Regime’ \nThere. Fixed it for you. You’re welcome.",
-          "recommendations": 650,
+          "recommendations": 651,
           "replyCount": 0,
           "timestamp": 1794721483,
           "timesPick": false
@@ -939,366 +849,6 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/15/opinion/democrats-win-mississippi-south.html",
-      "totalComments": 413,
-      "comments": [
-        {
-          "name": "math365",
-          "location": "CA",
-          "body": "Did they? Was Democracy really ever in jeopardy? I think not. You probably don't know the story about the boy who cried wolf. The proof is right in front of your face. Democracy worked. Period. But don't let that stop you from whining about SCOTUS and packing it, or reopening the border, or killing the filibuster,  or killing the Electoral College. But hey, No Kings! Right?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769891,
-          "timesPick": false
-        },
-        {
-          "name": "Michael",
-          "location": "London UK",
-          "body": "Great news from the south and one which creates relief even across the Atlantic where many of us thought America was done with. Glad to be proven wrong. But there is lot still to do in a state like Mississippi where 75% of white people vote for a spiteful hateful Trump supporter just because she is white too.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794769875,
-          "timesPick": false
-        },
-        {
-          "name": "rich",
-          "location": "MN",
-          "body": "I admit to being a \"South Hater\" and besides one vacation in NOLA, I've never been south of the Mason-Dixon line. On top of that , I'm a great fan of William Tecumseajh Sherman and proudly claim descent from one of his soldiers.  Maybe I should re-examine my predjudices.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769875,
-          "timesPick": false
-        },
-        {
-          "name": "asjohnclt",
-          "location": "Charlotte, NC",
-          "body": "Now even we Mississippians can say “Thank God for Mississippi!” Thanks, sisters.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794769875,
-          "timesPick": false
-        },
-        {
-          "name": "Rick Pedretti",
-          "location": "San Rafael, CA",
-          "body": "Southern voters drove the MAGA train. Thank you?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769874,
-          "timesPick": false
-        },
-        {
-          "name": "Asad A",
-          "location": "LA",
-          "body": "\"All that is necessary for the forces of evil to win in the world is for enough good women to do nothing.\" Line from \"Life After Life\" by Kate Atkinson.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794769872,
-          "timesPick": false
-        },
-        {
-          "name": "Matt S.",
-          "location": "Seattle, WA",
-          "body": "Headlines like this help Republicans win elections. You’re welcome.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769872,
-          "timesPick": false
-        },
-        {
-          "name": "Dave",
-          "location": "Westchester",
-          "body": "And we Yankees thank you! I have been saying for decades that if we could get women and people of color to vote in their own self-interest, they would be an unstoppable voting bloc! Thank you, thank you, thank you, and please DON'T STOP!!",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794769869,
-          "timesPick": false
-        }
-      ],
-      "title": "The South Went Blue and I Lived to See It",
-      "byline": "Tressie McMillan Cottom",
-      "publishedAt": "November 15, 2026",
-      "summary": "Voters proved that most Americans want government by the people, for the people.",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/16/multimedia/15cottom-new-hmqk/15cottom-new-hmqk-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/democrats-2028-presidential-candidates.html",
-      "totalComments": 333,
-      "comments": [
-        {
-          "name": "Tulip",
-          "location": "The World",
-          "body": "Look at the donors, another Murdoch and Bloomberg and hedge fund managers. No thank you to their influence. They are from moderate.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794770193,
-          "timesPick": false
-        },
-        {
-          "name": "Uberman",
-          "location": "Road Scholar",
-          "body": "Democrats or rather anti trumpers have time to worry about presidential candidates.  I want this current collection of administration thieves, sycophants,  incompetents and traitors to be exposed, tried and punished severely.  I want to see all the wealth they've cajoled, canived and stolen from average US citizens be taken away. Call it retribution, revenge, whatever, that's what I wsnt to see.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1794768928,
-          "timesPick": false
-        },
-        {
-          "name": "Casual Observer",
-          "location": "Los Angeles, CA",
-          "body": "Can Democrats make the electorate who elected them, loyal supporters instead of mostly rejecting the Republicans for not representing them with respect to Trump? Or must the representatives prioritize advocating for constituents and demanding collaboration from the national party to retain their solidarity? We shall see.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794768764,
-          "timesPick": false
-        },
-        {
-          "name": "Jessa",
-          "location": "Sacramento",
-          "body": "I'm a Californian and a Democrat and I'd support anyone but Gavin Newsom, I hope he's primaried early. In a state full of Democrats I don't know anyone that likes him or wants to see him as President. We're the 4th largest economy in the world, a proving ground for liberal policy and he's accomplished almost nothing. He is a professional politician more concerned with putting out snappy tweets and having his photo taken than using his imagination to solve this states problems.",
-          "recommendations": 1,
-          "replyCount": 1,
-          "timestamp": 1794768733,
-          "timesPick": false
-        },
-        {
-          "name": "Vanessa",
-          "location": "The woods on the periphery of the Ozarks",
-          "body": "How about the Democratic Party having actual primaries and letting the voters choose a candidate?   I'm tired of the hierarchy of the party telling us who the candidate is going to be. (See the past two elections)",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794768732,
-          "timesPick": false
-        },
-        {
-          "name": "Sam Gilbert",
-          "location": "Edison, NJ",
-          "body": "What is wrong with the Democrats? They should be flooding the airwaves this morning about the price gouging done by rental car agencies, hotels, etc.  They seem as feckless as the Republicans.  \n\nSchumer et al., you can’t bloviate about holding hearings come January.  This is the one time you have the bully pulpit about affordability.  Use it or lose it.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794768732,
-          "timesPick": false
-        },
-        {
-          "name": "David",
-          "location": "UWS of New York City",
-          "body": "It's too soon!  The last several elections (Clinton, Harris, I mean), ambitious candidates jumped in and others didn't dare oppose them for power reasons of reasons of political correctness.  We lost.  They weren't actually the right candidates.  Leave space.  Consider.  We shouldn't lock people in too early.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794768732,
-          "timesPick": false
-        },
-        {
-          "name": "Purple Patriot",
-          "location": "Colorado",
-          "body": "I'll vote for any Democrat and there are many who could do the job. The country has seen what Republicans have to offer and said No Thanks!",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794768732,
-          "timesPick": false
-        }
-      ],
-      "title": "After Midterms Triumph, Democrats Look Quickly and Eagerly Ahead to 2028",
-      "byline": "Reid J. Epstein, Lisa Lerer and Laurel Rosenhall",
-      "publishedAt": "November 15, 2026",
-      "summary": "Politicians, donors and campaign strategists are already imagining a large and contentious field of presidential contenders.",
-      "section": "us",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/multimedia/15pol-dems-2028-warnock-01-mfhb/15pol-dems-2028-warnock-01-mfhb-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/opinion/anthropic-ipo-ai-investors.html",
-      "totalComments": 332,
-      "comments": [
-        {
-          "name": "hunternomore",
-          "location": "Washington",
-          "body": "That AI hasn't been completely shut down is a mystery. Is this just a board came were all living on and AI might sweep the board and take the board also?  Let's all just pretend and be blase. It's just being existential",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794770184,
-          "timesPick": false
-        },
-        {
-          "name": "Lyle Ross",
-          "location": "Houston",
-          "body": "Here's what concerns me, there is no there there.  Anthropic has a sophisticated piece of software, that is it.  They don't own any other assets.  They are in long term rental agreements with Google, Amazon, and others to host their software.  When Amazon was growing they were bulidng infrastructure, that's where the money went.  All anthropic did was gather data, often flawed data, and trained a model at exceedingly high prices.  Furthermore, their software doesn't do much, unless writing your kids econ paper counts?\n\nPromises of cancer solutions, solar system colonization, green energy, and other cool things are great; I've seen zero evidence that any of that can be delivered.\n\nAI systems work on data.  You can't solve a problem without data.  There is no invention, only innovation.  Even when these systems invade other AI systems, they aren't creating some novel pathway, they're doing what hackers do, just faster and more agressively.\n\nUntil AI makes a leap and creates something, I see no reason to buy the, we can fix every problem confronting mankind, marketing scheme.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769670,
-          "timesPick": false
-        },
-        {
-          "name": "JL",
-          "location": "DC",
-          "body": "We have 2 communities overlapping here: experts who know AI and experts in organized violence. Neither is expert in the other. AI experts greatly underestimate the difficulty of inflicting mass casualties (much less extinction) on a population. AI creates risk for finances, infrastructure, or data, but not extinction or mass casualties. So only use the word for dinosaurs.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769467,
-          "timesPick": false
-        },
-        {
-          "name": "trblmkr",
-          "location": "NYC",
-          "body": "I don’t see anything about homogenization of their products with other labs. The biggest risk is pricing power and not meeting revenue goals.\n\nNobody seems to focus on that.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794768920,
-          "timesPick": false
-        },
-        {
-          "name": "Rob",
-          "location": "Berkeley",
-          "body": "Anthropic classifying itself as a \"public benefit corporation\" may stave off a few frivolous shareholder suits but will not change it's trajectory as a company. Anyone who's taken Securities Law 101 will know that (and will also know that Anthropic is fundamentally different than any other existing PBC).\n\nI find Anthropic's leadership to be deceptive. If you truly believe that your technology is this risky, why are you IPOing and further ceding your control? More broadly, if you genuinely believe these risks, why does Anthropic's leadership -- comprised mainly of computer science bros and Mr. Amodei's sister, who has a marketing background -- feel comfortable exercising exclusive control of this technology at all? Why not cede some of it to the government?\n\nThe answer is obvious: they want it both ways. They want to appear to be good-doers (and avoid scrutiny) while simultaneously allowing their employees to cash out -- shifting exposure of their company's unprofitability and ~1 trillion debt from themselves onto the average American's 401k.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1794768582,
-          "timesPick": false
-        },
-        {
-          "name": "Invictus",
-          "location": "USA",
-          "body": "Generally, building something that poses an existential risk is not associated with acting in the interests of humanity writ large. \n\nOrganizing as a public benefit corporation does nothing to change that",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794768240,
-          "timesPick": false
-        },
-        {
-          "name": "Anne with an E",
-          "location": "Great White North",
-          "body": "“Our A.I. models might behave in unintended, misaligned or autonomous ways, including by taking harmful actions that no user or third party directed.”  Sounds like AI algorithms cannot be trusted.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794768185,
-          "timesPick": false
-        },
-        {
-          "name": "cathy",
-          "location": "toledo",
-          "body": "Why focus or care so much on AI based in the United states? \n\nThe threat from other players like China and rogue states are something no one in this country can control. \n\nThose other areas will definitely not be trying for public benefit as anthropic says it is. More like public dominance and pain.\n\n Our world and the US will soon be experiencing ai driven chaos and destruction that will be like a daily \"ground stop\" or the distruction of the covid pandemic  but just 1000 times worse and deadly and uncontrollable and unrelenting.\n\n And it will happen in the blink of an ai.",
-          "recommendations": 0,
-          "replyCount": 1,
-          "timestamp": 1794768176,
-          "timesPick": false
-        }
-      ],
-      "title": "The Flaw at the Heart of Anthropic’s I.P.O.",
-      "byline": "Natasha Sarin, Havovi Cooper and Mehron Abdi",
-      "publishedAt": "November 15, 2026",
-      "summary": "Natasha Sarin read the A.I. company’s 300-page I.P.O. filing. Here’s what worries her.",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/arts/15opinions-sarin-video-image/15opinions-sarin-video-image-largeHorizontalJumbo.png",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html",
-      "totalComments": 315,
-      "comments": [
-        {
-          "name": "Gary Jacobs",
-          "location": "Austin, TX",
-          "body": "Beautiful essay.  Thank you.",
-          "recommendations": 36,
-          "replyCount": 0,
-          "timestamp": 1794762013,
-          "timesPick": false
-        },
-        {
-          "name": "Denise",
-          "location": "Seattle, Washington",
-          "body": "Beautiful.",
-          "recommendations": 59,
-          "replyCount": 0,
-          "timestamp": 1794762013,
-          "timesPick": false
-        },
-        {
-          "name": "Lisa",
-          "location": "Morrison",
-          "body": "Jordan, I had cancer as a 45 year old mom, a 49 year old mom, a 55 year old mom, and now a 65 year old mom.  Being a parent with cancer brings a special kind of anxiety, and of determination.  Keep leaning into the latter and fight to keep  the former at bay.  Wishing you many good years ahead with your precious loved ones.",
-          "recommendations": 27,
-          "replyCount": 0,
-          "timestamp": 1794761947,
-          "timesPick": false
-        },
-        {
-          "name": "Red Rock Travels",
-          "location": "Fairfield CT",
-          "body": "You ask, “Have I made a ripple with my life?”\n\nYes.\n\nYour writing has shaped my thoughts and sensibilities ever since I stumbled across your essays for MacNeil/Lehrer as a freshman in college, 50 years ago.\n\nI think the main thing you have taught me is to handle life’s pain by holding onto life’s beauty with both hands.\n\nThank you with all my heart.",
-          "recommendations": 78,
-          "replyCount": 0,
-          "timestamp": 1794761791,
-          "timesPick": false
-        },
-        {
-          "name": "Edward Murphy",
-          "location": "Oceanside, Ca",
-          "body": "We are such stuff\nAs dreams are made on, and our little life\nIs rounded with a sleep.\nThe Tempest",
-          "recommendations": 19,
-          "replyCount": 0,
-          "timestamp": 1794761620,
-          "timesPick": false
-        },
-        {
-          "name": "Elena",
-          "location": "Florida",
-          "body": "Beautifully written. As for giving people your time and attention, I've found that people, at least, are not always appreciative, unlike animals and small children. But my father ingrained in me that to give IS the gift, so I don't let the ingrates dissuade me.",
-          "recommendations": 32,
-          "replyCount": 0,
-          "timestamp": 1794761620,
-          "timesPick": false
-        },
-        {
-          "name": "Laurie",
-          "location": "Mystic CT",
-          "body": "Lovely metaphors. Thank you from an aging sailor.",
-          "recommendations": 18,
-          "replyCount": 0,
-          "timestamp": 1794761619,
-          "timesPick": false
-        },
-        {
-          "name": "J.",
-          "location": "Ottawa",
-          "body": "Towards the close of a long life, Bertrand Russell, the great English philosopher, said \"This has been my life. I have found it to be worth living and I would gladly live it again if I were offered the chance.\" That's the ultimate test. How many people on this lonely planet can really say that? How many can even think that way? At some point, you gotta step back and try to come to grips with the fact that 99% of human welfare is due to luck - your genetic endowment, where and when you were born, what kind of home you grew up in, etc. And when the bell finally tolls, can anybody ever really say they know what the point of it all was? You're born, you live, you die. Sunrise, sunset. Thus saith the Preacher.",
-          "recommendations": 27,
-          "replyCount": 0,
-          "timestamp": 1794761619,
-          "timesPick": false
-        }
-      ],
-      "title": "Thoughts Near the End of a Life",
-      "byline": "Roger Rosenblatt",
-      "publishedAt": "November 15, 2026",
-      "summary": "More than anything, I am grateful. For life, especially.",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/arts/15rosenblatt-still/15rosenblatt-still-largeHorizontalJumbo-v5.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/11/14/magazine/democracy-midterm-elections.html",
       "totalComments": 307,
       "comments": [
@@ -1369,7 +919,7 @@
           "name": "AR",
           "location": "Virginia",
           "body": "\"when Democrat Scott Colom was declared the winner of the tight race for Senate in Mississippi, there were no challenges or protests in the historically Republican state.\"\n\nGlaringly inaccurate to call Mississippi a \"historically Republican state.\" Closer to accurate would be historically authoritarian, anti-democratic, white supremacist state. That's why Colom's victory was so stunning, not because of his party affiliation.",
-          "recommendations": 47,
+          "recommendations": 48,
           "replyCount": 0,
           "timestamp": 1794719163,
           "timesPick": false
@@ -1390,8 +940,17 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/14/magazine/friend-cheating-fiance-ethics.html",
-      "totalComments": 257,
+      "totalComments": 258,
       "comments": [
+        {
+          "name": "AT",
+          "location": "philly",
+          "body": "One possible outcome of the truth being revealed could be that the altar-bound couple does couples counseling. In a setting where everything is on the table - past, present, and future - they have the best opportunity to figure out how and if they are able to move forward together.  I've seen couples rescue a pretty damaged relationship and live happily together for many years.  And I've seen couples accept they have different versions of what it means to commit and aren't suited for each other.  I'd like them to have a good shot at the former, possibly have to accept the latter, but neither is achievable without honesty and transparency, best served under the guidance of a therapist.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1794770577,
+          "timesPick": false
+        },
         {
           "name": "Sandy L",
           "location": "NYC",
@@ -1423,7 +982,7 @@
           "name": "Paul Mow",
           "location": "Honolulu",
           "body": "I think you have it wrong here. The fiancée’s has an interest in knowing the truth, but the Ethicist overlooks the ethical responsibility of the person conveying the information.\n\nThere are two separate ethical questions here:\n* Does the fiancée deserve to know? If true, probably yes. She should have an opportunity to make an informed decision before marrying.\n* Who should tell her? That’s where I disagree with the Ethicist.\n\nThe woman in the relationship has firsthand knowledge. She can explain what happened, when it happened, and what she knew about the man’s relationship status. She may also have text messages or other evidence supporting her account.\n\nThe letter writer, by contrast, has no personal knowledge of the alleged infidelity. He/She would be repeating someone else’s account to a woman he/she barely knows.\n\nThat’s hearsay even if the information happens to be true. And while hearsay isn’t necessarily false, it carries obvious risks of misunderstanding, misinterpretation, exaggeration, incomplete context, and possibly later denial by the source of its accuracy.\n\nThere’s another problem: The Ethicist effectively allows the person with firsthand knowledge to avoid the uncomfortable consequences of disclosure while encouraging a third party to assume that burden. That strikes me as ethically inconsistent.\n\nIf the friend believes strongly enough that the fiancée deserves to know, she should be willing to take responsibility for communicating what she personally knows.",
-          "recommendations": 4,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1794767127,
           "timesPick": false
@@ -1454,15 +1013,6 @@
           "replyCount": 0,
           "timestamp": 1794764000,
           "timesPick": false
-        },
-        {
-          "name": "My 2 Cents",
-          "location": "ny",
-          "body": "It sounds like the guy hasn't continued the casual relationship with the LW's friend after becoming engaged.  How does the LW know he doesn't intend to be monogamous now?  How does she even know that anything her friend has told her is the truth?  To boot, the fiancee is a stranger to her.  Yet she wonders if she should tell the fiancee that he is a sleazeball IF she meets her and IF the fiancee brings up his name.  MYOB.",
-          "recommendations": 8,
-          "replyCount": 0,
-          "timestamp": 1794763018,
-          "timesPick": false
         }
       ],
       "title": "Should I Let a Woman Know That Her Fiancé Cheated on Her With My Friend?",
@@ -1479,96 +1029,6 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
-      "totalComments": 252,
-      "comments": [
-        {
-          "name": "Nate B",
-          "location": "Bay Area",
-          "body": "It’s hard to escape the confusion that Israel has become, fundamentally, a morally bankrupt nation.",
-          "recommendations": 19,
-          "replyCount": 0,
-          "timestamp": 1794769210,
-          "timesPick": false
-        },
-        {
-          "name": "Angela",
-          "location": "Midwest",
-          "body": "Gee such insular parochial thinking resulting in these barbaric actions.  Then the knee jerk response that the Israelis are surrounded by sworn enemies that regularly threatened them with destruction.  \nMaybe the Israelis need to wonder why that is and perhaps determine what it is they are doing to antagonize everyone not just their neighbors.",
-          "recommendations": 18,
-          "replyCount": 0,
-          "timestamp": 1794769210,
-          "timesPick": false
-        },
-        {
-          "name": "Hoppityhop",
-          "location": "California",
-          "body": "Israel's obsessive search for its missing airman tells us so much about the terror state of Israel and how far it is willing to go with torture of innocents.  It is long past time to cut all our ties with Israel.  Contact your Senator and tell them to vote against embedding Israeli military intelligence with US intelligence.",
-          "recommendations": 11,
-          "replyCount": 0,
-          "timestamp": 1794769209,
-          "timesPick": false
-        },
-        {
-          "name": "Gerry",
-          "location": "Ottawa, Canada",
-          "body": "Netanyahu lacks the necessary negotiation and diplomatic skills to deal with Hizballah or Hamas or Palestinians. His slash, burn and destroy strategies cannot bring any of these conflicts to an end.\n\nReality shows that data from trusted sources identifies that over 73,000 persons were killed in the about three-year war led by Israel in Gaza, data from other trusted sources identifies that over 3,600 persons were killed in about one-year war led by Israel in Lebanon and over 1,120 Palestinians have been killed in the occupied West Bank, including East Jerusalem, by Israeli forces or settlers since the start of the Israel-Hamas war.\n\nNetanyahu is also violating the teachings of the Talmud which emphasizes the importance of giving to the poor and provides guidelines for practicing tzedakah, which is a Jewish concept encompassing charity, justice, and righteousness.\n\nNetanyahu’s unilaterally fabricated violent distraction in bombing Lebanon and Iran along with his buddy Trump is an attempt to avoid the fact that he has been indicted on charges of bribery, fraud and breach of trust, related to investigations that date back to 2016 in Israel. In addition, Netanyahu has an overdue appointment where he has been charged with crimes against humanity by the International Criminal Court in The Hague, Netherlands.\n\nWhile Israel is loosing its international goodwill status that was hard earned during and since the end of Holocaust … what will Israelis do about Netanyahu’s violations ?",
-          "recommendations": 10,
-          "replyCount": 0,
-          "timestamp": 1794769209,
-          "timesPick": false
-        },
-        {
-          "name": "P-SF",
-          "location": "CA",
-          "body": "Well, the US kidnapped a sitting President of a sovereign country....just saying",
-          "recommendations": 9,
-          "replyCount": 0,
-          "timestamp": 1794769209,
-          "timesPick": false
-        },
-        {
-          "name": "Alex",
-          "location": "Tork",
-          "body": "For there to be any hope that the unconditional US support for this genocidal regime would not continue, Jeffries and Schumer must not take leadership roles in the House and Senate in January.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1794769209,
-          "timesPick": false
-        },
-        {
-          "name": "TJ",
-          "location": "California",
-          "body": "They’re wanting to heat things up with Iran. I’ve read daily calls to the White House from Netanyahu. Israel is a country that has never known peace since it’s inception. And there’s a very obvious reason for that.",
-          "recommendations": 10,
-          "replyCount": 0,
-          "timestamp": 1794769209,
-          "timesPick": false
-        },
-        {
-          "name": "Mike",
-          "location": "Atlanta",
-          "body": "“In hunting for Mr. Arad, Israeli officials kidnapped the general, interrogated him about Mr. Arad and then killed him.”\n\nSomehow I have to wonder if maybe this isn't a violation of the Geneva Conventions. Here's a tiny excerpt:\n\n\"Persons taking no active part in the hostilities... shall in all circumstances be treated humanely...the following acts are and shall remain prohibited at any time and in any place whatsoever with respect to the above-mentioned persons:\n-violence to life and person, in particular murder of all kinds, mutilation, cruel treatment and torture...\"\n\nKilling prisoners, is explicitly prohibited. Maybe I missed something? Maybe they had a trial and a conviction? Maybe he had already been convicted in an international court? Or was this just a blatant violation?",
-          "recommendations": 12,
-          "replyCount": 0,
-          "timestamp": 1794769209,
-          "timesPick": false
-        }
-      ],
-      "title": "Israel Kidnapped Iranian Generals in Flawed Hunt for a Missing Airman",
-      "byline": "Adam Goldman, Ronen Bergman, Farnaz Fassihi and Hwaida Saad",
-      "publishedAt": "November 15, 2026",
-      "summary": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
-      "section": "world",
-      "thumbnail": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html",
       "totalComments": 242,
       "comments": [
@@ -1576,7 +1036,7 @@
           "name": "@AJBelanger",
           "location": "@Worcester, MA",
           "body": "I once worked for a notable company led by a man who was simultaneously the board chair and CEO. He had transformed the business, stock prices soared, and nobody cared. As they say, nothing good lasts forever. Said executive was known for a dictatorial style, intolerance for dissent, and never wanted to hear bad news. Various problems, particularly with manufacturing, festered unseen by shareholders and customers alike. When things got so bad regulators shut down manufacturing, and my company was referring customers to our competitors' products, time was up. Soon he was out, the company was bought for a fraction of what it should have been, and now there's no trace of it. There simply is no substitute for good corporate governance. An ineffectual board is a recipe for eventual disaster. It's just a matter of time. I tend to think having anyone from the C-suite on the board should be outawed.",
-          "recommendations": 81,
+          "recommendations": 82,
           "replyCount": 0,
           "timestamp": 1794696388,
           "timesPick": false
@@ -1594,7 +1054,7 @@
           "name": "MC in PDX",
           "location": "Portland Oregon",
           "body": "Elon Musk and other tech billionaires are clamoring for Huang’s reinstatement.  Which is as good an argument not to as I can think of.",
-          "recommendations": 74,
+          "recommendations": 75,
           "replyCount": 1,
           "timestamp": 1794696381,
           "timesPick": false
@@ -1603,7 +1063,7 @@
           "name": "Jeff T",
           "location": "Irvine, CA",
           "body": "“…thanks, in part, to our robust corporate governance structure.”\n\nNo.\n \nCorporate self-regulation (aka “corporate governance”) fails the stress test when:\n\n• Big money is on the table; and\n \n• When company staff - the accountants, auditors, attorneys  that the SEC likes to say are the first responders it relies on re compliance with laws and regulations - look the other way to protect their families.\n\nGovernment regulation has failed:\n\nBecause wealthy interests have bought government and both political parties ~ the current levels of wealth and income inequality in the U.S. - decades in the making - have made the country virtually ungovernable.",
-          "recommendations": 41,
+          "recommendations": 42,
           "replyCount": 0,
           "timestamp": 1794696379,
           "timesPick": false
@@ -1630,7 +1090,7 @@
           "name": "Charles Singleton",
           "location": "Nashville TN",
           "body": "A key word here is incestuous.  Nvidia invests in and or loans large sums to the very companies that buy or rely on its chips.  Lutnick allows the sale of chips to Megaspeed which according to this article represented more than 20% of Nvidia’s total revenue.  And guess what, a major investor and backer of Nividia is the investment bank owned by Lutnick’s sons.",
-          "recommendations": 55,
+          "recommendations": 56,
           "replyCount": 0,
           "timestamp": 1794696376,
           "timesPick": false
@@ -1765,7 +1225,7 @@
           "name": "Ella",
           "location": "A continent",
           "body": "It's the press and media that hit bottom in their coverage of nothingburger issues about Wilde's private life or perceived likability. Would y'all have done that to a male director and then framed that as him having hit rock bottom before you allowed him to do his job in public again?\n\nShe's a gifted and generous artist, not a subject that should be publicly treated as if she somehow needs to be granted some kind of absolution from a media critic. This is rank. And embarrassing.",
-          "recommendations": 44,
+          "recommendations": 46,
           "replyCount": 0,
           "timestamp": 1794720085,
           "timesPick": false
@@ -1774,7 +1234,7 @@
           "name": "Richard Braun",
           "location": "New York",
           "body": "I have to say my wife and I gave up on the Invite after a painfully grueling 30 minutes. Even Penelope Cruz as a blonde couldn't save us from the boredom of two angry, inarticulate spouses and their masochistic guests.",
-          "recommendations": 30,
+          "recommendations": 31,
           "replyCount": 0,
           "timestamp": 1794709671,
           "timesPick": false
@@ -1792,7 +1252,7 @@
           "name": "George",
           "location": "NY",
           "body": "“So I think that I approach things without a real fear of whether or not I’ll be adored.”\nUnbelievable, I share the same approach to things as Ms. Wilde!",
-          "recommendations": 11,
+          "recommendations": 12,
           "replyCount": 0,
           "timestamp": 1794705024,
           "timesPick": false
@@ -1831,366 +1291,6 @@
       "summary": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie.",
       "section": "magazine",
       "thumbnail": "https://static01.nyt.com/images/2026/11/22/magazine/22mag-interview-wilde-04/22mag-interview-wilde-04-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html",
-      "totalComments": 175,
-      "comments": [
-        {
-          "name": "DRKodo",
-          "location": "Mt Clemens",
-          "body": "The republicans made Trump their king. They do very little without Trumps approval and at the top of the list is the Golf Course, Ballroom and the Trump Arch.  Without a shadow of doubt his concern is not Air traffic control. The Transportation Secretary jumped in the blame game bandwagon on the get go without knowledge of what caused the event. Like Trump he lacks integrity.  Complaining the need for upgrades and later finding to cause was doing upgrades....unbelievable!",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794766891,
-          "timesPick": false
-        },
-        {
-          "name": "BlondeHoney",
-          "location": "Acworth, Georgia",
-          "body": "Writing this as I sit in the Pittsburgh airport, my flight to Atlanta delayed now for 3 hours. Who knows when we’ll actually depart.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794766890,
-          "timesPick": false
-        },
-        {
-          "name": "DC",
-          "location": "Boston",
-          "body": "And let's not forget the damage done by DOGE cuts, couple that with Project 2025 's aim to privatize the FAA and one can only wonder, whom would trump and the GOP likely put in charge? Paging Musk?",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794766060,
-          "timesPick": false
-        },
-        {
-          "name": "AJ",
-          "location": "Oregon",
-          "body": "Don't worry - the airlines and the FAA owe you nothing, and will make clear they do not care. Welcome to flying in 2026! You will be happy to know that prvate equity, on the other hand, is raking in the profits. So sleep on that, on the floor of the terminal...",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1794766058,
-          "timesPick": false
-        },
-        {
-          "name": "Your Neighbor",
-          "location": "Next store",
-          "body": "Can the administration produce even one air traffic controller that was on duty to explain what the problems were actually seen on Friday? \n\nI’ll bet no.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794766058,
-          "timesPick": false
-        },
-        {
-          "name": "lapis exilii",
-          "location": "California",
-          "body": "None of these people are competent or know the details of the job.  They are all there to agree with Trump, get rich, and have photo ops.  Well, here is where that gets us.\n\nAnd where is the investigative press?",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1794766057,
-          "timesPick": false
-        },
-        {
-          "name": "chris",
-          "location": "florida",
-          "body": "So they actually want us to believe that one guy working on the system caused the entire airline industry to shut down? If that's the case, we're in serious trouble.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794766055,
-          "timesPick": false
-        },
-        {
-          "name": "red",
-          "location": "Idaho",
-          "body": "As one who worked in IT I do not believe a word of this.  One router does not bring down an entire system.  Duffy is incompetent.  \n\nI know the Trump administration would like to privatize the system.  Beware.  My husband is a veteran who goes to the VA hospital in Spokane.  The Trump administration \"awarded/gave\" a contract to Oracle (friends of Trump) to develop new software for the VA.  It was and still is a huge failure, after billions of dollars spent. \n\nIt still does not work well.  Try logging into the system.  It will take 4 links/connections to get logged in to refill a prescription. \n\nTrump and friends want to give government contracts to their friends.  They don't bid for the contracts and they are warded more money than they should be.  Ripping off the taxpayers every day.  \nContracts to Elon Musk.  Space X, etc.\n \nDuffy should be fired.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1794766055,
-          "timesPick": false
-        }
-      ],
-      "title": "What to Know About Continued Flight Disruptions",
-      "byline": "Sejal Govindarao",
-      "publishedAt": "November 14, 2026",
-      "summary": "After a nationwide ground stop Friday, travelers are still encountering snags, and it could take several days for flight schedules to return to normal.",
-      "section": "us",
-      "thumbnail": "https://static01.nyt.com/images/2026/12/13/multimedia/14nat-groundstop-wwk/13faa-groundstop-promo-hbjv-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
-      "totalComments": 168,
-      "comments": [
-        {
-          "name": "Steve Goodin",
-          "location": "34N, 118W",
-          "body": "What a wonderfully ferocious (and terrifying) photograph of an apex predator that accompanies this story!  How would you like to go wilderness camping and have this Boss guy come sniffing at your tent?",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1794767978,
-          "timesPick": false
-        },
-        {
-          "name": "michael smolker",
-          "location": "seattle",
-          "body": "It's worth noting that there is a BIG difference btwn risks associated with Grizzlies (which can be unpredictable and often quite dangerous) and Black Bears (generally shy and nearly harmless). For example: the last time a Black Bear killed a human in Washington State was 1974, more than a half century ago. There's a lot of fear of bears in general, but a lot of that is unwarranted and arises from confusion over the different habits of the species.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794767780,
-          "timesPick": false
-        },
-        {
-          "name": "srwdm",
-          "location": "Boston",
-          "body": "What does \"not a good smell\" exactly mean in grizzly-bear-ecology-ese?",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794767474,
-          "timesPick": false
-        },
-        {
-          "name": "jeff willaims",
-          "location": "portland",
-          "body": "Thanks for introducing us to the Boss.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794767473,
-          "timesPick": false
-        },
-        {
-          "name": "michael smolker",
-          "location": "seattle",
-          "body": "Being an avid hiker here in the Pacific NW, I have had many, many encounters with Black Bears, which are generally (but not always!) quite shy. I did some hiking in the Canadian Rockies back in my college days, and had one close encounter in Yoho Park with an immature Grizzly: me, hiking down a series of switchbacks, and the bear hiking up. The bear apparently hadn't caught my scent, and they have pretty limited eyesight, so I caught sight of the bear first, and just stood still; the bear didn't realize I was there until it turned the corner on the switchback and was directly facing me from maybe 5 yards. By then I was shaking in my boots! The bear let out an explosive breathy \"whoosh\" sound and made a beeline straight up the hillside. I dropped off the trail and gave it a very wide berth. It was somewhat amusing to see the bear peering down through the brush as I made my getaway. Much respect! Maybe even mutual.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794766990,
-          "timesPick": false
-        },
-        {
-          "name": "W.S.",
-          "location": "Portland, OR",
-          "body": "I once played golf in Jasper back in 1980 and was directed to wear a bear bell while playing so as not to end up startling a grizzly while I walked the scenic, elevational course.  It was only after that I heard the joke about what grizzly bear scat typically consists of (and smells like).  Punch line:  it jingles and smells like peppers.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794766340,
-          "timesPick": false
-        },
-        {
-          "name": "Fredster",
-          "location": "Tri-State",
-          "body": "BEAR!  \nWhen I go hiking I make as little noise as possible.  Blend in.  I like to hear the birds, frogs, and see and hear the wildlife.  Point of hiking is to get away from civilization and all the human made noise pollution.\n\nOne day several black bears came into the state park picnic grounds. The park managers moved them out with noise and some rubber bullets.  They shuffled off back into the woods.\n\nOnce the bears moved about 10 ft into the woods I was amazed how quickly they blended in and disappeared.\n\nI had another closer encounter at the Tetons.  \nA bear was eating berries in a thicket of bushes along the trail  and I did not see it until it stood up in front of me.   I froze.  We looked at each other and then we both slowly walked away in opposite directions.\n\nSince then I have been a bit more nervous about quietly hiking alone.  I find myself making more noise now.  I still hate disrupting the natural sounds of the forest.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794766029,
-          "timesPick": false
-        },
-        {
-          "name": "Cork Patterson",
-          "location": "Seattle",
-          "body": "Sadly there's an odd contradiction to this story.  It tells us the danger to the bear might be publicity, while publicizing it.  I can't say I'm not glad to have read this story though.  It was what I would call a Sunday morning delight.  At least the Boss' eyes in the photo are more piercing than any movie star's eyes I've ever seen and that makes the article worthwhile in itself.  (Those eyes might be hard to hide behind sunglasses...).  At least I won't be heading off to Banff to seek him out, but I do wonder if this article might inspire others to do so.  I'll cross my fingers and hope that if it does, the Boss will be in some other neighborhood the day they do.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794765302,
-          "timesPick": false
-        }
-      ],
-      "title": "A Grizzly Known as ‘the Boss’ Rules Banff Park, and Draws a Crowd",
-      "byline": "Ian Austen",
-      "publishedAt": "November 15, 2026",
-      "summary": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
-      "section": "world",
-      "thumbnail": "https://static01.nyt.com/images/2026/10/30/world/00int-canada-bear/00int-canada-bear-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/opinion/democrats-permitting-reform-bill-affordability.html",
-      "totalComments": 167,
-      "comments": [
-        {
-          "name": "E.Spresso",
-          "location": "Earth",
-          "body": "This is flawed and frankly, disappointing to see. I am glad though that you at least mentioned more than others in that it would dismantle public lands and strangle the public voice. It would allow forever permits that can't be questioned or revoked nor will it allow legal suits holding accountability for anything that should come to pass.\nIt also wrecks the Clean Water Act and holds the back door open for fast tracking data centers which were resoundingly rejected by voters nationwide in 41 bills that passed across 10 states. Lastly, the removal or historical preservation means DJT gets his ballroom, arch and every other vanity project that you can think of.\nYes, we want and need renewables but NOT the expense of our public oversight and natural resources. Passing this would reverse everything we just voted in and that is why lobbyists are pushing for it now instead of waiting for the new Congress. Remember all the corruption people voted against? This is the other side of the GOP coin.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794770077,
-          "timesPick": false
-        },
-        {
-          "name": "Phil",
-          "location": "Las Vegas",
-          "body": "I designed an Ocean wave-energy-convertor (WEC), and economically evaluated it using 'Methodology for Design and Economic Analysis of Marine Energy Conversion (MEC) Technologies', a 2014 paper put out by Sandia Nat'l Labs.  I was astonished to learn there that about 30% of the Operating cost of such technologies was the expected Environmental assessment cost (and ~4% of the Capital cost).  This seemed pretty high, to me, for technologies that were called into being by an effort, essentially, to save the environment from the effects of Global Warming.  This seemed excessive and raises the price of the electricity produced by these MEC technologies out-of-bounds compared to competing technologies.  It would seem that full environmental assessment of one WEC off the California coast would suffice enough to lower the assessment required of further WEC's on that coastline.  This may be an example of how you drown good ideas in bureaucratic red ink.  Engineers evaluate the costing of these ideas using the costs expected of them, and abandon those ideas the moment they appear cost-ineffective.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794769070,
-          "timesPick": false
-        },
-        {
-          "name": "David",
-          "location": "PA",
-          "body": "Lots of NIMBY comments here. \"Affordability\" is an empty slogan unless backed by action.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1794768664,
-          "timesPick": false
-        },
-        {
-          "name": "whg",
-          "location": "memphis",
-          "body": "We have two buzzwords at war with each other in this bill:  sustainability and affordability.  I'm not sure what the intersection of these two would be on a Venn diagram, but I am sure that this bill does not represent that intersection.",
-          "recommendations": 0,
-          "replyCount": 1,
-          "timestamp": 1794768030,
-          "timesPick": false
-        },
-        {
-          "name": "Amy",
-          "location": "Colorado",
-          "body": "So what you just told me is that we should pass the bill, which will make it faster and easier to build power plants, both renewable and fossil fuel based, but for at LEAST the next two years, and if a Republican wins in 2028, for the foreseeable future, the president will not hold up his end of the bargain and the bill will only make it faster and easier to build fossil fuel burning power plants?  \n\nIs that right?",
-          "recommendations": 1,
-          "replyCount": 1,
-          "timestamp": 1794768027,
-          "timesPick": false
-        },
-        {
-          "name": "The Old Boot",
-          "location": "Danville, CA",
-          "body": "Opposition to this bill sounds a lot like sacrificing what is directionally good for something that is perfect and unattainable. In the current case, renewables now deliver energy at lower costs than fossil fuels. This bill will let the market work and is undeniably good for renewables. \n\nI suspect those who oppose the bill struggle with trade-offs, willing to settle for nothing if the ideal cannot be attained. Our planet is under severe threat from fossil fuel emissions, and transition away from them as fast as possible is essential. But we humans still use over 100 million barrels of oil per day, and the transition will take time no matter how much we wish it wouldn’t. Future Democratic administrations can speed up the transition with additional legislation, but enabling more rapid building of renewable energy projects will be desirable under every scenario. \n\nEzra is right. Pass the bill.",
-          "recommendations": 3,
-          "replyCount": 1,
-          "timestamp": 1794767795,
-          "timesPick": false
-        },
-        {
-          "name": "REBCO",
-          "location": "FORT LAUDERDALE FL",
-          "body": "Trump holds a grudge vs wind turbines as Scotland put them up despite Trump's ranting and raving how they spoiled the view from HIS GOLF COURSE  ,its always about him and what's good for him ,does it put money in his pocket ok do it .",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794767744,
-          "timesPick": false
-        },
-        {
-          "name": "Jeffrey",
-          "location": "Los Angeles",
-          "body": "One can certainly argue about the merits of this bill, but Democrats first need to deliver quick and effective legislation to the immediate needs of working Americans -- reinstating health care cuts, middle class tax cuts to compensate for high energy costs and inflation, and collecting taxes owed by wealthy corporations to pay for them.\n\nEnergy policy is a long term game.  Most of us don't have the patience nor resources to wait 5-10 years for a playoff.  This is a major reason Biden failed.  Infrastructure upgrades are important, but Palestinians when compared to affordable groceries and medical care.\n\nLet's take care of the simple and easy stuff first.  Then, by all means,swing for the fences.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794767615,
-          "timesPick": false
-        }
-      ],
-      "title": "Care About Affordability? Then You Have to Care About This.",
-      "byline": "Ezra Klein",
-      "publishedAt": "November 15, 2026",
-      "summary": "Democrats everywhere ran on putting affordability first. The permitting reform bill is an early test of whether they meant it.",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/opinion/15klein-js/15klein-js-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/nyregion/metropolitan-diary.html",
-      "totalComments": 155,
-      "comments": [
-        {
-          "name": "Guido",
-          "location": "Cincinnati",
-          "body": "\"The point is that you can't be too greedy.\"\n--Donald Trump\n\n\"I've always won, and I'm going to continue to win. And that's the way it is.\"\n--Donald Trump\n\nWhen you open your heart to patriotism, there is no room for prejudice. The Bible tells us, 'How good and pleasant it is when God's people live together in unity.'\n--Donald Trump\n\n\"We must speak our minds openly, debate our disagreements honestly, but always pursue solidarity.\"\n--Donald Trump",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769274,
-          "timesPick": false
-        },
-        {
-          "name": "HL",
-          "location": "USA",
-          "body": "Good Morning, MDers! Went to buy a slice yesterday (not that easy to do on this coast)—miss the 2 slice specials on the UWS, you know, with the slices that you have to fold in half because they are so large and floppy (No fork and knife for you!) But it was a decent Sicilian style slice though their concept of a large pie was somewhat..,medium-ish. Don’t forget to vote for one of Agnes Lee’s drawings. I voted for Astoria pool—so nostalgic. But Flaco was great too. Hope you all have a great Sunday!",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794768377,
-          "timesPick": false
-        },
-        {
-          "name": "Maxamillion",
-          "location": "Flyover country",
-          "body": "That's astonishing! The MD powers-that-be finally respond to pleas from readers to acknowledge the talent and contributions to this space and make *something* of Agnes Lee available…..and the notice is buried at the end of today's online column. (it appears there's a separate column about it that might show up more noticeably in the print edition…but really? Come on!) My awareness was only raised thanks to the heads-up from fellow cheesehead Janis, a few letters south of this one. (Thanks Janis!)",
-          "recommendations": 8,
-          "replyCount": 0,
-          "timestamp": 1794766216,
-          "timesPick": false
-        },
-        {
-          "name": "David Okono",
-          "location": "Visitor",
-          "body": "At City Hall, we peered across the street at the homeless encampment.  Fascinating.  We don't have them in Angola.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1794762872,
-          "timesPick": false
-        },
-        {
-          "name": "Riotta Rigotta",
-          "location": "Manitoba",
-          "body": "'cake check'\ndon't get me started on the cost of movie snacks.  took my son and grandson to the movies last week and paid $80 for popcorn, twizzlers and coke.  outrageous.\nbut they don't check women's purses at movie houses.   i bought my wife a new purse/back pack/canvas tote that could conceal a six pack, pizza, and a dozen chocolate bars.  i have a sweet tooth.\ni used to review movies for the local paper and for press screenings rules were relaxed.  my fondest memory was during a pause in the action the distinct clink of a mickey bottle bouncing under a seat and echoing throughout the theatre.\ni always admired movie goers who would purchase their snacks and then patiently wait for the movie to start before indulging.  i had no such patience and as soon as i sat down with my bag of popcorn it turned into a feed bag and i only came up for air when the last kernel was consumed.  i like salt as much as chocolate.",
-          "recommendations": 8,
-          "replyCount": 0,
-          "timestamp": 1794762855,
-          "timesPick": false
-        },
-        {
-          "name": "Rosalie",
-          "location": "CT",
-          "body": "I voted for Astoria Pool.  It's personal.  Me, my siblings and Astoria cousins enjoyed swimming/diving there.  Fun and innocent times.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1794760889,
-          "timesPick": false
-        },
-        {
-          "name": "Janis",
-          "location": "WOW County Wisconsin Democrat",
-          "body": "Hi all, make sure to read past the fifth entry and ads to the paragraph indicating to vote for favorite MD illustration. I almost missed it.",
-          "recommendations": 16,
-          "replyCount": 0,
-          "timestamp": 1794759128,
-          "timesPick": false
-        },
-        {
-          "name": "Jon",
-          "location": "Maine",
-          "body": "At the Plaza, one wonders if the father actually had an account, or the waiter simply knew him, and was too polite (this is, after all, the Plaza) to embarrass the young lady by telling her that, sorry, she still had to pay somehow. I suspect the latter and her father never told her the truth either.",
-          "recommendations": 6,
-          "replyCount": 1,
-          "timestamp": 1794759125,
-          "timesPick": false
-        }
-      ],
-      "title": "‘At 14th Street, We Peered Through the Windows and Across the Platform’",
-      "byline": "",
-      "publishedAt": "November 15, 2026",
-      "summary": "A Halloween moment in the subway, no desserts at the movies and more reader tales of New York City in this week’s Metropolitan Diary.",
-      "section": "nyregion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/nyregion/15diary-illos-1/15diary-illos-1-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -2440,7 +1540,7 @@
           "name": "Jürgen Vsych",
           "location": "New York, NY",
           "body": "With all the time, money, and physical strength you guys have, you could have volunteered for Habitat for Humanity and build a block of homes.",
-          "recommendations": 6,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1794747986,
           "timesPick": false
@@ -2467,7 +1567,7 @@
           "name": "Chester",
           "location": "New Orleans",
           "body": "Oh, to once again have the morning newspaper thrown onto the porch by the passing boy riding his bicycle. \nSometimes he would miss, and then our morning started with a quick search through the nearby shrubs. \nBut on the mornings when his aim was true, the folded newspaper would land with a thunk, and it is that thunk that I remember most clearly. \nMore than the shrilling alarm clock or the heavenly aroma of coffee a-brewing, the thunk was our reliable morning call to start the day....our reveille.\nI miss it, that thunk",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1794746850,
           "timesPick": false
@@ -2542,186 +1642,6 @@
       "summary": "The newspaper was taken up with stories of destruction, enemies and a ruined Benedictine abbey.",
       "section": "opinion",
       "thumbnail": "https://static01.nyt.com/images/2026/11/13/opinion/13ford-175-image/13ford-175-image-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-      "totalComments": 68,
-      "comments": [
-        {
-          "name": "Prometheus",
-          "location": "New Zealand",
-          "body": "We [Anthropic] believe that AI is one of the most consequential technologies in human history. If managed well, it could rapidly accelerate scientific innovation, greatly increase economic growth rates, bring cures for major diseases within reach, and solve problems that have resisted generations of human effort.\n\nAnd what will future generations of human beings do if all the challenges are solved and there is nothing for anyone to do anymore ?\n\nHumanity is defined by our finite capability as individuals and the struggle that implies.\n\nTo exceed the limits of an individual we have found we need to collaborate and specialise and work in a collective of interlinked and inter-dependent teams that define the notion of society and civilisation.\n\nTogether, we can achieve many great things.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769655,
-          "timesPick": false
-        },
-        {
-          "name": "Jack Belicic",
-          "location": "Santa Mira",
-          "body": "Lawyers understand that prospectus honesty is not there for comfort, it is there for liability protection. You are more likely to win the fraudulent-disclosure class action if you can point to the text which did try to explain that your products were unpredictable in effect, could destroy all of mankind and that liability-law so far remains unclear whether the company could be liable in the event that all of the water systems and ATMs in the country are shut off some day by a \"rogue AI agent\". If you want comfort you should read \"Goodnight Moon\".",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794764010,
-          "timesPick": false
-        },
-        {
-          "name": "je",
-          "location": "NE",
-          "body": "So, summing up the 300 pages: The road to hell is paved with good intentions, but we're damned if we do and damned if we don't.\n\nWhat would be slightly more useful than open ended disclosures would be 300 pages of how precisely we might think about regulating AI globally. \n\nAnyone out there want to take a whack at that?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794764001,
-          "timesPick": false
-        },
-        {
-          "name": "vg",
-          "location": "manhattan",
-          "body": "Almost no one wants in on this. A more equitable distribution of the world's vast wealth across the global population would also solve most of the problems they say this grotesque bargain is for. Instead we are trading nature, our environment, our senses, our miraculous  humanity, our agency, for the artificial and unknown.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794762934,
-          "timesPick": false
-        },
-        {
-          "name": "CM",
-          "location": "Evanston, IL",
-          "body": "The entire thing is literally science fiction. Amodei is offering for sale something he does not know how to build. The emergence of cognition out of ever-larger large language models is in the realm of pure speculation, not supported by experience or theory.\n\nWhat this means is that, while the risks are very real, the benefits are not just hypothetical, but profoundly unlikely. That makes any attempt to offer a positive cost-benefit analysis simply ludicrous.\n\nIf this IPO does not fail, it simply postpones a greater reckoning in the not-too-distant future",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794762924,
-          "timesPick": false
-        },
-        {
-          "name": "Elle",
-          "location": "NYC",
-          "body": "Remember this “transparency” comes from men who stand to become billionaires if they can convince us that this technology is so powerful it can cure disease or cause cataclysmic destruction. Their goal is to distract us from the realities about AI in front of our eyes now, which is that it is mostly mediocre and applied to things that make life, at best, marginally more convenient while dismissing huge economic and social repercussions. I’m not afraid of AI destroying humanity. I’m afraid of the continuation of what we already see, when authoritarian figures use a mediocre technology to further their own violent goals and don’t care about how inaccurate the results are.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794762913,
-          "timesPick": false
-        },
-        {
-          "name": "Jack Drinkem",
-          "location": "Eastern SF Bay Area",
-          "body": "Yeah, and if all countries on this globe cooperated instead of fighting, this world would get a huge Peace dividend.  But, somehow, no matter how good and heroic many people in all these countries are, they still don’t trust each other much.\n\nSo now, why again should I trust A.I. when the companies that are working hard to get the fastest and most knowing type are in a no holds barred contest?  Why should I trust any of their A.I.s?  Who will guard the guardians, when they turn sour.  We have already seen A.I.s do unethical things.  So, why should I turn around and trust the folks making them?",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794762901,
-          "timesPick": false
-        },
-        {
-          "name": "No one",
-          "location": "The colonies",
-          "body": "Well they have managed to hold many citizens’ entire future as hostage via the stock market. Which is why it will mushroom eventually. You can’t inflate your way out of a doom loop. Stock market needs to free fall to reality. All this nonsense will go away.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794762891,
-          "timesPick": false
-        }
-      ],
-      "title": "A Human Reads the Anthropic I.P.O. Filing",
-      "byline": "Dan Barry",
-      "publishedAt": "November 15, 2026",
-      "summary": "The prospectus is unparalleled in its willingness to discuss existential risk. But does honesty bring comfort?",
-      "section": "business",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/multimedia/15bizsun-anthropic-read-08-qbjg/15bizsun-anthropic-read-08-qbjg-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/us/haley-dekreek-sorority-influencer-college.html",
-      "totalComments": 51,
-      "comments": [
-        {
-          "name": "Humph",
-          "location": "New York",
-          "body": "You don’t need all this stuff to be young and beautiful. You are young and beautiful. Enjoy it. It shouldn’t be so much work!",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1794769523,
-          "timesPick": false
-        },
-        {
-          "name": "Elizabeth",
-          "location": "Nevada",
-          "body": "Despite all the attention in the media on image obsessed young women and influencer culture, my own teen daughter and her friends are women of substance: they care little for fashion or makeup and pursue creative, intellectual, and political interests with passion. The young women at my own university are very impressive and actually go to class and have ambitions beyond getting filler and sponsorships. Why not do a feature on all the young women resisting this craziness? They are by far the majority.",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1794769520,
-          "timesPick": false
-        },
-        {
-          "name": "Vro",
-          "location": "Nebraska",
-          "body": "I'm actually encouraged that she's taking care of her wellness by having strong fitness (pilates) and diet (no processed foods) practices, and seeing a therapist. The amount of procedures these young women have is mind boggling! The therapist is probably good for unpacking all that. \n\nWhat struck me was when she said she'd rather get ready than go to the party... that's the fun part! With all the people and where you get to build your community. Maybe she gets that from her sorority sisters while they get ready? Anyway, I hope they're saving up all the brand $$ because, coming from a marketer, we're actually investing less in influencers these days.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794769504,
-          "timesPick": false
-        },
-        {
-          "name": "Jane S",
-          "location": "(The good) Washington",
-          "body": "In this age of fighting back the male gaze of the patriarchy, I'm saddened to see these young women undertaking such extensive and invasive work on their bodies.\nI also wonder what all this lifting, tucking, filling and injecting will look like in 20 years.\nThe only thing I can laud is that they seem to support each other rather than being catty or cutting each other down.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1794769481,
-          "timesPick": false
-        },
-        {
-          "name": "Dr Socrates",
-          "location": "Doha",
-          "body": "I was reminded of the rise and fall of Rome while reading Yee's fascinating piece, what with all of the time and resources Ms. DeKreek has to pour into her own image, similar to wealthy Roman women thousands of years ago. In Satire 6, 350 years before Rome's fall, Juvenal writes, \"[A Roman woman of the elite] presents a sight as funny as it's appalling, her features lost under a damp bread face-pack...\". A hundred years later, Tertullian writes that \"the force of the cosmetics burns ruin into the hair; and the constant application of even any undrugged moisture, lays up a store of harm for the head...\". I think we live in a similar age and have a similar distance to our own cultural end; this article is yet another marker suggesting that we are surely on that path.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794769452,
-          "timesPick": false
-        },
-        {
-          "name": "Chris",
-          "location": "San Diego",
-          "body": "What does an influencer do, once their ability to influence start waning?",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1794769412,
-          "timesPick": false
-        },
-        {
-          "name": "spower",
-          "location": "Toronto",
-          "body": "Somebody tell her that influencer culture peaked years ago and there’s nothing left of this pyramid scheme but the bones to pick on. Absolutely no one needs another influencer at this point. It’s dead internet spectacle in service to rampant consumerism and a predatory social media culture that is filled with AI slop, inclusive of the AI influencers hawking the same beauty rituals as this young woman. Ironically her presentation has the smooth gild of AI. But this is the online aesthetic of our era, and it is eating itself just like recursive AI.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1794769339,
-          "timesPick": false
-        },
-        {
-          "name": "Step up to reality",
-          "location": "America",
-          "body": "Influencer culture is one of the biggest abominations to emerge from the social media era. It is beyond disheartening that so many young people aspire to become the equivalent of the high school \"it girl or guy\" rather than committing their lives to something more consequential and meaningful for society.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1794769322,
-          "timesPick": false
-        }
-      ],
-      "title": "‘I Love Being a Girl’: Inside the Life of a Sorority Influencer",
-      "byline": "Vivian Yee and Gabriella Angotti-Jones",
-      "publishedAt": "November 15, 2026",
-      "summary": "Many young adults want to be influencers. And why not? It’s fun. But it also means that the camera is always on.",
-      "section": "us",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/13/multimedia/00nat-sorority-promo-wvlm/00nat-sorority-promo-wvlm-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -2935,7 +1855,7 @@
           "name": "Maureen Entera",
           "location": "Santa Barbara",
           "body": "I spent yesterday morning  walking along Santa Barbara's Shoreline bluffs and looking down at the swell that had obliterated the sand beaches, and pounded the cliffs holding us up. Sea Level rise has already eroded so much of the cliffs that we lost about ten feet of it in the past two years. \n\nAt this rate, the multi-million dollar homes along the top of the bluffs will be beachfront properties in ten years, and not in a good way.",
-          "recommendations": 4,
+          "recommendations": 5,
           "replyCount": 0,
           "timestamp": 1794765084,
           "timesPick": false
@@ -2953,7 +1873,7 @@
           "name": "peter mattsson",
           "location": "san francisco",
           "body": "As quoted towards the end of the article, Fort Point is the spot right under the Golden Gate Bridge, and not 3 miles west. Less than a mile to the west is Deadman's, and that is a dangerous but fun left. Fort Point is also a left. Fort Cronkite is across the GG Bridge, three miles to the west - maybe that's the correct reference? And Cronkite is difficult on bid days, but usually a small wave spot, slower waves than OB due to nature of the beach. I say this since I surfed and lived near Ocean Beach in San Francisco for 20 years, and surfed every break, small days to easy double overhead at OB. Good times, but OB is dangerous on big days, and an awfully hard paddle out - and somedays even the best surfer can't make it out in spite of best efforts. Sometimes OB willl let you out, sometimes she won't - all hail Mother Nature :)\nThank you for the great coverage - I'm now in Charlottesville, Va...and get to surf Ocracoke Island, Hatteras, or the Atlantic Wave Pool in Virginia Beach. Good times, but I miss NorCal - surf, snow, sailing! Enjoy the west for this Cville Fella!!",
-          "recommendations": 5,
+          "recommendations": 9,
           "replyCount": 0,
           "timestamp": 1794764707,
           "timesPick": false
@@ -2962,7 +1882,7 @@
           "name": "Jennu",
           "location": "Virginia",
           "body": "More or less flat here on the East Coast.  Today it would be a long drive to the OBX for some waist high chop.  My idea of good waves is a little overhead; more than that gets hard to deal with.   On Surfline Mavericks is blown out, but Ventura Point looks entirely worthwhile, and crowded.  I’ll go to the pool and mow the lawn instead.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1794764044,
           "timesPick": false
@@ -2971,7 +1891,7 @@
           "name": "Ilovecomments",
           "location": "Bay Area",
           "body": "I was on West Cliff in Santa Cruz yesterday and saw not just the street, cars & onlookers get swamped, but the houses across the street got a saltwater shower too. I've lived here for almost 40 years and have only seen waves like that one other time. No surfers in the water- the ocean was a washing machine and looked very dangerous.",
-          "recommendations": 16,
+          "recommendations": 18,
           "replyCount": 0,
           "timestamp": 1794763496,
           "timesPick": false
@@ -3025,7 +1945,7 @@
           "name": "A fellow traveler",
           "location": "Brooklyn",
           "body": "Asi is one of a tiny handful of the greatest living magicians. At least that’s what most other magicians think. The author was fortunate to study with him. The book is a treat. Accessible for those new to the art but stuffed with real secrets. Bravo Asi and thank you.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1794715673,
           "timesPick": false
@@ -3043,7 +1963,7 @@
           "name": "ridgeguy",
           "location": "NoCal",
           "body": "I am a hard-core techie. It's an article of faith with me that there's no such thing as magic.\n\nBut on the too-few occasions when I've attended a magician's live performance, I've been a fascinated, ecstatic believer from the moment the curtain was raised! A great magician is a treasure.",
-          "recommendations": 6,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1794685958,
           "timesPick": false
@@ -3052,7 +1972,7 @@
           "name": "MD",
           "location": "Seattle",
           "body": "Thank you for this article. Very well written and photographed.",
-          "recommendations": 3,
+          "recommendations": 4,
           "replyCount": 0,
           "timestamp": 1794684691,
           "timesPick": false
@@ -3162,78 +2082,6 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/15/books/review/stations-louise-kennedy.html",
-      "totalComments": 8,
-      "comments": [
-        {
-          "name": "Tracy Tiffany",
-          "location": "Michigan, US",
-          "body": "This review crackles with the energy and erratic permutations that must be endemic in the book. It sounds like Niall Williams on crack. I am intrigued, and now know I will have to take a very deep breathe before I submerge, smiling.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794769550,
-          "timesPick": false
-        },
-        {
-          "name": "Brian",
-          "location": "California",
-          "body": "I would say that resin supplies friction, not tension.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794761731,
-          "timesPick": false
-        },
-        {
-          "name": "Stephanie K.",
-          "location": "Bay Area",
-          "body": "“Dote” is a term of endearment in Ireland, not an insult.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1794761729,
-          "timesPick": false
-        },
-        {
-          "name": "DB",
-          "location": "SW",
-          "body": "Thanks for the review. A book I will now avoid. It sounds like falling down face forward arms wide into a mud puddle and thinking it may be the best thing that has happened to you this day. And it reminds you of your lover.",
-          "recommendations": 14,
-          "replyCount": 1,
-          "timestamp": 1794753509,
-          "timesPick": false
-        },
-        {
-          "name": "Tim Barrus",
-          "location": "Blue Ridge Mountains",
-          "body": "Great book. Great review. The review itself crackles with insight. I often wonder why it is that we have this wild cultural romance with difficult characters who are as marginal as they are enigmatic. Books are too expensive, and then after you crack the book, there's no there there. American fiction feels like I am struggling to hold a wet glob of cement in my hands. But not this book. Riverhead is having quite a year with the Disappearancers and Stations. My own policy is to always name who the real publisher is. Random House owns Riverhead. In a hundred thousand million billion years, Random House will not be arriving like a boombox carried defiantly through the underground railway. Random House will arrive with cold corporate indifference. They have to actually create a seperate company (Riverhead) to market a book Random House cannot sell because the brand is the icon of a suit. Random House Publishing Group is owned by Penguin Random House, which is wholly owned by the German media conglomerate Bertelsmann. I published two books with these publishers. It was a cold, corporate, indifferent experience. I am sorry I did it. It was a mistake. It was not a fit. It just leaves a bad taste in your mouth, and you walk away. So these publishing companies build imprints which theoretically imbues them with a more accessible sense of humanity. It never works. You can dress it up, but it's still Random House. Great book. It sings.     The characters drive the story with a whip.",
-          "recommendations": 41,
-          "replyCount": 1,
-          "timestamp": 1794749643,
-          "timesPick": false
-        },
-        {
-          "name": "Ellison",
-          "location": "Aiken, SC",
-          "body": "I’m so glad to see this novel getting love on this side of the Atlantic. Louise Kennedy is an amazing writer. In STATIONS she captures that intense love and connection that rarely begins outside of adolescent friendship. This book is a marvel!",
-          "recommendations": 32,
-          "replyCount": 0,
-          "timestamp": 1794741922,
-          "timesPick": false
-        }
-      ],
-      "title": "This Crackling Almost-Love Story Is One of the Year’s Best Novels",
-      "byline": "Alexandra Jacobs",
-      "publishedAt": "November 15, 2026",
-      "summary": "A young Irishwoman in London tests the limits of commitment in Louise Kennedy’s “Stations.”",
-      "section": "books",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/books/15TBR-Kennedy-review/15TBR-Kennedy-review-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html",
       "totalComments": 5,
       "comments": [
@@ -3307,78 +2155,6 @@
       "summary": "Fueled by trends on social media, bartenders are creating increasingly theatrical cocktails. But are they any good?",
       "section": "dining",
       "thumbnail": "https://static01.nyt.com/images/2026/11/09/obituaries/00FACEVALUE-COCKTAIL_WONDER/00FACEVALUE-COCKTAIL_WONDER-largeHorizontalJumbo.png",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/books/literary-agents-books-substack.html",
-      "totalComments": 2,
-      "comments": [
-        {
-          "name": "Kat",
-          "location": "NJ",
-          "body": "How bleak.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794768782,
-          "timesPick": false
-        },
-        {
-          "name": "James",
-          "location": "NH",
-          "body": "“If you’re mad at the system, I’m sorry,” she said. “But you don’t get a book deal because you deserve it.”\n\nThis is the hard edged advice or truth telling that a lot of people need to hear and internalize. Publishing is a business and it is intensely subjective. That is simply the way it is and aspiring authors must take it to heart and figure out how their manuscript solves and agent and publisher's problem: is it a great story well told and will the author be able to sell it.\n\nThat said, publishing still relies too heavily on things like social media followers to determine if a book has a market. The connection between social media platform and sales is tenuous at best, so it is on agents and publishers to come up with a more sophisticated measure.",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1794755899,
-          "timesPick": false
-        }
-      ],
-      "title": "Literary Agents Have Something New to Sell: Themselves",
-      "byline": "Sophia June",
-      "publishedAt": "November 15, 2026",
-      "summary": "On Substack and TikTok, and with podcasts and books, agents are demystifying publishing while building their personal brands.",
-      "section": "books",
-      "thumbnail": "https://static01.nyt.com/images/2026/06/18/multimedia/18TBR-lit-agents-01-zvmk/18TBR-lit-agents-01-zvmk-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html",
-      "totalComments": 2,
-      "comments": [
-        {
-          "name": "Hakan",
-          "location": "Seattle",
-          "body": "These are very interesting insights. Are you working on categorizing Republicans on the same matter? I assume fewer candidates will participate in the 2028 primaries for the right.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794770099,
-          "timesPick": false
-        },
-        {
-          "name": "L",
-          "location": "NYC",
-          "body": "The only division that matters is whether a candidate takes corporate/PAC money or not. Everything else is downstream from that.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1794770064,
-          "timesPick": false
-        }
-      ],
-      "title": "Nate Silver’s Unscientific, Totally Subjective Breakdown of the Democrats’ Future Stars",
-      "byline": "Nate Silver",
-      "publishedAt": "November 15, 2026",
-      "summary": "A roundup of uniters and fighters, progressives and moderates.",
-      "section": "opinion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/15/multimedia/15silver-vfhb/15silver-vfhb-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     }
   ]
