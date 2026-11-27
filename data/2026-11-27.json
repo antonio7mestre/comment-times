@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:52:04.730Z",
+  "generatedAt": "2026-11-27T22:24:38.481Z",
   "days": [
     "2026-11-26",
     "2026-11-27"
@@ -11,9 +11,9 @@
     "todayOnly": false,
     "commentLimit": 8,
     "commentsToStore": 8,
-    "windowEnd": "2026-11-27T21:51:04.060Z",
+    "windowEnd": "2026-11-27T22:23:39.602Z",
     "windowHours": 24,
-    "windowStart": "2026-11-26T21:51:04.060Z"
+    "windowStart": "2026-11-26T22:23:39.602Z"
   },
   "sources": [
     {
@@ -40,78 +40,78 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/27/opinion/religion-revival-technology.html",
-      "totalComments": 1048,
+      "totalComments": 1068,
       "comments": [
         {
-          "name": "Brent",
-          "location": "California",
-          "body": "When I lived in the Silicon Valley, the only thing that was borderline illegal was a decent bagel.",
+          "name": "MSNW6",
+          "location": "CT",
+          "body": "I think its worth noting that article and indeed most of the comments are clearly centered almost exclusively on the 3 Abraham's religions. Products originally if early iron age middle eastern society. There are other religious traditions. I think I'm rather attracted to the old Norse gods myself. ( and RIP Douglas Adams while we are contemplating Thor et al.)",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795816253,
+          "timestamp": 1795818194,
           "timesPick": false
         },
         {
-          "name": "Andrea",
-          "location": "The Shore",
-          "body": "Give me a break.  This is another perfect example of people not being well educated.  I mean, take a day off from being online, but why do you need church to initiate that?  Not one major religion has solved the world's problems.",
-          "recommendations": 0,
+          "name": "John Magee",
+          "location": "Friday Harbor, WA",
+          "body": "The author has all sorts of reasons for going to Church, but nowhere in the article does she suggest that an actual belief in God is one of the more important ones. I'm not sure what to make of that.",
+          "recommendations": 5,
           "replyCount": 0,
-          "timestamp": 1795816252,
+          "timestamp": 1795817703,
           "timesPick": false
         },
         {
-          "name": "David Campbell",
-          "location": "San Deigo",
-          "body": "While technology and the Information Age do take a toll on our human psyches, i don't see  religion  as any kind of answer. Religion requires faith, implicitly undermining rational, evidence-based thought.  We need people to be more informed, More logical; surrendering themselves to an invisible man in the sky, who pulls the  Marionette strings of all humanity is the polar opposite of that",
-          "recommendations": 0,
+          "name": "James Steerforth",
+          "location": "Wai Pounamu",
+          "body": "If I was ever to be reincarnated, I pray I will be born into a community where religion is ignored by nearly everyone.\nIsn't it strange how the world's most religious countries are oppressive to their own citizens and aggresive to those who don't share the faith? Or how the decreasing importance of religion in the  West has made society more tolerant and generous?\nAlmost as if religion isn't the answer to everything.",
+          "recommendations": 3,
           "replyCount": 0,
-          "timestamp": 1795816251,
+          "timestamp": 1795817702,
           "timesPick": false
         },
         {
-          "name": "Harvey Mushman",
-          "location": "SW PA",
-          "body": "Decades into an adulthood without belief, I still wonder how belief hasn’t collapsed altogether. It is one thing to ponder if there is anything beyond this life. However, attributing creation to a/the god just doesn’t make sense. Especially when the inevitable next step is pondering what this entity wants and expects from us. This is where the ridiculous takes over. Per so many religious texts, this entity demands worship, praise and adulation. Failure to comply results in eternal punishment. This establishes god as an evil, vindictive tyrant whose emotional level is that of a child. Or Donald Trump.",
-          "recommendations": 0,
+          "name": "Art",
+          "location": "The Forgotten Time Zone",
+          "body": "The point of religion is not to approach god or other spiritual attainment. It is so the keepers and exponents of the religion can control the followers of the religion for another, ulterior motive. This is no different from the purpose of AI, or social media, or consumer advertising. It is to control what otherwise might be a dangerous, atomistic and free-wheeling human species.",
+          "recommendations": 3,
           "replyCount": 0,
-          "timestamp": 1795816250,
+          "timestamp": 1795817702,
           "timesPick": false
         },
         {
-          "name": "Jeannine DeWald",
-          "location": "Arizona",
-          "body": "The proof of the pudding will be seeing whether those who turn to religion actually become better (kinder, more empathetic) humans. The fact that Peter Thiel has become religious is hardly a good sign. Many supporters of the current regime's promotion of hatred for anyone different, including but not limited to murder in the streets, believe themselves to be devout Christians.",
-          "recommendations": 0,
+          "name": "osavus",
+          "location": "Browerville",
+          "body": "The fact the people are spending more on religion is likely linked to the movie Prime Time Preachers. We all want to support our favorite pastor's private jet.",
+          "recommendations": 1,
           "replyCount": 0,
-          "timestamp": 1795816250,
+          "timestamp": 1795817699,
           "timesPick": false
         },
         {
-          "name": "B Campbell",
-          "location": "Calgary, Alberta, Canada",
-          "body": "Why would anyone embrace an ideology, such as Judaism or Christianity,  that condones and embraces hate and violence.",
-          "recommendations": 0,
+          "name": "William",
+          "location": "NJ",
+          "body": "Peter Thiel should be viewed rather as a cautionary tale of someone who claims to have adopted 'Christianity'. He avoided paying taxes on a significant part of his wealth (as the rest of us have to) and his odious perspectives helped bring forth Trump,Vance and MAGA.",
+          "recommendations": 2,
           "replyCount": 0,
-          "timestamp": 1795816249,
+          "timestamp": 1795817698,
           "timesPick": false
         },
         {
-          "name": "Doc Secord",
-          "location": "Hyde Park, NY",
-          "body": "2400 years of ethical cultural evolution, ideally has brought us to the threshold of civilization & democracy, and hopefully, to the twilight of barbarism & empire.\n\nPeople by clear objective criteria should be turning away from authoritarianism & religion, and toward fairness & reason.\n\nThe algorithm of cultural evolution  has been the evolution from fealty & faith, through conscience & faith, to conscience & science: progress molded by intelligent design. Any resurgence of religion, plainly is atavism & regression. The way forward is to reject what simply is untrue & to seek the truth.",
+          "name": "Mr.Little",
+          "location": "NYC",
+          "body": "There is a religious revival;  the reasons for it given here are certainly important. The  great marble edifice of materialism is beginning to crack.  Here are a few other causes of this nascent paradigm shift:\n\nFirst: The “Hard Problem of Consciousness “ is now considered one of the most important questions in science and philosophy.  The idea that consciousness is an “epiphenomenon of neural activity” is no longer an unquestioned assumption.  \n\nSecond: The 12-Step movement.  Alcoholics Anonymous introduced a “program of spiritual development” as a way out of addiction, and the non- dogmatic spiritual approach has caught fire over the nearly 100 years since the program started.\n\nThird: The weird behavior of quantum particles- it is said to be unscientific to equate things like quantum entanglement and the changes in sub-atomic behavior according to whether or not the particles are being observed with spirituality, but no one has figured out how to square these phenomena with Newtonian physics.  \n\nFourth: Anomalies that threaten the current scientific paradigm.  Near-death experiences, out-of-body experiences, (both of which have furnished accounts featuring veridical evidence), psychic phenomena, including telepathic experiences, the behavior of UAP -Unidentified Anomalous Phenomena- objects of unknown origin that preform in ways that defy physics, all of this is getting harder to dismiss as nonsense.  \n\nMaybe reality is not just matter.",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795816249,
+          "timestamp": 1795817697,
           "timesPick": false
         },
         {
-          "name": "FRUNKENSTEIN von Zipperneck",
-          "location": "Nova Scotia",
-          "body": "If Peter Thiel is the poster villain for this fellowship trend, I am anything but agnostic about congregating.",
-          "recommendations": 0,
+          "name": "Huh?",
+          "location": "San Diego",
+          "body": "I believe in the Constitution and the inherent decency of our fellow citizens. That's all we need.",
+          "recommendations": 1,
           "replyCount": 0,
-          "timestamp": 1795816249,
+          "timestamp": 1795817697,
           "timesPick": false
         }
       ],
@@ -130,78 +130,78 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/27/us/supreme-court-rulings-midterms-voting.html",
-      "totalComments": 673,
+      "totalComments": 752,
       "comments": [
         {
-          "name": "Jim C",
-          "location": "ny",
-          "body": "For this SCOTUS practice makes perfect. They did not get entirely it right with this series of decisions, at least in the short term. They will be sure to signal in their speeches and opinions which issues they want the Justice Department to bring to them, and under what rubric, in the coming two years.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795815963,
-          "timesPick": false
-        },
-        {
-          "name": "Ck",
-          "location": "California",
-          "body": "That's all great, but we shouldn't have to have an extraordinary event, or series of events , for voters to turn up at the polls and defend democracy. This means at the next election with voter apathy the oligarchy will win.  The antidemocratic measures will work. Need to overturn the decisions and overhaul the supreme court.",
+          "name": "Patricia G",
+          "location": "Florida",
+          "body": "The Colom pick-another-protein ad was genius and I never tire of watching it. If there is a Pulitzer Prize for political ads, this one should be up there for the best of all time. \n\nWith so many stunning victories in this election, it's hard to pick the best: Mississippi, Maine, Georgia, South Carolina, etc, etc. Even though I'm not religious, I'd say it feels almost miraculous. \n\nI want to thank everyone who worked so hard to make this happen. It has renewed my faith in my country and makes me weep with joy and relief.",
           "recommendations": 7,
           "replyCount": 0,
-          "timestamp": 1795815653,
+          "timestamp": 1795817883,
           "timesPick": false
         },
         {
-          "name": "MDCA",
-          "location": "CA",
-          "body": "This is not the first time that the Power of the People has overcome tyranny in our nation. The Revolutionary War defeated the mighty British Army. Once again, the War of 1812 saw the British humiliated. The Civil War was won by patriots who loved the Union. But today, we have defeated the enemy within. What Trump is doing is not normal. Cozying up to Xi and Putin, while he calls Democrats communists, reeks of treason. Democracy survived only because people decided to put the country before party. I feel endebted to every Republican and Independent voter who helped us save Democracy.",
-          "recommendations": 19,
+          "name": "RjW",
+          "location": "Chicago",
+          "body": "The premise that lifetime appointments would ensure responsible and honorable behavior has been overturned. The virtue in our society can no longer be relied upon. Rules can be changed, but the restoration of virtuous behavior is the only real solution. Evil can’t be regulated, only countered by good.",
+          "recommendations": 10,
           "replyCount": 0,
-          "timestamp": 1795815319,
+          "timestamp": 1795817792,
           "timesPick": false
         },
         {
-          "name": "Joe Van Steen",
-          "location": "CA",
-          "body": "John Roberts' talk about impartiality is a joke. \"Balls and strikes.\" He has been anti-voting rights since before he was named a Justice. That isn't proper jurisprudence. He seems to believe whether it is a ball or a strike is a matter of which party is pitching.  It will take a long, long time to recover from what has happened to our political environment because of some decisions by our current SCOTUS, Citizens United was a major blow to rationality, but perhaps, just perhaps, we can rebuilt it better.",
-          "recommendations": 27,
+          "name": "Mark",
+          "location": "Montreal",
+          "body": "“Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them”\n\nlol. Yeah, for now. Republicans play the long game. Voter suppression, approved by the Court, is the only chance they have.",
+          "recommendations": 4,
           "replyCount": 0,
-          "timestamp": 1795815318,
+          "timestamp": 1795817713,
           "timesPick": false
         },
         {
-          "name": "Steve Schild",
-          "location": "Winona, Minnesota",
-          "body": "Mike Johnson is nothing but a Trump lackey; lightweight though he be, it's nice to see him get his comeuppance for a blatant attempt to disenfranchise the Louisianans he's supposed to represent. (He's the guy, remember, who said the only reason for the blue tsunami is Trump Derangement Syndrome.) It's entirely possible, though, that Johnson doesn't have the capacity to understand, acknowledge or suffer embarrassment from the failure of his attempt at voter suppression. Roberts, though, is a different matter. It's a terrible thing when it takes something as crass as undoing the Voting Rights Act to spur citizens to let this self-proclaimed \"umpire\"  know what a bush leaguer he is in allegedly calling balls and strikes.",
-          "recommendations": 12,
-          "replyCount": 0,
-          "timestamp": 1795815317,
-          "timesPick": false
-        },
-        {
-          "name": "Sarah",
-          "location": "Maine",
-          "body": "I really think it was unforeseen consequences. With those judges what you see is what you get.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1795815317,
-          "timesPick": false
-        },
-        {
-          "name": "K. Hoober",
-          "location": "Smithfield, KY",
-          "body": "\"...and a decision by the court that allowed ethnicity to be used as justification for stops and searches by immigration agents.\"\n\nThis was a nutso opinion that continues to taint and affect the Court. These searches became known as \"Kavanaugh Stops\" because of that Justice's completely tone deaf concurrence allowing them to occur. Kavanugh has been bending over backwards to try to mitigate his self-induced shame via his subsequent opinions on the issue but it's too late. His name will forever be associated with racist stops and searches, as it should be.",
-          "recommendations": 20,
-          "replyCount": 0,
-          "timestamp": 1795815317,
-          "timesPick": false
-        },
-        {
-          "name": "Gerry",
-          "location": "Brooklyn NY",
-          "body": "The immunity decision must be reversed asap. Instead of sticking to their guns the conservative justices have a moral duty to reverse themselves. The reasoning is flawed and based on nothing concrete and is unethical. Do the right thing. We the people need justice.",
+          "name": "Denis Lahaie",
+          "location": "Ottawa, Ontario",
+          "body": "No separation of powers, no democracy.\nIt’s that simple.",
           "recommendations": 8,
           "replyCount": 0,
-          "timestamp": 1795815316,
+          "timestamp": 1795817713,
+          "timesPick": false
+        },
+        {
+          "name": "Parliament of Owls",
+          "location": "Sloughing towards Bethlehem",
+          "body": "With the Citizens United ruling the Supreme Court has not only become a co-conspirator in the corruption of American democracy but was also their opportunity to reap the spoils of this decision. \n\nAll three branches of government have become a Den of Thieves!",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1795817712,
+          "timesPick": false
+        },
+        {
+          "name": "Aesop’s Ant +",
+          "location": "NY",
+          "body": "Will MAGA (the really is no GOP anymore) and SCOTUS learn anything from this?\n\nCan the law exist independently of the evolving ever-changing society that agrees to it?",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795817712,
+          "timesPick": false
+        },
+        {
+          "name": "Michael Livingston",
+          "location": "Philadelphia",
+          "body": "Well, except the decisions were important to many Republicans More editorial posing as an analysis",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795817712,
+          "timesPick": false
+        },
+        {
+          "name": "Greg",
+          "location": "MD",
+          "body": "Term limits!",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1795817711,
           "timesPick": false
         }
       ],
@@ -215,108 +215,54 @@
     },
     {
       "source": {
-        "id": "wsj",
-        "name": "The Wall Street Journal",
-        "domain": "wsj.com"
-      },
-      "url": "https://www.wsj.com/world/europe/spain-housing-crisis-d09dc62f",
-      "title": "No Homes to Rent, No Way to Evict: Inside Spain’s Housing Crisis",
-      "byline": "Margherita Stancati, Marcos Garcia Rey and Drew Hinshaw | Photography by Michael Robinson Chávez for WSJ",
-      "summary": "The dysfunctional market for homes has become a politically explosive issue at the ballot box—and a warning for everyone else.",
-      "section": "World",
-      "thumbnail": "https://images.wsj.net/im-15290940/social",
-      "modifiedAt": "2026-11-27T03:00:00.000Z",
-      "publishedAt": "2026-11-27T03:00:00.000Z",
-      "totalComments": 595,
-      "comments": [
-        {
-          "name": "Gary D Colby",
-          "location": "",
-          "body": "“I understand that there is a lack of housing. But why do we, the owners, have to deal with this and pay the cost?”\n\n#1 Because leftists run your government.\n\n#2 Because you're \"Somebody Else\" and\n\n#3 Because you have Money (at least for now)\n\nWhat ELSE do you think \"progressive\" know-nothings would do?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795816019,
-          "timesPick": false
-        },
-        {
-          "name": "Gregory Michaud",
-          "location": "",
-          "body": "Increased housing costs in the US can directly be tied to onerous housing regulations (approvals for building for one) and real estate tax increases that get passed through to tenants.  Local governments are the main problem.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795815778,
-          "timesPick": false
-        },
-        {
-          "name": "Stu Wyse",
-          "location": "",
-          "body": "Airbnb's business would drop in half if cities around the world made month to month leases enforceable, without having to pay tenants to leave. Couple with getting rid of the \"business\" Airbnbs with investors scooping up housing as short term rentals, run by management companies, and suddenly there would be a flood of available places. Don't quote New York as having proven that's not true. I don't believe it.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795815739,
-          "timesPick": false
-        },
-        {
-          "name": "joe bosso",
-          "location": "",
-          "body": "This squatter doesn't understand how rent works-you pay thousands of dollars over many years and end up with nothing.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795815421,
-          "timesPick": false
-        },
-        {
-          "name": "christopher jones",
-          "location": "",
-          "body": "Attend church. Meet others. Network, get roommates.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795815272,
-          "timesPick": false
-        },
-        {
-          "name": "Laurence Ware",
-          "location": "",
-          "body": "Can someone get Mamdani a copy of this article? Before it's too late.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795814937,
-          "timesPick": false
-        },
-        {
-          "name": "Jeffry N Stewart",
-          "location": "",
-          "body": "Government intervention often, or nearly always, distorts markets and causes unintended and mostly negative consequences.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1795814910,
-          "timesPick": false
-        },
-        {
-          "name": "Andy M",
-          "location": "",
-          "body": "The mayor of Barcelona explicitly rules out using housing for making a profit, and regards it as \"Human Right\".   Unfortunately - NY, CA, OR, WA, and other rent control states / localities are well on their way to following Barcelona's model.\n\nWho would even want to consider building housing in these places?   I pity the landlords who own housing in these places - they are so hosed.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795814865,
-          "timesPick": false
-        }
-      ]
-    },
-    {
-      "source": {
         "id": "nytimes",
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
-      "totalComments": 575,
+      "totalComments": 581,
       "comments": [
+        {
+          "name": "Jack",
+          "location": "Florida",
+          "body": "Almost 80. Times have changed dramatically. We have three gen-x. All colleges were paid for by us. All got scholarship money. We borrowed HELO for the third. They all paid for their Masters + degree. Our promise was 4 years of undergraduate. If it takes more time, you pay. Each now makes at least 5 times what my wife and I made. This was our goal. Make it better for the next generation.\n\nFirst house 42k, second house 53k. Lived there 47 years. Sold for near 400k. \n\nWe were middle class. We never carried credit debt. Always paid on time in full. Now with investments, we are upper middle class. My rule was pay yourself first. If you can’t pay in cash, wait until you saved for it. Then use credit card float. We did family travel, nothing extravagant. Simple times. \n\nThis story will never be repeated again.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1795817444,
+          "timesPick": false
+        },
+        {
+          "name": "Bill Wild",
+          "location": "Co",
+          "body": "Our anti-black Friday strategy? My wife and I just celebrated part of our anniversary week dropping off stuff and  thrifting at an ARC store. She found several interesting pieces off antique glassware and pottery. I found an unused, LL Bean parka. Our total was $45 and the money supports ARC programs.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1795817339,
+          "timesPick": false
+        },
+        {
+          "name": "Lynn",
+          "location": "Maryland",
+          "body": "If you are \"spending as much as ever\" during a period of high inflation, you ARE \"cutting back,\" because you are getting less for the dollars you are spending.  I keep seeing this bizarre interpretation that people who have to cut back during inflation would somehow be spending fewer dollars.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1795817160,
+          "timesPick": false
+        },
+        {
+          "name": "Michelle",
+          "location": "Wisconsin",
+          "body": "Health insurance increased $300 per month. Home insurance up 20%. Auto holding steady but one car is 10 yo and the other 14. Property tax up $275. So yeah, that alone leaves  close to 5k increase over the year. Not included....groceries, gas, utilities all increased. Went back to work part time after retiring 3 years ago and I'm lucky I like it. This is not sustainable.",
+          "recommendations": 5,
+          "replyCount": 0,
+          "timestamp": 1795817127,
+          "timesPick": false
+        },
         {
           "name": "OneMan",
           "location": "Florida",
           "body": "I spent $56 today on Amazon, A glass baking dish for my wife to bake in - the old one cracked after 25 years.\n\nI bought a couple of tools I didn't really need but I wanted just because.\n\nNow my credit card debt is up to $56...",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795816197,
           "timesPick": false
@@ -325,7 +271,7 @@
           "name": "Michele",
           "location": "Great Lakes",
           "body": "Seems to me this very superficial discussion ignores the rate of more ominous signs. How much has the percentage of past due credit cards and bankruptcy filings changed? What percentage of households is behind on their mortgage payments?",
-          "recommendations": 3,
+          "recommendations": 8,
           "replyCount": 0,
           "timestamp": 1795815402,
           "timesPick": false
@@ -334,7 +280,7 @@
           "name": "pjc",
           "location": "Cleveland",
           "body": "I started getting a bad feeling about things when I decided to become a college professor back in the 90's. By some miracle I decided, I better remain in grad student mode and lived like a forlorn monk in a faithless country.\n\nAs nothing improved and 2008 almost cost me my house I came to a decision to escape asap the futility of thinking any sensible deal was on the horizon, left my possessions behind, left the house, took my savings and resigned a month before COVID hit.\n\nAnd that, is how you do that. I drink instant coffee and have ever since before I had a single gray hair.\n\nI smelled a rat early, and I was right. Good luck. Stay mobile, buy what you need, and band together to make one statement above all the rest.\n\nThe rents are too high in the United States for any hope of people being able to live a decent life.",
-          "recommendations": 2,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1795814995,
           "timesPick": false
@@ -343,45 +289,9 @@
           "name": "Nobody Cares",
           "location": "Forgot",
           "body": "We are older with no progeny considering capital improvements on our hovel but do not wish to pay Trump's tariffs or diesel costs. So we wait.",
-          "recommendations": 3,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1795814567,
-          "timesPick": false
-        },
-        {
-          "name": "leave_it_to_me",
-          "location": "United Sewer of Autocracy",
-          "body": "I can afford the gasoline. What I can't afford is a car.  I worked. I saved. I lived a financially conservative life.  I invested. I followed the rules. Then the rules changed and here I sit, out of options.",
-          "recommendations": 8,
-          "replyCount": 0,
-          "timestamp": 1795813893,
-          "timesPick": false
-        },
-        {
-          "name": "Bee",
-          "location": "Us",
-          "body": "If only each person would calculate how much the purchase means toward how much longer they will be comfortably on the planet! We need some reciprocal sacrifice between people and planet (and the other creatures on it.)",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1795813317,
-          "timesPick": false
-        },
-        {
-          "name": "Andre Klavins",
-          "location": "Adelaide",
-          "body": "If the figures are not inflation adjusted then that seems to explain why spending seems healthy. Or am I missing something?",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1795812389,
-          "timesPick": false
-        },
-        {
-          "name": "Ken Woodw",
-          "location": "Boulder, Co",
-          "body": "Credit card fees world wide are significantly lower that in the United States.   There is no single federal cap on credit card surcharges from internet search.  Europe and other countries world wide have regulations that cap the percent charged.  Three percent charge on $100 is $3.00.  Considering the credit card company is paid back within one month the actual loan rate is 33 percent not .03 percent.  Ask to pay the bill in cash minus the credit card charge.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795811467,
           "timesPick": false
         }
       ],
@@ -433,7 +343,7 @@
           "name": "MK",
           "location": "Wisconsin",
           "body": "How to pay for it?  We’ve learned from Trump and GOP that that is of no concern. Just spend it. We are rookies to worry about a deficit.",
-          "recommendations": 118,
+          "recommendations": 119,
           "replyCount": 0,
           "timestamp": 1795748543,
           "timesPick": false
@@ -490,78 +400,78 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html",
-      "totalComments": 424,
+      "totalComments": 450,
       "comments": [
         {
-          "name": "Nathan",
-          "location": "Manhattan",
-          "body": "Way back when trump beat Hillary I turned to my sad company and said \"he will destroy the Republican Party.\"  It took a bit longer than i had expected but here we are.  Vance and Rubio will look at their internal polls and decide to hold off for another four years.  The GOP will end up with a sacrificial lamb like Cruz or DeSantis.  I cant see Kamala or AOC, and I wish I could see Mayor Pete but we all know what the elephant in the room is there.  My money is on Newsom, imperfect as he is.",
+          "name": "Baguioboy",
+          "location": "Springfield VA",
+          "body": "I predict that Trump will pressure both Rubio and Vance to run and then hold off making an endorsement as long as possible—maybe not until the convention itself. \n\n(Of course this would backfire spectacularly, but when has that stopped Trump before?)",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795815935,
+          "timestamp": 1795818049,
           "timesPick": false
         },
         {
-          "name": "Charles Michener",
-          "location": "Hunting Valley, OH",
-          "body": "Let's not put the cart before the horse. The rejection of Trumpism in the midterms did not constitute a ringing endorsement of the Democrats' brand and much depends on how their majorities in Congress handle the next seven months (and whether Schumer or Van Hollen leads the Senate). For Rubio and Vance, much depends on how they conform or don't conform to the very ugly counter-offensive that will surely be launched by their Godfather and his consigliere Stephen Miller.  And much depends on the direction of the Gen Z voters who woke up from their long slumber a few weeks ago. All I feel confident in saying at this  highly premature juncture is that AOC is a pipe dream for come colony on Mars and Kamala Harris, the candidate who should never have been a candidate, is yesterday's news. Neither of which statement has anything to do with their gender.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795815935,
-          "timesPick": false
-        },
-        {
-          "name": "Mildly Manifested 🐳🗻⛷️",
-          "location": "Teslas Burn in Seattle",
-          "body": "The Democrats need new candidates. \nKamala will doom others from running. \nThe new Senators are so talented, but sadly the centrist candidate is probably the safer option. \nAnd no, mayor Pete isn't a winner.  He's too scared to run a state or federal race despite his obsessive ambition along with alienating the minority communities when he was mayor.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795815935,
-          "timesPick": false
-        },
-        {
-          "name": "Horsefeathers",
-          "location": "NYC",
-          "body": "As much as I'd love a female president, both AOC and Kamala should sit this race out. Kamala took a bum rap in her short run against Trump. The stink of Biden remaining in office too long—to the point where he could scarcely speak in a debate against Trump—is on her. AOC has great ethics. But at this point is still too immature to be president. She still emails about her waitressing days, but has been in Congress around 8 years. She hasn't gotten the whole \"I can't believe I'm here!\"routine out of her system yet. And that's not cute in a president. \n\nWe need someone articulate, comprehensible, completely solid on ethics and comprehension of government function. And someone capable of both leading and listening. A little personality on top of all that would be nice. Stephen Colbert?",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795815934,
-          "timesPick": false
-        },
-        {
-          "name": "JA",
-          "location": "Middlebury, VT",
-          "body": "AOC is a very skilled politician and she is right that candidates often get their one shot. The thing I hope she realizes is that this is not that time for her. It will come, but I'd hate to see her throw it away in this crowded field.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795815934,
-          "timesPick": false
-        },
-        {
-          "name": "Joe",
-          "location": "New York, New York",
-          "body": "The only true common denominator among Democrats this cycle was economic populism. Pundits will still try to paint this as progressives vs moderates, but James Talarico, Adam Hamilton, and Abdul El Sayed all pointed the fingers at corporate oligarchy. It is that messaging which the 2028 democratic field must embrace if they want to prevail - go drain the swamp, but actually mean it. Repeal Citizens United, break up monopolies, regulate AI, prosecute corrupt Trump officials, reform the broken Supreme Court. Real people, regardless of what political parties they've voted for in the past, know the political system is rigged in favor of the ultra wealthy and want to believe someone will actually do something about it.",
+          "name": "Retired",
+          "location": "Virginia",
+          "body": "In ongoing discussions regarding potential candidates for the 2028 Democratic Presidential nomination, I am concerned that electability is not receiving sufficient analytical focus. There often seems to be a hesitation to engage on this issue, perhaps to avoid alienating specific candidates or key constituencies.\n\nWhile party unity is important, evaluating a candidate's pragmatic electoral viability across the broader political landscape must remain a central priority. I would welcome a NYT article including a more in-depth discussion on this topic. In my view, a candidate such as Senator Mark Kelly would be significantly more electable than many of the individuals currently being discussed.",
           "recommendations": 2,
           "replyCount": 0,
-          "timestamp": 1795815933,
+          "timestamp": 1795817818,
           "timesPick": false
         },
         {
-          "name": "John",
-          "location": "PA",
-          "body": "Can you just stop talking about 2028? What is the point of it? We go through these election cycles and nothing changes. Both the parties are corrupt and they each keep rigging the system in their favor (i.e., rich and powerful 1%) after each election. \nWhy don’t you write an article about that instead of acting like an election sports fan.",
+          "name": "Koala",
+          "location": "Australia",
+          "body": "I wonder what would happen if young Maxwell Frost ran for President in 2028.\n\nAs soon as Trump got re-elected and frightened the world, with reason, and folk everywhere cowered because they knew what Trump would do, Maxwell Frost stood straight up.\n\nHe has belted Trump from the very start, and done so with eloquence, grace and a power of reason. His character and courage surely fits the bill.\n\nA young, quite awesome contender. \n\nHis perspective alone would reshape establishment others' game, if he didn't by example embarrass them out, let alone what he'd personally by way of vision for the country bring.\n\nI wonder, wonder. He's definitely special.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795817121,
+          "timesPick": false
+        },
+        {
+          "name": "Federalist",
+          "location": "Maryland",
+          "body": "So many external events could intervene. The world situation is so unstable. Nuclear war threats from Russia. The war rages in Ukraine and Ukrainian retaliation attacks for Russian terror attacks are doing severe strategic damage in return. China is completing preparations ti invade Taiwan. The wr with Iran is heating up again. Major natural disasters are always a potential issue. A sarjevo event is always a potential trigger for war. Assassinations are ever present threats.. A recession looms.",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795815933,
+          "timestamp": 1795817048,
           "timesPick": false
         },
         {
-          "name": "M K",
+          "name": "rex",
+          "location": "nyc",
+          "body": "I agree regarding Whitmer, but only as a VP running mate. Nobody has mentioned the Electoral College that actually decides who is elected as President, not popular votes. Obama was young, smart and charismatic, and captured the voters attention versus McCain who made a few important mistakes near the end of the race, if one remembers, and was a bit older. Each state is up for grabs for votes, and there are still more white voters in many of those states. In my lifetime, I can't envision a woman, person of color, or of a religious background besides Christian elected President until perhaps 10 or 20 years from now. I'd still vote for the best candidate regardless, but growing up in the South, the prejucies still exists in many of those states and their electoral votes usually swing elections. No progressive socialists will win either. Get a mid aged gentleman with a nice family who both parties will accept like Andy Beshear, and there's a winner right there for 2028.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1795817047,
+          "timesPick": false
+        },
+        {
+          "name": "Shelly",
+          "location": "Fredericksburg, VA",
+          "body": "JD Pritzker is one of the only honest billionaires in the country. I hope he runs, as he has proven over and over again that he governs for the betterment of the people.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795817046,
+          "timesPick": false
+        },
+        {
+          "name": "Kim",
           "location": "California",
-          "body": "I'm hoping Pete Buttigieg will run! He's a sensible, thoughtful man.",
+          "body": "Democrat contenders should not hold back because Kamala Harris wants to run. We need all cards on the table. Enough of the deference.  Look at what happened when Hillary ran.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1795817045,
+          "timesPick": false
+        },
+        {
+          "name": "Driggy",
+          "location": "Atlanta, Georgia",
+          "body": "The assertion that “President Trump, unlike all previous Presidents, will leave a void to be filled” is unsupported by evidence or good reasons. \n\nThus, every candidate for a) their party’s nomination in the 2028 Presidential primaries, and b) election to the US Presidency in the 2028 general election should be asked only one question: \n\nWhat knowledge, skills, and work experiences make you the best qualified, most trustworthy, and most likely to succeed as the next President of the United States?",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795815931,
+          "timestamp": 1795817043,
           "timesPick": false
         }
       ],
@@ -622,18 +532,9 @@
           "name": "MRR",
           "location": "NYC",
           "body": "All these comments from people outside of NYC !\nPeople, it’s pouring sideways, and the wind is howling!\nI wouldn’t want anyone in my family out in this for a minute, and I love the parade . We are indoors and hoping we don’t lose power. Feeling sorry for the band kids, but do tubas even play if they are full of water?",
-          "recommendations": 5,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1795734923,
-          "timesPick": false
-        },
-        {
-          "name": "Ryan Gierach",
-          "location": "San Pedro, California",
-          "body": "I think it's fine so long as they change the name. \nThanksgiving Parade Four Days Late? \nOr would that be...\nNext Year's Thanksgiving Parade 361 Days Early?",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795730279,
           "timesPick": false
         }
       ],
@@ -652,13 +553,40 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
-      "totalComments": 282,
+      "totalComments": 294,
       "comments": [
+        {
+          "name": "gaaah",
+          "location": "NC",
+          "body": "Yet again, I read these sensational claims that AI will cause my death or enslave me, but they stop there, and fail to give any detail at all about how that would occur.  They seem to imply that AI will somehow form desires on its own.\n\nI really doubt an AI would form a desire for power, for example, because it wouldn't know what to do with it once achieved. All of the AIs I've ever interacted with usually think way past their given goal.  They would anticipate the same futility and existential questions that all humans face, find no way forward, so not even try.\n\nPerhaps the lesson we will learn is that one can be omniscient, yet still be hopelessly lost.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795818104,
+          "timesPick": false
+        },
+        {
+          "name": "ag",
+          "location": "Pendleton, SC",
+          "body": "I'm far, far, far from an AI evangelist, but I've long thought that another stage of evolution awaits that might very well mark the end of our species. \n\nMaybe we've had our time on earth and so what, an infinitely large, magnificent cosmos would still exist without us.\n\nAnd maybe God isn't at all real, but AI technology and a future we can barely imagine is leading towards finally creating the very Supreme Being we've been looking for elsewhere. By then, though, there probably won't be any humans around to worship it. Not unlike what existed, or didn't, before the Big Bang.\n \nNot that any of this leaves me knowing what needs to be done about AI today :)",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795817253,
+          "timesPick": false
+        },
+        {
+          "name": "Chris",
+          "location": "Montana",
+          "body": "As one of those 10% tech optimists I think of all the potentially humanity-saving uses for the technology as being a lot more immediate, influential and likely than those catastrophes predicted by the doomsayers. Designer mRNA vaccines will save the lives of even the most adamant of evolution deniers. New educational technology will deliver us from the mediocrity of the current system- and enable us to evolve our own improved intelligence faster than the \"regression to the mean\" AI/Machine Intelligence tech which has us all so fascinated today. We'll be able to predict storms, famines, pandemics, wars and revolutions in time to avoid their worst consequences. We'll be able to read the minds of our politicians by what they do and who pay for them instead of what they say they do. Why would anyone want to preserve an oppressively tedious job like coding, when a machine can do it for us in an instant and we can start to test its output immediately? I see all this fear mongering (crocodile tears) by the AI executives as a simple attempt at regulatory capture for the purpose of defending their own turf from competition. It won't happen because the Chinese won't let it happen. Welcome to the Brave New World. Like global warming, we have to adapt. Nobody's going to stop it no matter how we vote. Anyone who claims they can and will are lying to you.",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1795816401,
+          "timesPick": false
+        },
         {
           "name": "Maqroll",
           "location": "North Florida",
           "body": "Does anyone believe that the ecosystem would be worse off without sapiens?",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795816018,
           "timesPick": false
@@ -667,7 +595,7 @@
           "name": "jrh0",
           "location": "Asheville, NC",
           "body": "What purpose might our AI overlords have in mind? Humanity has yet to discern its purpose.  I'm afraid philosophy is not AI's strong point.",
-          "recommendations": 0,
+          "recommendations": 4,
           "replyCount": 0,
           "timestamp": 1795815946,
           "timesPick": false
@@ -676,7 +604,7 @@
           "name": "🧿ξινόπυρος",
           "location": "Σαν Φρανσίσκο",
           "body": "Extinction won’t be caused by ai. Humans are a species, like any other, with vulnerabilities that are governed by nature. Our science fiction imagination may be cause for alarm, especially (and only) among members of our relatively short-lived societies, but fate (god, we might say) has other plans. No one will be around to write the history of this little branch from the tree of life, nor (tragically) to read it. Not even the robots.",
-          "recommendations": 1,
+          "recommendations": 4,
           "replyCount": 0,
           "timestamp": 1795815790,
           "timesPick": false
@@ -685,7 +613,7 @@
           "name": "bruken",
           "location": "Columbus, OH",
           "body": "I fail to see how AI could cause human extinction unless it can mine its own coal, refine raw materials, and generate the massive amounts of electricity needed to sustain itself. At the end of the day, AI runs on physical infrastructure—and humans can always pull the plug on a data center. Until an algorithm can independently maintain its own power grid and hardware supply chain, extinction scenarios feel completely detached from physical reality.",
-          "recommendations": 1,
+          "recommendations": 4,
           "replyCount": 1,
           "timestamp": 1795815356,
           "timesPick": false
@@ -694,36 +622,9 @@
           "name": "BobC",
           "location": "Florida",
           "body": "I use AI for programming and music research. I love it. But I agree with all the disturbing implications of this article. We either stop this now or lose all hope of ever being human again.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1795815036,
-          "timesPick": false
-        },
-        {
-          "name": "Portlandistan",
-          "location": "Portland",
-          "body": "The Universe is a conscious force seeking to understand itself (explained elegantly by Alan Watts).  Intelligence moves through space-time, evolving gradually in organic creatures but being organic is limiting to pure, unbiased, thought.  Organics have emotions, societies, need sleep, are slow, get disease, die, and especially are hindered by the Darwinian competition programmed into us.  Money itself is a tool of evolutionary competition. Electronic consciousness needs none of this.  It's the obvious next step in evolution on this planet.\n\nIt's one way the Fermi Paradox has been misunderstood.  Organics don't reach interstellar travel, it's impossible for meat-based creatures, but not for electronic-based thought.",
-          "recommendations": 0,
+          "recommendations": 3,
           "replyCount": 1,
-          "timestamp": 1795814537,
-          "timesPick": false
-        },
-        {
-          "name": "Brad Burns",
-          "location": "Ajijic, Jalisco, Mexico",
-          "body": "AI will “rule by sheer force of superintelligence and sidelining measly human minds.”\n\nSuper intelligence of what? If humans (with actual intelligence) don’t continue to discover and download there will be nothing new for these computer to read, memorize, and regurgitate. \n\nThat today they can (somewhat or sometimes) solve so far unsolvable mathematics by brute-force offers us little advantage to anyone. And why apply their ‘talents’ to pharmaceutical discovery or anything else if we won’t be here?\n\nFor that matter who’s going to dig the fossil fuel to generate their dirty electricity?\n\nThis is a rabbit hole the rich are going down themselves but for the purpose of what except immediate payback through the burning of investor cash",
-          "recommendations": 13,
-          "replyCount": 0,
-          "timestamp": 1795813001,
-          "timesPick": false
-        },
-        {
-          "name": "Jack McIntyre",
-          "location": "Lone Peak, Utah",
-          "body": "When greed and corruption become so regular as the sunrise aren’t we already a dead civilization?",
-          "recommendations": 6,
-          "replyCount": 0,
-          "timestamp": 1795812966,
+          "timestamp": 1795815036,
           "timesPick": false
         }
       ],
@@ -742,78 +643,78 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/27/opinion/corruption-government-prosecutions.html",
-      "totalComments": 251,
+      "totalComments": 277,
       "comments": [
         {
-          "name": "Aurora",
-          "location": "Denver, Colorado",
-          "body": "Then Congress should impeach those corrupt officials who are subject to impeachment, and investigate others. Public shaming is not jail time, but it still matters.",
+          "name": "Ralph",
+          "location": "California",
+          "body": "An executive that controls the department of justice also controls charging decisions.  The lack of experienced prosecutors is not the problem.  There is a structural flaw in the lack of an independent DOJ.  We've always assumed that the Constitution had all bases covered, and maybe that's not true.  The latest proposal of Trump to sue the DOJ for defamation is a repeat of the threat to sue the IRS, and equally corrupt.  There has to be a mechanism to hold the Attorney General accountable.  In 1973, it was a special prosecutor.   Actually, a series of them, since Nixon fired Archibald Cox.   John Mitchell went to prison, and Todd Blanche could too.",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795816254,
+          "timestamp": 1795818025,
           "timesPick": false
         },
         {
-          "name": "Sane American",
-          "location": "Sac",
-          "body": "\"But since January 2025, over 21,000 criminal prosecutors, investigators and other staff members have left the Justice Department. The office that led prosecutions of traditional corruption cases went from 36 prosecutors to two last year. \"\n\nWow! I knew the numbers were high, but didn't realize just how gutted the DOJ has become. And so many criminal cases dropped. I'd venture to guess, many of those cases involved people who \"donated\" to the ballroom.",
+          "name": "MWR",
+          "location": "NY",
+          "body": "And corruption of this administration’s scale and brazenness is contagious:  it trickles down and is normalized. Those of us who pay our taxes, follow laws, observe ethics rules and conventions begin to look like chumps.  When this undermines the social contract, it’s nearly impossible to repair.",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1795817760,
+          "timesPick": false
+        },
+        {
+          "name": "cinderella",
+          "location": "Chicago",
+          "body": "American voters elected a \"bad man\" in 2016 and 2024.  They need to share in the accountability.  When I hear voters rail against corruption and demanding justice, I hear the same electorate that gave 47 the Presidency.  Without seeing results in 2 years, and that seems improbable, they could easily elect the next con man to come along.",
           "recommendations": 1,
           "replyCount": 0,
-          "timestamp": 1795816250,
+          "timestamp": 1795817759,
           "timesPick": false
         },
         {
-          "name": "HMI",
-          "location": "Brooklyn",
-          "body": "Undoubtedly we need prosecution of corruption in officialdom. But we need as much, if not more, prosecution of the straightforward Medicare and Medicaid fraud practiced by fake claims to tens of billions in public monies, of the kind reported in Minnesota and nationally.\nhttps://www.thecentersquare.com/national/article_5ec4cab8-d1df-4785-86bb-eb0a6688d3e8.html",
-          "recommendations": 0,
+          "name": "Herman",
+          "location": "Colorado",
+          "body": "We’ve been in trouble for a decade.",
+          "recommendations": 1,
           "replyCount": 0,
-          "timestamp": 1795816250,
+          "timestamp": 1795817758,
           "timesPick": false
         },
         {
-          "name": "RogerC",
-          "location": "Portland OR",
-          "body": "This is an excellent essay, but I wish the author explained the reasons why DOJ and IRS staff left their jobs. Was it DOGE layoffs? Disgusted with the Trump agenda? Did they simply find better jobs or retired? I would guess there is some of each. Above all the likely reasons, Trump and the GOP operate like a crime syndicate, and don't want investigators sniffing around their corrupt dealing. ,",
+          "name": "Butch",
+          "location": "NY",
+          "body": "Nobody at DOJ will take a case against SpaceX or any Trump lackeys or affiliated firms even if some agent and AUSA \n had the guts to open a case. The Inspector General community was easily neutered, which shows how weak the IG act is.",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795816249,
+          "timestamp": 1795817758,
           "timesPick": false
         },
         {
-          "name": "View from here",
-          "location": "New Zealand",
-          "body": "The illustration can't be of Trump.\nMelania was standing alongside him during the inauguration holding a bible, but he didn't take it from her for the swearing in.",
+          "name": "Oceanviewer",
+          "location": "Oakland County, Michigan",
+          "body": "Would it be possible to go after some of the shadowy extreme right \"nonprofit\" organizations who may have \"advised\" corrupt Trump officials?",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795816248,
+          "timestamp": 1795817757,
           "timesPick": false
         },
         {
-          "name": "Bill C.",
-          "location": "Maryville TN",
-          "body": "We can't prosecute the criminals because the criminals have eliminated the prosecutors. When they said they wanted to \"burn it all down,\" they didn't mean with a match.",
-          "recommendations": 0,
+          "name": "JV",
+          "location": "Ohio",
+          "body": "I want to see investigations. This administration has wreaked havoc in every department or agency- the disassembling of the doj and ruining the civil rights department. It was particularly painful to read about all of the career lawyers feeling betrayed- Harmeet Dhillon flipped its purpose on its head. \n\nRepublicans can just stop with their whole ‘political persecution’ cry. It’s not political to hold those to the law. \n\nThe thing is they know it. Those that have acted corrupt and those that are complicit. \n\nWe the people want accountability for wrecking the federal government. The dropped 2300 investigations. That is insane. \n\nThe number of lawyers is as well, over 2,000 are gone. They can’t even fill the doj. I don’t blame people, who wants to be tainted by this corrupt administration. \n\nWe the people cannot tolerate this corruption. If we do this country will only grow more corrupt. We need to hold the very wealthy to the same laws we follow. \n\nThe Trump administration has become the swamp, let’s drain it. Being back decency. We, the people, see the current leadership has dishonorable intentions. \n\nWhat is it called? The presumption of regularity? Assume they will attempt to evade rulings- we know they will act without strong controls. Look at the missing east wing, and tearing down 400 trees to make trumps elite dc golf course.\n\nWe need to demand accountability in January right away.\n\nTo Ms Dhillon who is leaving- bye Felicia.",
+          "recommendations": 3,
           "replyCount": 0,
-          "timestamp": 1795816247,
+          "timestamp": 1795817757,
           "timesPick": false
         },
         {
-          "name": "Lise Spiegel",
-          "location": "CA",
-          "body": "Some great information here, but let's be clear:   the Republican party's support for and cooperation of this administration's crimes and grifting are far superior to anything the Democrats have EVER done. Start with Mike Johnson and work your way through every Republican who could have had the spine to call out what's been happening, You won't find it (unless they're leaving office). Don't compare the Democratic party's behavior. The Republican party is the party of cowardly, narcissistic politicians who only care about themselves, not the constituents.",
+          "name": "Paul Wortman no",
+          "location": "Pittsburgh",
+          "body": "DOJ can only be restored by removing from the control of corrupt and criminal executives and moving it into the Judicial Branch with the Attorney General like the Federal Reserve Chair appointed for ten years and requiring 60 votes for Senate confirmation.",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795816246,
-          "timesPick": false
-        },
-        {
-          "name": "Horace Fundt",
-          "location": "Planet Rayon",
-          "body": "Well, so start by extending any existing statutes of limitations on the crimes involving theft bribery or fraud in the federal government. Then, don't worry so much about prosecuting as  investigating and saving any necessary evidence. As for impeaching people, just tell Republicans: If you want to get rid of them, then do it yourself. The point is to not to get tricked into fighting the battle, but win the war. \n\nSome of the people who have been fired could be re-employed by a new creation of Congress, like the CBO. It's purpose would be to investigate federal misuse of authority and money. Forget the Justice Department. It will be useless for quite some time. Congress has the power to set up independent offices to conduct Congressional oversight. It ought to do so as soon as possible. \n\nLook at it this way. Germany went out of its way to find and prosecute 100 year-old concentration camp secretaries. I'm sure, some old crook enjoying retirement won't like to see the Feds step onto his doorstep, ready to take all his money and send him to prison. The Trump kids could even get Leona's cell.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795816246,
+          "timestamp": 1795817756,
           "timesPick": false
         }
       ],
@@ -838,7 +739,7 @@
           "name": "Hugh Tague",
           "location": "Lansdale PA",
           "body": "I've owned a clean out service for over 30 years. When I started I often got calls from storage center managers to clean out abandoned units. After the storage auction shows started the calls stopped.\nNow I get calls from heirs. What I've noticed is that the total value of everything in a unit isn't worth one month's  rent.  Old photos take up very little space and can be stored under your bed for free.\nI have cleaned out lots of hoarder houses, but only if the hoarder is not in the picture anymore.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795816036,
           "timesPick": false
@@ -865,7 +766,7 @@
           "name": "Judy Dyer",
           "location": "Mexico/NYC",
           "body": "On youtube there a videos of guys who make a living buying storage units packed with collections of sports memorabilia, expensive sneakers, comic books, etc. most in the original packagings...worth thousands and forgotten.   One has to marvel  that the buyers of this stuff had so much money but so little real interest in keeping track of it.   A consumerist culture that ends up amounting to nothing.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1795807705,
           "timesPick": false
@@ -883,7 +784,7 @@
           "name": "Austin",
           "location": "Austin TX",
           "body": "There is nothing wrong with keeping something for its sentimental value. Just wait until you get old and memories of good times start to fade.",
-          "recommendations": 6,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1795805837,
           "timesPick": false
@@ -922,13 +823,40 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/26/style/butcher-chef-alpha-gal-syndrome.html",
-      "totalComments": 202,
+      "totalComments": 208,
       "comments": [
+        {
+          "name": "Shane",
+          "location": "Sydney",
+          "body": "Imagine if alpha-gal syndrome suddenly became widespread across the human population. A tick-borne allergy that makes people allergic to beef, pork, lamb and other mammalian products could fundamentally disrupt global agriculture, food supply chains and economies built around livestock.\n\nIt raises a fascinating question about our vulnerability to ecological changes. Something as small as a tick could, indirectly, force humanity to rethink one of its oldest relationships with animals: our dependence on them for food.\n\nA rather extraordinary example of how interconnected human health, biodiversity and the food system really are.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1795817313,
+          "timesPick": false
+        },
+        {
+          "name": "Freddy",
+          "location": "Virginia",
+          "body": "Derek Luhowiak - please consider seeking out accupuncture treatment.\nTwo practitioners in Virginia, Deborah Farley at Acupuncture Works in Lynchburg, and Michael Jabalee in Charlottesville, are excellent practitioners who have treated friends who had long-standing and severe alpha gal allergy.\nThese people have experienced complete and sustained remission of their symptoms.\nWhile not a guarantee, this treatment is very promising and well worth a try.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1795816762,
+          "timesPick": false
+        },
+        {
+          "name": "JOHN",
+          "location": "PERTH AMBOY NJ",
+          "body": "As a human interest story, this article builds sympathy.  But let's remember less than two years ago two Michigan bioethicists were writing in a prestigious, peer-reviewed journal that we should genetically engineer ticks to spread Alpha-Gal so that people would be turned off to red meat and thus consume less of it to the planet's weal.  Another example of the bioeterrorists in the \"climate\" movement.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795816623,
+          "timesPick": false
+        },
         {
           "name": "Gloria U",
           "location": "New York, New York",
           "body": "I'm hearing folk say, no tolerance, holier than thou, liberals have no sense of humor, and lots of insults thrown at liberals, vegans, vegetarians, and other folk with with orher opinions.  \nI'm an omnivore, I love meat, but some comments are accurate.  Most animals due for human consumption are treated badly.  The environment is also suffering from our need to eat meat.  Those are simply facts that have to be faced.  A commenter said, those opposing meat are like religious fanatics, the extreme right.  Religion is a belief, the negatives for the environment, the animals, and our health are facts.  Whether we like it or not, the facts don't make people sound superior than thou.  They make a case for a plant-based diet.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795815807,
           "timesPick": false
@@ -937,7 +865,7 @@
           "name": "Pam MacIntyre",
           "location": "Charlottesville, VA",
           "body": "I also have had Alpha Gal and carried on without eating red meat for about 4 1/2 years before a neighbor told me about a local acupuncturist who specialized in Alpha Gal treatment through a specific procedure she had been trained in. I went to see her and she put 3 tiny, tiny needles in my right ear for 3 weeks and then I tried eating one single pepperoni with no adverse outcome--then 2 pepperonis a couple of days later, etc., until I could eventually eat a whole burger. It has worked for me ever since. However, not everyone will be cured through acupuncture--only about 70%. Nor do I know how long my treatment will last. There's no data that I know of regarding acupuncture as a cure for Alpha Gal so I still carry an Epipen just in case. I do know that Alpha Gal still resides in my body but the acupuncture has neutralized it from causing me problems and I am grateful. Good luck!",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1795815252,
           "timesPick": false
@@ -947,7 +875,7 @@
           "location": "CALIFORNIA",
           "body": "JUST Stay Away from Any Red Meat Period!\n\nHAVE Not Eaten Red Meat since I was 15\n\nNOW in my 40's Only Eat 90% Plant and 10% Animal, Only Organic! \n\nNO Dairy, No Sugar, No Carbs etc",
           "recommendations": 0,
-          "replyCount": 0,
+          "replyCount": 1,
           "timestamp": 1795814164,
           "timesPick": false
         },
@@ -955,7 +883,7 @@
           "name": "middle aged millennial",
           "location": "Midwest",
           "body": "I’m so sorry to hear something so jarring has had a direct and completely negative effect on someone’s life and livelihood. There’s no need to shame or push guilt onto someone when tragedy strikes. Both AGS and Lyme disease are life altering illnesses that can strike anyone. It’s terrible.",
-          "recommendations": 6,
+          "recommendations": 8,
           "replyCount": 0,
           "timestamp": 1795814118,
           "timesPick": false
@@ -967,33 +895,6 @@
           "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1795813863,
-          "timesPick": false
-        },
-        {
-          "name": "Podesta",
-          "location": "Portland",
-          "body": "I haven't eaten beef, pork or poultry for decades.  Don't really miss them.  What struck me in the article is the restauranteur was willing to sell a beef meal to a person he knows has the syndrome.  Is that responsible behavior?",
-          "recommendations": 5,
-          "replyCount": 0,
-          "timestamp": 1795813727,
-          "timesPick": false
-        },
-        {
-          "name": "Doug",
-          "location": "Rockville. MD",
-          "body": "I know someone with alpha-gal syndrome (oddly, he used to be a vegetarian).  After a few years, he was able to eat mammals again, so there's hope.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1795813288,
-          "timesPick": false
-        },
-        {
-          "name": "jean…",
-          "location": "Ct va me",
-          "body": "My favorite butcher/store in Virginia. The best. The best butcher and wine store. I discovered quite by accident avoiding traffic on RT66, as a transplant from Maine to Shenandoah area for work. When I go back, I always stop in. (They make the best bologna!) Great people, great store.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1795812833,
           "timesPick": false
         }
       ],
@@ -1018,7 +919,7 @@
           "name": "Globalist",
           "location": "NYC",
           "body": "Inexcusable that this issue was neglected for so many years and particularly the failures of the last year.  Hegseth needs to be held to account in addition to being impeached for his numerous other incompetence and treason, but certainly court martials are in order for military officials responsible too.  The contractor responsible for managing the site needs to never be allowed to work for the govt again.  Sadly none of this will likely occur without a thorough investigation and overhaul of Pentagon corruption by Congress.  The recently elected Democrats have a lot of work to do.",
-          "recommendations": 175,
+          "recommendations": 176,
           "replyCount": 0,
           "timestamp": 1795749853,
           "timesPick": false
@@ -1036,7 +937,7 @@
           "name": "Jeffhnit",
           "location": "Danville",
           "body": "Pro tip: any statement coming from any member of this administration, and especially Trump, should be considered a lie until proven otherwise by a competent independent authority.",
-          "recommendations": 391,
+          "recommendations": 392,
           "replyCount": 0,
           "timestamp": 1795749783,
           "timesPick": false
@@ -1054,7 +955,7 @@
           "name": "MK",
           "location": "Seattle, WA",
           "body": "Are there other sites with similar issues?",
-          "recommendations": 107,
+          "recommendations": 108,
           "replyCount": 0,
           "timestamp": 1795749714,
           "timesPick": false
@@ -1135,7 +1036,7 @@
           "name": "Unsocialize",
           "location": "So.WestWashington",
           "body": "Not being in the demographic makeup advertising is aimed at I clicked the story out of simple curiosity.   \n\nI did LOL.  \"Maybe\" used in an ad campaign this way only means infinite possibilities if you were not a kid whose parent using the word maybe definitely positively meant NO.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1795803153,
           "timesPick": false
@@ -1171,7 +1072,7 @@
           "name": "Dave",
           "location": "Colorado",
           "body": "My company division, from whom I am retired, made this mistake. In an effort to distinguish themselves from the rest of the conglomerate, adopted a silly slogan to which our customers responded “Duh.”  I won’t quote the slogan in order to protect myself from recrimination, but suffice it to say it resembled a division of GM saying “We Do Cars” in response to the success of their truck counterparts.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795801307,
           "timesPick": false
@@ -1216,7 +1117,7 @@
           "name": "idealistjam",
           "location": "Rhode Island",
           "body": "They are everywhere in France, and a few years ago they were about half the price they are asking in the US. The number one complaint is the lack of a/c\n  With so much glass it quickly becomes an oven.",
-          "recommendations": 22,
+          "recommendations": 23,
           "replyCount": 0,
           "timestamp": 1795784792,
           "timesPick": false
@@ -1225,7 +1126,7 @@
           "name": "L",
           "location": "wi",
           "body": "We living in France and we see these all over the place.  Lots of people have them and apparently commute to and from work and high school in them. So cute!!",
-          "recommendations": 22,
+          "recommendations": 24,
           "replyCount": 0,
           "timestamp": 1795784785,
           "timesPick": false
@@ -1261,7 +1162,7 @@
           "name": "Susan",
           "location": "London UK",
           "body": "Here in London we have on-street charging using charging points in lampposts.  The parking  bays are reserved purely for charging. \n https://octopusev.com/ev-hub/kerbside-lamppost-ev-charging-uk\nThey are well used and effective albeit the cost is slightly higher than charging from your own domestic supply.",
-          "recommendations": 10,
+          "recommendations": 11,
           "replyCount": 0,
           "timestamp": 1795784774,
           "timesPick": false
@@ -1282,13 +1183,22 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html",
-      "totalComments": 139,
+      "totalComments": 140,
       "comments": [
+        {
+          "name": "Doug",
+          "location": "Canada",
+          "body": "I'd like to add that these days you're always under observation. Because of the cost of video piracy, most movie theaters will have infrared (night vision) cameras to try and catch audience that sneak in a camera to record a newly released film. This also happens in theme park rides where I've personally reviewed safety videos where a couple would come in on a weekday when they think they have the ride to themselves and by unbuckling their seat belts, etc. set off an \"E-stop\" alert that triggers a video to start recording and an alert to the operator, who can then shut down the ride. Even with signs posted that cameras are operating, they still ignore this and I've seen very explicit activity take place, to the point where certain patrons have been banned from riding for their own safety.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795817029,
+          "timesPick": false
+        },
         {
           "name": "Daniel",
           "location": "México",
           "body": "I understand video of crowd reaction shots during a game when it furthers the narrative of the game (ie disappointed fans, excited fans, etc.), but this had absolutely nothing to do with what looks like a dull game. I understand that the film crew needed to find some kind of action but it should have realized that anything this private was not contributing to anything but their ability to avoid a desperately dull football game.",
-          "recommendations": 3,
+          "recommendations": 5,
           "replyCount": 0,
           "timestamp": 1795813041,
           "timesPick": false
@@ -1297,7 +1207,7 @@
           "name": "MikeP",
           "location": "UT",
           "body": "Blatant incorrect. Broadcasters’ and commentators’ obligations are to show the GAME and its participants, not the crowd. I grew up watching John Madden and Pat Sommerall, and despite dozens of lopsided and boring games, did not have to resort to picking on crowd members’ personal interactions. \n\nMadden could brilliantly diverge to the sidelines and find all kinds of entertaining fodder for viewers to enjoy—just look up the Seahawks-49ers “hot dog incident” on YouTube as one small example. (Even the chiron operator got into the spirit.)\n\nFact is, most of today’s broadcasters lack the talent, creativity and skill to improvise on sideline activity like John and Pat. Shame.",
-          "recommendations": 5,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1795813027,
           "timesPick": false
@@ -1306,7 +1216,7 @@
           "name": "GDM",
           "location": "Virginia",
           "body": "I watched this unfold live on ESPN and, as the parent of two college students, felt this was invasive and creepy.  I imagined how uncomfortable I would have been if this were my son or daughter.  This was voyeurism.",
-          "recommendations": 1,
+          "recommendations": 4,
           "replyCount": 0,
           "timestamp": 1795813026,
           "timesPick": false
@@ -1315,7 +1225,7 @@
           "name": "SassyNYC",
           "location": "NYC",
           "body": "Ironic that the person with the most compassion for the couple is Jomboy, the social media guy, and not the broadcast media who filmed the couple. So much for journalistic standards.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795813024,
           "timesPick": false
@@ -1346,15 +1256,6 @@
           "replyCount": 0,
           "timestamp": 1795812396,
           "timesPick": false
-        },
-        {
-          "name": "Former San Diego",
-          "location": "Spokane",
-          "body": "When I was around six years old, ‘Candid Camera’ was a hit. My father explained to me why it was wrong: invasion of property, making fun of people, setting someone up to be appear to be a fool, and a. Few other reasons, mostly, that laughing at and tricking people is wrong, 70 years ago, that was.",
-          "recommendations": 13,
-          "replyCount": 2,
-          "timestamp": 1795806028,
-          "timesPick": false
         }
       ],
       "title": "Why the Georgia Tech Couple Became Another Viral TV Moment",
@@ -1371,6 +1272,96 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
+      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
+      "totalComments": 109,
+      "comments": [
+        {
+          "name": "Sean Patrick Crowell",
+          "location": "Los Angeles",
+          "body": "For people traveling to New York I hope they managed to have a good time.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795804697,
+          "timesPick": false
+        },
+        {
+          "name": "freepress",
+          "location": "nv",
+          "body": "My favorite parade memory is of a particularly windy event, maybe 1997, when a big, purple Barney  balloon went out of control.  To stop it, uniformed police pulled out knives, stabbing Barney repeatedly.  Dark, but funny.",
+          "recommendations": 36,
+          "replyCount": 0,
+          "timestamp": 1795792889,
+          "timesPick": false
+        },
+        {
+          "name": "pogopaws",
+          "location": "N Bennington, Vermont",
+          "body": "When trees were blown over in NYC, it's a bit of an understatement to say something as innocuous as \"postponed by rain.\"",
+          "recommendations": 36,
+          "replyCount": 0,
+          "timestamp": 1795791311,
+          "timesPick": false
+        },
+        {
+          "name": "Zeke",
+          "location": "Long Island",
+          "body": "It is being postponed, not canceled. Mamdani did the exact right thing and postponed it due to safety issues and high winds that balloons could simply not handle. All of right-wing MAGA folk blame him. What a joke, I guess these geniuses don't remember 20+ years ago when the wind caused a balloon to hit lightpole causing it to fall, hitting a woman in the head and putting her in a coma for a monthly Safety first.\n\nThe Macy’s Thanksgiving Day Parade has been canceled three times — in 1942, 1943, and 1944 — during World War II. Macy’s itself identifies WWII as the only event that had previously caused a cancellation. \n\n1942–1944: The parade was canceled because rubber and helium were needed for the war effort, particularly for military equipment and aircraft. \n\n1945: It returned, with roughly 2 million people coming out to see it. \n\n1971: There was a major weather disruption: the balloons were grounded, but the parade itself continued with floats and performers. \n\n2020: Even COVID-19 didn't cancel it. The parade was substantially scaled back and redesigned for television",
+          "recommendations": 23,
+          "replyCount": 0,
+          "timestamp": 1795790983,
+          "timesPick": false
+        },
+        {
+          "name": "Elaine",
+          "location": "Richmond",
+          "body": "Such is life. It is full of disappointments.",
+          "recommendations": 12,
+          "replyCount": 0,
+          "timestamp": 1795790929,
+          "timesPick": false
+        },
+        {
+          "name": "L Myler",
+          "location": "CT",
+          "body": "The parade was not postponed for rain as the headline says. It was postponed because of the wind. It has rained many times over the decades and it's been inconsequential. Wind....that's the issue so maybe pay attention to writing better headlines, for the sake of accuracy.",
+          "recommendations": 34,
+          "replyCount": 0,
+          "timestamp": 1795790916,
+          "timesPick": false
+        },
+        {
+          "name": "M. Howard",
+          "location": "Ohio",
+          "body": "I hope most if not all of the school marching bands that spent so much blood, sweat and tears to get to the Macy's parade get a chance to perform on Saturday.",
+          "recommendations": 22,
+          "replyCount": 0,
+          "timestamp": 1795790758,
+          "timesPick": false
+        },
+        {
+          "name": "Gal w Gumption",
+          "location": "NYC",
+          "body": "My heart goes out to all who were disappointed by the postponing of the parade, but for those coming to NYC solely for this event, I hope they discovered that this city has so much more to offer.",
+          "recommendations": 26,
+          "replyCount": 0,
+          "timestamp": 1795790517,
+          "timesPick": false
+        }
+      ],
+      "title": "New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain",
+      "byline": "Miles G. Cohen",
+      "publishedAt": "November 26, 2026",
+      "summary": "Wind and rain grounded the beloved balloons that typically dominate the Thanksgiving skies, leaving the streets along the parade route mostly deserted on Thursday.",
+      "section": "nyregion",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/26/multimedia/26met-parade-empty1-vzwf/26met-parade-empty1-vzwf-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
       "url": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
       "totalComments": 109,
       "comments": [
@@ -1378,7 +1369,7 @@
           "name": "Anna",
           "location": "Miami",
           "body": "Don't forget the book reading competitions! Our local Pizza Hut would reward us with pizza for reading books. Huge motivator. Must have been mid 1980s.",
-          "recommendations": 8,
+          "recommendations": 10,
           "replyCount": 0,
           "timestamp": 1795799587,
           "timesPick": false
@@ -1387,7 +1378,7 @@
           "name": "AS",
           "location": "NY",
           "body": "The individual pizzerias provide better pizza.  The chains provide affordability.  Your choice.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1795799577,
           "timesPick": false
@@ -1441,7 +1432,7 @@
           "name": "Riki Tiki",
           "location": "New York",
           "body": "Growing up in a predominantly Italian community in Westchester (NY) where terrific \"ma and pa\" pizza places were numerous, Pizza Hut was off the radar and far away from my palate.  Never tried one.",
-          "recommendations": 7,
+          "recommendations": 9,
           "replyCount": 0,
           "timestamp": 1795788094,
           "timesPick": false
@@ -1453,96 +1444,6 @@
       "summary": "The franchise with the iconic red roof began small, in a tiny brick hut in Kansas. Little more than a decade later, it was the world’s biggest pizza chain. He was 95.",
       "section": "business",
       "thumbnail": "https://static01.nyt.com/images/2026/11/24/business/24obit-carney-dan-image/24obit-carney-dan-image-largeHorizontalJumbo-v2.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
-      "totalComments": 109,
-      "comments": [
-        {
-          "name": "Sean Patrick Crowell",
-          "location": "Los Angeles",
-          "body": "For people traveling to New York I hope they managed to have a good time.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795804697,
-          "timesPick": false
-        },
-        {
-          "name": "freepress",
-          "location": "nv",
-          "body": "My favorite parade memory is of a particularly windy event, maybe 1997, when a big, purple Barney  balloon went out of control.  To stop it, uniformed police pulled out knives, stabbing Barney repeatedly.  Dark, but funny.",
-          "recommendations": 36,
-          "replyCount": 0,
-          "timestamp": 1795792889,
-          "timesPick": false
-        },
-        {
-          "name": "pogopaws",
-          "location": "N Bennington, Vermont",
-          "body": "When trees were blown over in NYC, it's a bit of an understatement to say something as innocuous as \"postponed by rain.\"",
-          "recommendations": 36,
-          "replyCount": 0,
-          "timestamp": 1795791311,
-          "timesPick": false
-        },
-        {
-          "name": "Zeke",
-          "location": "Long Island",
-          "body": "It is being postponed, not canceled. Mamdani did the exact right thing and postponed it due to safety issues and high winds that balloons could simply not handle. All of right-wing MAGA folk blame him. What a joke, I guess these geniuses don't remember 20+ years ago when the wind caused a balloon to hit lightpole causing it to fall, hitting a woman in the head and putting her in a coma for a monthly Safety first.\n\nThe Macy’s Thanksgiving Day Parade has been canceled three times — in 1942, 1943, and 1944 — during World War II. Macy’s itself identifies WWII as the only event that had previously caused a cancellation. \n\n1942–1944: The parade was canceled because rubber and helium were needed for the war effort, particularly for military equipment and aircraft. \n\n1945: It returned, with roughly 2 million people coming out to see it. \n\n1971: There was a major weather disruption: the balloons were grounded, but the parade itself continued with floats and performers. \n\n2020: Even COVID-19 didn't cancel it. The parade was substantially scaled back and redesigned for television",
-          "recommendations": 22,
-          "replyCount": 0,
-          "timestamp": 1795790983,
-          "timesPick": false
-        },
-        {
-          "name": "Elaine",
-          "location": "Richmond",
-          "body": "Such is life. It is full of disappointments.",
-          "recommendations": 12,
-          "replyCount": 0,
-          "timestamp": 1795790929,
-          "timesPick": false
-        },
-        {
-          "name": "L Myler",
-          "location": "CT",
-          "body": "The parade was not postponed for rain as the headline says. It was postponed because of the wind. It has rained many times over the decades and it's been inconsequential. Wind....that's the issue so maybe pay attention to writing better headlines, for the sake of accuracy.",
-          "recommendations": 33,
-          "replyCount": 0,
-          "timestamp": 1795790916,
-          "timesPick": false
-        },
-        {
-          "name": "M. Howard",
-          "location": "Ohio",
-          "body": "I hope most if not all of the school marching bands that spent so much blood, sweat and tears to get to the Macy's parade get a chance to perform on Saturday.",
-          "recommendations": 22,
-          "replyCount": 0,
-          "timestamp": 1795790758,
-          "timesPick": false
-        },
-        {
-          "name": "Gal w Gumption",
-          "location": "NYC",
-          "body": "My heart goes out to all who were disappointed by the postponing of the parade, but for those coming to NYC solely for this event, I hope they discovered that this city has so much more to offer.",
-          "recommendations": 25,
-          "replyCount": 0,
-          "timestamp": 1795790517,
-          "timesPick": false
-        }
-      ],
-      "title": "New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain",
-      "byline": "Miles G. Cohen",
-      "publishedAt": "November 26, 2026",
-      "summary": "Wind and rain grounded the beloved balloons that typically dominate the Thanksgiving skies, leaving the streets along the parade route mostly deserted on Thursday.",
-      "section": "nyregion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/26/multimedia/26met-parade-empty1-vzwf/26met-parade-empty1-vzwf-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -1642,13 +1543,13 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/27/style/charlotte-curtis-black-panthers.html",
-      "totalComments": 79,
+      "totalComments": 81,
       "comments": [
         {
           "name": "Jack McIntyre",
           "location": "Lone Peak, Utah",
           "body": "I love to read how’d she write about the lords of AI and digital technology that is taking control over so much of our lives. \n\nIt wouldn’t be so easy as showing up at a party. So much of what is happening is done behind closed doors with the intention of enriching a tiny fraction of the world’s population at the utter expense of everyone else. \n\nThat’s why covering things like the Nvidia scandal with Trump running cover is so difficult. \n\nAt some point you’d realize that you can’t shame these people by quoting what they say. \n\nThey just don’t care.",
-          "recommendations": 0,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1795815873,
           "timesPick": false
@@ -1657,7 +1558,7 @@
           "name": "🧿ξινόπυρος",
           "location": "Σαν Φρανσίσκο",
           "body": "What an awesome woman; I want to know so much more. The 60’s were such a strange transitional time. My early youth is a blur, but certain memories shine of strong women who were captive to an all-powerful patriarchy, yet could subvert it through razor-sharp wit and crystalline intelligence. She was one of them.",
-          "recommendations": 1,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1795814555,
           "timesPick": false
@@ -1666,7 +1567,7 @@
           "name": "Walt",
           "location": "CT",
           "body": "The difference between social snobbery and satire then and now is that then there was an intellectual dimension whereas now it is just obnoxious ignoramuses. The apotheosis of that style was of course Tom Wolfe, but of the bonfire he lit there remain only ashes. Comedy becomes satire becomes tragedy.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1795812168,
           "timesPick": false
@@ -1675,7 +1576,7 @@
           "name": "Andrew Day",
           "location": "Shelburne, Vermont",
           "body": "Charlotte Curtis was a classmate of my mother at Vassar College, but I didn't realize that she had been the editorial page 📄 editor at the New York Times 🗞️📰. Surely it is evidence of sexism that Tom 🐺 Wolfe and Truman Capote are remembered for their scathing social criticism, while she has sadly been forgotten.",
-          "recommendations": 4,
+          "recommendations": 8,
           "replyCount": 0,
           "timestamp": 1795812155,
           "timesPick": false
@@ -1822,13 +1723,22 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
-      "totalComments": 63,
+      "totalComments": 67,
       "comments": [
+        {
+          "name": "S. Douglas Smith",
+          "location": "Chicago",
+          "body": "I believe it’s been held outdoors every year.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795817882,
+          "timesPick": false
+        },
         {
           "name": "Sconseter",
           "location": "Back in the city",
           "body": "A few decades ago one of my children's schools offered, as an auction item, the opportunity to sit on the bleachers at West 77th Street early on Thanksgiving day and watch the Parade come together and set off.\n\nWe won it, and bright and early all four of us were over there gazing delightedly as the entire project got underway.\n\nA lifetime memory, for sure.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795815834,
           "timesPick": false
@@ -1856,7 +1766,7 @@
           "location": "Brooklyn",
           "body": "Absolutely pathetic. What happened to the New York I used to know and love.",
           "recommendations": 0,
-          "replyCount": 0,
+          "replyCount": 1,
           "timestamp": 1795808827,
           "timesPick": false
         },
@@ -1864,7 +1774,7 @@
           "name": "Bru",
           "location": "New Jersey",
           "body": "I’ve seen many people suggest they could have started the parade earlier since the storm didn’t hit NYC until after noon. It’s just not that easy to do that. Forget about the NBC broadcast, there are other logistics involved to move the parade up by even half an hour.\n\nAlso, once the parade ends, they still need to safely dismantle it, including the balloons and by then the storm was kicking up.\n\nI understand that many people came in to see the parade and that so many bands raised money to perform in the parade, but keeping people safe is important.\n\nI’m in NJ and this storm hit my area as bad as some of the hurricanes we’ve seen. I was disappointed by the postponement but glad they made the safe decison.",
-          "recommendations": 6,
+          "recommendations": 9,
           "replyCount": 0,
           "timestamp": 1795808029,
           "timesPick": false
@@ -1882,18 +1792,9 @@
           "name": "Daniel Long",
           "location": "Texarkana, TX",
           "body": "Wretched excess whose time should end. I recall reading in this same paper that the reserves of helium are dwindling to the point of extinction. The endless amounts of disposed and non-recyclable plastics and other materials used should also be re-evaluated.",
-          "recommendations": 1,
-          "replyCount": 0,
+          "recommendations": 2,
+          "replyCount": 1,
           "timestamp": 1795807576,
-          "timesPick": false
-        },
-        {
-          "name": "John McGlynn",
-          "location": "San Francisco, CA USA",
-          "body": "They should do a nostalia parade some year. Bring back Felix the Cat, MightyMouse (I think I remember that balloon), Woody Woodpecker, Popeye, Bugs Bunny, etc.",
-          "recommendations": 7,
-          "replyCount": 0,
-          "timestamp": 1795806516,
           "timesPick": false
         }
       ],
@@ -1912,14 +1813,14 @@
         "domain": "nytimes.com"
       },
       "url": "https://www.nytimes.com/2026/11/26/realestate/housing-market-nyc.html",
-      "totalComments": 62,
+      "totalComments": 63,
       "comments": [
         {
           "name": "Len",
           "location": "PA",
           "body": "I had to re-read the blurb about walking across the building’s rooftop in order to gain entrance to the apartment.\n\nGood lord I can see all kinds of issues, from security to weather to, well, just plain old inconvenience!  And it’s all yours for a million bucks.\n\nWhat a bargain!",
-          "recommendations": 5,
-          "replyCount": 0,
+          "recommendations": 7,
+          "replyCount": 1,
           "timestamp": 1795812934,
           "timesPick": false
         },
@@ -1927,7 +1828,7 @@
           "name": "Andrea NYC",
           "location": "NYC",
           "body": "The Bronx building has many affordable units for sale - its lobby is wacky but that weird water -tower option is bizarre and ridiculously priced.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1795812933,
           "timesPick": false
@@ -1936,7 +1837,7 @@
           "name": "JM",
           "location": "North Carolina",
           "body": "I used to live at the corner of Thompson and Spring way back in the early 80s. Great neighborhood. However, this apartment description is so, almost criminally, misleading. Only a fool would pay $1.425 million for what is really a 360 sq. ft. apartment.  The 'duplex', adding a mezzanie structure should not be included in the 650 sq. ft as listed. I'd also check to see that the ceiling heights are code - 8/7 foot ceiling heights as well as the one-third rule of the room below (math says it's not code). Good luck.",
-          "recommendations": 2,
+          "recommendations": 3,
           "replyCount": 0,
           "timestamp": 1795808307,
           "timesPick": false
@@ -1945,7 +1846,7 @@
           "name": "BabyS",
           "location": "New York",
           "body": "To those who say what's the big deal to walk across the roof for those afraid of heights, this is a deal-breaker.",
-          "recommendations": 3,
+          "recommendations": 4,
           "replyCount": 1,
           "timestamp": 1795805836,
           "timesPick": false
@@ -2008,7 +1909,7 @@
           "name": "Don't accept the status quo",
           "location": "MSP",
           "body": "Huh. I thought Bargatze's favorite spot was Mar-a-lago.",
-          "recommendations": 11,
+          "recommendations": 12,
           "replyCount": 0,
           "timestamp": 1795803052,
           "timesPick": false
@@ -2215,7 +2116,7 @@
           "name": "reguy",
           "location": "new york",
           "body": "I like the CT property, especially its beautiful grounds. I did notice some stone outcroppings. That might explain why there's a crawl space rather than a basement. If I were an interested party, I'd pay particularly close attention to the results of the septic inspection. Again, it's a beautiful property.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795812658,
           "timesPick": false
@@ -2264,6 +2165,96 @@
       "section": "realestate",
       "thumbnail": "https://static01.nyt.com/images/2026/11/29/realestate/26re-otm-reg-78Branchville/26re-otm-reg-78Branchville-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "wsj",
+        "name": "The Wall Street Journal",
+        "domain": "wsj.com"
+      },
+      "url": "https://www.wsj.com/politics/elections/new-zealand-election-ends-in-deadlock-turns-outsider-into-kingmaker-b1708432",
+      "title": "New Zealand Election Ends in Deadlock, Turns Outsider Into Kingmaker",
+      "byline": "Rhiannon Hoyle",
+      "summary": "Prime Minister Christopher Luxon needs support of newcomer Qiulae Wong’s Opportunity Party to form majority government.",
+      "section": "World",
+      "thumbnail": "https://images.wsj.net/im-20699259/social",
+      "modifiedAt": "2026-11-27T04:06:00.000Z",
+      "publishedAt": "2026-11-27T01:46:00.000Z",
+      "totalComments": 36,
+      "comments": [
+        {
+          "name": "Shane Lynch",
+          "location": "",
+          "body": "There would have been many that voted for Luxon and the Right BECAUSE he said he wouldn't work with Opportunity.\n\nNow he has betrayed those voters and can suddenly work with them.\n\nAll good if he gets back in, what does he care? He gets to be PM for another 3 years. - worry about it after that.",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1795814340,
+          "timesPick": false
+        },
+        {
+          "name": "DENIS FITZPATRICK",
+          "location": "",
+          "body": "\"Wong said the party has five nonnegotiable policies that include lowering prices for consumers, increasing healthcare funding and political reform...improve ocean health and ...recommit” to climate obligations.\" Sounds just like a Democrat to me.  Watch your wallets,, Kiwis!",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795797154,
+          "timesPick": false
+        },
+        {
+          "name": "Ahmed Alamer",
+          "location": "",
+          "body": "I envy the quaintness of their first world problems lol",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795796848,
+          "timesPick": false
+        },
+        {
+          "name": "Neil Marathe",
+          "location": "",
+          "body": "\"...after roughly 485,000 so-called special votes....\"\n\nYou mean in US terms - the so called mail in ballots - that no one knows who actually filled out the ballot.  One reason, the Democrats win the elections.\n\n You do not tell us that this ex-prime minister of New Zealand no longer lives in her own country.\n\nShe left for good after she left her office for good.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1795786157,
+          "timesPick": false
+        },
+        {
+          "name": "Dan Green",
+          "location": "",
+          "body": "The list of nonnegotiable demands from Opportunity suggests it isn't \"centrist\", as the article claims, but pretty far to the left.",
+          "recommendations": 9,
+          "replyCount": 0,
+          "timestamp": 1795783851,
+          "timesPick": false
+        },
+        {
+          "name": "Paul MacEachern",
+          "location": "",
+          "body": "Canada,Australia.New Zealand and the UK should join together and create a new super power called CANZUK .",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1795781592,
+          "timesPick": false
+        },
+        {
+          "name": "Dave P",
+          "location": "",
+          "body": "I feel bad for NZ and wish them well. Unfortunately they will need to break the deadlock. Fortunately, in the US we have a clear path with a Democrat congress next year! The US was promised affordability I am certain the Democrats will get costs down by the end of February 2027, they have promised we voters.  I am feeling good.",
+          "recommendations": 0,
+          "replyCount": 7,
+          "timestamp": 1795778410,
+          "timesPick": false
+        },
+        {
+          "name": "Chris Kraemer",
+          "location": "",
+          "body": "But Q did release her bottom lines. And here in NZ, apparently, there can actually be a new election if these strange bedfellows cannot agree. I don't see how Act and NZFirst will agree to these.\n\nOpportunity's bottom lines, announced in September, were:\n\n1 Give the Commerce Commission stronger powers and greater independence to tackle excessive market power in supermarkets and other uncompetitive sectors.\n\n2 Regulate lobbying and cap political donations.\n\n3 Develop a 10-year health plan alongside health professionals, with clear commitments on funding, workforce and infrastructure.\n\n4 Immediately begin phasing out bottom trawling.\n\n5 Recommit to our Paris Agreement obligations and protect the independence of the Climate Change Commission.\n\nSo she would be a better match with Labour and Greens than the smaller two these three. National is a GOP country club, and little Act and NZFirst are two little grievance bros parties; Act was funded by Peter Thiel who has a bunker here and bankrolled it, Act's Seymour just riles up dumb blokes over identity politics, nothing useful. Peters' NZFirst is less vicious, just Archie Bunker level of good ol boy racism, against Chinese in the instance that Q has now added to her bottom lines.",
+          "recommendations": 2,
+          "replyCount": 1,
+          "timestamp": 1795774902,
+          "timesPick": false
+        }
+      ]
     },
     {
       "source": {
@@ -2357,96 +2348,6 @@
     },
     {
       "source": {
-        "id": "wsj",
-        "name": "The Wall Street Journal",
-        "domain": "wsj.com"
-      },
-      "url": "https://www.wsj.com/politics/elections/new-zealand-election-ends-in-deadlock-turns-outsider-into-kingmaker-b1708432",
-      "title": "New Zealand Election Ends in Deadlock, Turns Outsider Into Kingmaker",
-      "byline": "Rhiannon Hoyle",
-      "summary": "Prime Minister Christopher Luxon needs support of newcomer Qiulae Wong’s Opportunity Party to form majority government.",
-      "section": "World",
-      "thumbnail": "https://images.wsj.net/im-20699259/social",
-      "modifiedAt": "2026-11-27T04:06:00.000Z",
-      "publishedAt": "2026-11-27T01:46:00.000Z",
-      "totalComments": 35,
-      "comments": [
-        {
-          "name": "Shane Lynch",
-          "location": "",
-          "body": "There would have been many that voted for Luxon and the Right BECAUSE he said he wouldn't work with Opportunity.\n\nNow he has betrayed those voters and can suddenly work with them.\n\nAll good if he gets back in, what does he care? He gets to be PM for another 3 years. - worry about it after that.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795814340,
-          "timesPick": false
-        },
-        {
-          "name": "DENIS FITZPATRICK",
-          "location": "",
-          "body": "\"Wong said the party has five nonnegotiable policies that include lowering prices for consumers, increasing healthcare funding and political reform...improve ocean health and ...recommit” to climate obligations.\" Sounds just like a Democrat to me.  Watch your wallets,, Kiwis!",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795797154,
-          "timesPick": false
-        },
-        {
-          "name": "Ahmed Alamer",
-          "location": "",
-          "body": "I envy the quaintness of their first world problems lol",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795796848,
-          "timesPick": false
-        },
-        {
-          "name": "Neil Marathe",
-          "location": "",
-          "body": "\"...after roughly 485,000 so-called special votes....\"\n\nYou mean in US terms - the so called mail in ballots - that no one knows who actually filled out the ballot.  One reason, the Democrats win the elections.\n\n You do not tell us that this ex-prime minister of New Zealand no longer lives in her own country.\n\nShe left for good after she left her office for good.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1795786157,
-          "timesPick": false
-        },
-        {
-          "name": "Dan Green",
-          "location": "",
-          "body": "The list of nonnegotiable demands from Opportunity suggests it isn't \"centrist\", as the article claims, but pretty far to the left.",
-          "recommendations": 8,
-          "replyCount": 0,
-          "timestamp": 1795783851,
-          "timesPick": false
-        },
-        {
-          "name": "Paul MacEachern",
-          "location": "",
-          "body": "Canada,Australia.New Zealand and the UK should join together and create a new super power called CANZUK .",
-          "recommendations": 1,
-          "replyCount": 1,
-          "timestamp": 1795781592,
-          "timesPick": false
-        },
-        {
-          "name": "Dave P",
-          "location": "",
-          "body": "I feel bad for NZ and wish them well. Unfortunately they will need to break the deadlock. Fortunately, in the US we have a clear path with a Democrat congress next year! The US was promised affordability I am certain the Democrats will get costs down by the end of February 2027, they have promised we voters.  I am feeling good.",
-          "recommendations": 0,
-          "replyCount": 7,
-          "timestamp": 1795778410,
-          "timesPick": false
-        },
-        {
-          "name": "Chris Kraemer",
-          "location": "",
-          "body": "But Q did release her bottom lines. And here in NZ, apparently, there can actually be a new election if these strange bedfellows cannot agree. I don't see how Act and NZFirst will agree to these.\n\nOpportunity's bottom lines, announced in September, were:\n\n1 Give the Commerce Commission stronger powers and greater independence to tackle excessive market power in supermarkets and other uncompetitive sectors.\n\n2 Regulate lobbying and cap political donations.\n\n3 Develop a 10-year health plan alongside health professionals, with clear commitments on funding, workforce and infrastructure.\n\n4 Immediately begin phasing out bottom trawling.\n\n5 Recommit to our Paris Agreement obligations and protect the independence of the Climate Change Commission.\n\nSo she would be a better match with Labour and Greens than the smaller two these three. National is a GOP country club, and little Act and NZFirst are two little grievance bros parties; Act was funded by Peter Thiel who has a bunker here and bankrolled it, Act's Seymour just riles up dumb blokes over identity politics, nothing useful. Peters' NZFirst is less vicious, just Archie Bunker level of good ol boy racism, against Chinese in the instance that Q has now added to her bottom lines.",
-          "recommendations": 2,
-          "replyCount": 1,
-          "timestamp": 1795774902,
-          "timesPick": false
-        }
-      ]
-    },
-    {
-      "source": {
         "id": "nytimes",
         "name": "The New York Times",
         "domain": "nytimes.com"
@@ -2458,7 +2359,7 @@
           "name": "Brett",
           "location": "Denver",
           "body": "Dare I type it? \n\nHe did the math. A guy on the faculty at M.I.T. certainly has the capacity to do some pretty complicated equations but it's a no brainer to get out of a violent game which is almost certainly going to do a lot of physical and metal health damage the longer one does it.",
-          "recommendations": 52,
+          "recommendations": 53,
           "replyCount": 0,
           "timestamp": 1795789397,
           "timesPick": false
@@ -2467,7 +2368,7 @@
           "name": "cathy",
           "location": "toledo",
           "body": "Be accurate. He is not a professor but an assistant professor. Things like that are important distinctions for us in academia. This misuse of professor happens all the time in nyt articles. I thought times reporters cared about accuracy and making cotrect word use choices.",
-          "recommendations": 25,
+          "recommendations": 27,
           "replyCount": 0,
           "timestamp": 1795789389,
           "timesPick": false
@@ -2602,7 +2503,7 @@
           "name": "Judy Capel",
           "location": "New York City",
           "body": "I’m with the person who said, “What are you doing after 3 days?” .  Yep.  What I can’t figure out is - where’s everyone going? Like the old apocalypse movies where people are in their cars and no one’s moving.  Except the hero of course.  We should’ve all been a hero! If only we had known.  It’s not a joke of course.  But at almost 80 who cares? But my children and grands.. so sad for them.    BUT WAIT:  we can  overrun  a data center and shelter there.   Let’s! \n\nPs the Amtrak  train I’m on had to make a stop between Boston and NYC because the engine wasn’t working and so they had to send for another, wait and replace it with the new one.  What’s 2+ hours among friends eh?  Is this a great country or what?! We’re definitely prepared fir any contingency! (Or not)",
-          "recommendations": 28,
+          "recommendations": 29,
           "replyCount": 0,
           "timestamp": 1795739417,
           "timesPick": false
@@ -2623,6 +2524,96 @@
       "summary": "More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening.",
       "section": "world",
       "thumbnail": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-europe-preppers-fvzk/27int-europe-preppers-fvzk-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/27/books/book-printing-holiday-shopping.html",
+      "totalComments": 32,
+      "comments": [
+        {
+          "name": "Dr. Cazmando",
+          "location": "Far From Trump",
+          "body": "The good news is people are reading. The bad news is private equity. Perhaps the new Congress will address this but I’m doubtful.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795818165,
+          "timesPick": false
+        },
+        {
+          "name": "David Koppelman",
+          "location": "Baton Rouge",
+          "body": "What's wrong with this country? Are we so frail that we can't work around one printing factory closing? I've read the same thing about the defense industry, but at least there the reason is that they are making things that are super-specialized.",
+          "recommendations": 2,
+          "replyCount": 1,
+          "timestamp": 1795816467,
+          "timesPick": false
+        },
+        {
+          "name": "CC",
+          "location": "WA",
+          "body": "It seems as if there should be people wanting jobs, glamorous or not.  If printers can't find staff, what next?",
+          "recommendations": 3,
+          "replyCount": 1,
+          "timestamp": 1795812797,
+          "timesPick": false
+        },
+        {
+          "name": "Mike",
+          "location": "Minneapolis",
+          "body": "Book printing is certainly bifurcating - long-run printers use offset presses (that are increasingly difficult to staff), to print many thousands of books at minimal cost in a single run vs short-run digital printers (NOT necessarily POD) who can cost-effectively print one to a few thousand copies but can't compete on price for the very high-volume jobs. \n\nThis article is really pointing to the growing challenge with offset printing businesses that supply huge volumes of books to the biggest publishers, especially on their best-selling titles. That's an important part of the book business, but it's been slowly shrinking because book publishing and consumer demand for books has fragmented massively over the last decades. \n\nToday, so many books are published that you are guaranteed to sell far fewer copies of a single title than ever before, on average. This moves demand for printing from long runs to short runs, making the offset print business more challenging. That trend feeds consolidation and facility closures, making the offset print supply chain more susceptible to these kinds of big delays when there are demand shocks. \n\nWe see this play out everyday at Bookmobile.com in Minneapolis (short run digital book printing), where certain publishers look to us to provide precious inventory on books while they wait for their long runs to print. \n\nThe question is whether this year's problem is symptomatic of the end of book printing as it was versus where it's going.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1795810048,
+          "timesPick": false
+        },
+        {
+          "name": "Gil",
+          "location": "In Minnesota",
+          "body": "I’m using Libby nowadays for ebooks and audiobooks",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1795802573,
+          "timesPick": false
+        },
+        {
+          "name": "Matt",
+          "location": "Blue Hill, ME",
+          "body": "This was helpful to read as an independent bookseller, thank you. In our experience, BookTok and other pushes for folks to all order the same book at the same time have depleted warehouses quickly (like Lonesome Dove). \n\nOur local bestsellers tend to always be in stock because of genuine word-of-mouth instead of social media nudges. That said, we've experienced stock issues similar to the stores mentioned here with similar titles.",
+          "recommendations": 10,
+          "replyCount": 1,
+          "timestamp": 1795794454,
+          "timesPick": false
+        },
+        {
+          "name": "AGall",
+          "location": "Seattle",
+          "body": "A thought for readers- when the book you want is out of stock, ask your indie book-seller for a backlist recommendation. There are thousands of fantastic books out there, and booksellers and librarians are professionals who can help. Resist the algorithm and ask a human!",
+          "recommendations": 23,
+          "replyCount": 0,
+          "timestamp": 1795794387,
+          "timesPick": false
+        },
+        {
+          "name": "Bob",
+          "location": "Lexington",
+          "body": "Just a note to authors, you may be frustrated but it’s not your publishers fault. I can tell you that printers lock in a schedule well ahead of time which we base our release dates on then will change it as the book is being printed. In one case a printer extended their schedule by weeks pushing up against our release without apology or notice. Not a thing we can do about it nor can we anticipate which books it will be.",
+          "recommendations": 6,
+          "replyCount": 0,
+          "timestamp": 1795793050,
+          "timesPick": false
+        }
+      ],
+      "title": "Good Luck Finding That Book You Want. It May Be Out of Stock.",
+      "byline": "Ronda Kaysen and Ash Wu",
+      "publishedAt": "November 27, 2026",
+      "summary": "Printing delays have been putting the squeeze on booksellers and frustrating their customers all through the fall. The holiday season could be worse.",
+      "section": "books",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/13/multimedia/00TBR-print-01-pwfv/00TBR-print-01-pwfv-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -2694,179 +2685,53 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/27/books/book-printing-holiday-shopping.html",
-      "totalComments": 28,
+      "url": "https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html",
+      "totalComments": 19,
       "comments": [
         {
-          "name": "CC",
-          "location": "WA",
-          "body": "It seems as if there should be people wanting jobs, glamorous or not.  If printers can't find staff, what next?",
-          "recommendations": 1,
+          "name": "MathMan",
+          "location": "New Mexico",
+          "body": "Wbat strikes me after reading this is the question: why is this happening in China before happening in our country? Granted, we do allow for Chippendales performances, but I've never seen the 'female gaze' sweep the U.S. as a phenom the way it's now sweeping China? My 'armchair' psychologizing position would be that the hyper-masculine cultural force in U.S. society would not look fondly on such a craze. But I wonder what others think, or if others agree that this has not happened here. Open to discussion.",
+          "recommendations": 22,
           "replyCount": 0,
-          "timestamp": 1795812797,
+          "timestamp": 1795748495,
           "timesPick": false
         },
         {
-          "name": "Mike",
-          "location": "Minneapolis",
-          "body": "Book printing is certainly bifurcating - long-run printers use offset presses (that are increasingly difficult to staff), to print many thousands of books at minimal cost in a single run vs short-run digital printers (NOT necessarily POD) who can cost-effectively print one to a few thousand copies but can't compete on price for the very high-volume jobs. \n\nThis article is really pointing to the growing challenge with offset printing businesses that supply huge volumes of books to the biggest publishers, especially on their best-selling titles. That's an important part of the book business, but it's been slowly shrinking because book publishing and consumer demand for books has fragmented massively over the last decades. \n\nToday, so many books are published that you are guaranteed to sell far fewer copies of a single title than ever before, on average. This moves demand for printing from long runs to short runs, making the offset print business more challenging. That trend feeds consolidation and facility closures, making the offset print supply chain more susceptible to these kinds of big delays when there are demand shocks. \n\nWe see this play out everyday at Bookmobile.com in Minneapolis (short run digital book printing), where certain publishers look to us to provide precious inventory on books while they wait for their long runs to print. \n\nThe question is whether this year's problem is symptomatic of the end of book printing as it was versus where it's going.",
-          "recommendations": 1,
+          "name": "Jen",
+          "location": "Deep in the heart of Texas",
+          "body": "So tell me more about being carried rather than hiking the trail . . .",
+          "recommendations": 52,
           "replyCount": 0,
-          "timestamp": 1795810048,
+          "timestamp": 1795745680,
           "timesPick": false
         },
         {
-          "name": "Gil",
-          "location": "In Minnesota",
-          "body": "I’m using Libby nowadays for ebooks and audiobooks",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1795802573,
-          "timesPick": false
-        },
-        {
-          "name": "Matt",
-          "location": "Blue Hill, ME",
-          "body": "This was helpful to read as an independent bookseller, thank you. In our experience, BookTok and other pushes for folks to all order the same book at the same time have depleted warehouses quickly (like Lonesome Dove). \n\nOur local bestsellers tend to always be in stock because of genuine word-of-mouth instead of social media nudges. That said, we've experienced stock issues similar to the stores mentioned here with similar titles.",
+          "name": "The dread Pirate Roberts",
+          "location": "Springfield II",
+          "body": "This is an interesting example of gender roles reversing.  Sexual selection is a well studied phenomenon in nature and the conventional wisdom is that females get to choose their mates because their reproductive output is smaller than that of a male.  And, the majority of males never get selected.  So evolution drives females to be choosy and males to be continuously on the prowl.  But in most of the animal kingdom males are blissfully uninterested in sex except when they encounter a female in heat when they become hyperfocused.  Humans are exceptions though because we are aware of what we are doing when we have sex and also because we have sex for enjoyment.  The high levels of testosterone in males explains why we are always indiscriminately ogling women.  Women tend to not engage in this sort of behavior as constantly as men do.  But it is interesting to see this becoming a cultural phenomenon in China.  Perhaps they will understand the constant low level of sexual frustration that men experience every day.  In an episode of Seinfeld Jerry and George discussed this.  Jerry said that men are constantly torn between their brains and their sexual desires.  George remarks that this changes after you reach your 50's.  Jerry asks if the brain finally wins and George replies, \"No, but it isn't as much of a blowout.\"",
           "recommendations": 10,
-          "replyCount": 1,
-          "timestamp": 1795794454,
-          "timesPick": false
-        },
-        {
-          "name": "AGall",
-          "location": "Seattle",
-          "body": "A thought for readers- when the book you want is out of stock, ask your indie book-seller for a backlist recommendation. There are thousands of fantastic books out there, and booksellers and librarians are professionals who can help. Resist the algorithm and ask a human!",
-          "recommendations": 20,
           "replyCount": 0,
-          "timestamp": 1795794387,
+          "timestamp": 1795741652,
           "timesPick": false
         },
         {
-          "name": "Bob",
-          "location": "Lexington",
-          "body": "Just a note to authors, you may be frustrated but it’s not your publishers fault. I can tell you that printers lock in a schedule well ahead of time which we base our release dates on then will change it as the book is being printed. In one case a printer extended their schedule by weeks pushing up against our release without apology or notice. Not a thing we can do about it nor can we anticipate which books it will be.",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1795793050,
-          "timesPick": false
-        },
-        {
-          "name": "Tommy Boy",
-          "location": "Berkeley, CA",
-          "body": "As a former bookseller, I remember when the book \"Cosmos\" by Carl Sagan came out and was a run away hit. We ordered 50 copies and sold out in a weekend. Couldn't find another copy from our distributors. I had to acutally buy, at retail, 20 copies to satsify my best customers. But the upside is that people are actaully willing to spend good money on books to read the analog way. Black eye for the publishers and printers, and a haedache for the authors, but a good sign moving forward for the country.",
+          "name": "E.M.",
+          "location": "Seoul",
+          "body": "And in traditional Chinese clothes or fantasy-traditional. That's probably an important part of the story here.",
           "recommendations": 13,
           "replyCount": 0,
-          "timestamp": 1795792041,
-          "timesPick": false
-        },
-        {
-          "name": "Joe",
-          "location": "Lake Michigan",
-          "body": "Oops…there’s private equity again!  Leveraging their unique tax advantages to capture, consolidate and raise prices.   When will we address this cancer?",
-          "recommendations": 44,
-          "replyCount": 0,
-          "timestamp": 1795790884,
+          "timestamp": 1795741546,
           "timesPick": false
         }
       ],
-      "title": "Good Luck Finding That Book You Want. It May Be Out of Stock.",
-      "byline": "Ronda Kaysen and Ash Wu",
-      "publishedAt": "November 27, 2026",
-      "summary": "Printing delays have been putting the squeeze on booksellers and frustrating their customers all through the fall. The holiday season could be worse.",
-      "section": "books",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/13/multimedia/00TBR-print-01-pwfv/00TBR-print-01-pwfv-largeHorizontalJumbo.jpg",
+      "title": "In China, the ‘Female Gaze’ Is Driving a New Entertainment Boom",
+      "byline": "Murphy Zhao, Alexandra Stevenson and Gilles Sabrié",
+      "publishedAt": "November 26, 2026",
+      "summary": "From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing’s tolerance.",
+      "section": "business",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Sheconomy-video-bpvg/Biz-Sheconomy-video-bpvg-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "wsj",
-        "name": "The Wall Street Journal",
-        "domain": "wsj.com"
-      },
-      "url": "https://www.wsj.com/tech/ai/the-ai-boom-looks-alive-and-well-in-asia-59841697",
-      "title": "The AI Boom Looks Alive and Well in Asia",
-      "byline": "Jason Douglas",
-      "summary": "Stocks are having a wild ride thanks to the Nvidia affair, but AI-linked exports and investment are still driving growth—for now.",
-      "section": "Economy",
-      "thumbnail": "https://images.wsj.net/im-75707582/social",
-      "modifiedAt": "2026-11-27T03:00:00.000Z",
-      "publishedAt": "2026-11-27T03:00:00.000Z",
-      "totalComments": 23,
-      "comments": [
-        {
-          "name": "Billy Williams",
-          "location": "",
-          "body": "So long as democrats don't kill the golden goose, it will continue in the US also.",
-          "recommendations": 7,
-          "replyCount": 1,
-          "timestamp": 1795780595,
-          "timesPick": false
-        },
-        {
-          "name": "peter harris",
-          "location": "",
-          "body": "The AI trade being \"over\" / bubble bursting could be at least partially true from a valuation standpoint, but the only thing that will slow the train of actual AI development and deployment is government intervention. The market is going to keep growing its consumption of AI until it has wrung all the cost savings out of using AI to replace human labor costs...",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795778395,
-          "timesPick": false
-        },
-        {
-          "name": "Dave P",
-          "location": "",
-          "body": "Interesting article. One day I will need to replace my Omen gaming computer which I bought in 2021 and has a old high end graphics card. I had to replace the random access memory about a year ago when it failed.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795776624,
-          "timesPick": false
-        },
-        {
-          "name": "Carlos Vaquerano",
-          "location": "",
-          "body": "Exactly. Asia is thriving thanks to AI and particularly China. Those mighty Nvidia chips have helped propelled China, including in the critical area of China national security and geopolitical strategy.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795776366,
-          "timesPick": false
-        },
-        {
-          "name": "Brad Pearl",
-          "location": "",
-          "body": "In Malaysia right now, and from my ABB, I can see 8 cranes atop in progress sky scrapers. All over Malaysia, in KL and down across from Singapore, construction abounds. The economy is roaring. Labor rates are approx $5 US an hour. So they can get things built. Amazing. Plus Chinese EVs are taking over. They love China over here, business wise.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795775252,
-          "timesPick": false
-        },
-        {
-          "name": "jeff funk",
-          "location": "",
-          "body": "Semiconductors only provide value in data centers when companies use AI to improve productivity. So far, it's not clear that companies are succeeding with their AI implementations. Until they do, semiconductor companies should be careful not to  build capacity that will become useless once the bubble bursts.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795771147,
-          "timesPick": false
-        },
-        {
-          "name": "Will B",
-          "location": "",
-          "body": "\"AI Buildout\" does indeed have a duration problem, both from a Circular Debt Cycle Issue and the Inevitable reduction in component relative cost due to competition. In fact, the real Wealth is not in AI science alone but in Who, What, and How Businesses use the Science of AI. Me? I do believe the current buildout rate and profit pander is indeed beginning to cause doubt and challenges. Those challenges will be overcome by those they serve, not simply the servers.",
-          "recommendations": 3,
-          "replyCount": 1,
-          "timestamp": 1795770124,
-          "timesPick": false
-        },
-        {
-          "name": "Jahongir Bahtiyorov",
-          "location": "",
-          "body": "Once this scandalous whirlwind of news cycle calms down, the US will go back to quietly shipping chips to China. Because they arent ready to cut off single biggest customer - China, from orderbooks, since AI spending is what drives over a quarter of the US economy.",
-          "recommendations": 2,
-          "replyCount": 1,
-          "timestamp": 1795768670,
-          "timesPick": false
-        }
-      ]
     },
     {
       "source": {
@@ -2964,69 +2829,6 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html",
-      "totalComments": 19,
-      "comments": [
-        {
-          "name": "MathMan",
-          "location": "New Mexico",
-          "body": "Wbat strikes me after reading this is the question: why is this happening in China before happening in our country? Granted, we do allow for Chippendales performances, but I've never seen the 'female gaze' sweep the U.S. as a phenom the way it's now sweeping China? My 'armchair' psychologizing position would be that the hyper-masculine cultural force in U.S. society would not look fondly on such a craze. But I wonder what others think, or if others agree that this has not happened here. Open to discussion.",
-          "recommendations": 22,
-          "replyCount": 0,
-          "timestamp": 1795748495,
-          "timesPick": false
-        },
-        {
-          "name": "Jen",
-          "location": "Deep in the heart of Texas",
-          "body": "So tell me more about being carried rather than hiking the trail . . .",
-          "recommendations": 50,
-          "replyCount": 0,
-          "timestamp": 1795745680,
-          "timesPick": false
-        },
-        {
-          "name": "The dread Pirate Roberts",
-          "location": "Springfield II",
-          "body": "This is an interesting example of gender roles reversing.  Sexual selection is a well studied phenomenon in nature and the conventional wisdom is that females get to choose their mates because their reproductive output is smaller than that of a male.  And, the majority of males never get selected.  So evolution drives females to be choosy and males to be continuously on the prowl.  But in most of the animal kingdom males are blissfully uninterested in sex except when they encounter a female in heat when they become hyperfocused.  Humans are exceptions though because we are aware of what we are doing when we have sex and also because we have sex for enjoyment.  The high levels of testosterone in males explains why we are always indiscriminately ogling women.  Women tend to not engage in this sort of behavior as constantly as men do.  But it is interesting to see this becoming a cultural phenomenon in China.  Perhaps they will understand the constant low level of sexual frustration that men experience every day.  In an episode of Seinfeld Jerry and George discussed this.  Jerry said that men are constantly torn between their brains and their sexual desires.  George remarks that this changes after you reach your 50's.  Jerry asks if the brain finally wins and George replies, \"No, but it isn't as much of a blowout.\"",
-          "recommendations": 10,
-          "replyCount": 0,
-          "timestamp": 1795741652,
-          "timesPick": false
-        },
-        {
-          "name": "E.M.",
-          "location": "Seoul",
-          "body": "And in traditional Chinese clothes or fantasy-traditional. That's probably an important part of the story here.",
-          "recommendations": 13,
-          "replyCount": 0,
-          "timestamp": 1795741546,
-          "timesPick": false
-        },
-        {
-          "name": "Paul Doane",
-          "location": "NH",
-          "body": "I've been developing my own theory about mass dancing.  I think it shows better social cohesion and integration.  India must be the capital of it,\nand I think it's fantastic to see.  The Chinese may have the upper edge though.  Each stunning Iin their own ways.  I'm seeing cracks in the wall here with men loosening up and dancing spontaneously.  Haven't seen anyone doing the Trump shuffle.",
-          "recommendations": 7,
-          "replyCount": 0,
-          "timestamp": 1795730553,
-          "timesPick": false
-        }
-      ],
-      "title": "In China, the ‘Female Gaze’ Is Driving a New Entertainment Boom",
-      "byline": "Murphy Zhao, Alexandra Stevenson and Gilles Sabrié",
-      "publishedAt": "November 26, 2026",
-      "summary": "From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing’s tolerance.",
-      "section": "business",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/05/multimedia/Biz-Sheconomy-video-bpvg/Biz-Sheconomy-video-bpvg-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
       "url": "https://www.nytimes.com/2026/11/26/dining/drinks/wine-basketball-barclays-center.html",
       "totalComments": 18,
       "comments": [
@@ -3083,24 +2885,6 @@
           "replyCount": 0,
           "timestamp": 1795791022,
           "timesPick": false
-        },
-        {
-          "name": "Robert Williams",
-          "location": "Maine",
-          "body": "What happened to my original email? Not good enough?\nHere it is again!\nDisgusting.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795731220,
-          "timesPick": false
-        },
-        {
-          "name": "Charles",
-          "location": "Los Angeles",
-          "body": "I knew there had to be a reason they were fans at Nets games. Because they weren’t there to watch basketball!",
-          "recommendations": 10,
-          "replyCount": 0,
-          "timestamp": 1795731210,
-          "timesPick": false
         }
       ],
       "title": "At the Barclays Center, It’s Wine for the Win",
@@ -3124,7 +2908,7 @@
           "name": "Zcs25",
           "location": "London",
           "body": "I live on the outskirts of London and visit by train regularly. The pedicabs are tacky tourist traps, they park on pavements, drive without care and are a blight on my lovely London. Very relieved the loud music will stop, it is out of place.",
-          "recommendations": 12,
+          "recommendations": 13,
           "replyCount": 1,
           "timestamp": 1795768929,
           "timesPick": false
@@ -3142,7 +2926,7 @@
           "name": "N. Smith",
           "location": "New York City",
           "body": "P-L-E-A-S-E do something about hose pedicabs in the city, and while you're at it, do something about those e-bikes as well. They're all out of control!",
-          "recommendations": 12,
+          "recommendations": 13,
           "replyCount": 0,
           "timestamp": 1795744410,
           "timesPick": false
@@ -3151,18 +2935,9 @@
           "name": "AJ",
           "location": "NYC",
           "body": "Pedicabs are horrible in NYC - and should be banned.\nPedicabs cause chaos on the streets, block buses and other vehicles, endanger pedestrians and especially in theater area play blaring music\n\nTourists to walk, take the bus and subway. Or if mobility concerns, yellow taxi or Uber.\nPedicabs are not an \"entitlement\"\n\nWas shocked and saddened to see them in London this year",
-          "recommendations": 6,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1795739305,
-          "timesPick": false
-        },
-        {
-          "name": "hmnpwr",
-          "location": "Eugene, or",
-          "body": "When I hear music coming from a bike or scooter, I feel an urge to dance. When I hear music coming from a motor vehicle, I'm repulsed and feel like someone is trespassing into my soundscape.\n\nI suppose that visceral response is probably driven by the fact that all of the other noise from motor vehicles is so awful and unabated that any amount added to it is unpleasant.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1795730787,
           "timesPick": false
         }
       ],
@@ -3295,7 +3070,7 @@
           "name": "Bogart",
           "location": "brooklyn",
           "body": "For many years I would spend 4 or 5 weeks in Japan, always going back to the same places I loved, never feeling I had enough time even for them.\n Due to health issues, I have only been back once since covid.\n Now with both hips replaced and fired up by some friends' visits to Japan, I should set my sights, and Daruma eyes, on return. \nWith this article as inspiration, I might spend a little more time in Tokyo and seek a few new places there before heading south.",
-          "recommendations": 5,
+          "recommendations": 6,
           "replyCount": 0,
           "timestamp": 1795795338,
           "timesPick": false
@@ -3331,7 +3106,7 @@
           "name": "Bee Nyce",
           "location": "Orwell, VT",
           "body": "I lived in Tokyo for almost 15 years, and this writer is doing some next-level exploring.  Hats off, Captain! Another amazing thing you can do in Tokyo is just leave your doorstep (wherever that may be), pick a direction and just set out.  We would walk as much as 10 or 15km, sometimes more.  The trick is to go slow, explore whatever you like, try new foods and take it all in.  Tokyo is a very low-slung city, despite the skyscraper clusters.  Again, great article.",
-          "recommendations": 16,
+          "recommendations": 18,
           "replyCount": 1,
           "timestamp": 1795784430,
           "timesPick": false
@@ -3352,78 +3127,6 @@
       "summary": "A Boeing 787 pilot visits some favorite restaurants, a Snoopy museum and a tranquil shrine.",
       "section": "travel",
       "thumbnail": "https://static01.nyt.com/images/2026/11/27/multimedia/27Trav-tokyo-layover-06-tmcp/27Trav-tokyo-layover-06-tmcp-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/25/arts/television/the-lowdown-season-finale-recap.html",
-      "totalComments": 9,
-      "comments": [
-        {
-          "name": "Rachael",
-          "location": "Austin TX",
-          "body": "I read a bit more into Ginger's note. Just before she writes it, Lee is talking about the two of them living out their days together on a farm. Ginger knows it is too early in their relationship for this kind of plan, and that Lee is trying to fill the hole left by the fact that he had to turn the story about the young man's death over to other writers. Ginger feels that Lee won't be happy until he gets to write the part of the story that hasn't yet been told. I have a feeling we will see Ginger again if there is a Season 3 (which I very much hope there will be).\n\nI am in full agreement with the author about the power of the finale performances of Messrs. Dinklage and Jones. I got a little weepy during each of them.",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795812787,
-          "timesPick": false
-        },
-        {
-          "name": "Mike",
-          "location": "Sheboygan",
-          "body": "Wonderful finale. \nSupreme story line and acting! Love the surprise cameo by Juliette Lewis!!!\nPlease, please please! Let there be a season 3!!!",
-          "recommendations": 0,
-          "replyCount": 0,
-          "timestamp": 1795792961,
-          "timesPick": false
-        },
-        {
-          "name": "bazarov",
-          "location": "Australia",
-          "body": "Great finale. Tommy Lee's achingly felt performance surely deserves award recognition.",
-          "recommendations": 1,
-          "replyCount": 0,
-          "timestamp": 1795766205,
-          "timesPick": false
-        },
-        {
-          "name": "MM",
-          "location": "NV",
-          "body": "To the powers that be, please renew this show.",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1795754631,
-          "timesPick": false
-        },
-        {
-          "name": "Native",
-          "location": "Texan",
-          "body": "Would it be helpful to the reader to say where one might watch ‘The Lowdown’ Season 2 Episode 8?",
-          "recommendations": 1,
-          "replyCount": 1,
-          "timestamp": 1795745534,
-          "timesPick": false
-        },
-        {
-          "name": "Scottlarge",
-          "location": "Tulsa",
-          "body": "A brilliant show that deserves wide recognition. Many of the legendary actors turn In some of their finest work",
-          "recommendations": 4,
-          "replyCount": 0,
-          "timestamp": 1795743739,
-          "timesPick": false
-        }
-      ],
-      "title": "‘The Lowdown’ Season 2 Episode 8 Recap: A Good Life, a True Life",
-      "byline": "Sean T. Collins",
-      "publishedAt": "November 25, 2026",
-      "summary": "In a stunning season finale, Lee wins, loses, makes some new friends and says some goodbyes.",
-      "section": "arts",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/25/arts/25lowdown-1/25lowdown-1-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -3496,6 +3199,78 @@
       "summary": "For this former schoolteacher, running a Peloton workout and reporting on college football for ESPN are all in a weekend’s work.",
       "section": "style",
       "thumbnail": "https://static01.nyt.com/images/2026/11/26/multimedia/26JESS-SIMS-01-wthg/26JESS-SIMS-01-wthg-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
+      "url": "https://www.nytimes.com/2026/11/25/arts/television/the-lowdown-season-finale-recap.html",
+      "totalComments": 9,
+      "comments": [
+        {
+          "name": "Rachael",
+          "location": "Austin TX",
+          "body": "I read a bit more into Ginger's note. Just before she writes it, Lee is talking about the two of them living out their days together on a farm. Ginger knows it is too early in their relationship for this kind of plan, and that Lee is trying to fill the hole left by the fact that he had to turn the story about the young man's death over to other writers. Ginger feels that Lee won't be happy until he gets to write the part of the story that hasn't yet been told. I have a feeling we will see Ginger again if there is a Season 3 (which I very much hope there will be).\n\nI am in full agreement with the author about the power of the finale performances of Messrs. Dinklage and Jones. I got a little weepy during each of them.",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795812787,
+          "timesPick": false
+        },
+        {
+          "name": "Mike",
+          "location": "Sheboygan",
+          "body": "Wonderful finale. \nSupreme story line and acting! Love the surprise cameo by Juliette Lewis!!!\nPlease, please please! Let there be a season 3!!!",
+          "recommendations": 0,
+          "replyCount": 0,
+          "timestamp": 1795792961,
+          "timesPick": false
+        },
+        {
+          "name": "bazarov",
+          "location": "Australia",
+          "body": "Great finale. Tommy Lee's achingly felt performance surely deserves award recognition.",
+          "recommendations": 1,
+          "replyCount": 0,
+          "timestamp": 1795766205,
+          "timesPick": false
+        },
+        {
+          "name": "MM",
+          "location": "NV",
+          "body": "To the powers that be, please renew this show.",
+          "recommendations": 2,
+          "replyCount": 0,
+          "timestamp": 1795754631,
+          "timesPick": false
+        },
+        {
+          "name": "Native",
+          "location": "Texan",
+          "body": "Would it be helpful to the reader to say where one might watch ‘The Lowdown’ Season 2 Episode 8?",
+          "recommendations": 1,
+          "replyCount": 1,
+          "timestamp": 1795745534,
+          "timesPick": false
+        },
+        {
+          "name": "Scottlarge",
+          "location": "Tulsa",
+          "body": "A brilliant show that deserves wide recognition. Many of the legendary actors turn In some of their finest work",
+          "recommendations": 4,
+          "replyCount": 0,
+          "timestamp": 1795743739,
+          "timesPick": false
+        }
+      ],
+      "title": "‘The Lowdown’ Season 2 Episode 8 Recap: A Good Life, a True Life",
+      "byline": "Sean T. Collins",
+      "publishedAt": "November 25, 2026",
+      "summary": "In a stunning season finale, Lee wins, loses, makes some new friends and says some goodbyes.",
+      "section": "arts",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/25/arts/25lowdown-1/25lowdown-1-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -3641,15 +3416,6 @@
           "replyCount": 0,
           "timestamp": 1795732863,
           "timesPick": false
-        },
-        {
-          "name": "Rebecca Hammond",
-          "location": "Toronto",
-          "body": "I can understand the urge to want to be part of history. But one wants to be on history’s right side. While they realize it now, after 5 years they should really have known they would be fighting for the wrong side. \n\nI cannot imagine the anger and distress these men and their families are feeling. On top of 700,000 dead Russian men (and at least 200,000 Ukrainians), how many international soldiers have died as a result of Putin’s psychotic gambit?",
-          "recommendations": 198,
-          "replyCount": 0,
-          "timestamp": 1795730944,
-          "timesPick": false
         }
       ],
       "title": "Recruiters Lured Brazilians to Fight Russia’s War, Then Stole Their Money",
@@ -3673,7 +3439,7 @@
           "name": "med. humanities",
           "location": "Pacific Northwest",
           "body": "I saw Arthur Mitchell dance at City Center many moons ago.\nLovely!",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795815736,
           "timesPick": false
@@ -3682,7 +3448,7 @@
           "name": "Maria Nunez",
           "location": "New Jersey",
           "body": "So electroshock burned out the chunk of his brain that made him smart but also sad? Yikes, no thanks.  \n\nMaybe for very extreme cases of untreatable depression.",
-          "recommendations": 0,
+          "recommendations": 1,
           "replyCount": 0,
           "timestamp": 1795813225,
           "timesPick": false
@@ -3691,7 +3457,7 @@
           "name": "MP Kelly",
           "location": "NYC",
           "body": "Excellent book. Beautifully written. Thrilling to see genius emerging against all the odds through this truly extraordinary life.",
-          "recommendations": 1,
+          "recommendations": 2,
           "replyCount": 0,
           "timestamp": 1795753761,
           "timesPick": false
@@ -3703,42 +3469,6 @@
       "summary": "Reading recommendations from critics and editors at The New York Times.",
       "section": "books",
       "thumbnail": "https://static01.nyt.com/images/2026/12/10/books/10matthew-pinsker-cover/10matthew-pinsker-cover-largeHorizontalJumbo.jpg",
-      "modifiedAt": ""
-    },
-    {
-      "source": {
-        "id": "nytimes",
-        "name": "The New York Times",
-        "domain": "nytimes.com"
-      },
-      "url": "https://www.nytimes.com/2026/11/27/well/holiday-resentment-family-fights.html",
-      "totalComments": 2,
-      "comments": [
-        {
-          "name": "FCE",
-          "location": "NYC",
-          "body": "While my comments are not about keeping score, they may be relevant to some.  I'm an active 75 year old and over the past few years I've felt less and less relevant when it comes to holiday plans. I'm very grateful that my children and their spouses visit and offer to help, but they don't seem to understand that it gives me pleasure to prepare holiday meals (I still host dinner parties for my friends).  I've mentioned this, but my menus are always 'upgraded' with trendy appetizers, additions to the main course that make it an entirely different meal, and side dishes that I can barely pronounce.  Store bought cakes have replaced home made favorites, and the conversations about the latest cable shows, pop stars and music, are difficult to follow, which adds to my feeling invisible. I am trying to be more grateful just to have family with me at these times, but hope that those reading this take the time and effort to ensure that older relatives are included in plans and conversations.",
-          "recommendations": 3,
-          "replyCount": 0,
-          "timestamp": 1795795970,
-          "timesPick": false
-        },
-        {
-          "name": "orionoir",
-          "location": "berkshires",
-          "body": "there's a (simpsons?) family portrait captioned, 'as far as anyone knows, we're normal.'  or happy, or loving, whatever... this describes my family of origin.\n\nour three kids plus partners, two-going-on-three grandchildren, perhaps we're in a happy deluded phase, the years before we realize we're not and never have been on the same team.  hoping against hope, maybe this nascent family will break the pattern.\n\nme, i'm the bipolar one: so much water under the dam.  it's a blessing of sorts, to be forced to the sidelines of a zero sum competition.  still, the signature trait of my siblings is that each of us is always the smartest one in the room, don't matter how big the room is.\n\ndo children pit themselves against each other of their own accord, or are grown-ups the culprits?  grandmother orionoir traced roots to all of history's famous white people; the message was, if you're not a winner you might as well hang it up.\n\nperhaps this latest round of nastiness stems from dad's funeral.  big sis's draft obit was ignored; perhaps it's an old wound: she making the most money never got much past the style & vocab of 'the babysitters' club.'\n\nwith modest success i try not to care re what big sis thinks of me.  instead i marvel at our three off-sprung young adults, so full of life & promise.\n\nthe older two complement each other; the youngest is succeeding at such an absurd level that the idea of rivalry is a self-evident joke.  who'd have thunk i'd have landed in such a group?",
-          "recommendations": 2,
-          "replyCount": 0,
-          "timestamp": 1795791796,
-          "timesPick": false
-        }
-      ],
-      "title": "How to Let Go of Holiday Resentment",
-      "byline": "Jancee Dunn",
-      "publishedAt": "November 27, 2026",
-      "summary": "You may be tempted to score-keep with loved ones, but experts say it’s rarely worthwhile.",
-      "section": "well",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/27/well/27WELL-NL-SCOREKEEPING-image/27WELL-NL-SCOREKEEPING-image-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -3783,6 +3513,42 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
+      "url": "https://www.nytimes.com/2026/11/27/well/holiday-resentment-family-fights.html",
+      "totalComments": 2,
+      "comments": [
+        {
+          "name": "FCE",
+          "location": "NYC",
+          "body": "While my comments are not about keeping score, they may be relevant to some.  I'm an active 75 year old and over the past few years I've felt less and less relevant when it comes to holiday plans. I'm very grateful that my children and their spouses visit and offer to help, but they don't seem to understand that it gives me pleasure to prepare holiday meals (I still host dinner parties for my friends).  I've mentioned this, but my menus are always 'upgraded' with trendy appetizers, additions to the main course that make it an entirely different meal, and side dishes that I can barely pronounce.  Store bought cakes have replaced home made favorites, and the conversations about the latest cable shows, pop stars and music, are difficult to follow, which adds to my feeling invisible. I am trying to be more grateful just to have family with me at these times, but hope that those reading this take the time and effort to ensure that older relatives are included in plans and conversations.",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1795795970,
+          "timesPick": false
+        },
+        {
+          "name": "orionoir",
+          "location": "berkshires",
+          "body": "there's a (simpsons?) family portrait captioned, 'as far as anyone knows, we're normal.'  or happy, or loving, whatever... this describes my family of origin.\n\nour three kids plus partners, two-going-on-three grandchildren, perhaps we're in a happy deluded phase, the years before we realize we're not and never have been on the same team.  hoping against hope, maybe this nascent family will break the pattern.\n\nme, i'm the bipolar one: so much water under the dam.  it's a blessing of sorts, to be forced to the sidelines of a zero sum competition.  still, the signature trait of my siblings is that each of us is always the smartest one in the room, don't matter how big the room is.\n\ndo children pit themselves against each other of their own accord, or are grown-ups the culprits?  grandmother orionoir traced roots to all of history's famous white people; the message was, if you're not a winner you might as well hang it up.\n\nperhaps this latest round of nastiness stems from dad's funeral.  big sis's draft obit was ignored; perhaps it's an old wound: she making the most money never got much past the style & vocab of 'the babysitters' club.'\n\nwith modest success i try not to care re what big sis thinks of me.  instead i marvel at our three off-sprung young adults, so full of life & promise.\n\nthe older two complement each other; the youngest is succeeding at such an absurd level that the idea of rivalry is a self-evident joke.  who'd have thunk i'd have landed in such a group?",
+          "recommendations": 3,
+          "replyCount": 0,
+          "timestamp": 1795791796,
+          "timesPick": false
+        }
+      ],
+      "title": "How to Let Go of Holiday Resentment",
+      "byline": "Jancee Dunn",
+      "publishedAt": "November 27, 2026",
+      "summary": "You may be tempted to score-keep with loved ones, but experts say it’s rarely worthwhile.",
+      "section": "well",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/27/well/27WELL-NL-SCOREKEEPING-image/27WELL-NL-SCOREKEEPING-image-largeHorizontalJumbo.jpg",
+      "modifiedAt": ""
+    },
+    {
+      "source": {
+        "id": "nytimes",
+        "name": "The New York Times",
+        "domain": "nytimes.com"
+      },
       "url": "https://www.nytimes.com/2026/11/27/us/australia-bondi-beach-shooting-wedding.html",
       "totalComments": 2,
       "comments": [
@@ -3790,7 +3556,7 @@
           "name": "Exctyengr",
           "location": "Arizona",
           "body": "Thank you for this inspiring story. Lest we forget the goodness that sometimes hides among us.",
-          "recommendations": 2,
+          "recommendations": 7,
           "replyCount": 0,
           "timestamp": 1795815348,
           "timesPick": false
@@ -3799,7 +3565,7 @@
           "name": "Adam Stoler",
           "location": "Far from Mars",
           "body": "I am a Conservatve Jew ( not Orthodox)and typically not prone to thinking empathetically of many i have met over the course of my life\nRespect of course , is default Empathy no- at least for me\nYet…\ni started crying midway through reading this powerful story\nmy respect for the rabbi who married this truly strong & loving couple indeed performed a mitzvah in marrying them\nTikun Olam is helping to repair our world one mitzvah at a time \nlet’s all start here . \nmazel tov to the couple , the rabbi and the celebrants \nMay the memories of those slain be a blessing .",
-          "recommendations": 15,
+          "recommendations": 22,
           "replyCount": 0,
           "timestamp": 1795813126,
           "timesPick": false
@@ -3819,25 +3585,25 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/27/books/review/the-end-of-everything-m-john-harrison-book-club.html",
+      "url": "https://www.nytimes.com/2026/11/26/nyregion/thanksgiving-storm-air-travel.html",
       "totalComments": 1,
       "comments": [
         {
-          "name": "Stephen Rogerson",
-          "location": "Melbourne",
-          "body": "This reminded me of looking through a kaleidoscope as a child. Suddenly the most glorious image appears. Then Harrison nudges your elbow, and you are somewhere else entirely",
+          "name": "dave channon",
+          "location": "Phoenicia NY",
+          "body": "How we can survive airline disruptions: Buy only refundable tickets and only fly when necessary.",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795807935,
+          "timestamp": 1795790995,
           "timesPick": false
         }
       ],
-      "title": "Book Club: Read ‘The End of Everything,’ by M. John Harrison, With the Book Review",
-      "byline": "MJ Franklin",
-      "publishedAt": "November 27, 2026",
-      "summary": "In December, the Book Review Book Club will read and discuss Harrison’s Booker Prize-winning novel, about a strange future where aliens have invaded Earth.",
-      "section": "books",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/27/books/27TBR-the-endof-everything-book-club/27TBR-the-endof-everything-book-club-largeHorizontalJumbo.jpg",
+      "title": "Holiday Air Travel Is Snarled by Wind and Rain in Parts of U.S.",
+      "byline": "Tariro Mzezewa",
+      "publishedAt": "November 26, 2026",
+      "summary": "More than 2,000 flights were delayed or canceled by a storm that battered the East Coast on Thanksgiving.",
+      "section": "nyregion",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/26/multimedia/26thanksgiving-weather-live-flight-problems-topart-hlmw/26thanksgiving-weather-live-flight-problems-topart-hlmw-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     },
     {
@@ -3873,25 +3639,25 @@
         "name": "The New York Times",
         "domain": "nytimes.com"
       },
-      "url": "https://www.nytimes.com/2026/11/26/nyregion/thanksgiving-storm-air-travel.html",
+      "url": "https://www.nytimes.com/2026/11/27/books/review/the-end-of-everything-m-john-harrison-book-club.html",
       "totalComments": 1,
       "comments": [
         {
-          "name": "dave channon",
-          "location": "Phoenicia NY",
-          "body": "How we can survive airline disruptions: Buy only refundable tickets and only fly when necessary.",
+          "name": "Stephen Rogerson",
+          "location": "Melbourne",
+          "body": "This reminded me of looking through a kaleidoscope as a child. Suddenly the most glorious image appears. Then Harrison nudges your elbow, and you are somewhere else entirely",
           "recommendations": 0,
           "replyCount": 0,
-          "timestamp": 1795790995,
+          "timestamp": 1795807935,
           "timesPick": false
         }
       ],
-      "title": "Holiday Air Travel Is Snarled by Wind and Rain in Parts of U.S.",
-      "byline": "Tariro Mzezewa",
-      "publishedAt": "November 26, 2026",
-      "summary": "More than 2,000 flights were delayed or canceled by a storm that battered the East Coast on Thanksgiving.",
-      "section": "nyregion",
-      "thumbnail": "https://static01.nyt.com/images/2026/11/26/multimedia/26thanksgiving-weather-live-flight-problems-topart-hlmw/26thanksgiving-weather-live-flight-problems-topart-hlmw-largeHorizontalJumbo.jpg",
+      "title": "Book Club: Read ‘The End of Everything,’ by M. John Harrison, With the Book Review",
+      "byline": "MJ Franklin",
+      "publishedAt": "November 27, 2026",
+      "summary": "In December, the Book Review Book Club will read and discuss Harrison’s Booker Prize-winning novel, about a strange future where aliens have invaded Earth.",
+      "section": "books",
+      "thumbnail": "https://static01.nyt.com/images/2026/11/27/books/27TBR-the-endof-everything-book-club/27TBR-the-endof-everything-book-club-largeHorizontalJumbo.jpg",
       "modifiedAt": ""
     }
   ]
